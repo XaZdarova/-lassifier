@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">708068</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/708068</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-05-10 21:06</datetime>
+  <title auto="true" type="str" verify="true">Мужчина погиб под колесами электрички на севере Подмосковья</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Подмосковье</tag>
+    <tag type="str">СКР</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 10 мая. INTERFAX.RU - На севере Московской области электропоезд "Голицыно-Дубна" сбил двух мужчин, один из них скончался, второй госпитализирован, сообщила представитель столичного управления на транспорте СКР Елена Марковская. По ее словам, мужчины были сбиты сегодня около 17:00, когда шли вдоль железнодорожных путей на перегоне станций Водники - Хлебниково вопреки установленным требованиям безопасности. Марковская добавила, что на месте происшествия работает следственно-оперативная группа, проводится доследственная проверка.]]></text>
+</doc>

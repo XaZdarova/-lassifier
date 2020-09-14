@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">707187</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/707187</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-05-04 00:50</datetime>
+  <title auto="true" type="str" verify="true">Сейсмологи зафиксировали землетрясение в Азербайджане</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Азербайджан</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 3 мая. INTERFAX.RU - Землетрясение магнитудой 4,3 произошло в ночь на понедельник на территории Азербайджана в пяти километрах от границы с Грузией, сообщил грузинский Национальный центр сейсмического мониторинга. По информации сейсмологов, подземные толчки были зафиксированы в 00:03 по тбилисскому времени (23:03 по Москве). Центральная точка очага землетрясения находился на глубине 27 километров. Сообщений о пострадавших или разрушениях не поступало.]]></text>
+</doc>

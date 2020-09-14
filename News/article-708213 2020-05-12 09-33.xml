@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">708213</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/708213</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-05-12 09:33</datetime>
+  <title auto="true" type="str" verify="true">Более 1,8 тыс. пациентов выздоровели от COVID-19 в Москве за сутки</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Анастасия Ракова</tag>
+    <tag type="str">Москва</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 12 мая. INTERFAX.RU - Московские врачи вылечили  от коронавируса  в общей сложности 19 642 человека, за сутки выздоровели 1 820 пациентов, сообщила заместитель мэра столицы по вопросам социального развития Анастасия Ракова журналистам во вторник. По последним данным, в Москве  выявлено 115 909 случаев  заболевания COVID-19. Накануне, 11 мая, также сообщалось, что число умерших от коронавируса в столице  увеличилось с 1124 до 1179 , скончались еще 55 человек. Об этом "Интерфаксу" рассказали в оперштабе по контролю и мониторингу ситуации с коронавирусом в Москве.]]></text>
+</doc>

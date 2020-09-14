@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">709069</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/709069</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-05-18 07:24</datetime>
+  <title auto="true" type="str" verify="true">В Германии за сутки зафиксировано два новых случая заражения коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Германия</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 18 мая. INTERFAX.RU - За истекшие сутки число инфицированных COVID-19 в Германии увеличилось на два человека, сообщил Институт Роберта Коха, занимающийся изучением инфекционных заболеваний. Новых смертельных случаев не зафиксировано. Всего, по данным института, в стране с начала пандемии коронавируса выявлено 174 355 инфицированных, жертвами инфекции стали 7 914 человек.]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">708243</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/708243</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-05-12 11:30</datetime>
+  <title auto="true" type="str" verify="true">В России от коронавируса умерли пять журналистов</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">СЖР</tag>
+    <tag type="str">Владимир Соловьев</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 12 мая. INTERFAX.RU - В России коронавирусом заразились 200 журналистов, пятеро умерли, сообщил председатель Союза журналистов России Владимир Соловьев. По его данным, во всем мире умерли около 60 заразившихся журналистов. Соловьев отметил, что журналисты, как и врачи, находятся "на первой линии фронта борьбы с вирусом". Также он отметил "тяжелейший кризис во всех отраслях СМИ". На утро 12 мая в России число заразившихся коронавирусом, по официальным данным, составило 232 243.]]></text>
+</doc>

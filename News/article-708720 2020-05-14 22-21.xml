@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">708720</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/708720</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-05-14 22:21</datetime>
+  <title auto="true" type="str" verify="true">В Донецке анонсировали следующую встречу в Минском формате</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">ДНР</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 14 мая. INTERFAX.RU - Следующая встреча контактной группы в Минском формате состоится в среду, 27 мая, заявили в четверг в МИД самопровозглашенной Донецкой народной республики. "Заседание Контактной группы завершено, следующая встреча состоится 27 мая", - говорится в сообщении, распространённом в четверг пресс-службой МИД ДНР. Из-за угрозы распространения коронавируса COVID-19 заседания контактной группы в Минском формате проходят в режиме видеоконференции.]]></text>
+</doc>

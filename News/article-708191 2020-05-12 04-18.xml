@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">708191</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/708191</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-05-12 04:18</datetime>
+  <title auto="true" type="str" verify="true">Число инфицированных COVID-19 в мире превысило 4,25 млн человек</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 12 мая. INTERFAX.RU - В мире по состоянию на 04:00 по Москве насчитывается 4 250 574 человека, заразившихся коронавирусом с начала распространения инфекции, сообщил сайт Worldometer, который специализируется на мировой статистике. От связанных с COVID-19 заболеваний скончались 286 959 человек, излечились боле 1 525 млн. Уровень смертности составляет 36,8 на 1 млн населения Земли. США продолжают лидировать по количеству инфицированных и  летальных исходов : 1 384 974 заразившихся и 81 732 скончавшихся. Уровень смертности - 247 человек на 1 млн жителей.]]></text>
+</doc>

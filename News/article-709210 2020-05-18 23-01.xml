@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">709210</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/709210</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-05-18 23:01</datetime>
+  <title auto="true" type="str" verify="true">Италия показала наименьшую суточную смертность от COVID с марта</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Италия</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">COVID-19</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 18 мая. INTERFAX.RU - В Италии медики зафиксировали за сутки смерть 99 пациентов с короанвирусом COVID-19, сообщили в понедельник в управлении гражданской обороны. Это самый низкий показатель в стране с 9 марта, когда пандемия коронавируса набирала силу в Италии. В отделениях интенсивной терапии итальянских больниц остаются 749 человек – на 13 меньше, чем в воскресенье. В общей сложности 225 886 человек в Италии заразились коронавирусом. За сутки этот показатель вырос всего на 451. Власти Италии постепенно отменяют ограничения, введенные, чтобы остановить распространение инфекции.]]></text>
+</doc>

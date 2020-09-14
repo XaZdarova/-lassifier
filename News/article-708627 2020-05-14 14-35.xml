@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">708627</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/708627</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-05-14 14:35</datetime>
+  <title auto="true" type="str" verify="true">Жилая многоэтажка загорелась на Фрунзенской набережной в центре Москвы</title>
+  <description auto="true" type="str" verify="true">По данным источника, один человек погиб</description>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">Фрунзенская набережная</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 14 мая. INTERFAX.RU - Жилой многоэтажный дом горит на Фрунзенской набережной в центре Москвы, идет эвакуация жильцов, сообщили "Интерфаксу" в столичном главке МЧС. Сигнал о возгорании в доме 32 на Фрунзенской набережной поступил в 13:48. Горят балконы на пятом, шестом и седьмом этажах, сказали в ведомстве. Открытое возгорание на данный момент ликвидировано. Информированный источник сообщил "Интерфаксу" о гибели одного человека. По его словам, из дома эвакуировали более 30 человек.]]></text>
+</doc>

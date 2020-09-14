@@ -1,0 +1,16 @@
+<doc>
+  <id auto="true" type="str" verify="true">707281</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/707281</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-05-05 05:21</datetime>
+  <title auto="true" type="str" verify="true">Число жертв коронавируса в мире превысило 250 тысяч</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">США</tag>
+    <tag type="str">Италия</tag>
+    <tag type="str">Великобритания</tag>
+    <tag type="str">Испания</tag>
+    <tag type="str">Франция</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 5 мая. INTERFAX.RU - По состоянию на утро вторника, в мире от коронавирусной инфекции  COVID-19  скончались 251 365 человек, сообщил американский университет Джонса Хопкинса. Всего, по информации университета, подтверждено 3 582 469 случаев заболевания, излечились 1 162 538 человек. Больше всего жертв COVID-19 зафиксировано в США - 68 922. В Италии скончались 29 079 человек, Великобритании - 28 734, Испании - 25 428, Франции - 25 168.]]></text>
+</doc>

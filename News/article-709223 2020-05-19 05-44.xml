@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">709223</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/709223</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-05-19 05:44</datetime>
+  <title auto="true" type="str" verify="true">13 новых случаев COVID-19 зарегистрированы в Южной Корее</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Южная Корея</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">COVID-19</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 19 мая. INTERFAX.RU - 13 новых случаев заражения COVID-19 зафиксированы в Южной Корее за минувшие сутки, сообщила организация Центров по контролю и профилактике заболеваний. Общее число заболевших новым типом коронавируса в стране достигло 11 078 человек. Число скончавшихся пациентов с COVID-19 осталось прежним – 263 человека. За последние сутки из больниц выписались 34 человека. Всего за время пандемии от коронавируса нового типа в Южной Корее вылечилось 9 938 человек.]]></text>
+</doc>

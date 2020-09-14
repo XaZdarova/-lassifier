@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">707453</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/707453</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-05-06 13:59</datetime>
+  <title auto="true" type="str" verify="true">Еврокомиссия спрогнозировала падение ВВП еврозоны на рекордные 7,75%</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Еврокомиссия</tag>
+    <tag type="str">ЕС</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 мая. INTERFAX.RU - Европейская комиссия ожидает падения ВВП еврозоны на рекордные 7,75% в 2020 году, говорится в ее весеннем прогнозе. В 2021 году предполагается подъем ВВП на 6,25%. ВВП Европейского союза в этом году, по прогнозу, рухнет на 7,5% и вырастет примерно на 6% в следующем году.]]></text>
+</doc>

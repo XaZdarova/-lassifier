@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">708113</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/708113</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-05-11 11:19</datetime>
+  <title auto="true" type="str" verify="true">Военно-Грузинскую дорогу открыли для всех видов транспорта</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Северная Осетия</tag>
+    <tag type="str">Грузия</tag>
+    <tag type="str">МЧС</tag>
+    <tag type="str">Военно-Грузинская дорога</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 11 мая. INTERFAX.RU - Движение по Военно-Грузинской дороге возобновлено для всех видов транспорта, сообщила в понедельник пресс-служба ГУ МЧС России по Северной Осетии. По ее данным, с 11:00 по Москве она работает в штатном режиме. Движение по Военно-Грузинской дороге  было закрыто  для всех видов транспорта накануне утром в связи с ухудшением погодных условий на территории Грузии. Военно-Грузинская дорога в настоящее время является единственным сухопутным маршрутом, связывающим Россию не только с Грузией, но и с Арменией.]]></text>
+</doc>

@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">707241</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/707241</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-05-04 15:42</datetime>
+  <title auto="true" type="str" verify="true">Число заболевших COVID-19 в Королёве превысило 700 человек</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Подмосковье</tag>
+    <tag type="str">Короновирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 4 мая. INTERFAX.RU - За последние сутки в городском округе Королёв выявлено 134 новых случаев заболевания коронавирусом, таким образом общее число заболевших составило 749, сообщает в понедельник региональный штаб по контролю и мониторингу ситуации с коронавирусом. По последним данным штаба, наибольшее число заболевших зарегистрировано в Одинцово (858), на втором месте - Люберцы (800), на третьем - Красногорск (757). Единичные случаи заболевания по прежнему зафиксированы в Лотошино (7), Пущино (4), Звездном городке (1). Всего в Подмосковье зафиксировано 14 939 случаев заболевания COVID-19.]]></text>
+</doc>

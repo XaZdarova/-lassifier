@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">707294</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/707294</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-05-05 10:02</datetime>
+  <title auto="true" type="str" verify="true">В Москве от коронавируса вылечились еще 297 пациентов</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 5 мая. INTERFAX.RU - Московские врачи вылечили от коронавируса уже 7 870 человек. Как сообщила журналистам во вторник заммэра столицы по вопросам социального развития Анастасия Ракова, за прошедшие сутки в Москве после прохождения лечения выздоровело еще 297 человек. По данным на утро понедельника, общее число заражений коронавирусом в России  достигло 145 268 .]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">708910</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/708910</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-05-15 23:50</datetime>
+  <title auto="true" type="str" verify="true">Более 70 человек с коронавирусом умерли в Москве за сутки</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">COVID-19</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 15 мая. INTERFAX.RU - Число умерших от коронавируса в столице увеличилось с 1358 до 1432, скончались еще 74 человека, сообщили "Интерфаксу" в оперштабе по контролю и мониторингу ситуации с коронавирусом в Москве в пятницу. Это пока самый высокий суточный показатель смертности от коронавируса в Москве. Предыдущий рекорд составлял 68 летальных исходов за сутки. По последним данным, в Москве выявлено 135 464 случая заболевания коронавирусом. Выздоровели и выписались из больниц 24 562 пациента. С 12 мая, когда официально отменили нерабочие дни, пассажиропоток в московском транспорте  вырос на четверть .]]></text>
+</doc>

@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">708238</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/708238</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-05-12 11:15</datetime>
+  <title auto="true" type="str" verify="true">Больница для осужденных загорелась в Тюмени</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Тюмень</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 12 мая. INTERFAX.RU - В Тюмени тушат больницу для осужденных, пострадавших нет, сообщил "Интерфаксу" информированный источник. "Пожар охватил кровлю производственного корпуса областной больницы ФСИН в Тюмени на улице Авторемонтной", - сказал источник. Никто не пострадал. В пресс-службе областного управления ФСИН агентству сообщили, что пожар возник на кровле производственного помещения в 11:18 (09:18 по московскому времени). В 12:07 (10:07 по Москве) возгорание локализовано, уточнил сотрудник пресс-службы.]]></text>
+</doc>

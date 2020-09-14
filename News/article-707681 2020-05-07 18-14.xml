@@ -1,0 +1,15 @@
+<doc>
+  <id auto="true" type="str" verify="true">707681</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/707681</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-05-07 18:14</datetime>
+  <title auto="true" type="str" verify="true">Трамп обсудил с Путиным борьбу с COVID-19 и выразил готовность помочь России</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">США</tag>
+    <tag type="str">Дональд Трамп</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">Россия</tag>
+    <tag type="str">Владимир Путин</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 7 мая. INTERFAX.RU - Президент США Дональд Трамп в четверг провел телефонный разговор со своим российским коллегой Владимиром Путиным, в ходе которого они обсудили борьбу против коронавируса, сообщили в Белом доме. "Президент Трамп и президент Путин обсудили прогресс в борьбе с пандемией коронавируса", - написал в четверг в твиттере представитель Белого дома Джадд Дир. "Президент Трамп вновь отметил, что США готовы оказать помощь любой стране, которая в ней нуждается, в том числе России", - указал он.]]></text>
+</doc>

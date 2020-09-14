@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">707404</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/707404</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-05-06 10:25</datetime>
+  <title auto="true" type="str" verify="true">COVID-19 обнаружили у двух сотрудников администрации Курской области</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Курская область</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 мая. INTERFAX.RU - Первичные тесты на коронавирус показали положительный результат у двух сотрудников комитета печати и информации администрации Курской области. "Комитет информации и печати ушел на карантин в связи с первично положительными тестами у двух сотрудников, но мы по-прежнему остаемся на связи и продолжаем работу в режиме самоизоляции", - сообщили сотрудники комитета в телеграм-канале. Всего в Курской области, по данным на среду, зарегистрировано 1129 случаев заражения COVID-19. Шесть заболевших скончались.]]></text>
+</doc>

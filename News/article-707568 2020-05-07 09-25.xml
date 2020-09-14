@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">707568</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/707568</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-05-07 09:25</datetime>
+  <title auto="true" type="str" verify="true">Индекс PMI сферы услуг в России в апреле рухнул с 37,1 до 12,2 пункта</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">IHS Markit</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">PMI</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 7 мая. INTERFAX.RU - Индекс PMI сферы услуг России в апреле 2020 года рухнул до 12,2 пункта с 37,1 пункта в марте, свидетельствуют данные исследования IHS Markit. Аналитики отмечают, что апрельское падение этого индекса стало самым резким за всю историю исследования, которое проходит с октября 2001 года. Совокупный индекс объемов производства, отслеживающий активность и в обрабатывающих отраслях, и в сфере услуг России, в апреле тоже обновил минимум и составил 13,9 пункта против 39,5 пункта в марте. Значение индексов выше 50 пунктов указывает на рост деловой активности, меньше этого уровня - на ее снижение.]]></text>
+</doc>

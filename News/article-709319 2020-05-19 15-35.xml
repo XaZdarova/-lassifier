@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">709319</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/709319</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-05-19 15:35</datetime>
+  <title auto="true" type="str" verify="true">В лаборатории центра радиологии в Обнинске произошел взрыв</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Обнинск</tag>
+    <tag type="str">Калужская область</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 19 мая. INTERFAX.RU - В лаборатории филиала научного центра радиологии в Обнинске произошел взрыв, пострадал ученый, сообщил "Интерфаксу" информированный источник. "Взрыв произошел на химической установке в лаборатории неопасных химикатов. Ученый получил ожоги, госпитализирован", - сказал источник. Пожара за взрывом не последовало. Медицинский радиологический научный центр имени А.Ф. Цыба был создан в 1962 году. В мае 2014 года он вошел в состав ФГБУ "НМИЦ радиологии" Минздрава России в качестве филиала.]]></text>
+</doc>

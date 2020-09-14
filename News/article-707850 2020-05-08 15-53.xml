@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">707850</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/707850</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-05-08 15:53</datetime>
+  <title auto="true" type="str" verify="true">Главу Минстроя выписали из больницы после перенесенного коронавируса</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Минстрой РФ</tag>
+    <tag type="str">Владимир Якушев</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 8 мая. INTERFAX.RU - Главу Минстроя России Владимира Якушева выписали из стационара, где он лечился от коронавируса, сообщили в пятницу в пресс-службе ведомства. Там добавили, что теперь министр продолжит лечиться дома. В Минстрое отметили, что Якушев лечился в ГКБ номер 52 департамента здравоохранения Москвы. О его  заболевании  стало известно 1 мая. Тогда в пресс-службе сообщили, что у министра и его заместителя Дмитрия Волкова коронавирус подтвержден результатом КТ.]]></text>
+</doc>

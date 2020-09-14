@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">708799</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/708799</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-05-15 12:54</datetime>
+  <title auto="true" type="str" verify="true">В Петербурге танк съехал с прицепа на дорогу</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Петербург</tag>
+    <tag type="str">КАД</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 15 мая. INTERFAX.RU - В Петербурге на Кольцевой автодороге утром в пятницу танк сорвался с прицепа и выехал на дорожное полотно. Об этом сообщили в пресс-службе ФКУ Упрдор "Северо-Запад" (управляет КАД). Никто не пострадал. Это произошло около 10 утра на 84-м километре внутреннего кольца у съезда со стороны Ленинградской области на КАД. Конструктивные элементы трассы повреждений не получили. В 11:00 танк с дороги убрали.]]></text>
+</doc>

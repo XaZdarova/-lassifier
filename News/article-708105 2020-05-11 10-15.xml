@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">708105</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/708105</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-05-11 10:15</datetime>
+  <title auto="true" type="str" verify="true">В России сделали уже 5,6 млн тестов на коронавирус</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Роспотребнадзор</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 11 мая. INTERFAX.RU - Число выполненных в России тестов на новую коронавирусную инфекцию превысило 5,6 млн, сообщает в понедельник Роспотребнадзор. Как говорится в сообщении пресс-службы ведомства, за сутки в стране выполнили порядка 188 тыс. тестов. По данным Роспотребнадзора, под медицинским наблюдением остаются 247 тыс. человек.]]></text>
+</doc>

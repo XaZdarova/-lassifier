@@ -1,0 +1,15 @@
+<doc>
+  <id auto="true" type="str" verify="true">709140</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/709140</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-05-18 14:31</datetime>
+  <title auto="true" type="str" verify="true">Режим "черного неба" ввели для трех городов Кузбасса</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Кузбасс</tag>
+    <tag type="str">Кемеровская область</tag>
+    <tag type="str">Новокузнецк</tag>
+    <tag type="str">Прокопьевск</tag>
+    <tag type="str">Кемерово</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 18 мая. INTERFAX.RU - В Кемерове, Новокузнецке и Прокопьевске объявлен режим "черного неба", предприятиям предписано сократить вредные выбросы в атмосферу из-за неблагоприятных метеоусловий. Об этом объявила администрация Кемеровской области. Особый режим ввели в 18:00 (14:00 по Москве). В Кемерове он продлится до вечера 19 мая, в Новокузнецке и Прокопьевске - до вечера 20 мая. Департамент экологии Кузбасса уточнил, что предприятия городв должны сократить количество выбросов на 15%-20%. С конца прошлого года в Кемеровской области режим неблагоприятный метеоусловий вводился более 40 раз.]]></text>
+</doc>

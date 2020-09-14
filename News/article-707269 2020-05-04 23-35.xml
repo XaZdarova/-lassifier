@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">707269</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/707269</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-05-04 23:35</datetime>
+  <title auto="true" type="str" verify="true">Сирийские СМИ сообщили об авиаударе Израиля по Алеппо</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Сирия</tag>
+    <tag type="str">Израиль</tag>
+    <tag type="str">Алеппо</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 4 мая. INTERFAX.RU - Системы ПВО Сирии в понедельник вечером отражают ракетный удар с воздуха в провинции Алеппо, сообщает телевидение Сирии. По данным сирийского агентства SANA, целью ударов является сирийский военный исследовательский центр. Также корреспондент агентства заявляет, что обстрел производит израильская армия. Израильская сторона пока не объявляла о нанесении ударов. Сообщений о разрушениях и жертвах не поступало.]]></text>
+</doc>

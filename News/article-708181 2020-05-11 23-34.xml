@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">708181</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/708181</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-05-11 23:34</datetime>
+  <title auto="true" type="str" verify="true">В США провели более 9 млн тестов на коронавирус</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">США</tag>
+    <tag type="str">Дональд Трамп</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 11 мая. INTERFAX.RU - Врачи в США провели уже более 9 млн тестов на коронавирус COVID-19, заявил в понедельник американский президент Дональд Трамп. "Мы провели уже более 9 млн тестов", - сказал он на брифинге в Белом доме. Трамп пояснил, что США делают по 300 тыс. тестов в сутки, причём это число будет в дальнейшем ещё увеличиваться. "На этой неделе мы преодолеем отметку в 10 млн тестов", - добавил он, заверив, что никто в мире не проверяет столь же активно население на коронавирус.]]></text>
+</doc>

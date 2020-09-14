@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">707207</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/707207</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-05-04 09:54</datetime>
+  <title auto="true" type="str" verify="true">В Москве от коронавируса вылечились еще 544 человека</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">Анастасия Ракова</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 4 мая. INTERFAX.RU - В Москве вылечились от коронавируса уже 7 573 человека сообщила заместитель мэра Москвы по вопросам социального развития Анастасия Ракова. Как она рассказала в понедельник журналистам, за прошедшие сутки в столице после прохождения лечения выздоровели еще 544 человека. Ранее мэр Москвы Сергей Собянин заявил, что Россия идет  по европейскому сценарию  развития ситуации с коронавирусом: боремся внутри страны, сглаживая пики. По его мнению, в стране уже невозможен "китайский вариант" борьбы COVID-19.]]></text>
+</doc>

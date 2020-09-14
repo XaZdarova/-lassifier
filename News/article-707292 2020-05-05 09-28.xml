@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">707292</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/707292</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-05-05 09:28</datetime>
+  <title auto="true" type="str" verify="true">В России проведено уже более 4,4 млн тестов на коронавирус</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Роспотребнадзор</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 5 мая. INTERFAX.RU - Число выполненных в России тестов на новую коронавирусную инфекцию превысило 4,4 млн, сообщает Роспотребнадзор. Таким образом, за минувшие сутки в России выполнено порядка 153 тыс. тестов. В ежедневном бюллетене сообщается, что под медицинским наблюдением в России на текущий момент остаётся 222,5 тыс. человек. По данным на 4 мая, в России 145 268 заболевших COVID-19.]]></text>
+</doc>

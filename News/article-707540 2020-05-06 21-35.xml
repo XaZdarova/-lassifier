@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">707540</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/707540</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-05-06 21:35</datetime>
+  <title auto="true" type="str" verify="true">В Москве умерли еще 39 пациентов с коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 мая. INTERFAX.RU - Количество умерших от коронавируса в столице увеличилось с 866 до 905, скончались еще 39 человек. Об этом сообщили "Интерфаксу" в оперштабе по контролю и мониторингу ситуации с коронавирусом в Москве в среду. "В Москве скончались 39 пациентов, у которых был подтвержден диагноз пневмония и получен положительный результат тестов на коронавирусную инфекцию", - подчеркнули в штабе. Во вторник, 5 мая, сообщалось о 50 жертвах коронавируса, а в понедельник - о 52. В субботу и воскресенье было объявлено соответственно о смерти 34 и 35 больных с коронавирусом в столице.]]></text>
+</doc>

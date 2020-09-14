@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">709224</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/709224</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-05-19 06:34</datetime>
+  <title auto="true" type="str" verify="true">Более 240 россиян прилетели во Владивосток из Таиланда</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Таиланд</tag>
+    <tag type="str">Владивосток</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 19 мая. INTERFAX.RU - Самолет из Бангкока с россиянами на борту прибыл во Владивосток, свидетельствуют данные онлайн-табло аэропорта. Самолет приземлился во вторник 06:28 местного времени (23:28 понедельника по Москве). Рейс Пхукет - Бангкок - Владивосток - Новосибирск - Москва выполняет авиакомпания "Россия" на самолете Boeing 777-300ER. В список пассажиров этого рейса включены 245 граждан РФ, сообщается в телеграм-канале Минкомсвязи, созданном для информирования россиян о вывозе из других стран в связи с ситуацией с коронавирусом.]]></text>
+</doc>

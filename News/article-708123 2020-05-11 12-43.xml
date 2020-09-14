@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">708123</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/708123</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-05-11 12:43</datetime>
+  <title auto="true" type="str" verify="true">Число заразившихся COVID-19 в Белоруссии выросло до 23,9 тысяч</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Белоруссия</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 11 мая. INTERFAX.RU - В Белоруссии по состоянию на 11 мая умерли 135 человек с COVID-19 ( на 10 мая - 131 ), сообщило в понедельник министерство здравоохранения. Как сказали в ведомстве, у них также был ряд хронических заболеваний. В министерстве отметили, что всего, по данным на понедельник, зарегистрировано 23 906 человек с положительным тестом на COVID-19 ( на 10 мая - 22 973 ). Прирост за сутки составил 933 человека. Выздоровел и выписан 6 531 пациент, у которых ранее был подтвержден диагноз COVID-19. Всего в стране проведено 274 060 тестов на коронавирусную инфекцию. За последние сутки проведены 10 517 тестов.]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">707224</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/707224</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-05-04 12:13</datetime>
+  <title auto="true" type="str" verify="true">Бывший Астраханский митрополит Иона скончался от коронавируса в Москве</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">Иона Карпухин</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 4 мая. INTERFAX.RU - Митрополит Иона (Карпухин), почетный настоятель храма Воздвижения Креста Господня в Алтуфьеве, скончался в ночь на понедельник на 79-м году жизни. По предварительным данным, он умер от пневмонии на фоне коронавируса, сообщает рабочая группа при патриархе. Митрополит Иона долго служил в Троице-Сергиевой лавре. В 1991 голу был назначен настоятелем московского Крестовоздвиженского храма в Алтуфьеве, с 1992 года стал его почетным настоятелем. В 2016 году он ушел на покой по состоянию здоровья.]]></text>
+</doc>

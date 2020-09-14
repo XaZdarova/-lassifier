@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">707706</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/707706</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-05-07 20:44</datetime>
+  <title auto="true" type="str" verify="true">Три футболиста "Фиорентины" подхватили коронавирус</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Италия</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 7 мая. INTERFAX.RU - Три игрока и три сотрудника технического персонала итальянского футбольного клуба "Фиорентина" сдали положительный тест на наличие вируса COVID-19. Как сообщается на сайте клуба, тестирование на коронавирус в "Фиорентине" прошло накануне. Все заразившиеся - их имена не разглашаются - были отправлены на карантин. По данным на утро четверга, в Италии было зарегистрировано 214 тыс. 457 заболевших коронавирусом. 29 тыс. 684 скончались. В связи с пандемией, в Италии, как и в большинстве стран мира, были приостановлены чемпионаты по многим видам спорта, включая футбол.]]></text>
+</doc>

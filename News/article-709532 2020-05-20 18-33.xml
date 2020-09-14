@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">709532</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/709532</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-05-20 18:33</datetime>
+  <title auto="true" type="str" verify="true">Неизвестный ранил трех человек из травматического оружия на юго-востоке Москвы</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 20 мая. INTERFAX.RU - В результате конфликта между группой граждан на юго-востоке Москвы пострадали три человека, сообщили "Интерфаксу" в пресс-службе столичного главка полиции. Там уточнили, что в 17:04 поступило сообщение о конфликте на улице Южнопортовой. Неизвестный ранил трех человек, предположительно, из травматического оружия, после чего скрылся. Полицейские ищут нападавшего.]]></text>
+</doc>

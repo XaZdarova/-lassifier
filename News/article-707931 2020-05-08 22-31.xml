@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">707931</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/707931</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-05-08 22:31</datetime>
+  <title auto="true" type="str" verify="true">Трамп заявил, что коронавирус исчезнет, даже если ученые не изобретут вакцину</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">США</tag>
+    <tag type="str">Дональд Трамп</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 8 мая. INTERFAX.RU - Коронавирус COVID-19 рано или поздно исчезнет, причем даже в том случае, если не удастся создать вакцину от него, заявил в пятницу президент США Дональд Трамп. "Он исчезнет, даже если вакцины не будет", - сказал он журналистам в Белом доме. Трамп полагает, что "может произойти новая вспышка осенью или в следующем году, однако мы будем готовы погасить ее". Он также заверил, что у многих компаний очень успешно идет работа над вакциной. Вместе с тем, он напомнил, что существуют и заболевания, против которой вакцину создать не удалось.]]></text>
+</doc>

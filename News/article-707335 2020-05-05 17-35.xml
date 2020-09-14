@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">707335</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/707335</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-05-05 17:35</datetime>
+  <title auto="true" type="str" verify="true">Индекс сферы услуг США ISM Non-Manufacturing в апреле упал до минимума с 2009 года</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">США</tag>
+    <tag type="str">ISM</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 5 мая. INTERFAX.RU -  Индекс деловой активности в сфере услуг США (ISM Non-Manufacturing) в апреле снизился до 41,8 пункта - минимума с апреля 2009 года, свидетельствуют данные Института управления поставками (ISM). Мартовское значение индекса составляло 52,5 пункта. Аналитики в среднем прогнозировали падение индекса в апреле до 40 пунктов, сообщает MarketWatch. Значение индекса ниже 50 пунктов говорит о снижении деловой активности в сфере услуг.]]></text>
+</doc>

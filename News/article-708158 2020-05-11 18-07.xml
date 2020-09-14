@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">708158</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/708158</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-05-11 18:07</datetime>
+  <title auto="true" type="str" verify="true">Более 1,5 млн человек в мире вылечились от коронавируса</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 11 мая. INTERFAX.RU - Уже свыше 1,5 млн жителей планеты успешно завершили лечение от COVID-19, сообщил в понедельник сайт Worldometers, отслеживающий подобную статистику. По его информации, полностью выздоровел 1 607 141 человек. Более 284 тыс. заразившихся коронавирусом скончались. В мире зафиксировано более 4,2 млн случаев заражения COVID-19. При этом специалисты неоднократно предупреждали, что это неполные данные, так как во многих случаях болезнь проходит в легкой форме, и заразившиеся попросту не обращаются к врачам и не сдают анализы.]]></text>
+</doc>

@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">707385</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/707385</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-05-06 09:17</datetime>
+  <title auto="true" type="str" verify="true">Падение заказов немецких промпредприятий в марте стало рекордным за полвека</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Германия</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 мая. INTERFAX.RU - Объем заказов промышленных предприятий Германии в марте рухнул на 15,6% по сравнению с предыдущим месяцем, сообщило министерство экономики страны. Это максимальные темпы сокращения показателя почти за полвека - с 1975 года. Аналитики прогнозировали в среднем падение на 10%, по информации Trading Economics. Согласно пересмотренным данным, в феврале показатель снизился на 1,2%, а не на 1,4%, как было объявлено ранее.]]></text>
+</doc>

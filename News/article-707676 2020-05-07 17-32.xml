@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">707676</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/707676</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-05-07 17:32</datetime>
+  <title auto="true" type="str" verify="true">Два сотрудника ФК "Локомотив" подхватили коронавирус</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">ФК Локомотив</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 7 мая. INTERFAX.RU - Двум сотрудникам московского "Локомотива" диагностирован коронавирус, заявили "Интерфаксу" в пресс-службе футбольного клуба в четверг. "Один случай был диагностирован в конце прошлой недели, второй - на этой неделе. Один сотрудник проходит лечение в больнице, а второй - дома", - сказал собеседник агентства. "Коллеги являются сотрудниками клуба, которые никак не контактируют с футболистами", - сказал собеседник агентства. Ранее в четверг сообщалось, что вирус COVID-19  подхватил  председатель совета директоров московского ФК "Спартак" Леонид Федун.]]></text>
+</doc>

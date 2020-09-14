@@ -1,0 +1,15 @@
+<doc>
+  <id auto="true" type="str" verify="true">707636</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/707636</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-05-07 14:21</datetime>
+  <title auto="true" type="str" verify="true">Saudi Aramco в июне повысит цены на легкую нефть</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Saudi Aramco</tag>
+    <tag type="str">Саудовская Аравия</tag>
+    <tag type="str">Оман</tag>
+    <tag type="str">Дубай</tag>
+    <tag type="str">Brent</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 7 мая. INTERFAX.RU - Саудовская госкомпания Saudi Aramco объявила, что в июне повысит цены на нефть сорта Arab Light для покупателей из всех регионов. Для азиатских клиентов "легкая" нефть подорожает на $1,4 за баррель. В результате она будет стоить на $5,9 за баррель меньше корзины нефти Омана и Дубая. Для покупателей из государств Северо-Западной Европы цены вырастут на $3,7 за баррель (дисконт в $3,7 за баррель к марке Brent на бирже ICE), для американских клиентов - на $1,5 за баррель (премия в $0,75 за баррель к индексу ASCI).]]></text>
+</doc>

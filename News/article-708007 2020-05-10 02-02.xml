@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">708007</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/708007</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-05-10 02:02</datetime>
+  <title auto="true" type="str" verify="true">Для родных пациентов горевшей в Москве больницы заработала горячая линия</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">ГКБ имени Спасокукоцкого</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 10 мая. INTERFAX.RU - Для родственников пациентов, которые находились на лечении в ГКБ им. Спасокукоцкого, где произошел пожар, открыта круглосуточная горячая линия, сообщили в воскресенье в пресс-службе столичного департамента здравоохранения. В субботу вечером заместитель мэра Москвы Анастасия Ракова сообщила журналистам, что 295 пациентов горевшего корпуса больницы были эвакуированы. Она уточнила, что одна пациентка погибла, других пострадавших нет. Эвакуированных переводят в другие больницы.]]></text>
+</doc>

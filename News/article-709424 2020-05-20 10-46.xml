@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">709424</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/709424</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-05-20 10:46</datetime>
+  <title auto="true" type="str" verify="true">Высокопоставленный следователь СКР назначен заместителем генпрокурора</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">СКР</tag>
+    <tag type="str">Игорь Краснов</tag>
+    <tag type="str">Генпрокуратура</tag>
+    <tag type="str">Андрей Разинкин</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 20 мая. INTERFAX.RU - Совет Федерации назначил бывшего замначальника главного управления по расследованию особо важных дел СКР Анатолия Разинкина заместителем генпрокурора. Кандидатуру Разинкина внес в палату президент Владимир Путин. С января 2020 года Генпрокуратуру  возглавляет  Игорь Краснов, который с 2016 года был заместителем председателя СКР.]]></text>
+</doc>

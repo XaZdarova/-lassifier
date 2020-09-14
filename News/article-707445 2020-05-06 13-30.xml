@@ -1,0 +1,15 @@
+<doc>
+  <id auto="true" type="str" verify="true">707445</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/707445</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-05-06 13:30</datetime>
+  <title auto="true" type="str" verify="true">Власти ЯНАО решили ввести масочный режим в городах</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">ЯНАО</tag>
+    <tag type="str">УрФО</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 мая. INTERFAX.RU - Ямало-Ненецкий автономный округ решил ввести масочный режим вслед за остальными регионами Уральского федерального округа. Носить маски или респираторы будут обязаны жители городов региона. В частности, в Ямале нужно будет находиться в масках в любых помещениях, общественном транспорте и такси. 
+ 
+"Масочный режим" в общественных местах и транспорте вводят все регионы Уральского федерального округа, чтобы снизить риски распространения COVID-19. Областные оперативные штабы разъясняют, что можно использовать респиратор, маску, купленную в аптеке или сделанную самостоятельно.]]></text>
+</doc>

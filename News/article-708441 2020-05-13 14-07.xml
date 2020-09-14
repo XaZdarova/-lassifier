@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">708441</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/708441</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-05-13 14:07</datetime>
+  <title auto="true" type="str" verify="true">В больницах России зафиксировано 400 очагов заболевания COVID-19</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Минздрав РФ</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">Михаил Мурашко</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 13 мая. INTERFAX.RU - В больницах России возникло несколько сотен очагов заболевания коронавирусом, сообщил глава Минздрава РФ Михаил Мурашко. "У нас 400 очагов (заболевания COVID-19 - ИФ) возникло в больницах. Заносы, несмотря на все профилактические меры, существуют и бывают", - сказал Мурашко в среду на заседании Госдумы. Он также отметил, что ситуация с оказанием плановой помощи претерпела изменения. Это связано как с эпидемической обстановкой, так и с боязнью пациентов заразиться коронавирусом при посещении больниц.]]></text>
+</doc>

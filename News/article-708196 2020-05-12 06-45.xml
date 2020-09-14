@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">708196</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/708196</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-05-12 06:45</datetime>
+  <title auto="true" type="str" verify="true">Самолет "Почты России" совершил экстренную посадку в аэропорту Красноярска</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Красноярский край</tag>
+    <tag type="str">Почта России</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 12 мая. INTERFAX.RU -  Борт "Почты России", вылетевший из Красноярска в Норильск, несколько часов кружил над красноярским аэропортом из-за проблем с шасси, но благополучно приземлился, сообщили агентству "Интерфакс" в пресс-службе авиапредприятия. "У самолета "Почты России", вылетевшего из Красноярска в Норильск, после взлета возникли проблемы с шасси, более двух часов он летал над красноярским аэропортом. В настоящее время он совершил благополучную посадку", - сказал собеседник агентства.]]></text>
+</doc>

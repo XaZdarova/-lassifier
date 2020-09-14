@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">708082</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/708082</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-05-11 00:40</datetime>
+  <title auto="true" type="str" verify="true">Пожар произошел в подмосковном хосписе</title>
+  <description auto="true" type="str" verify="true">Внутри горящего здания остаются 18 лежачих пациентов</description>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Московская область</tag>
+    <tag type="str">Красногорск</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 11 мая. INTERFAX.RU - В подмосковном Красногорске горит пансионат-хоспис для пожилых "Второй дом", сообщил "Интерфаксу" информированный источник. "Пожар произошел в хосписе на улице Тенистая, 4. Здание самостоятельно покинули 11 человек, еще 18 лежачих пациентов остаются пока внутри", - сказал источник, отметив, что открытое горение уже удалось сбить. Позднее в МЧС подтвердили информацию о пожаре в хосписе, внутри которого находятся 18 лежачих пациентов. Спасателям удалось локализовать возгорание на втором этаже здания. Площадь пожара составила 15 кв. м. Данных о погибших и пострадавших не поступало.]]></text>
+</doc>

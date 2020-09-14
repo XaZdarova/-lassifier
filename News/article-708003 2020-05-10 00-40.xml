@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">708003</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/708003</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-05-10 00:40</datetime>
+  <title auto="true" type="str" verify="true">Госдеп постарается продлить оружейное эмбарго против Ирана</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Иран</tag>
+    <tag type="str">США</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 10 мая. INTERFAX.RU - Администрация США будет пытаться при помощи дипломатии добиться продления международного эмбарго на поставки вооружения в Иран, заявила в субботу представитель госдепа Морган Ортагус. "Мы используем дипломатию, чтобы добиться продления эмбарго ООН", – написала она в твиттере. "Кроме того, мы никогда не допустим, чтобы у Ирана было ядерное оружие", – добавила Ортагус. Эмбарго на поставки оружия Тегерану истекает в октябре 2020 года.]]></text>
+</doc>

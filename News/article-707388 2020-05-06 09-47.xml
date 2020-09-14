@@ -1,0 +1,15 @@
+<doc>
+  <id auto="true" type="str" verify="true">707388</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/707388</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-05-06 09:47</datetime>
+  <title auto="true" type="str" verify="true">Общежитие медуниверситета в Хабаровске закрыли на карантин</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Хабаровск</tag>
+    <tag type="str">Хабаровский край</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">ДВГМУ</tag>
+    <tag type="str">Минздрав</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 мая. INTERFAX.RU - В Хабаровске общежитие Дальневосточного государственного медуниверситета (ДВГМУ) закрыли на карантин, так как среди студентов оказались зараженные коронавирусом, сообщило краевое правительство. На момент выявления заражения в общежитии жило 60 студентов, остальные успели разъехаться по домам. По данным регионального Минздрава на 5 мая, в Хабаровском крае было выявлено 699 случаев заражения коронавирусом, семь заболевших умерли.]]></text>
+</doc>

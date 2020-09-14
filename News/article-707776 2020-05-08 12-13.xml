@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">707776</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/707776</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-05-08 12:13</datetime>
+  <title auto="true" type="str" verify="true">Онлайн-покупки в Москве выросли почти на 40%</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 8 мая. INTERFAX.RU - В марте в Москве онлайн-покупки на 38,2% по сравнению с февралем, сообщили в городском оперативном штабе по экономике. Общий оборот интернет-магазинов в марте составил 16 млрд рублей. По словам собеседника агентства, розница тоже адаптировались к условиям самоизоляции и постепенно переходит в онлайн. "Сейчас оборот всей розничной торговли в сутки в среднем 5,4 млрд рублей", - сказали в штабе. Там также отметили, что для продвижения своих товаров через интернет малый бизнес может получить субсидию от города до 700 000 рублей и возместить до 50% комиссии агрегатора.]]></text>
+</doc>

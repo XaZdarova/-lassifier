@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">708361</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/708361</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-05-13 02:52</datetime>
+  <title auto="true" type="str" verify="true">Секретариат ООН будет работать удаленно до конца июня</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">ООН</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">COVID-19</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 13 мая. INTERFAX.RU - Генеральный секретарь ООН Антониу Гутерриш продлил удаленную работу Секретариата до конца июня, сообщил пресс-секретарь генсека Стефан Дюжаррик. ООН почти подготовила план поэтапного и безопасного возвращения к работе в здании штаб-квартиры, "когда это будет возможно". Сотрудники Секретариата ООН работают удаленно с 16 марта. По данным университета Джонса-Хопкинса, в Нью-Йорке, где находится штаб-квартира ООН, зафиксировано более 186 тысяч заболевших COVID-19 и более 20 тысяч умерших. Сейчас Совет Безопасности ООН работает над резолюцией о прекращении всех войн из-за пандемии коронавируса.]]></text>
+</doc>

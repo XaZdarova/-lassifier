@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">707195</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/707195</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-05-04 04:47</datetime>
+  <title auto="true" type="str" verify="true">Трамп полагает, что вакцина от COVID-19 появится в США к концу года</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">США</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">COVID-19</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 4 мая. INTERFAX.RU - Президент США Дональд Трамп полагает, что вакцина от коронавируса COVID-19 появится к концу текущего года. "Думаю, мы получим вакцину к концу текущего года", - заявил он в эфире телеканала Fox News. При этом американский лидер добавил, что ему все равно, какая страна сделает ее первой. Кроме того, Трамп допустил, что число жертв коронавируса в США может составить от 80 до 90 тыс. человек. "80-90 тыс. жертв уже можно считать успехом", - сказал президент США. Ранее Трамп заявлял о возможных 100 тыс. летальных исходов в результате пандемии коронавируса.]]></text>
+</doc>

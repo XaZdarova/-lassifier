@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">709576</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/709576</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-05-21 03:37</datetime>
+  <title auto="true" type="str" verify="true">Почти 20 тыс. новых случаев заражения COVID-19 зарегистрировано в Бразилии</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Бразилия</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 21 мая. INTERFAX.RU - Почти 20 тыс. новых случаев заражения COVID-19 зарегистрировано в Бразилии за минувшие сутки, сообщает Минздрав страны. По данным министерства здравоохранения, число подтвержденных случаев заболевания в Бразилии сейчас составляет 291 579 человек. 888 человек скончались за истекшие сутки. Таким образом общее число погибших пациентов с диагнозом COVID-19 в стране достигло 18 859 человек. В понедельник Бразилия обогнала Великобританию, став страной с третьим по величине числом случаев заражения.]]></text>
+</doc>

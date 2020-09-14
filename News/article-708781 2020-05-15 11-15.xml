@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">708781</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/708781</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-05-15 11:15</datetime>
+  <title auto="true" type="str" verify="true">Евро опустился ниже 79 рублей впервые с 6 марта</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">курсы валют</tag>
+    <tag type="str">рубль</tag>
+    <tag type="str">евро</tag>
+    <tag type="str">доллар</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 15 мая. INTERFAX.RU - Доллар и евро снижаются на Московской бирже в пятницу утром, курс евро впервые с 6 марта опустился ниже 79 рублей, доллар торгуется вблизи отметки 73 рубля. Курс евро в 11:00 составил 79,0175 руб., опустившись на 34,25 копейки к уровню закрытия предыдущего дня. Немногим ранее евро опускался до 78,98 руб. При этом доллар торговался на отметке 73,0375 руб. - минус 44,25 копейки к уровню предыдущего закрытия. Стоимость бивалютной корзины ($0,55 и EUR0,45) уменьшилась на 39,75 копейки - до 75,7285 рубля.]]></text>
+</doc>

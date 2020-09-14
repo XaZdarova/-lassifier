@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">707351</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/707351</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-05-05 22:33</datetime>
+  <title auto="true" type="str" verify="true">В Москве скончались еще 50 пациентов с коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 5 мая. INTERFAX.RU - В столице скончались еще 50 пациентов с COVID-19, сообщили "Интерфаксу" в столичном оперативном штабе по контролю и мониторингу ситуации с коронавирусом во вторник. "У всех был подтвержден диагноз пневмония и получен положительный результат тестов на коронавирусную инфекцию", - сказал представитель штаба. Таким образом, общее число скончавшихся в столице от осложнений из-за коронавируса за сутки выросло до 866.]]></text>
+</doc>

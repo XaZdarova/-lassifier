@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">707711</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/707711</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-05-07 21:47</datetime>
+  <title auto="true" type="str" verify="true">В Москве скончался еще 51 пациент с коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 7 мая. INTERFAX.RU - Число умерших от коронавируса в столице увеличилось с 905 до 956, скончался еще 51 человек. Об этом сообщили "Интерфаксу" в оперштабе по контролю и мониторингу ситуации с коронавирусом в Москве в четверг. "В Москве скончался 51 пациент, у которых был подтвержден диагноз пневмония и получен положительный результат тестов на коронавирусную инфекцию", - сказал представитель штаба. По последним данным, в Москве выявлено 92 676 случаев заболевания коронавирусом. Выздоровели и выписались из больниц 9227 пациентов.]]></text>
+</doc>

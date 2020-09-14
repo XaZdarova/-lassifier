@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">708025</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/708025</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-05-10 09:57</datetime>
+  <title auto="true" type="str" verify="true">В столице за сутки вылечились от  COVID-19 свыше тысячи пациентов</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 10 мая. INTERFAX.RU - Московские врачи вылечили от коронавируса уже 13 790 человек. Как сообщила журналистам заместитель мэра Москвы по вопросам социального развития Анастасия Ракова, за прошедшие сутки после прохождения лечения выздоровело еще 1 011 человек. Ранее в воскресенье "Интерфаксу" сообщили в оперштабе по контролю и мониторингу ситуации с коронавирусом в Москве, что число умерших от COVID-19 в столице увеличилось с 1 010 до 1 068, скончались еще 58 человек. По последним данным, в Москве выявлено  104 189 случаев  заболевания коронавирусом.]]></text>
+</doc>

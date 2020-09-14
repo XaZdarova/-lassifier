@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">707820</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/707820</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-05-08 13:51</datetime>
+  <title auto="true" type="str" verify="true">СКА продлил контракт с чемпионом мира-2014 Беловым</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">хоккей</tag>
+    <tag type="str">КХЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 8 мая. INTERFAX.RU - Петербургский СКА объявил о подписании нового контракта с защитником Антоном Беловым. Как сообщает пресс-служба хоккейного клуба, соглашение рассчитано на один год. Белов выступает за СКА с 2014 года. Ранее он играл за клуб Национальной хоккейной лиги "Эдмонтон", а также за московский ЦСКА. В составе сборной России Белов становился чемпионом мира 2014 года.]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">709234</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/709234</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-05-19 08:57</datetime>
+  <title auto="true" type="str" verify="true">В Москве за сутки ветром повалило три десятка деревьев</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">МЧС</tag>
+    <tag type="str">Метеобюро Москвы</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 19 мая. INTERFAX.RU - В Москве с понедельника установилась ветреная погода. За сутки в городе ветер повалил больше 30 деревьев, сообщил "Интерфаксу" информированный источник. По его сведениям, никто не пострадал. Почти два десятка автомобилей получили повреждения. В метеобюро Москвы  уточнили, что порывы ветра в городе достигали в понедельник местами 21 метра в секунду. Об усилении ветра в понедельник днем  предупредило  МЧС.]]></text>
+</doc>

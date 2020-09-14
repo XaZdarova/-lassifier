@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">707322</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/707322</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-05-05 14:45</datetime>
+  <title auto="true" type="str" verify="true">SpaceX назначила новую дату запуска партии интернет-спутников</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">США</tag>
+    <tag type="str">SpaceX</tag>
+    <tag type="str">Falcon</tag>
+    <tag type="str">Starlink</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 5 мая. INTERFAX.RU - Американская компания SpaceX собирается вывести на орбиту очередную партию из 60 мини-спутников, предназначенных для продолжения развертывания глобальной сети интернет-покрытия системы Starlink, 18 мая, сообщил  сайт  Spaceflight Now. Запуск тяжелой ракеты-носителя Falcon 9 компании SpaceX с 60 спутниками Starlink планируется осуществить с космодрома на мысе Канаверал ( штат Флорида ), несмотря на пандемию коронавируса в США. Запуск уже  дважды переносился . По данным командования космодрома, в настоящее время там предпринимаются все необходимые меры предосторожности для того, чтобы снизить риск распространения коронавируса. Отложено большинство запусков, за исключением компании SpaceX и военного ведомства. Как сообщалось, 23 апреля SpaceX  успешно вывела на орбиту  очередные 60 интернет-спутников Starlink, доведя орбитальную группировку до 420 космических аппаратов. В настоящее время компания SpaceX является крупнейшим спутниковым оператором в мире.]]></text>
+</doc>

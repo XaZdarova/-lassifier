@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">708662</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/708662</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-05-14 16:26</datetime>
+  <title auto="true" type="str" verify="true">Чемпионат Украины по футболу возобновится 30 мая</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Украина</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 14 мая. INTERFAX.RU - Украинская премьер-лига решила возобновить футбольный сезон-2019/20 30 мая, сообщается на сайте киевского клуба "Динамо".             Отмечается, что матчи оставшихся девяти туров премьер-лиги будут проходить без зрителей.             Чемпионат Украины, как и национальные первенства почти во всех странах, был прерван из-за пандемии коронавируса.             В чемпионате Украины в настоящий момент лидирует донецкий "Шахтер", в 23-х турах набравший 59 очков. По 46 очков – у идущих следом "Зари" (Луганск) и "Динамо".]]></text>
+</doc>

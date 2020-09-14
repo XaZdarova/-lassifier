@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">708457</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/708457</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-05-13 14:53</datetime>
+  <title auto="true" type="str" verify="true">Подлодка "Князь Владимир" вышла в Белое море для завершения госиспытаний</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Минобороны РФ</tag>
+    <tag type="str">ВМФ РФ</tag>
+    <tag type="str">Князь Владимир</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 13 мая. INTERFAX.RU - Атомный подводный крейсер стратегического назначения "Князь Владимир" вышел в Белое море для завершения государственных испытаний, сообщили "Интерфаксу" в среду в пресс-службе Северного флота РФ. "Испытания в море продлятся несколько дней, сначала в надводном, а затем в подводном положении. В ходе испытаний будет проведена проверка качества устранения ранее выявленных замечаний, после чего решится вопрос срока включения нового корабля в состав подводных сил Северного флота", - говорится в сообщении флота.]]></text>
+</doc>

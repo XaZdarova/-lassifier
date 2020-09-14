@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">707515</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/707515</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-05-06 18:16</datetime>
+  <title auto="true" type="str" verify="true">РБК сообщил о самоубийстве основателя "Аллтека" Босова</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Дмитрий Босов</tag>
+    <tag type="str">Аллтек</tag>
+    <tag type="str">Сибантрацит</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 мая. INTERFAX.RU - Дмитрий Босов, основатель группы "Аллтек", контролирующей производителя угля "Сибантрацит" и ряд других активов, покончил с собой,  сообщает  РБК со ссылкой на двух знакомых бизнесмена. "Интерфакс" направил запросы в правоохранительные органы. Босов занимает  86-е место  в списке 200 богатейших бизнесменов России 2020 года по версии Forbes.]]></text>
+</doc>

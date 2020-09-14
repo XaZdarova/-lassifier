@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">708887</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/708887</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-05-15 19:40</datetime>
+  <title auto="true" type="str" verify="true">В США разбился истребитель пятого поколения F-22</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">США</tag>
+    <tag type="str">Флорида</tag>
+    <tag type="str">F-22</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 15 мая. INTERFAX.RU - Истребитель пятого поколения ВВС США F-22 Raptor в пятницу упал во время обычного тренировочного полета в американском штате Флорида,  сообщает  сайт издания USA Today. Пилот успел катапультироваться, его подобрали и отправили в госпиталь при военной базе "Эглин", откуда поднялся в воздух истребитель. О причинах крушения пока не сообщается. USA Today напоминает, что на вооружении ВВС США стоят 183 F-22. Стоимость одного самолета составляет $143 млн.]]></text>
+</doc>

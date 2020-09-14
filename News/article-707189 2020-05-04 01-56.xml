@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">707189</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/707189</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-05-04 01:56</datetime>
+  <title auto="true" type="str" verify="true">Более 3,5 млн человек в мире заразились коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">коронавирус</tag>
+    <tag type="str">COVID-19</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 4 мая. INTERFAX.RU - Число людей, заразившихся в мире коронавирусом COVID-19, превысило отметку в 3,5 млн, сообщает сайт Worldometers, отслеживающий такую статистику. Так, общее число подтвержденных случаев заражения составляет 3 560 911. При этом более 1,15 млн из этих пациентов уже завершили курс лечения. А 248 048 человек скончались от последствий заражения. Медики неоднократно отмечали, что данные по числу заражений являются очень относительными: речь идет лишь об официально выявленных случаев. Реальное число заражений может быть на порядок выше.]]></text>
+</doc>

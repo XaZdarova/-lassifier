@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">707836</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/707836</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-05-08 15:32</datetime>
+  <title auto="true" type="str" verify="true">Трехлетняя девочка в Подмосковье выжила после падения с восьмого этажа</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Подмосковье</tag>
+    <tag type="str">Электросталь</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 8 мая. INTERFAX.RU - Прокуратура Подмосковья начала проверку из-за падения трехлетней девочки из окна восьмого этажа в Электростали, сообщили "Интерфаксу" в пресс-службе ведомства. Там отметили, что выпавшего из окна квартиры ребенка госпитализировали с многочисленными травмами. Прокуратуре Электростали поручили провести проверку обстоятельств произошедшего и выяснить, почему девочка выпала из окна.]]></text>
+</doc>

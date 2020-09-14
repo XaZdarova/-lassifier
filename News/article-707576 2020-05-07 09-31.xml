@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">707576</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/707576</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-05-07 09:31</datetime>
+  <title auto="true" type="str" verify="true">Промпроизводство в Германии в марте упало на рекордные 9,2%</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Германия</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 7 мая. INTERFAX.RU - Объем промышленного производства в Германии в марте рухнул на 9,2% по сравнению с предыдущим месяцем, сообщило Министерство экономики и труда страны. Это максимальные темпы снижения за время ведения расчетов. Аналитики в среднем ожидали снижения на 7,5%, по данным Trading Economics.]]></text>
+</doc>

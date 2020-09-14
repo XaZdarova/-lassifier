@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">709211</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/709211</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-05-18 23:40</datetime>
+  <title auto="true" type="str" verify="true">Почти все штаты США подготовились к возобновлению работы экономики</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">США</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">COVID-19</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 18 мая. INTERFAX.RU - Власти 48 из 50 американских штатов подготовили планы по возобновлению работы экономики, заявил в понедельник вице-президент США Майк Пенс. Ранее сообщалось, что ряд штатов, в которых борьба против коронавируса уже принесла существенные успехи, начали отменять ограничения, введенные, чтобы затормозить распространение инфекции. Президент США Дональд Трамп неоднократно заявлял, что предпочитает, чтобы такие решения принимали сами губернаторы, учитывая обстановку в каждом штате.]]></text>
+</doc>

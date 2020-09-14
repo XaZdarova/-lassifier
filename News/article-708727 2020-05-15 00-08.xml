@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">708727</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/708727</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-05-15 00:08</datetime>
+  <title auto="true" type="str" verify="true">В Москве скончались еще 68 пациентов с COVID-19</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 15 мая. INTERFAX.RU - Количество пациентов с коронавирусом, умерших в Москве, увеличилось с 1290 до 1358. "В Москве скончались 68 пациентов, у которых был подтвержден диагноз пневмония и получен положительный результат тестов на коронавирусную инфекцию", - сообщили "Интерфаксу" в оперштабе по контролю и мониторингу ситуации с коронавирусом в Москве.]]></text>
+</doc>

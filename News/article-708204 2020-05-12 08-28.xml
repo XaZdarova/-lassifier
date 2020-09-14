@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">708204</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/708204</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-05-12 08:28</datetime>
+  <title auto="true" type="str" verify="true">В Екатеринбурге роддом закрыли на карантин из-за коронавируса</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Екатеринбург</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 12 мая. INTERFAX.RU - В Екатеринбурге роддом городской клинической больницы №40 закрыли на карантин из-за коронавирусной инфекции у одной из пациенток. Об этом сообщили в региональном оперштабе. Рожениц переводят в перинатальный центр Екатеринбурга и в областной перинатальный центр. В роддоме начали дезинфекцию. Устанавливаются те, кто контактировал с зараженной , проводится постконтактное тестирование. На утро 12 мая в Свердловской области было подтверждено 1952 случая коронавирусной инфекции.]]></text>
+</doc>

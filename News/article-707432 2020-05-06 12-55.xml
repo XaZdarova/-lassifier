@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">707432</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/707432</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-05-06 12:55</datetime>
+  <title auto="true" type="str" verify="true">В РФ госпитализированы свыше 80 тыс. человек с COVID-19 или подозрением на него</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Минздрав РФ</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 мая. INTERFAX.RU - Более 80 тысяч пациентов находятся в российских больницах с подозрением на коронавирус и с коронавирусной инфекцией, сообщил в среду глава Минздрава РФ Михаил Мурашко. "На сегодня таких пациентов 80 тысяч, это не только с ковидной инфекцией, это те, кто поступает и в том числе с неуточненным диагнозом, и с внебольничными пневмониями всех этимологических причин", - сказал Мурашко на заседании комитета Госдумы по здравоохранению. Он уточнил, что тяжелых пациентов на учете - около 4 тысяч.]]></text>
+</doc>
