@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">731716</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/731716</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-15 22:03</datetime>
+  <title auto="true" type="str" verify="true">Российский хоккеист Дадонов перешел в "Оттаву"</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">хоккей</tag>
+    <tag type="str">НХЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 15 октября. INTERFAX.RU - Российский хоккеист Евгений Дадонов продолжит карьеру в "Оттаве", сообщает пресс-служба клуба Национальной хоккейной лиги. "Сенаторы" подписали с форвардом Евгением Дадоновым трехлетний контракт", - говорится в сообщении. Согласно контракту, россиянин за первый сезон получит $3,5 млн, за второй - $5 млн, а за третий - $6,5 млн. Предыдущим клубом нападающего была "Флорида", также представляющая НХЛ. До нее Дадонов защищал цвета петербургского СКА, украинского "Донбасса", челябинского "Трактора", а также американских клубов "Сан-Антонио" и "Рочестер".]]></text>
+</doc>

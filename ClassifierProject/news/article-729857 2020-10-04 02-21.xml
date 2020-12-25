@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">729857</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/729857</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-04 02:21</datetime>
+  <title auto="true" type="str" verify="true">Боевики убили шестерых полицейских в Мексике</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Мексика</tag>
+    <tag type="str">Синалоа</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 4 октября. INTERFAX.RU - Неизвестные напали на полицейский конвой в Мексике и убили шестерых полицейских, сообщило в субботу агентство Associated Press. Нападение произошло в минувший четверг на северо-западе страны в штате Дуранго в округе Эль Мескиталь. В результате погибли шестеро и пострадали семеро сотрудников полиции. Боевики скрылись, бросив машины, на которых приехали. В некоторых машинах остались пятна крови. Это косвенно доказывает, что преступники понесли потери. Место нападения находится в зоне активности наркокартели "Синалоа".]]></text>
+</doc>

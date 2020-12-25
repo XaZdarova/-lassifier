@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">729088</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/729088</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-09-29 11:11</datetime>
+  <title auto="true" type="str" verify="true">Армения заявила о сбитом азербайджанском вертолете в Карабахе</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Армения</tag>
+    <tag type="str">Нагорный Карабах</tag>
+    <tag type="str">Азербайджан</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 28 сентября. INTERFAX.RU - Армянские военные сбили в зоне карабахского конфликта вертолет Вооруженных сил Азербайджана, сообщил представитель Минобороны Армении Арцрун Ованнисян. "Только что с нашей стороны сбит вертолет. Возможно, вертолеты...", - написал Ованнисян в фейсбуке. В воскресенье он  сообщал  о четырех уничтоженных азербайджанских вертолетах.]]></text>
+</doc>

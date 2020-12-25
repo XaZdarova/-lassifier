@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">740987</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/740987</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-12-11 20:31</datetime>
+  <title auto="true" type="str" verify="true">Google наняла ветерана Goldman Sachs укрепить облачную безопасность</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Alphabet</tag>
+    <tag type="str">Google</tag>
+    <tag type="str">Goldman Sachs</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 11 декабря. INTERFAX.RU - Американская Alphabet Inc, холдинговая компания Google, назначила ответственного за обеспечение информационной безопасности в своем подразделении облачных вычислений Google Cloud,  пишет  The Wall Street Journal. Фил Венаблс, старший советник по вопросам рисков и кибербезопасности в Goldman Sachs Group Inc., присоединится к Google Cloud с понедельника в качестве главного директора по информационной безопасности (CISO). Венаблс, который также является членом совета директоров Goldman Sachs Bank USA, на протяжении почти 20 лет выполнял обязанности CISO финансового гиганта и недавно снова занял этот пост на временной основе в связи с кадровыми перестановками. В Google, по словам Венаблса, он сосредоточится, в частности, на вопросах облачной миграции и защиты клиентов, наряду с обеспечением внутренней безопасности. До Goldman Sachs Венаблс также занимался укреплением информационной безопасности в банках Deutsche Bank AG, Standard Chartered PLC и Barclays PLC.]]></text>
+</doc>

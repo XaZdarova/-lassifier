@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">741681</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/741681</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-12-17 09:40</datetime>
+  <title auto="true" type="str" verify="true">Пассажир скончался на борту самолета в Перми</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Пермь</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 декабря. INTERFAX.RU - Медики выясняют причину гибели пассажира самолета, которому стало плохо после приземления в аэропорту Перми, сообщили "Интерфаксу" в пресс-службе авиаузла. Инцидент произошел в четверг на прилетевшем из Москвы рейсе 1159 авиакомпании S7. "После посадки самолета в аэропорту Большое Савино пассажиру стало плохо, к самолету была вызвана бригада медиков. В это время экипаж оказывал пассажиру первую медицинскую помощь. Прибывшие на борт врачи констатировали смерть", - сказал собеседник агентства.]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">737732</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/737732</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-11-18 20:48</datetime>
+  <title auto="true" type="str" verify="true">Международная федерация хоккея отменила 28 турниров из 32</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">хоккей</tag>
+    <tag type="str">ЧМ по хоккею</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 18 ноября. INTERFAX.RU - Международная федерация хоккея (ИИХФ) объявила об отмене серии турниров, запланированных на 2021 год, из-за коронавируса. Как сообщает пресс-служба ИИХФ, в среду решено отменить 18 турниров, общее количество соревнований, с учетом ранее отмененных, достигло 28. Речь идет о, в частности, чемпионатах мира и юношеских первенствах планеты в низших дивизионах среди мужчин и женщин. Остались в силе планы по проведению четырех турниров – чемпионата мира, молодежного чемпионата мира, женского ЧМ, и ЧМ среди игроков до 18 лет.]]></text>
+</doc>

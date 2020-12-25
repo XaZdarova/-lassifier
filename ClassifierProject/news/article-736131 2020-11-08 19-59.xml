@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">736131</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/736131</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-11-08 19:59</datetime>
+  <title auto="true" type="str" verify="true">Даниил Медведев стал победителем теннисного турнира Masters в Париже</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Даниил Медведе</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 8 ноября. INTERFAX.RU - Российский теннисист Даниил Медведев в воскресенье нанес поражение представителю Германии Александру Звереву в финале турнира категории Masters в Париже. Поединок завершился со счетом 5:7, 6:4, 6:1 в пользу россиянина. Призовой фонд турнира в Париже составляет 3 млн 732 тыс. 680 то.]]></text>
+</doc>

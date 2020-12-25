@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">732234</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/732234</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-20 08:33</datetime>
+  <title auto="true" type="str" verify="true">Глава Красноярска заразился коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Красноярск</tag>
+    <tag type="str">Сергей Еремин</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 20 октября. INTERFAX.RU - Мэр Красноярска Сергей Еремин получил положительный результат теста на коронавирус. "На выходных одна из дочерей сказала, что была с контактным лицом. Все помчались сдавать тесты, и, к сожалению, у нас двоих положительные результаты", -  сообщил  он в инстаграм-видео. Глава города отметил, что чувствует себя нормально, находится на самоизоляции дома и общается с родными и коллегами по телефону. По его словам, он продолжает работать в дистанционном режиме.]]></text>
+</doc>

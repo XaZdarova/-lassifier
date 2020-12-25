@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">741003</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/741003</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-12-11 23:07</datetime>
+  <title auto="true" type="str" verify="true">ЦСКА победил "Химки" и возглавил турнирную таблицу Евролиги</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">баскетбол</tag>
+    <tag type="str">Евролига</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 11 декабря. INTERFAX.RU - Баскетболисты московского ЦСКА нанесли поражение подмосковным "Химкам" в матче 13-го тура Евролиги.                 Результат встречи, прошедшей в Химках – 96:87 (25:22, 27:21, 25:26, 19:18) в пользу ЦСКА. Победа позволила армейскому клубу выйти в лидеры турнирной таблицы. Что касается "Химок", они занимают последнее, 18-е место.]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">730858</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/730858</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-10-10 00:46</datetime>
+  <title auto="true" type="str" verify="true">За сутки в Москве скончались 30 пациентов с коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">COVID-19</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 9 октября. INTERFAX.RU - За минувшие сутки в Москве умерли 30 человек с пневмонией и положительным тестом на коронавирус, сообщили "Интерфаксу" в столичном оперштабе по контролю и мониторингу ситуации с коронавирусом в пятницу. Число умерших от коронавируса в Москве за сутки увеличилось с 5530 до 5560. В четверг сообщалось о 33 жертвах COVID-19 в городе. По последним данным, в Москве выявлено около 322 тысяч случаев заболевания коронавирусом. Число выздоровевших превысило 259 тысяч человек. Мэр Москвы Сергей Собянин предупредил, что  по итогам следующей недели  администрация решит, стоит ли вводить новые ограничения.]]></text>
+</doc>

@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">731925</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/731925</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-17 13:19</datetime>
+  <title auto="true" type="str" verify="true">Защитник сборной Норвегии Алеесами перешел в ФК "Ростов"</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Норвегия</tag>
+    <tag type="str">Хайтам Алеесами</tag>
+    <tag type="str">Ростов</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 октября. INTERFAX.RU - Защитник сборной Норвегии Хайтам Алеесами подписал с футбольным клубом "Ростов" соглашение до конца сезона с возможностью продления, сообщила в субботу пресс-служба команды. Алеесами провел прошлый сезон во Франции, играл за "Амьен". Ранее он выступал за норвежские клубы "Шейд" и "Фредрикстад", шведский "Гетеборг" и итальянский "Палермо".]]></text>
+</doc>

@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">738292</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/738292</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-23 12:35</datetime>
+  <title auto="true" type="str" verify="true">Норвегия временно закрыла генконсульство в Мурманске</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Норвегия</tag>
+    <tag type="str">Мурманск</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 23 ноября. INTERFAX.RU - В Мурманске с 23 ноября и до особого распоряжения закрылось генеральное консульство Норвегии. Об этом дипмиссия сообщила в соцсетях. Причины этого решения не названы.]]></text>
+</doc>

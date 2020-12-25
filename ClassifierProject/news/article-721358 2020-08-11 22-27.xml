@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">721358</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/721358</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-11 22:27</datetime>
+  <title auto="true" type="str" verify="true">"Локомотив" выиграл у "Рубина" в матче РПЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 11 августа. INTERFAX.RU - Футболисты московского "Локомотива" со счетом 2:0 нанесли поражение казанскому "Рубину" в гостевом матче первого тура чемпионата Российской премьер-лиги.             На второй минуте гол провел Алексей Миранчук, на 26-й – Дмитрий Баринов.             "Рубин" доигрывал матч в меньшинстве: на 65-й минуте красную карточку получил Силвие Бегич.             Этим матчем завершилась программа первого тура РПЛ сезона-2020/21.]]></text>
+</doc>

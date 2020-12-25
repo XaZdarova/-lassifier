@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">736006</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/736006</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-07 10:20</datetime>
+  <title auto="true" type="str" verify="true">Магистральный нефтепровод загорелся на Еты-Пуровском месторождении</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">ЯНАО</tag>
+    <tag type="str">Минэнерго</tag>
+    <tag type="str">Газпром нефть</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 7 ноября. INTERFAX.RU - Прорыв магистрального нефтепровода с возгоранием произошел в 08:17 по Москве на Еты-Пуровском нефтяном месторождении, сообщает в субботу Ситуационно-аналитический центр Минэнерго России. Месторождение разрабатывает дочерняя компания ПАО "Газпром нефть" - АО "Газпромнефть-Ноябрьскнефтегаз". Как рассказали в центре, по предварительным данным, пострадавших нет. В справке говорится об "остановке скважин".]]></text>
+</doc>

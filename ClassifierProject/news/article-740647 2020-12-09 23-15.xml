@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">740647</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/740647</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-12-09 23:15</datetime>
+  <title auto="true" type="str" verify="true">В Москве за сутки скончались 74 пациента с COVID-19</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 9 декабря. INTERFAX.RU - Еще 74 пациента с пневмонией и положительными тестами на коронавирус скончались в Москве за сутки, сообщил столичный оперштаб по контролю за коронавирусом в среду. Общее число умерших от коронавируса в столице увеличилось с 9 571 до 9 645 человек. Сутками ранее от COVID-19 в городе  скончались  75 пациентов. По данным на утро среды, в российской столице выявлено 665 218 случаев заражения COVID-19, 507 149 человек выздоровели (76% от заразившихся).]]></text>
+</doc>

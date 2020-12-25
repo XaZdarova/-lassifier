@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">728852</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/728852</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-09-27 20:28</datetime>
+  <title auto="true" type="str" verify="true">Минобороны Армении заявило о гибели 200 солдат противника в Карабахе</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Азербайджан</tag>
+    <tag type="str">Армения</tag>
+    <tag type="str">Нагорный Карабах</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 27 сентября. INTERFAX.RU - Вооруженные силы Азербайджана потеряли убитыми около 200 военнослужащих в ходе боев на линии соприкосновения в Карабахе, заявил представитель Минобороны Армении Арцрун Ованнисян в воскресенье. Он также сообщил, что уничтожены 30 единиц бронетехники и 20 беспилотников. По словам Ованнисяна, из почти ста раненых армянских военных состояние 90 нормальное, остальные доставлены в военный госпиталь в Ереван. Ранее Армения признала гибель 16 военных в Карабахе. Сообщалось, что были ранены более ста человек.]]></text>
+</doc>

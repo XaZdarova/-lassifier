@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">724524</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/724524</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-09-03 23:27</datetime>
+  <title auto="true" type="str" verify="true">Андрей Рублев вышел в третий круг US Open</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+    <tag type="str">US Open</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 3 сентября. INTERFAX.RU - Российский теннисист Андрей Рублев стал обладателем путевки в третий круг турнира серии Большого шлема US Open.                 В четверг он нанес поражение представителю Франции Грегуару Гарреру. Результат – 6:2, 6:4, 7:6 (7:4) в пользу россиянина.                 Следующим соперником Рублева будет итальянец Сальваторе Карузо. Рублев занимает 14-е место в рейтинге Ассоциации теннисистов-профессионалов (ATP). Карузо – замыкает первую сотню. Призовой фонд Открытого чемпионата США составляет $53,4 млн.]]></text>
+</doc>

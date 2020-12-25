@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">727621</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/727621</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-09-18 15:59</datetime>
+  <title auto="true" type="str" verify="true">Жителя Краснодара заподозрили в подрыве банкомата ради покупки машины</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Краснодар</tag>
+    <tag type="str">Кореновск</tag>
+    <tag type="str">МВД</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 18 сентября. INTERFAX.RU - 38-летнего жителя Краснодара задержали по подозрению в краже 1,3 млн рублей из банкомата в Кореновске,  сообщили  в краевом управлении МВД. Часть этих денег он потратил на покупку нового автомобиля. По версии следствия, подозреваемый ночью проник в помещение банка, взорвал банкомат с помощью с газово-воздушной смеси и забрал кассету с деньгами. На кражу пожаловался руководитель отделения. По факту возбуждено уголовное дело о краже. Подозреваемый арестован. Полиция ищет его возможных сообщников.]]></text>
+</doc>

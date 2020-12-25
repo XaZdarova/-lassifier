@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">736106</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/736106</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-08 13:58</datetime>
+  <title auto="true" type="str" verify="true">Один человек пострадал при разгоне акции в Минске</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Белоруссия</tag>
+    <tag type="str">Минск</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 8 ноября. INTERFAX.RU - Как минимум один человек пострадал при разгоне колонны протестующих, которые вышли на несанкционированную акцию в центре Минска. Как сообщают "Интерфаксу" очевидцы, силовики зачистили площадь перед стелой "Минск город-герой" и разогнали колонну протестующих на Кальварийской. При этом после разгона на газоне лежит как минимум один пострадавший. Протестующие оказывают ему первую помощь. Санитарный автомобиль пока не подъехал.]]></text>
+</doc>

@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">735265</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/735265</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-02 14:54</datetime>
+  <title auto="true" type="str" verify="true">Самолет в Сочи прервал взлет из-за попавшей в турбину птицы</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Сочи</tag>
+    <tag type="str">Airbus A321</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 2 ноября. INTERFAX.RU - Птица попала в турбину самолета Airbus A321 в аэропорту Сочи во время взлета, сообщил "Интерфаксу" информированный источник. Инцидент произошел днем в понедельник. При разгоне самолета перед взлетом в турбину попала птица. В настоящее время самолет осматривают техники, вылет воздушного судна отложен. По словам собеседника агентства, самолет должен был вылететь в Новосибирск. На борту находилось 165 пассажиров и шесть членов экипажа.]]></text>
+</doc>

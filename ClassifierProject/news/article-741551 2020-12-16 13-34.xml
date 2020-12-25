@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">741551</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/741551</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-12-16 13:34</datetime>
+  <title auto="true" type="str" verify="true">Москвичей предупредили о снеге и гололеде вечером в среду</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">МЧС</tag>
+    <tag type="str">Москва</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 16 декабря. INTERFAX.RU - МЧС предупреждают москвичей о неблагоприятных погодных условиях вечером в среду и в ночь на четверг. "В период с 21.00 16 декабря до 10 часов утра 17 декабря в Москве местами ожидается снег, мокрый снег, налипание мокрого снега на провода и деревья, гололедица", - сообщает пресс-служба столичного главка МЧС. Спасатели рекомендуют снизить скорость и соблюдать дистанцию на дорогах, а также не парковать автомобили под деревьями.]]></text>
+</doc>

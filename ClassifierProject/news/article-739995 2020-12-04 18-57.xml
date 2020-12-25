@@ -1,0 +1,16 @@
+<doc>
+  <id auto="true" type="str" verify="true">739995</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/739995</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-12-04 18:57</datetime>
+  <title auto="true" type="str" verify="true">Nasdaq обсуждает листинг с пятью российскими компаниями</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Nasdaq</tag>
+    <tag type="str">HeadHunter</tag>
+    <tag type="str">Ozon</tag>
+    <tag type="str">ivi</tag>
+    <tag type="str">Адам Костял</tag>
+    <tag type="str">США</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 4 декабря. INTERFAX.RU - Сейчас Nasdaq обсуждает листинг с пятью российскими эмитентами, сказал Bloomberg старший вице-президент биржи Адам Костял, и добавил, что такого не было последние шесть лет, с начала введения антироссийских санкций. "Кто-то оценивает такую возможность, кто-то готовится к IPO, кто-то очень предметно этим занимается", - сказал Костял. Все эти компании так или иначе связаны с технологическим сектором. "Беспокойство о санкциях есть всегда, но в России появился новый пласт предпринимателей, вокруг которых меньше опасений в части корпоративного управления", - отметил топ-менеджер, курирующий в Nasdaq европейское направление. В 2019 году на Nasdaq вышел сервис подбора персонала  HeadHunter , а недавно успешное IPO на сумму свыше $1 млрд  провел  маркетплейс Ozon. Рынок обсуждает перспективы размещения еще ряда компаний, чей бизнес выиграл от пандемийных ограничений, в частности, онлайн-кинотеатра ivi.]]></text>
+</doc>

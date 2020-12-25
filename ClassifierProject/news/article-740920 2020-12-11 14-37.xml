@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">740920</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/740920</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-12-11 14:37</datetime>
+  <title auto="true" type="str" verify="true">В Азербайджане с 12 декабря отменят военное положение</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Азербайджан</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 11 декабря. INTERFAX.RU - Режим военного положения в Азербайджане отменяется с 00:00 местного времени (23:00 мск) 12 декабря. Соответствующий указ подписал президент страны Ильхам Алиев. Военное положение в Азербайджане действует с 28 сентября в связи с началом  боевых действий в Нагорном Карабахе . 9 ноября лидеры РФ, Азербайджана и Армении приняли  трехстороннее заявление  о прекращении огня с 00:00 10 ноября и вводе в регион миротворцев.]]></text>
+</doc>

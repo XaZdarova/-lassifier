@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">741292</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/741292</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-12-14 23:57</datetime>
+  <title auto="true" type="str" verify="true">Почти 80 человек с коронавирусом умерли в Москве за сутки</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">COVID-19</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 14 декабря. INTERFAX.RU - За минувшие сутки в Москве скончались 77 человек с пневмонией и положительным тестом на коронавирус, сообщили "Интерфаксу" в оперштабе по контролю и мониторингу ситуации с коронавирусом в городе. Количество умерших от коронавируса в Москве увеличилось с 9945 до 10 022. Всего с начала пандемии в столице зафиксировано 698 084 случая коронавируса, вылечились от инфекции 534 552 пациента. Ранее в понедельник заместитель мэра Москвы Владимир Ефимов сказал журналистам, что коронавирусные ограничения в городе могут снять после начала  массовой вакцинации.]]></text>
+</doc>

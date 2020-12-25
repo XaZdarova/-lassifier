@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">731837</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/731837</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-16 16:08</datetime>
+  <title auto="true" type="str" verify="true">Андрей Рублев вышел в полуфинал теннисного турнира в Петербурге</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 16 октября. INTERFAX.RU - Российский теннисист Андрей Рублев завоевал путевку в 1/2 финала турнира в Санкт-Петербурге.                 В четвертьфинале соревнования он нанес поражение представителю Великобритании Кэмерону Норри. Результат – 6:2, 6:1 в пользу Рублева. Продолжительность игры составила 1 час 2 минуты.                 Борьбу за выход в финал Рублев поведет с победителем пары Стэн Вавринка (Швейцария) – Денис Шаповалов (Канада).]]></text>
+</doc>

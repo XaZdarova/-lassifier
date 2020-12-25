@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">721915</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/721915</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-15 19:58</datetime>
+  <title auto="true" type="str" verify="true">ЦСКА выиграл у "Тамбова" в матче РПЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 15 августа. INTERFAX.RU - Футболисты московского ЦСКА со счетом 2:1 одолели команду "Тамбов" в домашнем матче второго тура чемпионата Российской премьер-лиги. В составе армейского клуба голы провели Константин Кучаев (29-я минута) и Илья Шкурин (55). В составе "Тамбова" – Александр Карапетян (42). ЦСКА в двух турах набрал 6 очков, "Тамбов" – ни одного.]]></text>
+</doc>

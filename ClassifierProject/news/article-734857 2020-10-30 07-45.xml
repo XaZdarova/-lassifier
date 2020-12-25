@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">734857</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/734857</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-30 07:45</datetime>
+  <title auto="true" type="str" verify="true">В Баку сообщили об артобстрелах четырех районов Азербайджана</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Азербайджан</tag>
+    <tag type="str">Армения</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 30 октября. INTERFAX.RU - ВС Армении утром в пятницу вновь открыли огонь по населенным пунктам Азербайджана, сообщает Минобороны Азербайджана. "Армянские ВС 30 октября начиная с 07:35 подвергают артиллерийскому обстрелу территории Геранбойского, Тертерского, Агдамского и Агджабединского районов", - отмечается в сообщении. Согласно информации, азербайджанская армия принимает адекватные ответные меры.]]></text>
+</doc>

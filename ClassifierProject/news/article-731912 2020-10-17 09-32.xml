@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">731912</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/731912</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-10-17 09:32</datetime>
+  <title auto="true" type="str" verify="true">Более 2 тысяч пациентов выздоровели за сутки от COVID-19 в Москве</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 октября. INTERFAX.RU - В Москве за сутки от COVID-19 выздоровели более 2 тысяч пациентов, сообщила заместитель мэра Москвы по вопросам социального развития Анастасия Ракова. Общее число людей, вылечившихся от инфекции, увеличилось до 272 227". Всего с начала пандемии в Москве зафиксировано 352 995 случаев коронавируса, умерло 5906 человек.]]></text>
+</doc>

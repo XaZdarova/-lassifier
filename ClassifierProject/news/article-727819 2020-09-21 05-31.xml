@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">727819</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/727819</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-09-21 05:31</datetime>
+  <title auto="true" type="str" verify="true">Восемь человек погибли при обрушении жилого дома в Индии</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Индия</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 21 сентября. INTERFAX.RU - Жилой дом обрушился в индийском городе Бхиванди (штат Махараштра), сообщают в понедельник местные СМИ. По предварительной информации, при обрушении погибли восемь человек, 25 были извлечены из-под завалов. На месте обрушения продолжаются спасательные работы. Представители службы реагирования на бедствия (NDRF) опасаются, что еще порядка 20-25 человек находятся под завалами. По словам очевидцев, обрушение трехэтажного жилого дома, в котором находится 21 квартира, произошло около 4 утра, когда многие жильцы спали.]]></text>
+</doc>

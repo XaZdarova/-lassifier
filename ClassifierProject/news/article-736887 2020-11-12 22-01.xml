@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">736887</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/736887</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-12 22:01</datetime>
+  <title auto="true" type="str" verify="true">Почти вся Абхазия осталась без электричества из-за аварии на ЛЭП</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Абхазия</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 12 ноября. INTERFAX.RU - Абхазия запросила переток электроэнергии из России в связи с аварийным отключением ЛЭП в Очамчирском районе республики. В результате этого почти вся республика в четверг вечером осталась без света. Об этом сообщает пресс-служба абхазской энергетической компании "Черноморэнерго". По ее данным, авария на ЛЭП произошла из-за перегрузки. Ремонтные бригады "Черноморэнерго" приступили к восстановительным работам.]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">729328</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/729328</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-09-30 13:15</datetime>
+  <title auto="true" type="str" verify="true">Курганский центр Илизарова прекратил госпитализацию из-за COVID-19</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Центр Илизарова</tag>
+    <tag type="str">Курган</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 30 сентября. INTERFAX.RU - В Кургане прекратил плановую и экстренную госпитализацию Национальный медицинский исследовательский центр травматологии и ортопедии имени академика Г.Илизарова. Причиной стало ухудшение ситуации с коронавирусом. Пока госпитализацию приостановили по 11 октября. Очный амбулаторный прием в консультативно-диагностическом отделении продолжится штатно. В последние дни сентября в Курганской области заметили прирост заболеваемости коронавирусной инфекций и ежедневно фиксируют от 28 до 36 новых случаев заражения.]]></text>
+</doc>

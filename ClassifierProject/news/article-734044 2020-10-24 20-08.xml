@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">734044</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/734044</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-24 20:08</datetime>
+  <title auto="true" type="str" verify="true">Источник сообщил о взрыве на танкере с нефтью в Керченском проливе</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Генерал Ази Асланов</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 24 октября. INTERFAX.RU - Взрыв произошел на танкере "Генерал Ази Асланов" в Керченском проливе (Краснодарский край), сообщил "Интерфаксу" информированный источник. "Нефтяной танкер "Генерал Ази Асланов" терпит бедствие, произошел взрыв второго танка. Экипаж танкера состоит из 13 человек. В частности, четыре человека находятся на борту, шесть человек спасено, ведутся поиски трех человек", - сказал собеседник агентства. Он отметил, что судно находится на плаву, пожара нет.]]></text>
+</doc>

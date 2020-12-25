@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">737630</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/737630</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-11-18 11:42</datetime>
+  <title auto="true" type="str" verify="true">Первый снежный покров в Москве сформируется в субботу</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 18 ноября. INTERFAX.RU - Москва днем в пятницу окажется в зоне холодного атмосферного фронта, начнется небольшой снег, который усилится в ночные часы, сообщается на сайте "Метеоновости" в среду. "Снег пойдет при отрицательной температуре воздуха, поэтому таять не будет", - говорится в сообщении. К утру субботы, 21 ноября (по народному календарю Михайлов день - ИФ), сформируется снежный покров высотой 2-4 см, скорее всего временный, пишут "Метеоновости".]]></text>
+</doc>

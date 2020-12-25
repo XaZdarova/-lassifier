@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">729898</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/729898</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-04 15:57</datetime>
+  <title auto="true" type="str" verify="true">"Локомотив" победил "Химки" в чемпионате России по футболу</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 4 октября. INTERFAX.RU - Футболисты московского "Локомотива" со счетом 2:1 нанесли поражение подмосковным "Химкам" в домашнем матче 10-го тура чемпионата Российской премьер-лиги.             В составе "Локомотива" голы провели Виталий Лисакович (25-я минута) и Владислав Игнатьев (55), в составе "Химок" – Кирилл Боженов (46).             "Локомотив" набрал 18 очков и поднялся на четвертое место в турнирной таблице. "Химки" – на 14-м месте, 6 баллов.]]></text>
+</doc>

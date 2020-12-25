@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">737687</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/737687</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-11-18 16:07</datetime>
+  <title auto="true" type="str" verify="true">Три футболиста сборной Сербии подхватили COVID перед матчем с Россией</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 18 ноября. INTERFAX.RU - Тесты на коронавирус у трех игроков сборной Сербии по футболу оказались положительными, сообщает пресс-служба Футбольного союза Сербии. Также коронавирус выявлен у физиотерапевта сборной. Все они покинули базу команды и будут изолированы. Тестирование на вирус COVID-19 прошло накануне. В среду сборная Сербии сыграет в Белграде с национальной командой России в рамках заключительного тура Лиги наций УЕФА. Начало матча – 22:45 мск.]]></text>
+</doc>

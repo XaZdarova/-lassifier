@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">735376</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/735376</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-03 10:15</datetime>
+  <title auto="true" type="str" verify="true">Эпидпорог по ОРВИ превышен в 47 регионах России</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Роспотребнадзор</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 3 ноября. INTERFAX.RU - В России в 47 регионах эпидемический порог заболеваемости острыми респираторными вирусными инфекциями (ОРВИ), преимущественно заболевают взрослые, сообщил Роспотребнадзор. Ведомство отметило, что аналогичная ситуация складывается во всех странах Европы. Вакцинация от гриппа продолжается во всех регионах, прививку получили уже более 49,4 млн человек, или 33,7% населения страны, отметили чиновники.]]></text>
+</doc>

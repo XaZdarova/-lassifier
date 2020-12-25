@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">730301</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/730301</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-06 21:48</datetime>
+  <title auto="true" type="str" verify="true">Аргентинец Шварцман стал первым полуфиналистом Roland Garros</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+    <tag type="str">Roland Garros</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 октября. INTERFAX.RU - Аргентинец Диего Шварцман завоевал путевку в 1/2 финала турнира Большого шлема Roland Garros во Франции. В четвертьфинале соревнования 14-я ракетка мира обыграл представителя Австрии Доминика Тима (номер 3 в рейтинге АТР) – 7:6 (7:1), 5:7, 6:7 (6:8), 7:6 (7:5), 6:2. Продолжительность игры составила 5 часов 10 минут. Шварцман впервые в карьере вышел в полуфинал турнира Большого шлема в одиночном разряде, ранее его наивысшим достижением считался выход в четвертьфинал Roland Garros (2019) и US Open (2017, 2019). Тим, в свою очередь, является победителем US Open-2020. Аргентинец стал первым полуфиналистом нынешнего розыгрыша. Борьбу за выход в финал он поведет против победителя пары Янник Синнер (Италия) – Рафаэль Надаль (Испания).]]></text>
+</doc>

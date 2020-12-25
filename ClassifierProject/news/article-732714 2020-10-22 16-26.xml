@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">732714</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/732714</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-22 16:26</datetime>
+  <title auto="true" type="str" verify="true">Саратовским школьникам продлили каникулы до 7 ноября</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Саратов</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 22 октября. INTERFAX.RU - Мэрия Саратова сообщила, что решила продлить школьные каникулы из-за сложной ситуации с коронавирусом, они продлятся с 24 октября по 7 ноября. В городском комитете по образованию "Интерфаксу" уточнили, что в Саратове 112 школ, в которых учатся 88 400 детей. По данным регионального Минздрава, в Саратовской области с начала пандемии выявили 18 774 случая заражения коронавирусом, умерли 145 заболевших.]]></text>
+</doc>

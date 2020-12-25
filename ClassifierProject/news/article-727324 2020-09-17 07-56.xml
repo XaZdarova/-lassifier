@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">727324</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/727324</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-09-17 07:56</datetime>
+  <title auto="true" type="str" verify="true">Полиция пришла с проверкой в красноярский Минлесхоз</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Красноярский край</tag>
+    <tag type="str">Минлесхоз</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 сентября. INTERFAX.RU - Сотрудники полиции проводят проверку в министерстве лесного хозяйства Красноярского края, сообщили "Интерфаксу" в пресс-службе Минлесхоза. "Проверку проводит полиция, запрашивают документы, мы их предоставляем", - сказал собеседник агентства. Других подробностей и причин проверки в министерстве не сообщили. В главном управлении МВД эту информацию не комментируют.]]></text>
+</doc>

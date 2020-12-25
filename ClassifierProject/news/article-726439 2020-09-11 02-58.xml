@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">726439</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/726439</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-09-11 02:58</datetime>
+  <title auto="true" type="str" verify="true">Сирия сообщила об отраженном авиаударе Израиля по Алеппо</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Сирия</tag>
+    <tag type="str">Израиль</tag>
+    <tag type="str">Алеппо</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 11 сентября. INTERFAX.RU - Сирийские средства противовоздушной обороны (ПВО) отразили израильский авиаудар в ночь на четверг,  сообщает  государственное сирийское агентство SANA. По его сообщению, удар был нанесен по окрестностям Алеппо. Большинство ракет удалось сбить в воздухе, отмечает SANA.]]></text>
+</doc>

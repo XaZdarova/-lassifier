@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">729874</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/729874</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-04 10:22</datetime>
+  <title auto="true" type="str" verify="true">Пожар на мусороперерабатывающем заводе в Петербурге ликвидирован</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Петербург</tag>
+    <tag type="str">МЧС</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 4 октября. INTERFAX.RU - Пожарные потушили пожар на мусороперерабатывающем заводе в Санкт-Петербурге, сообщили "Интерфаксу" в пресс-службе МЧС РФ. Там уточнили, что ликвидировано открытое горение, происходит очаговое тление на площади 300 м.кв. Вечером 3 октября сообщалось, что пожар на мусороперерабатывающем заводе в Санкт-Петербурге охватил 2,5 тыс. кв м. Никто не пострадал. Угрозы жилым домам нет.]]></text>
+</doc>

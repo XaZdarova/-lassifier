@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">729832</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/729832</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-03 18:48</datetime>
+  <title auto="true" type="str" verify="true">В Армении заявили о сбитом азербайджанском вертолете</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Армения</tag>
+    <tag type="str">Азербайджан</tag>
+    <tag type="str">Нагорный Карабах</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 3 октября. INTERFAX.RU - Армия обороны непризнанной Нагорно-Карабахской республики сбила вертолёт Вооруженных сил Азербайджана, сообщает пресс-секретарь Минобороны Армении Шушан Степанян. Об этом она написала в фейсбуке. Ранее в субботу в Минобороны Армении сообщали, что силы ПВО непризнанной НКР сбили три самолета Вооруженных сил Азербайджана. Глава пресс-службы Минобороны Азербайджана полковник Вагиф Даргяхлы со своей стороны заявлял, что заявление армянской стороны о якобы сбитых азербайджанских самолетах является дезинформацией.]]></text>
+</doc>

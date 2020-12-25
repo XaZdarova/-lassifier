@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">740834</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/740834</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-12-10 23:11</datetime>
+  <title auto="true" type="str" verify="true">В Грузии произошло землетрясение близ города Боржоми</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Грузия</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 10 декабря. INTERFAX.RU - Землетрясение магнитудой 3,1 произошло вечером в четверг на юго-западе Грузии, в регионе Самцхе-Джавахети, сообщил грузинский национальный центр сейсмического мониторинга. По информации сейсмологов, подземные толчки были зафиксированы в 22:53 по тбилисскому времени (21:53 мск) в 12 км к юго-западу от города Боржоми. Отмечается, что центр землетрясения находился на глубине 13 км. Сообщений о пострадавших или разрушениях не поступало.]]></text>
+</doc>

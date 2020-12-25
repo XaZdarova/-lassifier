@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">739416</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/739416</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-12-01 12:40</datetime>
+  <title auto="true" type="str" verify="true">Предполагаемый "поволжский маньяк" задержан в Казани</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Казань</tag>
+    <tag type="str">Татарстан</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 1 декабря. INTERFAX.RU - Подозреваемый в убийстве нескольких десятков женщин на территории Татарстана и соседних республик задержан в Казани, сообщил "Интерфаксу" информированный источник. "Задержанный Радик Тагиров подозревается в нападениях на пожилых женщин в разных городах Поволжья в 2011-2013 годах", - уточнил собеседник агентства. По его данным, Тагирова подозревают в убийстве нескольких десятков женщин. Его неофициально называют "поволжским маньяком". Агентство пока не располагает комментарием правоохранительных органов в связи с данной информацией.]]></text>
+</doc>

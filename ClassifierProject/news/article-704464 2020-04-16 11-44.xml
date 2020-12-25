@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">704464</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/culture/704464</source>
+  <category auto="true" type="str" verify="true">Культура</category>
+  <datetime auto="true" type="str" verify="true">2020-04-16 11:44</datetime>
+  <title auto="true" type="str" verify="true">"Кинотавр" перенесли на осень из-за коронавируса</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Кинотавр</tag>
+    <tag type="str">кино</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 16 апреля. INTERFAX.RU - Российский кинофестиваль "Кинотавр", который должен был пройти в Сочи с 7 по 14 июня, перенесен на осень из-за пандемии коронавируса, сообщили "Интерфаксу" в пресс-службе смотра. "По понятным причинам фестиваль "Кинотавр" не сможет состояться в объявленные ранее даты - с 7 по 14 июня 2020 года. Но мы продолжаем работать над программой фестиваля и планируем провести его осенью. О точных датах мы сообщим дополнительно", - говорится в сообщении.]]></text>
+</doc>

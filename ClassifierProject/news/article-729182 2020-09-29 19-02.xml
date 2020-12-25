@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">729182</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/729182</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-09-29 19:02</datetime>
+  <title auto="true" type="str" verify="true">К теплу подключены 70% жилых домов Москвы</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 29 сентября. INTERFAX.RU - В столице отопление включено в 70% жилых домов и более 80% социальных объектов, сообщил заместитель мэра Москвы Петр Бирюков. Он уточнил, что процедура включения отопления занимает несколько дней. "Это не происходит одномоментно, технологический срок - пять суток, но, скорее всего, включим быстрее", - добавил заммэра. 28 сентября ПАО "МОЭК"  приступило к подаче тепла  в социальные объекты и жилые дома столицы. Сообщалось, что подключение к теплу будет производиться поэтапно в течение пяти дней.]]></text>
+</doc>

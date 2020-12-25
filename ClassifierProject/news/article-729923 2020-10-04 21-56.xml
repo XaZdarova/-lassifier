@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">729923</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/729923</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-04 21:56</datetime>
+  <title auto="true" type="str" verify="true">Власти Азербайджана объявили о ракетном ударе со стороны Армении</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Мингечевир</tag>
+    <tag type="str">Азербайджан</tag>
+    <tag type="str">Армения</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 4 октября. INTERFAX.RU - Помощник президента – заведующий отделом по вопросам внешней политики Администрации президента Азербайджана Хикмет Гаджиев написал в твиттере, что ВС Армении предприняли ракетную атаку на азербайджанский город Мингечевир. Министерство обороны Азербайджана подтвердило факт ракетного удара по Мингечевиру со стороны ВС Армении. Ранее Азербайджан сообщал об обстреле  города Тертер  из тяжелой артиллерии.  Город Гянджа  попал под ракетный удар в воскресенье. Власти Азербайджана обвинили Армению в обоих происшествиях.]]></text>
+</doc>

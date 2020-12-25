@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">737666</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/737666</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-18 14:24</datetime>
+  <title auto="true" type="str" verify="true">Венгрия продлила режим ЧП из-за коронавируса до 8 февраля</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Венгрия</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 18 ноября. INTERFAX.RU - Власти Венгрии в среду объявили о продлении до 8 февраля 2021 года режима чрезвычайного положения для борьбы с коронавирусом COVID-19, сообщают западные СМИ. В частности, предусмотрено онлайн-обучение в школах и университетах, комендантский час в ночное время и запрет на общественные собрания. Согласно данным статистического сайта Worldometers, всего в Венгрии за время пандемии выявлено более 156 тыс. случаев заражения коронавирусом, свыше 3 тыс. пациентов скончались.]]></text>
+</doc>

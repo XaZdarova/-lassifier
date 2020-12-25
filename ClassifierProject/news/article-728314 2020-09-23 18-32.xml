@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">728314</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/728314</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-09-23 18:32</datetime>
+  <title auto="true" type="str" verify="true">Футболист "Милана" Дуарте заразился коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Италия</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 23 сентября. INTERFAX.RU - Защитник итальянского футбольного клуба "Милан" Лео Дуарте сдал положительный тест на коронавирус. Как сообщает пресс-служба клуба, футболист помещен на самоизоляцию. Тестирование на COVID-19 прошло накануне, остальные игроки и сотрудники клуба сдали отрицательные результаты. Но они будут проверены на коронавирус и перед матчем Лиги Европы с норвежским "Буде-Глимтом" в четверг.]]></text>
+</doc>

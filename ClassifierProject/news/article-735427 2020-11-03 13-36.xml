@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">735427</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/735427</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-11-03 13:36</datetime>
+  <title auto="true" type="str" verify="true">Мэрия Москвы ждет возвращения к доковидной безработице уже в 2021 году</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">Мосгордума</tag>
+    <tag type="str">Сергей Собянин</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 3 ноября. INTERFAX.RU - В 2021 году в Москве уровень официально зарегистрированной безработицы снизится с 3% до естественного для Москвы уровня 0,4-0,5% экономически активного населения, сообщила пресс-служба мэрии. Рост показателя в 2020 году там связали с пандемией. Безработица восстановится благодаря росту деловой активности, уверены чиновники. Инфляция в период 2021-2023 годов ожидается на уровне 3,3-3,5% в год. Эти прогнозы заложены в проект трехлетнего бюджета, который 3 ноября мэр Сергей Собянин внес в Мосгордуму.]]></text>
+</doc>

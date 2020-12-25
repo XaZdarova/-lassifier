@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">736215</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/736215</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-09 11:42</datetime>
+  <title auto="true" type="str" verify="true">Истребители НАТО дважды за неделю сопроводили самолеты РФ над Балтикой</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">НАТО</tag>
+    <tag type="str">Литва</tag>
+    <tag type="str">Ан-26</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 9 ноября. INTERFAX.RU - Истребители НАТО на минувшей неделе дважды сопроводили летевшие в международном воздушном пространстве над Балтикой российские военные самолеты, сообщили в понедельник в Минобороны Литвы. 2 и 6 ноября были опознаны российские транспортные самолеты Ан-26, летевшие из Калининградской области в континентальную часть России, добавили в военном ведомстве. Один из самолетов был без летного плана, второй - с выключенным транспондером, утверждают в Минобороны республики. Натовская миссия воздушного патрулирования осуществляется из Литвы и Эстонии.]]></text>
+</doc>

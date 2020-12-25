@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">726860</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/726860</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-09-14 15:09</datetime>
+  <title auto="true" type="str" verify="true">Хачанов проиграл на старте теннисного турнира "Мастерс" в Риме</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 14 сентября. INTERFAX.RU - Российский теннисист Карен Хачанов потерпел поражение от норвежца Каспера Рууда в матче первого круга турнира серии "Мастерс" в Риме.                 Результат встречи – 6:3, 3:6, 6:1 в пользу норвежца. Продолжительность противостояния составила 2 часа 14 минут. В настоящее время Хачанов занимает 16-е место в мировом рейтинге, Рууд – 34-е.]]></text>
+</doc>

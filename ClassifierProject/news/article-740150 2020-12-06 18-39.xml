@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">740150</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/740150</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-12-06 18:39</datetime>
+  <title auto="true" type="str" verify="true">"Динамо" победило тульский "Арсенал" в Российской премьер-лиге</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">РПЛ</tag>
+    <tag type="str">Динамо</tag>
+    <tag type="str">Арсенал</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 декабря. INTERFAX.RU - Футболисты московского "Динамо" одержали домашнюю победу над тульским "Арсеналом" 1:0 в матче 17-го тура Тинькофф Российской премьер-лиги. Автором победного гола стал Даниил Фомин, отличившийся на 45-й минуте. Победа позволила "Динамо" подняться на четвертое место с 30 очками, "Арсенал" идет на 13-м месте с 14 очками. В 18-м туре "Арсенал" 11 декабря сыграет на выезде против подмосковных "Химок", "Динамо" на следующий день встретится в Санкт-Петербурге с "Зенитом".]]></text>
+</doc>

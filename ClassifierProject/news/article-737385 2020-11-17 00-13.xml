@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">737385</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/737385</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-11-17 00:13</datetime>
+  <title auto="true" type="str" verify="true">Еще 74 пациента с коронавирусом скончались в Москве</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 ноября. INTERFAX.RU - Количество умерших от коронавируса в Москве увеличилось с 7859 до 7933. "В Москве скончались 74 пациента, у всех был подтвержден диагноз пневмония и получен положительный результат тестов на коронавирусную инфекцию", - сообщили "Интерфаксу" в оперштабе по контролю и мониторингу ситуации с коронавирусом в Москве. Всего с начала пандемии в Москве зарегистрировано 522 934 случая коронавируса, 371 857 человек вылечились от инфекции.]]></text>
+</doc>

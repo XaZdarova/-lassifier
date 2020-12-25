@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">737787</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/737787</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-19 10:49</datetime>
+  <title auto="true" type="str" verify="true">В Петербурге потеплело до рекордных 10,3 градуса</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Петербург</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 19 ноября. INTERFAX.RU - В Петербурге установлен температурный рекорд для 19 ноября: в городе потеплело до 10,3 градуса, следует из данных ФГБУ "Северо-Западное управление по гидрометеорологии и мониторингу окружающей среды". Предыдущий рекорд для этого дня был установлен в 1978 году и составил плюс 9 градусов. Накануне синоптики прогнозировали, что благодаря атмосферному фронту в четверг воздух может прогреться до плюс 11 градусов. Впрочем, ожидается, что тепло в городе не задержится.]]></text>
+</doc>

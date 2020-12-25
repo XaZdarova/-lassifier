@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">726754</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/726754</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-09-13 23:16</datetime>
+  <title auto="true" type="str" verify="true">В Москве за сутки умерли 11 пациентов с коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 13 сентября. INTERFAX.RU - Количество умерших от  коронавируса  в Москве увеличилось с 4 982 до 4 993, сообщили "Интерфаксу" в столичном оперштабе по контролю и мониторингу ситуации с коронавирусом. "В Москве скончались 11 пациентов, у всех был подтвержден диагноз пневмония и получен положительный результат тестов на коронавирусную инфекцию", - отмечают в оперштабе. Всего с начала пандемии в Москве зарегистрировано 269 079 случаев COVID-19, вылечились от инфекции 229 573 человека.]]></text>
+</doc>

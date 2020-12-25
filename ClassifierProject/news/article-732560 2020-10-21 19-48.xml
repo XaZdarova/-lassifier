@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">732560</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/732560</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-21 19:48</datetime>
+  <title auto="true" type="str" verify="true">Налетчик на банк в грузинском Зугдиди освободил трех из 19 заложников</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Грузия</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 21 октября. INTERFAX.RU - Мужчина, захвативший в филиале "Банка Грузии" в Зугдиди 19 заложников, освободил трех женщин, сообщает МВД Грузии. Согласно распространенной информации, мужчина в камуфляжной форме с автоматом и гранатой в руках по-прежнему требует выкупа за освобождение заложников в размере $500 тысяч и предоставления вертолета или автотранспорта. Местные СМИ сообщают, что правоохранительные органы установили личность налетчика.]]></text>
+</doc>

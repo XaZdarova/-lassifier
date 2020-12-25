@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">699291</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/culture/699291</source>
+  <category auto="true" type="str" verify="true">Культура</category>
+  <datetime auto="true" type="str" verify="true">2020-03-16 11:33</datetime>
+  <title auto="true" type="str" verify="true">Первый канал начал снимать программы без зрителей</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Первый канал</tag>
+    <tag type="str">ВГТРК</tag>
+    <tag type="str">Вечерний Ургант</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 16 марта. INTERFAX.RU - Первый канал из-за коронавируса с 16 марта начал снимать передачи без зрителей, сообщили в пресс-службе телекомпании. Это решение было принято, чтобы не подвергать здоровье людей опасности. В частности, о съемках без зрителей уже сообщили авторы шоу "Вечерний Ургант". В ВГТРК "Интерфаксу" сообщили, что такая мера обсуждается.]]></text>
+</doc>

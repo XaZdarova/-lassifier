@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">731336</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/731336</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-13 19:06</datetime>
+  <title auto="true" type="str" verify="true">Хачанов вышел во второй круг теннисного турнира в Петербурге</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 13 октября. INTERFAX.RU - Российский теннисист Карен Хачанов победил представителя Австралии Джеймса Дакворта в первом круге турнира в Санкт-Петербурге.             Результат встречи – 6:4, 6:4 в пользу россиянина. Продолжительность матча составила 1 час 18 минут.             Во втором круге Хачанов сыграет со своим соотечественником Асланом Карацевым.             Хачанов занимает в мировом рейтинге 17-е место, Карацев – 117-е.             В официальных матчах ранее они не встречались.]]></text>
+</doc>

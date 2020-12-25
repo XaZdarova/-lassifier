@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">740529</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/740529</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-12-09 11:32</datetime>
+  <title auto="true" type="str" verify="true">Москва начала проверку информации об утечке данных переболевших COVID</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">коронавирус</tag>
+    <tag type="str">Москва</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 9 декабря. INTERFAX.RU - Столичные власти проверяют информацию об утечке персональных данных москвичей, переболевших коронавирусом, сообщили "Интерфаксу" в оперативном штабе по контролю и мониторингу ситуации с COVID-19. Отмечается, что о результатах проверки будет объявлено дополнительно. Ранее в телеграм-каналах появилась информация о том, что был выложен текстовый файл, содержащий ссылки на архив с персональными данными москвичей. Через некоторое время пост с файлом был удален, но запись о нем сохранилась на сайтах сбора телеграм-статистики.]]></text>
+</doc>

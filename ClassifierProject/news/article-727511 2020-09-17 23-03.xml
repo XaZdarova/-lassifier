@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">727511</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/727511</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-09-17 23:03</datetime>
+  <title auto="true" type="str" verify="true">Еще 8 пациентов с коронавирусом скончались в Москве</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 сентября. INTERFAX.RU - Количество умерших от коронавируса в Москве увеличилось с 5025 до 5033. "В Москве скончались 8 пациентов, у всех был подтвержден диагноз пневмония и получен положительный результат тестов на коронавирусную инфекцию", - сообщили "Интерфаксу" в оперштабе по контролю и мониторингу ситуации с коронавирусом в Москве. Всего с начала пандемии в Москве зарегистрировано 274 003 случая коронавируса, вылечились от инфекции 234 029 человек.]]></text>
+</doc>

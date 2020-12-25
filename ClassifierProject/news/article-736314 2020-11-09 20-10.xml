@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">736314</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/736314</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-11-09 20:10</datetime>
+  <title auto="true" type="str" verify="true">Первый канал анонсировал показ матча Лиги наций УЕФА Сербия – Россия</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Лига наций УЕФА</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 9 ноября. INTERFAX.RU - Первый канал будет транслировать для российских болельщиков матч национальной команды страны против Сербии в рамках Лиги наций УЕФА. "Первый канал представляет прямую трансляцию матча Лиги Наций УЕФА, в котором сборная России сыграет на выезде с командой Сербии", - говорится в сообщении пресс-службы телеканала. Матч пройдет в Сербии 18 ноября. Начало трансляции – 22:40 мск. Россия является лидером группы 3 дивизиона В, в четырех турах она набрала 8 очков. Венгрия занимает второе место - 7 баллов. У Турции 3 очка, у Сербии - 2.]]></text>
+</doc>

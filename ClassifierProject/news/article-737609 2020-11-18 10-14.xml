@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">737609</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/737609</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-18 10:14</datetime>
+  <title auto="true" type="str" verify="true">В США одобрен первый тест на COVID-19 для домашнего использования</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">FDA</tag>
+    <tag type="str">США</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 18 ноября. INTERFAX.RU - Управление по санитарному надзору за качеством пищевых продуктов и медикаментов США (FDA)  разрешило  применять в домашних условиях набор для теста на коронавирус. Его будет можно купить по рецепту, он стоит около $50. Применять его смогут лица возрастом от 14 лет, если врачи подозревают у них заражение коронавирусом. Для этого нужно взять через нос мазок из носоглотки. Результат должен быть готов в течение 30 минут. По данным счетчика Worldometers, с начала эпидемии в США заразились коронавирусом 11 695 711 человек, 254 255 заболевших умерли.]]></text>
+</doc>

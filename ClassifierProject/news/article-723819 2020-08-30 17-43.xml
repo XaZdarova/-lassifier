@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">723819</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/723819</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-30 17:43</datetime>
+  <title auto="true" type="str" verify="true">Льюис Хэмилтон выиграл Гран-при Бельгии "Формулы-1"</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">автоспорт</tag>
+    <tag type="str">Формула-1</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 30 августа. INTERFAX.RU - Британец Льюис Хэмилтон из команды Mercedes стал победителем Гран-при Бельгии, очередного этапа чемпионата мира по автогонкам класса "Формула-1". Второе место занял его напарник по команде финн Валттери Боттас. Третьим стал австралиец Макс Ферстаппен из Red Bull. Россиянин Даниил Квят из Alpha Tauri финишировал 11-м.]]></text>
+</doc>

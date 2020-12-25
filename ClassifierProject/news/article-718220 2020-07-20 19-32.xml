@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">718220</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/718220</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-07-20 19:32</datetime>
+  <title auto="true" type="str" verify="true">ФК "Краснодар" расторг контракт с вратарем Крицюком</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">ФК Краснодар</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 20 июля. INTERFAX.RU - Футбольный клуб "Краснодар" и вратарь Станислав Крицюк досрочно расторгли соглашение. "Изначально трудовое соглашение с голкипером действовало до 31 июля 2020 года, но стороны пришли к решению прекратить действие контракта на несколько недель раньше", - говорится в сообщении пресс-службы "Краснодара". Крицюк выступал за "Краснодар" с 2016 года. На его счету в составе 72 матча, в 33-х из которых он сыграл на ноль. В сезоне-2018/19 Крицюк вместе с партнерами по "Краснодару" стал бронзовым призером чемпионата России.]]></text>
+</doc>

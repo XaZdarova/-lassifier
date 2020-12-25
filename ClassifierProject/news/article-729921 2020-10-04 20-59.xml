@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">729921</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/729921</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-04 20:59</datetime>
+  <title auto="true" type="str" verify="true">В Армении заявили о задержании иностранцев по подозрению в шпионаже</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Армения</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 4 октября. INTERFAX.RU - Группа иностранных граждан задержана в Армении по подозрению в шпионаже, сообщает пресс-служба СНБ республики. По данным службы, иностранцы собирали сведения о принадлежащей вооруженным силам Армении военной технике, перевозках вооружений, местах дислокации воинских частей, количестве мобилизуемых граждан. Задержанным предъявлены обвинения. О гражданстве и количестве задержанных не сообщается. Новое обострение конфликта в Карабахе началось 27 сентября. Его стороны несут потери в живой силе и технике.]]></text>
+</doc>

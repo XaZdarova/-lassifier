@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">736127</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/736127</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-08 19:11</datetime>
+  <title auto="true" type="str" verify="true">В Белоруссии задержали более 500 участников протестов</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Белоруссия</tag>
+    <tag type="str">Минск</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 8 ноября. INTERFAX.RU - Число задержанных на несанкционированных акциях протеста в воскресенье в Белоруссии составило 526 человек, сообщает не зарегистрированный в стране правозащитный центр "Весна". Таковы данные на 19:00, список продолжает пополняться. Нескольких человек, по информации правозащитников, уже отпустили. Ранее сообщалось, что среди задержанных в Минске  оказались  серебряный призер Олимпийских игр, легкоатлет Андрей Кравченко и кикбоксер Иван Ганин. В воскресенье в Минске оппозиция организовала несанкционированный "Марш народовластия".]]></text>
+</doc>

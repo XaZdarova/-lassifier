@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">738804</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/738804</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-26 14:50</datetime>
+  <title auto="true" type="str" verify="true">Число депутатов Госдумы, заразившихся коронавирусом, достигло 137</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Госдума</tag>
+    <tag type="str">коронвирус</tag>
+    <tag type="str">Вячеслав Володин</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 26 ноября. INTERFAX.RU - Новая коронавирусная инфекция с начала пандемии коснулась 137 депутатов Госдумы, 21 из них сейчас лечится в условиях стационара. Об этом заявил спикер палаты Вячеслав Володин. 17 ноября Володин  говорил , что пандемия затронула 130 депутатов. На тот момент в больницах лечились 28 парламентариев. Всего в Госдуме заседают 450 депутатов. В сентябре  умер  заразившийся коронавирусом депутат от КПРФ Ваха Агаев. Ему было 67 лет.]]></text>
+</doc>

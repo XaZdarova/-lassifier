@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">730226</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/730226</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-06 15:00</datetime>
+  <title auto="true" type="str" verify="true">Самолет "РусЛайна" успешно сел в Пулково с неисправной стойкой шасси</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">РусЛайн</tag>
+    <tag type="str">Петербург</tag>
+    <tag type="str">Пулково</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 октября. INTERFAX.RU - Самолет авиакомпании "РусЛайн", выполнявший рейс Петербург - Йошкар-Ола, вынужденно вернулся в аэропорт вылета "Пулково", сообщили "Интерфаксу" в пресс-службе ООО "Воздушные ворота северной столицы" (ООО "ВВСС", управляет аэропортом). "Сегодня, 6 октября, в 14:32 самолет авиакомпании "РусЛайн" (рейс 7R 289A) совершил благополучную посадку в аэропорту "Пулково", - сказал собеседник агентства. Ранее сообщалось, что командир воздушного судна принял решение вернуться в аэропорт отправки из-за неисправной передней стойки шасси.]]></text>
+</doc>

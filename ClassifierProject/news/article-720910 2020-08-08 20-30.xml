@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">720910</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/720910</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-08 20:30</datetime>
+  <title auto="true" type="str" verify="true">Гол Мамаева принес "Ростову" победу  над "Тамбовом" в матче РПЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 8 августа. INTERFAX.RU - Футболисты "Ростова" (Ростов-на-Дону) нанесли поражение "Тамбову" в гостевом матче первого тура чемпионата Российской премьер-лиги. Результат встречи, прошедшей в Саранске, где домашние матчи проводит "Тамбов", - 1:0 в пользу "Ростова". На 21-й минуте в его составе гол провел Павел Мамаев. Чемпионат РПЛ-2020/21 стартовал в субботу матчем "Химки" – ЦСКА (0:2).]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">726732</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/726732</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-09-13 18:38</datetime>
+  <title auto="true" type="str" verify="true">Хэмилтон выиграл Гран-при Тосканы "Формулы-1"</title>
+  <description auto="true" type="str" verify="true">Это - 90-я победа британца на этапах "Королевских гонок"</description>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">автоспорт</tag>
+    <tag type="str">Формула-1</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 13 сентября. INTERFAX.RU - Британец Льюис Хэмилтон из команды Mercedes стал победителем Гран-при Тосканы в Италии, девятого этапа чемпионата мира по автогонкам класса "Формула-1". Второе место занял его напарник по команде финн Валттери Боттас. Третьим финишную черту пересек Александер Албон, пилот Red Bull из Таиланда. Это его первый подиум в карьере в "Формуле-1". Россиянин Даниил Квят, защищающий цвета Alpha Tauri, занял седьмое место.]]></text>
+</doc>

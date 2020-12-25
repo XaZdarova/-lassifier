@@ -1,0 +1,133 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <Name>ClassifierProject</Name>
+    <RootNamespace>ClassifierProject</RootNamespace>
+    <InterpreterId>MSBuild|env|$(MSBuildProjectFullPath)</InterpreterId>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>2c76eb17-50b9-4162-8995-accee2a0a23c</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <ProjectTypeGuids>{5F0BE9CA-D677-4A4D-8806-6076C0FAAD37};{349c5851-65df-11da-9384-00065b846f21};{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
+    <StartupFile>manage.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <LaunchProvider>Django launcher</LaunchProvider>
+    <DjangoSettingsModule>ClassifierProject.settings</DjangoSettingsModule>
+    <WebBrowserUrl>http://localhost</WebBrowserUrl>
+    <OutputPath>.</OutputPath>
+    <SuppressCollectPythonCloudServiceFiles>true</SuppressCollectPythonCloudServiceFiles>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="classifier\admin.py" />
+    <Compile Include="classifier\apps.py" />
+    <Compile Include="classifier\classifierCore.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="classifier\collection.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="classifier\entryPoints.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="classifier\jsonChecks.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="classifier\migrations\__init__.py" />
+    <Compile Include="classifier\models.py" />
+    <Compile Include="classifier\prepare.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="classifier\tests.py" />
+    <Compile Include="classifier\views.py" />
+    <Compile Include="classifier\__init__.py" />
+    <Compile Include="manage.py" />
+    <Compile Include="ClassifierProject\__init__.py" />
+    <Compile Include="ClassifierProject\settings.py" />
+    <Compile Include="ClassifierProject\urls.py" />
+    <Compile Include="ClassifierProject\wsgi.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="classifier\static\functionsForArticle.js" />
+    <Content Include="classifier\static\functionsForClassifier.js" />
+    <Content Include="classifier\static\functionsForCollection.js" />
+    <Content Include="classifier\templates\classifier\article.html" />
+    <Content Include="classifier\templates\classifier\index.html" />
+    <Content Include="classifier\templates\classifier\collection.html" />
+    <Content Include="fitData.txt" />
+    <Content Include="fitInformation.txt" />
+    <Content Include="requirements.txt" />
+    <Content Include="stopWords.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ClassifierProject\" />
+    <Folder Include="classifier\" />
+    <Folder Include="classifier\migrations\" />
+    <Folder Include="classifier\static\" />
+    <Folder Include="classifier\templates\" />
+    <Folder Include="classifier\templates\classifier\" />
+    <Folder Include="news\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Interpreter Include="env\">
+      <Id>env</Id>
+      <Version>3.6</Version>
+      <Description>env (Python 3.6 (64-bit))</Description>
+      <InterpreterPath>Scripts\python.exe</InterpreterPath>
+      <WindowsInterpreterPath>Scripts\pythonw.exe</WindowsInterpreterPath>
+      <PathEnvironmentVariable>PYTHONPATH</PathEnvironmentVariable>
+      <Architecture>X64</Architecture>
+    </Interpreter>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.Django.targets" />
+  <!-- Specify pre- and post-build commands in the BeforeBuild and 
+       AfterBuild targets below. -->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <AutoAssignPort>True</AutoAssignPort>
+          <UseCustomServer>True</UseCustomServer>
+          <CustomServerUrl>http://localhost</CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}" User="">
+        <WebProjectProperties>
+          <StartPageUrl>
+          </StartPageUrl>
+          <StartAction>CurrentPage</StartAction>
+          <AspNetDebugging>True</AspNetDebugging>
+          <SilverlightDebugging>False</SilverlightDebugging>
+          <NativeDebugging>False</NativeDebugging>
+          <SQLDebugging>False</SQLDebugging>
+          <ExternalProgram>
+          </ExternalProgram>
+          <StartExternalURL>
+          </StartExternalURL>
+          <StartCmdLineArguments>
+          </StartCmdLineArguments>
+          <StartWorkingDirectory>
+          </StartWorkingDirectory>
+          <EnableENC>False</EnableENC>
+          <AlwaysStartWebServerOnDebug>False</AlwaysStartWebServerOnDebug>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

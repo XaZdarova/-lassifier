@@ -1,0 +1,16 @@
+<doc>
+  <id auto="true" type="str" verify="true">734999</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/734999</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-30 20:11</datetime>
+  <title auto="true" type="str" verify="true">Суточный прирост COVID-19 в Италии превысил 31 тысячу случаев</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Италия</tag>
+    <tag type="str">Минздрав</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">Ломбардия</tag>
+    <tag type="str">Лигурия</tag>
+    <tag type="str">Лацио</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 30 октября. INTERFAX.RU - В Италии за сутки выявили рекордные 31 084 новых случая заражения коронавирусом,  сообщает  Ansa со ссылкой на данные Минздрава. Предыдущий рекорд заболеваемости коронавирусом был установлен накануне - 26 831 заболевший. За сутки умерли 199 заболевших, всего с начала пандемии в Италии зафиксирован 38 321 летальный исход с COVID-19. Врачи обеспокоены скоростью распространения инфекции и опасаются, что придется снова вводить карантин, пишет  Corriere della Sera . Наибольше опасения вызывает ситуация в Ломбардии, Кампании, Лигурии, Лацио и Валле-д'Аосте. По данным счетчика Worldometers, всего в Италии за время пандемии диагностировали 647 674 случая заражения коронавирусом.]]></text>
+</doc>

@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">732136</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/732136</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-19 15:37</datetime>
+  <title auto="true" type="str" verify="true">Первая ракетка России Александрова проиграла на старте турнира в Чехии</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 19 октября. INTERFAX.RU - Российская теннисистка Екатерина Александрова не смогла выйти во второй круг турнира в Чехии.                 В стартовом раунде соревнования она потерпела поражение от представительницы Эстонии Анетт Контавейт. Результат встречи – 4:6, 6:2, 7:6 (8:6) в пользу эстонки.                 Продолжительность матча составила 2 часа 14 минут. Контавейт является 22-й ракеткой  мира, Александрова – 33-й. Это лучшие позиции среди их соотечественниц – действующих теннисисток.]]></text>
+</doc>

@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">731450</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/731450</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-14 14:03</datetime>
+  <title auto="true" type="str" verify="true">В ДТП с маршруткой в Тульской области погибли три человека</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">МВД</tag>
+    <tag type="str">Тульская область</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 14 октября. INTERFAX.RU - В Кимовском районе Тульской области произошло лобовое столкновение маршрутки с пассажирами и Daewoo Nexia. Погибли три человека, еще пятеро получили травмы, сообщил начальник пресс-службы регионального УМВД Андрей Ярцев. По его данным, ДТП произошло около 12:40. Обстоятельства случившегося выясняются.]]></text>
+</doc>

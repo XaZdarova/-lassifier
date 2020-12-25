@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">730707</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/730707</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-09 09:49</datetime>
+  <title auto="true" type="str" verify="true">В Махачкале 16 детей доставили в больницу с признаками отравления</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Дагестан</tag>
+    <tag type="str">Махачкала</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 9 октября. INTERFAX.RU - Врачи устанавливают причину отравления детей, доставленных в больницу Махачкалы (Дагестан) из разных детских садов, сообщил "Интерфаксу" информированный источник. "Дети, по предварительным данным, отравились, но чем - пока неизвестно. Их всего 16. Все они из разных детских садов. Доставлены в больницу", - сказал собеседник агентства. "Интерфакс" не располагает официальным подтверждением данной информации.]]></text>
+</doc>

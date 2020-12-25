@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">740487</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/740487</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-12-09 01:04</datetime>
+  <title auto="true" type="str" verify="true">Жилой дом загорелся в центре Москвы</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">МЧС</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 9 декабря. INTERFAX.RU - Жилой дом горит на Котельнической набережной в Москве, сообщили "Интерфаксу" в главке МЧС Москвы. Пожар начался по адресу Котельническая набережная, 1/15. Очевидцы заметили слабое задымление с верхнего этажа. На место выехали подразделения. Спасатели ищут источник возгорания, добавили в МЧС.]]></text>
+</doc>

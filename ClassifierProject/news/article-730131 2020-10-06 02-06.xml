@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">730131</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/730131</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-06 02:06</datetime>
+  <title auto="true" type="str" verify="true">Экс-президент Киргизии Атамбаев освобождён из СИЗО</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Киргизия</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 октября. INTERFAX.RU - Осужденный за коррупцию бывший президент Киргизии Алмазбек Атамбаев в ночь на вторник освобожден из СИЗО Госкомитета национальной безопасности Киргизии, где находился более года, передает корреспондент "Интерфакса" с места событий. По его словам, Атамбаева к протестующим, порвавшимся на территорию ГКНБ, вывели сами сотрудники спецслужбы.]]></text>
+</doc>

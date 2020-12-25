@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">739615</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/739615</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-12-02 16:10</datetime>
+  <title auto="true" type="str" verify="true">Произошел пожар рядом с COVID-госпиталем в АТЦ "Москва" на Каширке</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">Депздрав</tag>
+    <tag type="str">АТЦ Москва</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 2 декабря. INTERFAX.RU - На территории автомобильного торгового центра "Москва" на Каширском шоссе рядом с временным инфекционным госпиталем произошло возгорание. Эвакуировать больных не пришлось, сообщили в пресс-службе департамента здравоохранения столицы в среду. "Возгорание в АТЦ "Москва" произошло не на территории временного госпиталя, а в соседнем от него здании. Инцидент не повлиял на работу госпиталя", - сказали в пресс-службе. Госпиталь для лечения от кронавируса на территории АТЦ "Москва"  принял первых пациентов  в октябре.]]></text>
+</doc>

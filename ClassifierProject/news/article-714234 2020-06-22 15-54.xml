@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">714234</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/714234</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-06-22 15:54</datetime>
+  <title auto="true" type="str" verify="true">Российский теннисист Рублев уйдет на двухнедельный карантин</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 22 июня. INTERFAX.RU - Российский теннисист Андрей Рублев заявил о том, что уйдет на карантин, несмотря на отрицательный тест на COVID-19. Соответствующее обращение в твиттере он разместил после того, как стало известно о заболевании коронавирусом у болгарина Григора Димитрова, который принимал участие в выставочном турнире Adria Tour. Там же выступал и Рублев. При этом в финале турнира Рублев должен был играть с организатором соревнования, первой ракеткой мира сербом Новаком Джоковичем. Эту игру было решено отменить. В настоящее время Рублев занимает 14-е место в рейтинге ATP.]]></text>
+</doc>

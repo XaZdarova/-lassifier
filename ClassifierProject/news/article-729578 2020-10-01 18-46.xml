@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">729578</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/729578</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-01 18:46</datetime>
+  <title auto="true" type="str" verify="true">ФК "Ахмат" подписал контракт с полузащитником Адуевым из "Монпелье"</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 1 октября. INTERFAX.RU - Состав грозненского футбольного клуба "Ахмат" пополнил полузащитник Амир Адуев из французского "Монпелье". "Чеченский футболист Амир Адуев, выступавший за французский "Монпелье" перешел в "Ахмат", - говорится в сообщении пресс-службы "Ахмата". Адуев прибыл в расположение клуба и подписал контракт, рассчитанный на четыре года, а также провел первую тренировку.]]></text>
+</doc>

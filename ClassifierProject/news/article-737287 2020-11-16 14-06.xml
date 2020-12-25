@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">737287</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/737287</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-11-16 14:06</datetime>
+  <title auto="true" type="str" verify="true">Подмосковью нужно еще 523 специалиста для лечения COVID-19</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Московская область</tag>
+    <tag type="str">Минздрав</tag>
+    <tag type="str">Светлана Стригункова</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 16 ноября. INTERFAX.RU - Московской области не хватает 523 медиков для лечения больных коронавирусной инфекцией, сообщила министр здравоохранения региона Светлана Стригункова. Она добавила, что дефицит кадров сокращается и "набор идет хорошими темпами". Больше всего медиков нужно больницам Раменского, Подольска, Богородского и Красногорска. Министр добавила, что в регионе также не хватает участковых терапевтов, свободны 288 вакансий.]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">716917</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/716917</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-07-10 21:38</datetime>
+  <title auto="true" type="str" verify="true">Главный тренер "Спартака" Тедеско дисквалифицирован на три матча</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Спартак</tag>
+    <tag type="str">Доменико Тедеско</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 10 июля. INTERFAX.RU - Главный тренер московского "Спартака" Доменико Тедеско пропустит три матча Тинькофф Российской Премьер-лиги за удаление в матче против "Локомотива". Об этом сообщает пресс-служба Российского футбольного союза. "За оскорбительное поведение в адрес Официальных лиц матча – дисквалифицировать главного тренера ФК "Спартак-Москва" г. Москва Тедеско Д. на три матча Чемпионата России по футболу (с учетом автоматической дисквалификации) и оштрафовать его на 500 тыс. рублей", - говорится в сообщении.]]></text>
+</doc>

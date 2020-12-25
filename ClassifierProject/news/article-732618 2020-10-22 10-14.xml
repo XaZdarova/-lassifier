@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">732618</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/732618</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-22 10:14</datetime>
+  <title auto="true" type="str" verify="true">Лукашенко встретится в Минске с главой Службы внешней разведки РФ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Белоруссия</tag>
+    <tag type="str">Александр Лукашенко</tag>
+    <tag type="str">СВР РФ</tag>
+    <tag type="str">Сергей Нарышкин</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 22 октября. INTERFAX.RU - В Минск прибыл глава службы внешней разведки РФ Сергей Нарышкин, сообщает Telegram-канал госагентства БелТА. "Президент Белоруссии Александр Лукашенко сегодня встретится с главой службы внешней разведки РФ Сергеем Нарышкиным", - говорится в сообщении агентства. Информации из других источников по этому поводу пока не поступало.]]></text>
+</doc>

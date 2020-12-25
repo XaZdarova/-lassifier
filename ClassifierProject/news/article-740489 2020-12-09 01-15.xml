@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">740489</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/740489</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-12-09 01:15</datetime>
+  <title auto="true" type="str" verify="true">Пожарные потушили жилой дом в центре Москвы</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">Котельническая набережная</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 9 декабря. INTERFAX.RU - Пожар в жилом доме в центре Москвы потушен, сообщили журналистам в главке МЧС Москвы. Возгорание случилось в мусорокамере на первом этаже здания. Пожарные нашли источник огня и потушили его. Информации о пострадавших не поступало. О пожаре стало известно в ночь на среду. Он начался по адресу Котельническая набережная, 1/15.]]></text>
+</doc>

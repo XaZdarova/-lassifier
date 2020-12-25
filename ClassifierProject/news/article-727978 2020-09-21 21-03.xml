@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">727978</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/727978</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-09-21 21:03</datetime>
+  <title auto="true" type="str" verify="true">"Динамо" вырвало победу над "Ахматом" в чемпионате России по футболу</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 21 сентября. INTERFAX.RU - Футболисты московского "Динамо" со счетом 1:0 обыграли грозненский "Ахмат" в домашнем матче восьмого тура чемпионата Российской премьер-лиги. На первой минуте компенсированного ко второму тайму времени гол в ворота "Ахмата" провел Иван Ордец. "Динамо" набрало 14 очков и занимает шестое место в турнирной таблице, "Ахмат" – на 10-м месте, 10 очков.]]></text>
+</doc>

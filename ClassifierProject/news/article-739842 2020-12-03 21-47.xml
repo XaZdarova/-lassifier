@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">739842</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/739842</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-12-03 21:47</datetime>
+  <title auto="true" type="str" verify="true">Гандболистки сборной России победили Испанию в стартовом матче ЧЕ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">гандбол</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 3 декабря. INTERFAX.RU - Гандболистки сборной России нанесли поражение национальной команде Испании в матче первого тура чемпионата Европы. Результат встречи – 31:22 в пользу россиянок. На групповом этапе турнира сборной России осталось провести также матчи со сборными Швеции и Чехии. В следующий раунд ЧЕ пройдут команды, занявшие первые три места в каждой из групп.]]></text>
+</doc>

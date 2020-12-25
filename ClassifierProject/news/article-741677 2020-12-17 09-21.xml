@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">741677</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/741677</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-12-17 09:21</datetime>
+  <title auto="true" type="str" verify="true">Трое заключенных самовольно ушли из колонии на окраине Петербурга</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Петербург</tag>
+    <tag type="str">ФСИН</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 декабря. INTERFAX.RU - В поселке Металлострой (Санкт-Петербург) трое заключенных без разрешения покинули исправительную колонию, сообщил "Интерфаксу" в четверг информированный источник. Ночью трое осужденных за незаконный оборот наркотиков и разбой ушли из ИК-5. По словам собеседника агентства, заключенные находились не под полным отграничением свободы. Правоохранительные органы начали их розыск. Официальным комментарием "Интерфакс" пока не располагает.]]></text>
+</doc>

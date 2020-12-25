@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">739422</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/739422</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-12-01 13:35</datetime>
+  <title auto="true" type="str" verify="true">Pfizer и BioNTech подали заявку на использование в Европе их COVID-вакцины</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Pfizer</tag>
+    <tag type="str">BioNTech</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 1 декабря. INTERFAX.RU - Американская компания Pfizer и немецкая BioNTech направили запрос в Европейское агентство лекарственных средств (EMA) для получения условного разрешения на использование разработанной ими вакцины от коронавируса COVID-19. "Pfizer Inc. и BioNTech SE в понедельник, 30 ноября, подали официальную заявку в Европейское агентство лекарственных средств (EMA) на получение разрешения на условную поставку (на рынок - ИФ) их потенциальной вакцины BNT162b2 от COVID-19", - говорится в пресс-релизе BioNTech, распространенном во вторник. Эта вакцина показала  эффективность в 95%  на завершающем испытании.]]></text>
+</doc>

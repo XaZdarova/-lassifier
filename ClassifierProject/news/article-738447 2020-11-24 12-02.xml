@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">738447</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/738447</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-24 12:02</datetime>
+  <title auto="true" type="str" verify="true">Роспотребнадзор объявил о вводе в оборот экспресс-тестов на коронавирус</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Роспотребнадзор</tag>
+    <tag type="str">Анна Попова</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 24 ноября. INTERFAX.RU - В России в оборот вводятся экспресс-тесты на COVID-19, которые позволяют определить наличие вируса в течение 15-20 минут, заявила глава Роспотребнадзора Анна Попова. Она сообщила об этом на Координационном совете уполномоченных по правам человека в России. По ее словам, этих тестов много, их появление сделает тестирование более доступным и быстрым. С начала пандемии в стране было сделано больше 73,3 млн тестов на COVID-19, в том числе 362 тысячи за последние сутки, подсчитали в Роспотребнадзоре.]]></text>
+</doc>

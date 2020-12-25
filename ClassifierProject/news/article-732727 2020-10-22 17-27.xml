@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">732727</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/732727</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-10-22 17:27</datetime>
+  <title auto="true" type="str" verify="true">Перепродажи домов в США подскочили до максимума с мая 2006 года</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">США</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 22 октября. INTERFAX.RU - Продажи на вторичном рынке жилья в США в сентябре взлетели на 9,4% по сравнению с предыдущим месяцем и составили 6,54 млн домов в пересчете на годовые темпы, говорится в отчете Национальной ассоциации риелторов. Это максимальный уровень с мая 2006 года. Согласно пересмотренным данным, в августе показатель составлял 5,98 млн домов, а не 6 млн, как сообщалось прежде. Аналитики в среднем прогнозировали менее значительный подъем - на 5% с ранее объявленного августовского уровня, свидетельствуют данные Trading Economics. Респонденты MarketWatch ожидали повышения на 6%.]]></text>
+</doc>

@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">741001</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/741001</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-12-11 22:37</datetime>
+  <title auto="true" type="str" verify="true">Гандболистки сборной России сыграли вничью с Францией на ЧЕ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">гандбол</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 11 декабря. INTERFAX.RU - Сборная России по гандболу сыграла вничью с командой Франции в матче основного раунда чемпионата Европы среди женщин. Результат игры, прошедшей в Дании, – 28:28 (19:16 в пользу россиянок по итогам первого тайма). Обе команды лидируют в группе 1, набрав по 7 очков. Для выхода в полуфинал необходимо занять место не ниже второго. Франция является действующим чемпионом Европы. В финале ЧЕ-2018 она победила Россию.]]></text>
+</doc>

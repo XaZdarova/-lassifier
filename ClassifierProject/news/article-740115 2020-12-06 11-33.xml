@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">740115</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/740115</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-12-06 11:33</datetime>
+  <title auto="true" type="str" verify="true">Китай вывел на орбиту спутник дистанционного зондирования Земли</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Китай</tag>
+    <tag type="str">Гаофэнь-14</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 декабря. INTERFAX.RU - Китай в воскресенье успешно вывел на геостационарную орбиту тяжелый спутник дистанционного зондирования Земли "Гаофэнь-14", сообщила Китайская корпорация космической науки и техники (CASC). Запуск был осуществлен с помощью ракеты-носителя "Чанчжэн-3Б" (Long March-3B, CZ-3B), стартовавшей в 11:58 по местному времени ( 06:58 по Москв е) с космодрома Сичан в провинции Сычуань. Тяжелый спутник "Гаофэнь-14" позволяет проводить высокоточную спутниковую съемку и картографирование поверхности Земли.]]></text>
+</doc>

@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">730872</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/730872</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-10 08:25</datetime>
+  <title auto="true" type="str" verify="true">В Красноярском крае ввели режим ЧС из-за разлива топлива в Ангару</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Красноярский край</tag>
+    <tag type="str">Ангара</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 10 октября. INTERFAX.RU - Власти Кежемского района Красноярского края ввели режим ЧС из-за разлива нефтепродуктов в реку Ангара, сообщает пресс-служба краевого Главного управления МЧС в субботу. "Постановление администрации Кежемского района от 9 октября введен режим ЧС на территории района в связи с разливом нефтепродуктов в реку Ангара", - говорится в сообщении. Знакомый с ситуацией источник сообщил "Интерфаксу", что в районе вахтового поселка Новая Кежма при перекачке дизельного топлива с баржи произошел разлив около 500 литров дизельного топлива.]]></text>
+</doc>

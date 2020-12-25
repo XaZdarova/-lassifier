@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">722863</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/722863</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-22 19:56</datetime>
+  <title auto="true" type="str" verify="true">"Зенит" разгромил "Тамбов" в чемпионате России по футболу</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 22 августа. INTERFAX.RU - Футболисты петербургского "Зенита" со счетом 4:1 нанесли поражение команде "Тамбов" в домашнем матче четвертого тура Российской премьер-лиги.                 В составе "Зенита" голы провели Дуглас дос Сантос (41-я минута), Малком (47), Александр Ерохин (68) и Сердар Азмун (74).                 На 85-й минуте в составе "Тамбова" отличился Кирилл Панченко.                 В четырех турах "Зенит" набрал 12 очков из 12 возможных. Он единолично лидирует в чемпионате. "Тамбов" – на 13-м месте, 3 очка.]]></text>
+</doc>

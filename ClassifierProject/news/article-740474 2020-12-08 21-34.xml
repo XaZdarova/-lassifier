@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">740474</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/740474</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-12-08 21:34</datetime>
+  <title auto="true" type="str" verify="true">Мадуро заявил о планах покушения на него в день выборов</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Венесуэла</tag>
+    <tag type="str">Николас Мадуро</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 8 декабря. INTERFAX.RU - Президент Венесуэлы Николас Мадуро заявил о развенчании заговора, целью которого было его убийство, сообщает во вторник агентство EFE. По его словам, в разработку планов покушения был вовлечен президент Колумбии Иван Дуке. Мадуро отметил, что именно из-за того, что об этих планах стало известно заранее, было решено изменить избирательный участок, на котором голосовал президент Венесуэлы. В воскресенье в стране прошли парламентские выборы, на которых победу одержал альянс, в который входит правящая Единая социалистическая партия Венесуэлы.]]></text>
+</doc>

@@ -1,0 +1,15 @@
+<doc>
+  <id auto="true" type="str" verify="true">717742</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/717742</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-07-16 20:03</datetime>
+  <title auto="true" type="str" verify="true">"Динамо" обыграло "Уфу" в РПЛ</title>
+  <description auto="true" type="str" verify="true">"Рубин" и "Ростов" сыграли вничью&#13;
+</description>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 16 июля. INTERFAX.RU - Футболисты московского "Динамо" со счетом 1:0 нанесли поражение "Уфе" в гостевом матче 29-го тура чемпионата Российской премьер-лиги. На 79-й минуте встречи, прошедшей в Уфе, пенальти реализовал полузащитник гостей Жоазиньо. "Динамо" набрало 38 очков и поднялось на шестое место в турнирной таблице. "Уфа" - на восьмом месте, 37 очков. В параллельном матче "Рубин" на своем поле сыграл вничью с "Ростовом" - 0:0. "Рубин" занимает 10 место в РПЛ, набрав 35 очков. "Ростов" расположился на пятом месте с 45 баллами.]]></text>
+</doc>

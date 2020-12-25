@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">729043</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/729043</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-09-29 04:30</datetime>
+  <title auto="true" type="str" verify="true">Председатель думы Владивостока заразился коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Приморский край</tag>
+    <tag type="str">Владивосток</tag>
+    <tag type="str">Андрей Брик</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 29 сентября. INTERFAX.RU - Тест на коронавирус у председателя думы Владивостока Андрея Брика оказался положительным, он проходит лечение,  сообщается  в инстаграме городской думы. "Тест на коронавирус, который сделал председатель думы города Владивостока Андрей Брик, дал положительный результат", - говорится в сообщении. Всего в Приморье подтверждено свыше 11,6 тыс. случаев заражения COVID-19, более 10 тыс. заразившихся выздоровели, умерли 118 человек. В последние дни в регионе ежедневно выявляется 68-70 новых случаев коронавируса.]]></text>
+</doc>

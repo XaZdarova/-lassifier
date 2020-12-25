@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">714001</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/714001</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-06-20 00:16</datetime>
+  <title auto="true" type="str" verify="true">"Тоттенхэм" и "Манчестер Юнайтед" сыграли вничью в чемпионате Англии</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Англия</tag>
+    <tag type="str">футбол</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 20 июня. INTERFAX.RU - Матч 30-го тура чемпионата Англии по футболу между клубами "Тоттенхэм" и "Манчестер Юнайтед" завершился вничью.                 Результат встречи, прошедшей в Лондоне, - 1:1.                 На 27-й минуте Стивен Бергвейн вывел "Тоттенхэм" вперед. На 81-й минуте Бруну Фернандеш, реализовав пенальти, сравнял счет.                 "Манчестер Юнайтед" занимает в турнирной таблице пятое место, набрав 46 очков. "Тоттенхэм" – на восьмом месте (42).                 Прерванный в марте из-за пандемии коронавируса чемпионат Англии возобновился 17 июня.]]></text>
+</doc>

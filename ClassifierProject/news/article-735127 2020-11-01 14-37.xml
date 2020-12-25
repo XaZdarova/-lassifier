@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">735127</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/735127</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-11-01 14:37</datetime>
+  <title auto="true" type="str" verify="true">"Урал" обыграл "Уфу" в 13-м туре РПЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">РПЛ</tag>
+    <tag type="str">Урал</tag>
+    <tag type="str">Уфа</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 1 ноября. INTERFAX.RU - Екатеринбургский "Урал" обыграл в гостях "Уфу" со счетом 2:1 в матче 13-го тура Российской премьер-лиги. У уральского клуба дважды отличился Эрик Бикфалви: на 27-й минуте румынский футболист открыл счет, а на 38-й минуте реализовал 11-метровый. Хозяева отыграли один мяч на 61-й минуте после точного удара Комнена Андрича, для которого этот гол стал дебютным в РПЛ. "Урал" прервал пятиматчевую серию без побед и с 14 очками поднялся на 11-е место. "Уфа" замыкает турнирную таблицу с 6 очками, потерпев третье поражение подряд. В 14-м туре "Уфа" 6 ноября в гостях сыграет с "Сочи", "Урал" 7 ноября примет "Спартак".]]></text>
+</doc>

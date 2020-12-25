@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">730977</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/730977</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-11 12:50</datetime>
+  <title auto="true" type="str" verify="true">В Чечне уничтожили двух боевиков</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Чечня</tag>
+    <tag type="str">НАК</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 11 октября. INTERFAX.RU - Национальный антитеррористический комитет (НАК) сообщает о ликвидации двух боевиков в Чечне. Как рассказали "Интерфаксу" в информационном центре НАК в воскресенье, вооруженные бандиты нейтрализованы в республике в ходе контртеррористической операции (КТО). Других подробностей спецоперации не приводится.]]></text>
+</doc>

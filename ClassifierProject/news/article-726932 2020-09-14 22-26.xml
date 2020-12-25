@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">726932</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/726932</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-09-14 22:26</datetime>
+  <title auto="true" type="str" verify="true">"Ростов" и "Локомотив" сыграли вничью в матче РПЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 14 сентября. INTERFAX.RU - Матч седьмого тура чемпионата Российской премьер-лиги между "Ростовом" и московским "Локомотивом" завершился вничью.                 Результат встречи, прошедшей в Ростове-на-Дону, - 0:0.                 У "Ростова" сейчас 11 очков, команда занимает седьмое место в турнирной таблице. "Локомотив" на девятом месте, 9 очков.]]></text>
+</doc>

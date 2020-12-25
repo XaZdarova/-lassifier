@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">730363</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/730363</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-07 11:41</datetime>
+  <title auto="true" type="str" verify="true">Путин счел нескромным преувеличивать значение своего дня рождения</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Владимир Путин</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 7 октября. INTERFAX.RU - Президент РФ Владимир Путин заявил, что отпразднует свой день рождения в кругу близких и семьи. "Это мой день рождения, не национальный праздник, поэтому мне кажется, что преувеличивать значение этого события нескромно", - сказал Путин в интервью программе "Москва. Кремль. Путин" на "России 24" в среду. Он считает, что "в таком режиме каждый человек должен проводить свой день рождения: в кругу своих друзей, близких, вне зависимости от своего служебного положения". 7 октября Путину исполнилось 68 лет.]]></text>
+</doc>

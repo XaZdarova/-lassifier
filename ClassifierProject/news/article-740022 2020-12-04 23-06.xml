@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">740022</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/740022</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-12-04 23:06</datetime>
+  <title auto="true" type="str" verify="true">На ж/д станции Москворечье произошло возгорание</title>
+  <description auto="true" type="str" verify="true">Поезда Курского направления минуют станцию</description>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">МЦД</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 4 декабря. INTERFAX.RU - Возгорание произошло вечером в пятницу на железнодорожной станции Москворечье, сообщил столичный департамент транспорта. "Поезда МЦД-2 и Курского направления в сторону области временно не останавливаются на станции Москворечье из-за возгорания на платформе. Причина возгорания выясняется, пострадавших нет", - говорится в сообщении, размещенном в телеграм-канале. На месте работают пожарные службы. По данным департамента, около 22:40 возгорание локализовано. По информации департамента, с 23:00 поезда МЦД-2 и Курского направления в сторону области снова останавливаются на станции Москворечье.]]></text>
+</doc>

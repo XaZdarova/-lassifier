@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">729847</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/729847</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-03 21:55</datetime>
+  <title auto="true" type="str" verify="true">Азербайджанские военные заняли семь сел в трех районах в Карабахе</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Азербайджан</tag>
+    <tag type="str">Ильхам Алиев</tag>
+    <tag type="str">Нагорный Карабах</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 3 октября. INTERFAX.RU - Президент Азербайджана Ильхам Алиев заявил, что азербайджанские военные заняли семь сел в трех районах в Карабахе. "Село Талыш Тертерского района, села Мехдили, Чахырлы, Ашагы Маральян, Шайбяй и Гуйчаг Джабраильского района, села Ашагы Абдульрахманлы Физулинского района", - говорится в сообщении Алиева в твиттере. Ранее Алиев сообщил, что Суговушан (Мадагиз) также контролируют азербайджанские силы.]]></text>
+</doc>

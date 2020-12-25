@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">740185</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/740185</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-12-07 09:10</datetime>
+  <title auto="true" type="str" verify="true">Шесть человек попали больницу в Ингушетии с отравлением угарным газом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Ингушетия</tag>
+    <tag type="str">МЧС</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 7 декабря. INTERFAX.RU - В Ингушетии угарным газом отравились несколько человек, сообщили "Интерфаксу" в ГУ МЧС по республике. "Отравлении угарным газом произошло в сельском поселении Барсуки. В одной из квартир. Там находились шесть человек", - сказал собеседник агентства. По его словам, все они доставлены в больницу в Назрани, среди них двое детей. Обстоятельства ЧП выясняют сотрудники газовой службы и МЧС.]]></text>
+</doc>

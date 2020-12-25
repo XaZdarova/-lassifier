@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">724946</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/724946</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-09-07 22:15</datetime>
+  <title auto="true" type="str" verify="true">Серена Уильямс вышла в четвертьфинал US Open</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+    <tag type="str">US Open</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 7 сентября. INTERFAX.RU - Американская теннисистка Серена Уильямс завоевала путевку в 1/4 финала турнира серии Большого шлема US Open. В четвертом круге соревнования она нанесла поражение представительнице Греции Марии Саккари – 6:3, 6:7 (6:8), 6:3. Продолжительность матча составила 2 часа 29 минут. В женском мировом рейтинге Уильямс занимает восьмое место, Саккари - 22-е. Борьбу за выход в полуфинал Уильямс поведет с победительницей пары Ализе Корне (Франция) – Цветана Пиронкова (Болгария). Призовой фонд Открытого чемпионата США составляет $53,4 млн.]]></text>
+</doc>

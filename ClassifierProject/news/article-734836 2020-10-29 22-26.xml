@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">734836</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/734836</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-29 22:26</datetime>
+  <title auto="true" type="str" verify="true">ЦСКА победил "Валенсию" в матче Евролиги</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">баскетбол</tag>
+    <tag type="str">Евролига</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 29 октября. INTERFAX.RU - Баскетболисты московского ЦСКА добились победы над испанской "Валенсией" в домашнем матче очередного  тура Евролиги. Результат встречи – 84:75 (17:16, 27:29, 18:23, 22:17) в пользу армейского клуба. ЦСКА одержал третью победу в шести матчах и занимает седьмое место в турнирной таблице. "Валенсия" при двух поражениях в пяти матчах – на пятой строчке.]]></text>
+</doc>

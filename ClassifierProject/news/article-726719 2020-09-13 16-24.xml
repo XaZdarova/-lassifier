@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">726719</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/726719</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-09-13 16:24</datetime>
+  <title auto="true" type="str" verify="true">Самолет S7 вернулся в "Кольцово" после вылета в Москву из-за неисправности</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Екатеринбург</tag>
+    <tag type="str">S7</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 13 сентября. INTERFAX.RU - Командир воздушного судна рейс S7 1174 Екатеринбург - Москва ( компания S7 Airlines ) в воскресенье принял решение вернуться в аэропорт вылета "Кольцово" из-за технической неисправности, сообщили "Интерфаксу" в пресс-службе авиакомпании. Для выполнения рейса будет предоставлен резервный борт, сказали в пресс-службе. Пассажиры ожидают вылета в здании аэровокзала, с ними работают представители авиакомпании. Ранее сообщалось, что самолет компании S7 Airlines около 15:00 вылетел из аэропорта "Кольцово", но вскоре вернулся.]]></text>
+</doc>

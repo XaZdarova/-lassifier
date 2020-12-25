@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">721856</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/721856</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-14 23:57</datetime>
+  <title auto="true" type="str" verify="true">"Бавария" забила восемь мячей "Барселоне" в четвертьфинале Лиги чемпионов</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Футбол</tag>
+    <tag type="str">Бавария</tag>
+    <tag type="str">Барселона</tag>
+    <tag type="str">Лига чемпионов</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 14 августа. INTERFAX.RU - Футболисты мюнхенской "Баварии" со счетом 8:2 нанесли поражение "Барселоне" в матче 1/4 финала Лиги чемпионов УЕФА. Первый тайм был завершён со счётом 4:1. В полуфинале "Бавария" сыграет с победителем пары "Лион" - "Манчестер Сити". Из-за пандемии коронавируса, сорвавшей футбольный сезон весной, УЕФА скорректировал формат оставшейся части еврокубков. Со стадии 1/4 финала турнир в ЛЧ пройдет в Португалии в формате "Финала восьми", при котором команды в парах сыграют по разу.]]></text>
+</doc>

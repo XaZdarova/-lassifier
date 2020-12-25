@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">740103</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/740103</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-12-06 09:32</datetime>
+  <title auto="true" type="str" verify="true">Роспотребнадзор проверит концерт Zivert в Красноярске</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Роспотребнадзор</tag>
+    <tag type="str">Zivert</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 декабря. INTERFAX.RU - Специалисты проверят информацию о нарушениях санитарных мер на концерте певицы Юлии Zivert 4 декабря в Красноярске в зале "Гранд Холл Сибирь", сообщает пресс-служба управления Роспотребнадзора по региону. Ранее в соцсетях зрители сообщали, что на шоу присутствовало большое число людей, при этом не все были в масках и соблюдали социальную дистанцию. Сама певица сообщила в своем инстаграме, что ее следующий концерт в Новосибирске, запланированный на 5 декабря, отменен. "Дорогой Новосибирск! Мы не виноваты. К сожалению, завтрашнего концерта не будет. Поступил указ из Москвы, что его невозможно провести", - написала Zivert.]]></text>
+</doc>

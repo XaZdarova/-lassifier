@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">731347</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/731347</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-13 20:33</datetime>
+  <title auto="true" type="str" verify="true">Теннисист Рублев вышел во второй круг турнира в Петербурге</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 13 октября. INTERFAX.RU - Россиянин Андрей Рублев победил представителя Канады Вашека Поспишила в первом круге теннисного турнира в Санкт-Петербурге.             Результат противостояния – 6:2, 6:4 в пользу россиянина. Продолжительность матча составила 1 час 18 минут.             В следующем круге Рублев сыграет с победителем пары Стэн Вавринка (Швейцария) – Евгений Донской (Россия).]]></text>
+</doc>

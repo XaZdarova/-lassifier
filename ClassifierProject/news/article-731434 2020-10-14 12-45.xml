@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">731434</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/731434</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-10-14 12:45</datetime>
+  <title auto="true" type="str" verify="true">"Яндекс.Такси" уйдет из Румынии</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Румыния</tag>
+    <tag type="str">Yango</tag>
+    <tag type="str">Яндекс.Такси</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 14 октября. INTERFAX.RU -"Яндекс.Такси" сообщил, что приостанавливает работу в Румынии из-за "особенностей местного законодательного регулирования" пассажирских перевозок. Эти правила не позволяют компании "эффективно развивать сервис", поэтому она решила "сосредоточиться на других странах и направлениях бизнеса". "Яндекс.Такси" вышел на румынский рынок под международным брендом Yango в середине 2019 года. Теперь Yango представлен в 16 странах, в том числе в четырех странах Евросоюза - в Эстонии, Латвии, Литве и Финляндии.]]></text>
+</doc>

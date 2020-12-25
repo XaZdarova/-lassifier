@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">739044</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/739044</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-11-27 21:16</datetime>
+  <title auto="true" type="str" verify="true">Футболист сборной России Алексей Миранчук подхватил COVID-19</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 27 ноября. INTERFAX.RU - Полузащитник сборной России по футболу Алексей Миранчук сдал положительный тест на коронавирус, сообщает пресс-служба итальянской "Аталанты", цвета которого он защищает на клубном уровне. Отмечается, что тесты на COVID-19 игроки "Аталанты" прошли накануне. В итоге россиянин, перешедший в "Аталанту" из московского "Локомотива" в сентябре, был незамедлительно отправлен на изоляцию. Ранее в пятницу  сообщалось , что коронавирусом заболел еще один полузащитник сборной России – Денис Черышев, играющий за испанскую "Валенсию".]]></text>
+</doc>

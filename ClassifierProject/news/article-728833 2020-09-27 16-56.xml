@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">728833</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/728833</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-09-27 16:56</datetime>
+  <title auto="true" type="str" verify="true">При падении легкомоторного самолета в Волгу погибли два человека</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Волга</tag>
+    <tag type="str">Нижегородская область</tag>
+    <tag type="str">МЧС</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 27 сентября. INTERFAX.RU - Два человека, по предварительной информации, погибли при падении легкомоторного самолета в акваторию Волги в Нижегородской области, сообщили "Интерфаксу" в воскресенье в пресс-службе МЧС России. По ее данным, в настоящее время инспекторами ГИМС осуществляется эвакуация воздушного судна к берегу. Ранее сообщалось, что легкомоторный самолет  потерпел крушение  близ села Михальчиково. Он совершал несанкционированный вылет. Пилот не справился с управлением и совершил падение в акваторию Волги.]]></text>
+</doc>

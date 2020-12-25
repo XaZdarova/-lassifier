@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">732413</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/732413</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-10-20 23:39</datetime>
+  <title auto="true" type="str" verify="true">Еще 63 человека с коронавирусом скончались в Москве за сутки</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 20 октября. INTERFAX.RU - Количество умерших от коронавируса в Москве увеличилось с 6058 до 6121. "В Москве скончались 63 пациента, у всех был подтвержден диагноз пневмония и получен положительный результат тестов на коронавирусную инфекцию", - сообщили "Интерфаксу" в оперштабе по контролю и мониторингу ситуации с коронавирусом в Москве. Всего с начала пандемии в Москве зафиксировано 372 628 случаев коронавируса, вылечились 277 608 пациентов.]]></text>
+</doc>

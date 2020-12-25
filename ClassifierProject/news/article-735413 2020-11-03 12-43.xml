@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">735413</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/735413</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-03 12:43</datetime>
+  <title auto="true" type="str" verify="true">Экскурсионный катер затонул у берегов Антальи в Турции</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Аланья</tag>
+    <tag type="str">Анталья</tag>
+    <tag type="str">Турция</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 3 ноября. INTERFAX.RU - Экскурсионный катер затонул в районе курорта Аланья в турецкой Анталье. По информации телеканала  TRT Haber , ведутся поиски одного человека, остальные добрались до берега в спасательных жилетах. Экскурсионный катер затонул перед Фосфорной пещерой, расположенной у подножия крепости в Аланьи.]]></text>
+</doc>

@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">741669</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/741669</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-12-17 06:15</datetime>
+  <title auto="true" type="str" verify="true">Число инфицированных COVID-19 в мире превысило 74 млн</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 декабря. INTERFAX.RU - С начала пандемии коронавируса COVID-19 в мире по состоянию на 04:30 мск четверга зафиксирован 74 140 841 случай заражения, сообщил американский университет Джонса Хопкинса. По его данным, число скончавшихся от связанных с коронавирусом заболеваний достигло 1 647 108. Лидером по числу инфицированных и летальных исходов остаются Соединенные Штаты, где выявлено 16 955 024 заразившихся и 307 226 умерших.]]></text>
+</doc>

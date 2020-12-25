@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">732525</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/732525</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-21 16:55</datetime>
+  <title auto="true" type="str" verify="true">Правительство Украины с 26 октября перейдет на удаленку</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Украина</tag>
+    <tag type="str">Денис Шмыгаль</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 21 октября. INTERFAX.RU - С 26 октября правительство Украины перейдет на дистанционную работу, объявил на заседании кабинета министров премьер-министр Денис Шмыгаль. "Со следующей недели и правительственные совещания, и правительство мы полностью переведем в онлайн. Такое требование времени", - объяснил он. На утро 21 октября на Украине с начала пандемии было выявлено 315 826 случаев заражения коронавирусом, в том числе 6 719 за минувшие сутки. Умерли 5 927 заболевших.]]></text>
+</doc>

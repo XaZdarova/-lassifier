@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">718234</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/718234</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-07-20 21:46</datetime>
+  <title auto="true" type="str" verify="true">Россиянка Костенюк проиграла украинке Ушениной Суперфинал шахматного онлайн-турнира</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">шахматы</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 20 июля. INTERFAX.RU - Россиянка Александра Костенюк потерпела поражение от украинки Анны Ушениной в Суперфинале женского онлайн-турнира по быстрым шахматам Women's Speed Chess Championship . Результат матча, прошедшего в понедельник - 14,5:13,5 в пользу украинки. Турнир проходил с 18 июня по 20 июля, в нем приняли участие 21 шахматистка. По итогам четырех этапов определились участницы Суперфинала. Призовой фонд Суперфинала составил $10000, из них $6500 достались победительнице. Ушенина является 14-й чемпионкой мира, Костенюк – 12-й.]]></text>
+</doc>

@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">735498</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/735498</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-11-03 19:03</datetime>
+  <title auto="true" type="str" verify="true">Клубный Кубок мира по хоккею с мячом  в Красноярске отменен из-за коронавируса</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">хоккей с мячом</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 3 ноября. INTERFAX.RU - Международная федерация бенди (FIB) решила отменить проведение в 2020 году Кубка мира по хоккею с мячом среди клубов в Красноярске. "Турнир отменен из-за пандемии коронавируса во многих странах и действующих ограничений на поездки", - сообщает пресс-служба федерации. Соревнование должно было пройти с 17 по 20 декабря. Действующим победителем турнира является шведский клуб "Больннес", в финале прошлогоднего Кубка мира обыгравший российскую команду "СКА-Нефтяник".]]></text>
+</doc>

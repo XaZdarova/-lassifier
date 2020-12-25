@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">730425</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/730425</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-07 16:41</datetime>
+  <title auto="true" type="str" verify="true">Греция отозвала посла из Баку для консультаций</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Греция</tag>
+    <tag type="str">Азербайджан</tag>
+    <tag type="str">Нагорный Карабах</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 7 октября. INTERFAX.RU - МИД Греции сообщил, что отзовет из Баку посла Николаоса Пиперигоса для консультаций. Поводом для этого были названы заявления правительства Азербайджана о предполагаемой терпимости со стороны греческого государства к подготовке террористических действий и о попытках вербовки боевиков-террористов и кибератак с территории Греции на Азербайджан в контексте Нагорно-Карабахского конфликта. Посла Азербайджана Анара Гусейнова вызывали в МИД Греции, где ему был заявлен протест Афин.]]></text>
+</doc>

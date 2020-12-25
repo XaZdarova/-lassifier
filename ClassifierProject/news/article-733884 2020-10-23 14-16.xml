@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">733884</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/733884</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-23 14:16</datetime>
+  <title auto="true" type="str" verify="true">В Польше выявили очередной рекорд по заболеваемости коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Польша</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 23 октября. INTERFAX.RU - В Польше за минувшие сутки лабораторно подтверждены рекордные 13 632 новых случая заболевания COVID-19, 2 888 человек выздоровели, 153 человека из числа ранее заболевших скончались, сообщается на портале  worldometers.info . Предыдущий рекорд был зафиксирован в четверг, 22 октября, и составил 12 107 случаев, в среду, 21 октября, в стране выявили 10 040 случаев. По состоянию на пятницу, 23 октября, количество активных больных в Польше составило 119 054 (на 10 591 больше, чем днем ранее). Всего с начала пандемии в стране зафиксировали 228 318 случаев инфицирования, умерли 4 172 человека, выздоровели 105 092 человека.]]></text>
+</doc>

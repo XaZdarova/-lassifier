@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">729721</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/729721</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-02 16:09</datetime>
+  <title auto="true" type="str" verify="true">Первая ракетка России выбыла из Roland Garros</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+    <tag type="str">Roland Garros</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 2 октября. INTERFAX.RU - Российская теннисистка Екатерина Александрова потерпела поражение от украинки Элины Свитолины в матче третьего круга турнира серии Большого шлема Roland Garros во Франции. Результат встречи – 6:4, 7:5 в пользу украинки. Продолжительность матча составила 1 час 40 минут. Александрова в настоящий момент является 31-й ракеткой мира, Свитолина – пятой. Это – наилучшие показатели среди действующих российских и украинских теннисисток соответственно.]]></text>
+</doc>

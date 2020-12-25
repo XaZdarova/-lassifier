@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">731067</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/731067</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-12 10:56</datetime>
+  <title auto="true" type="str" verify="true">У здания парламента в столице Хорватии открыли огонь</title>
+  <description auto="true" type="str" verify="true">Стрелявший мужчина ранил полицейского, а затем покончил с собой</description>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Хорватия</tag>
+    <tag type="str">Загреб</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 12 октября. INTERFAX.RU - Вооруженный мужчина утром в понедельник открыл огонь у здания парламента в столице Хорватии Загребе, сообщает агентство  Associated Press . Инцидент произошел на площади Святого Марка, на которой расположено здание парламента страны и другие госучреждения. Один полицейский получил ранение. Нападавший скрылся, а затем покончил с собой. Место происшествия оцеплено, ведется расследование.]]></text>
+</doc>

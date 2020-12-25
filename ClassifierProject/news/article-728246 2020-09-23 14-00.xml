@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">728246</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/728246</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-09-23 14:00</datetime>
+  <title auto="true" type="str" verify="true">Пенсии в РФ проиндексируют на 6,3% в 2021 году</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Россия</tag>
+    <tag type="str">Владимир Путин</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 23 сентября. INTERFAX.RU - Пенсии в России в 2021 году будут проиндексированы на 6,3%, сообщил президент РФ Владимир Путин, выступая в среду перед российскими сенаторами. Глава государства напомнил, что это более чем в 1,5 раза выше прогнозируемой инфляции в 2021 году.]]></text>
+</doc>

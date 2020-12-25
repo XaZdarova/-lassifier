@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">729912</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/729912</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-04 19:03</datetime>
+  <title auto="true" type="str" verify="true">В Карабахе сообщили о боях по всей линии соприкосновения</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Азербайджан</tag>
+    <tag type="str">Армения</tag>
+    <tag type="str">Нагорный Карабах</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 4 октября. INTERFAX.RU - Боевые действия продолжаются по всей протяженности линии соприкосновения карабахских и азербайджанских сил, сообщает в воскресенье пресс-служба Минобороны непризнанной Нагорно-Карабахской республики (НКР). "Наиболее ожесточенные бои идут на северном и южном направлениях", - отметили в пресс-службе. В военном ведомстве заявили, что попытки наступления противника пресекаются. Как сообщалось, новое обострение конфликта в Карабахе началось утром 27 сентября. Его стороны несут потери в живой силе и технике.]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">720625</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/720625</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-06 18:31</datetime>
+  <title auto="true" type="str" verify="true">"Матч" в следующем сезоне бесплатно покажет 60 матчей РПЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 августа. INTERFAX.RU - Федеральный телеканал "Матч ТВ" будет показывать по два матча каждого тура Тинькофф Российской премьер-лиги, заявил коммерческий директор РПЛ Павел Суворов. "60 матчей будет показано на федеральном канале, то есть покажут два матча каждого тура. Остальные по подписке (на платном канале "Матч Премьер" - ИФ)", - сказал Суворов в ходе онлайн-конференции в четверг. Сезон-2020/21 стартует 8 августа.]]></text>
+</doc>

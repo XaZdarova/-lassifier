@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">730074</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/730074</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-05 17:19</datetime>
+  <title auto="true" type="str" verify="true">Зидан-младший покинул "Реал"</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Испания</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 5 октября. INTERFAX.RU - Вратарь Лука Зидан перешел из ФК "Реал" в другой мадридский клуб – "Райо Вальекано". "Лука Зидан официально стал новым игроком "Райо Вальекано" на следующие два сезона", - говорится в сообщении пресс-службы "Райо Вальекано". "Райо Вальекано" является клубом Сегунды, второго по статусу дивизиона в испанском футболе. 22-летний Лука Зидан – сын главного тренера "Реала", чемпиона мира и Европы в качестве игрока Зинедина Зидана. Несмотря на тесные родственные связи Зидан-младший сыграл лишь в считанных матчах за "Реал".]]></text>
+</doc>

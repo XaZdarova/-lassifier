@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">734973</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/734973</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-30 17:50</datetime>
+  <title auto="true" type="str" verify="true">Медведев проиграл в четвертьфинале теннисного турнира в Вене</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 30 октября. INTERFAX.RU - Российский теннисист Даниил Медведев не смог пробиться в 1/2 финала турнира ATP500 в Вене. В четвертьфинале шестая ракетка мира потерпел поражение от представителя ЮАР Кевина Андерсона, занимающего 111-е место в рейтинге Ассоциации теннисистов-профессионалов. Результат противостояния, протяженность которого составила  1 час 31 минуту, - 6:4, 7:6 (7:5). Призовой фонд турнира составляет 1 млн 550,950 тыс. евро.]]></text>
+</doc>

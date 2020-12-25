@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">729948</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/729948</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-05 08:12</datetime>
+  <title auto="true" type="str" verify="true">В Airbus допустили сокращение 15 000 рабочих мест</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Airbus</tag>
+    <tag type="str">Майкл Шеллхорн</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">Германия</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 5 октября. INTERFAX.RU - Главный операционный директор Airbus Майкл Шеллхорн допустил сокращение не менее 15 000 рабочих мест в компании, поскольку перспективы авиационной отрасли снова ухудшились из-за роста заражений коронавирусом и возобновления ограничений на поездки. Он сказал это Handelsblatt Business Daily. По его словам, в начале осени ситуация ухудшилась по сравнению с тем, что ожидалось летом. Поскольку некоторые заводы Airbus уже были недостаточно загружены до пандемии COVID-19, профсоюзы теперь опасаются, что руководство может принять решение закрыть целые предприятия. Германским заводам Airbus закрытие не грозит, добавил Шеллхорн.]]></text>
+</doc>

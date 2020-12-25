@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">731222</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/731222</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-13 10:08</datetime>
+  <title auto="true" type="str" verify="true">Alibaba Group запустит в России свою облачную платформу</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Alibaba Cloud</tag>
+    <tag type="str">Alibaba Group</tag>
+    <tag type="str">AliExpress</tag>
+    <tag type="str">Cainiao</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 13 октября. INTERFAX.RU - Alibaba Group запустит в России собственную облачную платформу Alibaba Cloud,  пишет  "Коммерсантъ" со ссылкой на два источника в ИТ-отрасли. По данным одного из них, китайская группа разместила более половины мощностей в операторе коммерческих ЦОДов IXcellerate. ООО "Алибаба Клауд" было зарегистрировано в ноябре 2019 года. Совладельцами российского юрлица выступают сингапурские структуры Alibaba Group, следует из системы данных " СПАРК-Интерфакс ". Своя облачная платформа может понадобиться для поддержки СП "AliExpress Россия" и логистической компанию Cainiao, которые входят в периметр Alibaba Group, отметил второй собеседник "Коммерсанта". Alibaba Cloud была основана в 2009 году. Компания поддерживает структуры китайской группы, а также работает со сторонними клиентами. Выручка облачной структуры в 2019 году составила более $1,5 млрд. Дата-центры Alibaba Cloud расположены в 19 регионах по всему миру.]]></text>
+</doc>

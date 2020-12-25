@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">740114</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/740114</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-12-06 11:22</datetime>
+  <title auto="true" type="str" verify="true">Пожар на рынке в Ростове-на-Дону удалось локализовать на трех участках</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Ростов-на-Дону</tag>
+    <tag type="str">МЧС</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 декабря. INTERFAX.RU - Пожар на рынке в Ростове-на-Дону локализовали на трех участках, сообщили журналистам в воскресенье в МЧС по Ростовской области. По его данным, на трех участках пожар локализован в 10:55, на двух остальных проводится разведка. Торговый  павильон с пиротехникой  загорелся на рынке "Классик" в Ростове-на-Дону в воскресенье утром на площади 200 кв. метров, позже площадь огня увеличилась  до 4 тыс. кв. метров . В ликвидации пожара задействованы 317 человек и 114 единиц техники.]]></text>
+</doc>

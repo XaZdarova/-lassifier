@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">735010</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/735010</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-10-30 21:09</datetime>
+  <title auto="true" type="str" verify="true">Падение ресторанного рынка России в сентябре замедлилось до 14%</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Росстат</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 30 октября. INTERFAX.RU - В сентябре в России оборот ресторанов, кафе и баров сократился на 14% в годовом измерении и составил 132,6 млрд рублей, сообщил Росстат. В августе падение этого рынка составило 18,7%. По сравнению с объемом рынка за август оборот ресторанов, кафе и баров в сентябре вырос на 11,5% (в августе рост к предыдущему месяцу составлял 17,5%). В III квартале российский ресторанный рынок снизился на 20,1% (до 351,9 млрд рублей) после падения на 49,7% во II квартале. По итогам девяти месяцев 2020 года оборот ресторанов, кафе и баров сократился на 22,8%, до 947,5 млрд рублей.]]></text>
+</doc>

@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">734874</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/734874</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-30 10:20</datetime>
+  <title auto="true" type="str" verify="true">Лукашенко назначил нового начальника минской милиции</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Белоруссия</tag>
+    <tag type="str">Минск</tag>
+    <tag type="str">Александр Лукашенко</tag>
+    <tag type="str">Михаил Гриб</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 30 октября. INTERFAX.RU - Президент Белоруссии Александр Лукашенко в пятницу назначил Михаила Гриба начальником ГУВД Мингорисполкома, сообщил близкий к пресс-службе главы государства телеграм-канал "Пул первого". До этого Гриб занимал должность начальника УВД Витебского облисполкома. Как сообщает госагентство БелТА, в пятницу Лукашенко представил коллективу министерства внутренних дел  нового министра  Ивана Кубракова и начальника ГУВД Минска Михаила Гриба.]]></text>
+</doc>

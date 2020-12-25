@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">731834</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/731834</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-16 16:06</datetime>
+  <title auto="true" type="str" verify="true">Кафе и рестораны Саратовской области будут работать только до 21:00</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Саратовская область</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 16 октября. INTERFAX.RU - Правительство Саратовской области с 16 октября ввело ограничения в работе предприятий общественного питания, сообщае в пятницут оперативный штаб. "Работа кафе и ресторанов региона с неукоснительным соблюдением всех требований Роспотребнадзора разрешается с 8:00 до 21:00. Данные меры приняты в целях противодействия распространению коронавирусной инфекции",- говорится в сообщении. По данным Минздрава области, в регионе зарегистрировано 17 756 зараженных COVID-19, выздоровело 11 978 человек, скончались 132.]]></text>
+</doc>

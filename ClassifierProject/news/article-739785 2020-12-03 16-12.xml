@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">739785</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/739785</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-12-03 16:12</datetime>
+  <title auto="true" type="str" verify="true">Заседание ОПЕК перенесли на час</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">ОПЕК</tag>
+    <tag type="str">нефть</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 3 декабря. INTERFAX.RU - Заседание министров стран ОПЕК+ переносится на час, пишет агентство Bloomberg со ссылкой на свои источники. Оно должно было начаться в 16:00. Утром появилась информация, что страны ОПЕК+ начали обсуждать возможность небольшого наращивания добычи с января или чуть позже. Консенсус между тем пока не достигнут.]]></text>
+</doc>

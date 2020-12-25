@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">741805</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/741805</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-12-17 17:04</datetime>
+  <title auto="true" type="str" verify="true">Путин не исключил создания в РФ "лайт-вакцины" с эффективностью 85%</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Владимир Путин</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 декабря. INTERFAX.RU - Россия рассматривает возможность создания лайт-вакцины центра имени Гамалеи с эффективностью 85%, которой можно будет привить от коронавируса сразу десятки миллионов россиян. "У нас есть один из вариантов - это создать, как специалисты говорят, лайт-вакцину гамалеевскую, делать одну только прививку", - сказал президент РФ Владимир Путин журналистам после ежегодной пресс-конференции в четверг. "Она (вакцина) будет работать покороче, уровень защиты будет поменьше, но все равно до 85% будет доходить", - уточнил он.]]></text>
+</doc>

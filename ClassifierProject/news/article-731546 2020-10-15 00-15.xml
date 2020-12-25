@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">731546</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/731546</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-15 00:15</datetime>
+  <title auto="true" type="str" verify="true">"Химки" уступили "Реалу" в матче Евролиги</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">баскетбол</tag>
+    <tag type="str">Евролига</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 15 октября. INTERFAX.RU - Московский баскетбольный клуб "Химки" потерпел поражение от мадридского "Реала" в гостевом матче третьего тура Евролиги. Результат встречи, прошедшей в Мадриде, - 94:85 (25:25, 24:16, 21:16, 24:28) в пользу "Реала". "Реал", на счету которого одна победа и два поражения, занимает 15-е место в турнирной таблице. "Химки", проигравшие все три стартовых матча, находятся на предпоследнем, 17-м месте.]]></text>
+</doc>

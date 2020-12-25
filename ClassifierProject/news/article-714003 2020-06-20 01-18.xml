@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">714003</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/714003</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-06-20 01:18</datetime>
+  <title auto="true" type="str" verify="true">"Севилья" и "Барселона" сыграли вничью в чемпионате Испании</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Испания</tag>
+    <tag type="str">футбол</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 20 июня. INTERFAX.RU - Встреча 30-го тура чемпионата Испании по футболу между "Севильей" и "Барселоной" завершился вничью. Результат матча, прошедшего на поле "Севильи", - 0:0. "Барселона" лидирует в турнирной таблице, набрав 65 очков. "Севилья" – на третьем месте (52). Между ними располагается "Реал" (62). Прерванный из-за пандемии коронавируса чемпионат Испании возобновился 11 июня. Матчи проходят при пустых трибунах.]]></text>
+</doc>

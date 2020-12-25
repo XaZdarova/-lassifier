@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">738277</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/738277</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-11-23 11:35</datetime>
+  <title auto="true" type="str" verify="true">В отделении полиции на северо-западе Москвы произошел пожар</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">МЧС</tag>
+    <tag type="str">МВД</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 23 ноября. INTERFAX.RU - Пожар в здании УВД на северо-западе Москвы потушен, сообщили "Интерфаксу" в пресс-службе столичного главка МЧС в понедельник. На втором этаже административного двухэтажного здания по Маршала Конева, 6 загорелись личные вещи на площади 2 кв. метра, заявил собеседник агентства. "Возгорание ликвидировано", - сказали в МЧС. Ранее о возгорании в здании следственного управления УВД Северо-Западного административного округа "Интерфаксу" сообщил информированный источник. По словам собеседника агентства, со второго этажа шел дым, была проведена эвакуация людей.]]></text>
+</doc>

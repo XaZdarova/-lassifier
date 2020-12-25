@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">735792</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/735792</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-05 22:52</datetime>
+  <title auto="true" type="str" verify="true">Электричка сошла с рельсов под Москвой</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">МЖД</tag>
+    <tag type="str">Москва</tag>
+    <tag type="str">Малоярославец</tag>
+    <tag type="str">Толстопальцево</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 5 ноября. INTERFAX.RU - Электричка сошла с рельсов на станции Толстопальцево Киевского направления Московской железной дороги, сообщили "Интерфаксу" в пресс-службе Московской железной дороги. Происшествие случилось в 21:04. С рельсов сошли первый и частично второй вагон поезда №7161 Москва – Малоярославец. При аварии никто не пострадал, пассажиров эвакуировали из поезда. Сход электрички затруднил движение на Киевском направлении железной дороги. На устранение последствий ЧП отправили восстановительный поезд со станции Бекасово. Эксперты начали доследственную проверку причин происшествия.]]></text>
+</doc>

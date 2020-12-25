@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">735154</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/735154</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-01 21:08</datetime>
+  <title auto="true" type="str" verify="true">80 горняков нефтешахты в Республике Коми эвакуированы из-за пожара</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Республика Коми</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 1 ноября. INTERFAX.RU - В Коми из-за пожара эвакуируют горняков нефтешахты, сообщил "Интерфаксу" информированный источник. "Пожар произошел на нефтешахте "Яреганефть" в Ухте. В забое находилось 80 горняков, их эвакуируют", - сказал источник. Информации о пострадавших нет. "Яреганефть" принадлежит "Лукойлу". Официальным подтверждением информации о пожаре "Интерфакс" не располагает.]]></text>
+</doc>

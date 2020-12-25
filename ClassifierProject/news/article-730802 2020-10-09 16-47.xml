@@ -1,0 +1,15 @@
+<doc>
+  <id auto="true" type="str" verify="true">730802</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/730802</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-09 16:47</datetime>
+  <title auto="true" type="str" verify="true">Минобороны Армении сообщило о втором за день обстреле Степанакерта</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Арцрун Ованнисян</tag>
+    <tag type="str">Армения</tag>
+    <tag type="str">Азербайджан</tag>
+    <tag type="str">Степанакерт</tag>
+    <tag type="str">Нагорный Карабах</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 9 октября. INTERFAX.RU - Вооруженные силы Азербайджана вновь нанесли удары по столице непризнанной Нагорно-Карабахской республики (НКР) Степанакерту. "Только что нанесены очередные удары по Степанакерту", - сообщил  на своей странице в фейсбуке  представитель Минобороны Армении Арцрун Ованнисян. Это уже второй обстрел Степанакерта в пятницу.]]></text>
+</doc>

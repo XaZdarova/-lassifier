@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">735537</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/735537</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-04 04:24</datetime>
+  <title auto="true" type="str" verify="true">Байден лидирует в Техасе</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">США</tag>
+    <tag type="str">Джо Байден</tag>
+    <tag type="str">Дональд Трамп</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 4 ноября. INTERFAX.RU - Кандидат от Демократической партии Джо Байден опережает действующего президента Дональда Трампа в штате Техас, свидетельствуют первые результаты, опубликованные Fox News. После подсчета 23% голосов у Байдена - 51,2%. Трамп набирает 47,4%. Победа в Техасе очень важна для кандидатов в президенты: это второй после Калифорнии штат по числу выборщиков. Здесь их 38. Для победы на выборах одному из кандидатов необходимо набрать минимум 270 голосов выборщиков.]]></text>
+</doc>

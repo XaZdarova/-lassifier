@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">717543</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/717543</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-07-15 20:00</datetime>
+  <title auto="true" type="str" verify="true">"Спартак" разгромил "Ахмат" в чемпионате России по футболу</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 15 июля. INTERFAX.RU - Футболисты московского "Спартака" со счетом 3:0 обыграли грозненский "Ахмат" в матче 29-го тура чемпионата Тинькофф Российской премьер-лиги.             На 51-й минуте встречи, прошедшей в Москве, гол провел Роман Зобнин. На 81-й отличился Александр Соболев. На четвертой минуте компенсированного времени точный удар нанес Гус Тиль.             "Спартак" набрал 36 очков и поднялся на восьмое место в турнирной таблице. "Ахмат" – на 13-м месте, 31 очко.]]></text>
+</doc>

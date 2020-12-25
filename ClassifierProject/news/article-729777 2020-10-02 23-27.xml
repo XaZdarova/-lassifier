@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">729777</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/729777</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-02 23:27</datetime>
+  <title auto="true" type="str" verify="true">В Азербайджане сообщили о 230 уничтоженных единицах техники Армении</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Азербайджан</tag>
+    <tag type="str">Армения</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 2 октября. INTERFAX.RU - Минобороны Азербайджана сообщило о 230 уничтоженных единицах техники Армении.  "По состоянию на 20:00 2 октября подразделения Азербайджанской Армии уничтожили 230 танков и другой бронетехники, 250 артиллерийских установок, минометов, систем залпового огня, 38 средств ПВО, 10 командных пунктов, 7 складов с боеприпасами, 1 ракетный комплекс С-300", - сообщили агентству "Интерфакс-Азербайджан" в министерстве обороны страны.]]></text>
+</doc>

@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">737377</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/737377</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-16 22:09</datetime>
+  <title auto="true" type="str" verify="true">Четыре человека погибли в ДТП в Пензенской области</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Пензенская область</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 16 ноября. INTERFAX.RU - Автокатастрофа в Пензенской области в понедельник вечером унесла жизни четырех человек, сообщает региональное УГИБДД. ДТП произошло в 19:35 мск на 382 км автомобильной дороги "Нижний-Новгород - Саратов": столкнулись автомобили "Лада Приора", "Toyota Land Cruiser" и автовоз. "В результате происшествия четыре пассажира в автомобиле "Приора" погибли на месте", - говорится в сообщении. Получили ранения еще два человека.]]></text>
+</doc>

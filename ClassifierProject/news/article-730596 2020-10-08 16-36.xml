@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">730596</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/730596</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-08 16:36</datetime>
+  <title auto="true" type="str" verify="true">Росгвардия и МВД Белоруссии обсудят соглашение о сотрудничестве</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Белоруссии</tag>
+    <tag type="str">МВД</tag>
+    <tag type="str">Росгвардия</tag>
+    <tag type="str">Михаил Мишустин</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 8 октября. INTERFAX.RU - Премьер-министр Михаил Мишустин поручил провести переговоры о заключении соглашения о сотрудничестве между Росгвардией и Министерством внутренних дел Белоруссии. Об этом говорится в распоряжении правительства на портале правовой информации. Такое предложение поступило от Росгвардии. Его поддержали российские МВД, ФСБ и МИД.]]></text>
+</doc>

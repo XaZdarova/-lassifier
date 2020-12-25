@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">735013</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/735013</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-30 21:30</datetime>
+  <title auto="true" type="str" verify="true">Роналду вылечился от коронавируса</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Криштиану Роналду</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 30 октября. INTERFAX.RU - Нападающий итальянского "Ювентуса" и сборной Португалии по футболу Криштиану Роналду вылечился после болезни, вызванной пандемией коронавируса. Как сообщает пресс-служба "Ювентуса", очередной тест спортсмена на COVID-19 дал отрицательный результат. Таким образом, футболист уже не подвергается домашней изоляции. 13 октября сообщалось, что Роналду  заразился  коронавирусом, 22 октября появилась информация, что он вновь  провалил  тест. Из-за этого ему пришлось пропустить матчи "Ювентуса" и сборной Португалии.]]></text>
+</doc>

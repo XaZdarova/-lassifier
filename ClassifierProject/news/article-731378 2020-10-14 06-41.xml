@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">731378</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/731378</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-14 06:41</datetime>
+  <title auto="true" type="str" verify="true">Рейс AzurAir из Красноярска в Анталию задержан из-за неисправности самолета</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">AzurAir</tag>
+    <tag type="str">Красноярск</tag>
+    <tag type="str">Турция</tag>
+    <tag type="str">Анталия</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 14 октября. INTERFAX.RU - Вылет самолета Boeing 737-800 авиакомпании AzurAir из Красноярска в Анталию (Турция) задержан из-за технической неисправности воздушного судна, сообщает Западно-Сибирская транспортная прокуратура. Отправление рейса, следовавшего через Самару, было назначено на 01:45 по местному времени в среду. Из-за неисправности самолета вылет был отложен до прибытия резервного воздушного судна. На рейс зарегистрированы 186 пассажиров. Пассажиры обеспечены напитками и питанием, 61 человек размещен в гостинице. Транспортная прокуратура проводит проверку соблюдения законодательства о безопасности полетов и контролирует соблюдение прав пассажиров.]]></text>
+</doc>

@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">730092</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/730092</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-05 19:24</datetime>
+  <title auto="true" type="str" verify="true">Хачанов проиграл Джоковичу в четвертом круге Roland Garros</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+    <tag type="str">Roland Garros</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 5 октября. INTERFAX.RU - Российский теннисист Карен Хачанов потерпел поражение от лидера мирового рейтинга серба Новака Джоковича в матче четвертого круга турнира Большого шлема Roland Garros во Франции. Результат матча – 6:4, 6:3, 6:3 в пользу Джоковича. Продолжительность игры составила 2 часа 25 минут. Таким образом, Хачанов выбывает из турнира. Он занимает 16-е место в рейтинге Ассоциации теннисистов-профессионалов (ATP).  С Джоковичем в официальных турнирах встретился в пятый раз, до этого один матч выиграл, три – проиграл. На турнирах Большого шлема его наивысшим достижением является выход в четвертьфинал Roland Garros год назад. Турнирный путь на Roland Garros-2020 из россиян продолжает Андрей Рублев, который в четвертьфинале сыграет с греком Стефаносом Циципасом.]]></text>
+</doc>

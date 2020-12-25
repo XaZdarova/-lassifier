@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">720996</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/720996</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-09 22:02</datetime>
+  <title auto="true" type="str" verify="true">"Спартак" и "Сочи" сыграли вничью в матче РПЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 9 августа. INTERFAX.RU - Матч первого тура чемпионата Российской премьер-лиги между московским "Спартаком" и ФК "Сочи" завершился вничью - 2:2. На восьмой минуте "Спартак" вышел вперед благодаря голу Александра Соболева. Через две минуты Джордан Ларссон удвоил счет. Соперник ответил двумя точными ударами с пенальти – в исполнении Дмитрия Полоза (15-я минута) и Кристиана Нобоа (90). Новичок "Спартака" Александр Кокорин в заявку не попал из-за травмы.]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">737545</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/737545</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-17 18:47</datetime>
+  <title auto="true" type="str" verify="true">Летевший из Грозного в Москву самолет вынужденно сел в Астрахани</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Грозный</tag>
+    <tag type="str">Москва</tag>
+    <tag type="str">Астрахань</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 ноября. INTERFAX.RU - Авиарейс "Грозный - Москва" совершил внеплановую посадку в аэропорту Астрахани, сообщили "Интерфаксу" в главке МЧС по региону. По словам представителя управления, посадка прошла в штатном режиме без погибших и пострадавших. Ранее со ссылкой на информированный источник сообщалось о том, что около 18:00 самолет приземлился в астраханском аэропорту. По предварительной информации, экипаж принял решение о внеплановом приземлении из-за проблем в двигательном отсеке.]]></text>
+</doc>

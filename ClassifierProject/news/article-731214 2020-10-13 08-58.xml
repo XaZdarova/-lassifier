@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">731214</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/731214</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-13 08:58</datetime>
+  <title auto="true" type="str" verify="true">Источник сообщил о двух ликвидированных в Грозном боевиках</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Грозный</tag>
+    <tag type="str">Чечня</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 13 октября. INTERFAX.RU - В Грозном произошла перестрелка силовиков с предполагаемыми участниками бандформирований, ликвидированы двое боевиков, сообщил "Интерфаксу" осведомленный источник. По его словам, был ранен сотрудник оперативных служб. Перестрелка произошла в Октябрьском районе. Других подробностей он не раскрыл. "Интерфакс" пока не располагает официальным подтверждением этой информации.]]></text>
+</doc>

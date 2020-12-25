@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">739460</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/739460</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-12-01 16:36</datetime>
+  <title auto="true" type="str" verify="true">Автомобиль наехал на пешеходов в немецком городе Трир</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Германия</tag>
+    <tag type="str">Трир</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 1 декабря. INTERFAX.RU - В городе Трир в Германии автомобиль наехал на пешеходов, несколько человек пострадали, сообщила полиция ФРГ. "Несколько раненых в результате въезда автомобиля на пешеходную зону в Трире", - сказано в сообщении полиции в твиттере. Сотрудники правоохранительных органов находятся на месте событий, другие подробности пока не сообщаются.]]></text>
+</doc>

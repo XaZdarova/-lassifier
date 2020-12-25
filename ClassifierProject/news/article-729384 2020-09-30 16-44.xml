@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">729384</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/729384</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-09-30 16:44</datetime>
+  <title auto="true" type="str" verify="true">РФ за три года потратит на космическую программу около 320 млрд рублей</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Россия</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 30 сентября. INTERFAX.RU - Бюджетные ассигнования на выполнение в России Федеральной космической программы в 2021-2023 годах составят свыше 319 млрд рублей, говорится в проекте трехлетнего федерального бюджета. Согласно документу, на выполнение ФКП выделено 319,19 млрд рублей. Еще 105,2 млрд рублей планируется потратить на выполнение Федеральной программы развития космодромов.]]></text>
+</doc>

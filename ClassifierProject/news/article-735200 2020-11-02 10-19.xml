@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">735200</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/735200</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-11-02 10:19</datetime>
+  <title auto="true" type="str" verify="true">Mail.ru Group продал картографический сервис Maps.me за 1,5 млрд рублей</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Mail.ru Group</tag>
+    <tag type="str">Maps.me</tag>
+    <tag type="str">Daegu Limited</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 2 ноября. INTERFAX.RU - Mail.ru Group объявил о продаже картографического сервиса Maps.me за 1,5 млрд рублей. Как сообщается в пресс-релизе компании, сделка уже закрыта, покупателем выступила компания Daegu Limited, которая входит в Parity.com Group. Сделка состоялась в рамках стратегии Mail.ru Group по развитию ключевых активов, в рамках которой направление международного туризма является непрофильным. Интернет-холдинг приобрел проект Maps.me в 2014 году за 542 млн рублей. В 2019 году выручка картографического сервиса составила 159 млн рублей, убыток по EBITDA – 25 млн рублей. Количество загрузок приложения Maps.me превышает 140 млн, количество пользователей в месяц составляет 10 млн человек.]]></text>
+</doc>

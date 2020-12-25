@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">730764</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/730764</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-09 13:57</datetime>
+  <title auto="true" type="str" verify="true">Азербайджан заявил о новых обстрелах населенных пунктов армянскими военными</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Азербайджан</tag>
+    <tag type="str">Армения</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 9 октября. INTERFAX.RU - Населенные пункты в Бардинском и Агдамском районах Азербайджана вновь подверглись обстрелу с армянской стороны, сообщает в пятницу Минобороны Азербайджана. Отмечается, что сейчас обстрел продолжается. Кроме этого, армянские военные обстреливают город Мингечевир и Агджабединский район, говорится в сообщении. Вместе с тем в министерстве заявили, что азербайджанская военная операция в Нагорном Карабахе продолжается.]]></text>
+</doc>

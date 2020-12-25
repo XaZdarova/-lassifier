@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">735006</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/735006</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-30 21:00</datetime>
+  <title auto="true" type="str" verify="true">В кировской деревне при пожаре погибли четверо маленьких детей</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">СКР</tag>
+    <tag type="str">Кировская область</tag>
+    <tag type="str">Ложкари</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 30 октября. INTERFAX.RU - В деревне Ложкари Юрьянского района Кировской области 30 октября произошел пожар в многоквартирном трехэтажном доме. Горела одна квартира. Там погибли дети в возрасте от восьми месяцев до четырех лет,  сообщили  в областном управлении СК. По факту проводится доследственная проверка. Причины пожара выясняются. В СК уточнили, что пожар начался, когда дети были дома одни.]]></text>
+</doc>

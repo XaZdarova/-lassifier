@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">738622</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/738622</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-25 12:24</datetime>
+  <title auto="true" type="str" verify="true">В Сингапуре уже две недели не выявляли новых случаев COVID-19</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Сингапур</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 25 ноября. INTERFAX.RU - В Сингапуре уже 15 дней не регистрировали новых случаев заражения коронавирусом среди местных жителей, сообщает газета Straits Times. Это самый продолжительный период без новых случаев инфицирования среди сингапурцев с начала пандемии. При этом медики в среду выявили семь так называемых завезенных случаев заражения у людей, прибывших в Сингапур из других стран. Пациентам отправили уведомления, чтобы они оставались дома. С начала пандемии в Сингапуре коронавирусом заразились более 58 тыс. человек, 28 умерли. В больницах остаются 37 человек.]]></text>
+</doc>

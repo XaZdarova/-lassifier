@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">738098</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/738098</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-20 23:59</datetime>
+  <title auto="true" type="str" verify="true">Pfizer и BioNTech подали заявку на использование в США их вакцины от COVID-19</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Pfizer</tag>
+    <tag type="str">BioNTech</tag>
+    <tag type="str">COVID-19</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 20 ноября. INTERFAX.RU - Американская компания Pfizer и немецкая BioNTech в пятницу подали запрос на экстренное использование в США их вакцины от коронавируса COVID-19. "Pfizer и BioNTech передали запрос на экстренное использование нашей вакцины от COVID-19 в управление по санитарному надзору за качеством пищевых продуктов и медикаментов (FDA)", – сообщила Pfizer в твиттере. Ожидается, что рассмотрение запроса займет минимум несколько недель. Заявка на экстренное использование – это запрос на начало применения препарата, не дожидаясь завершения абсолютно всех проверок его воздействия на организм. Вакцина показала  эффективность в 95%  на завершающем испытании. Ранее президент США Дональд Трамп обвинил Pfizer в том, что она затягивала объявление результатов тестирования вакцины до конца выборов. Трамп считает, что хорошие новости о новой вакцине помогли бы ему одержать победу.]]></text>
+</doc>

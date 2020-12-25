@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">740679</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/740679</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-12-10 09:15</datetime>
+  <title auto="true" type="str" verify="true">Полиция пришла с проверкой в мэрию Красноярска</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Красноярск</tag>
+    <tag type="str">МВД</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 10 декабря. INTERFAX.RU - Оперативники пришли с проверкой в несколько подразделений администрации Красноярска, сообщил "Интерфаксу" информированный источник. "Полиция проводит оперативные мероприятия в департаменте муниципального имущества и земельных отношений, а также в департаменте градостроительства и в управлении архитектуры Красноярска", - сказал собеседник агентства. В мэрии агентству подтвердили факт проведения проверок, однако не смогли назвать их причину. Между тем, в пресс-службе краевого главка МВД не прокомментировали данную информацию.]]></text>
+</doc>

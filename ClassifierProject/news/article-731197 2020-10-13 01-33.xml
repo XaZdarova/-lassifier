@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">731197</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/731197</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-13 01:33</datetime>
+  <title auto="true" type="str" verify="true">Правозащитники сообщили о задержании 70 человек на протестах в Белоруссии</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Белоруссия</tag>
+    <tag type="str">Минск</tag>
+    <tag type="str">Витебск</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 13 октября. INTERFAX.RU - На несанкционированных акциях протеста в Белоруссии в понедельник были задержаны около 70 человек, сообщает незарегистрированный в республике правозащитный центр "Весна". Список размещен на сайте центра, на данный момент в нем 67 фамилий. Подавляющее большинство были задержаны в Минске, еще один человек в Витебске. Среди задержанных двое несовершеннолетних, включая мальчика 13 лет, которого позже отпустили. При этом сообщается, что среди задержанных есть пострадавшие. Троих увезла "скорая помощь".]]></text>
+</doc>

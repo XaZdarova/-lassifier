@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">726677</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/726677</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-09-13 07:18</datetime>
+  <title auto="true" type="str" verify="true">Арабская коалиция совершила авианалет на позиции йеменских повстанцев</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Саудовская Аравия</tag>
+    <tag type="str">Йемен</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 13 сентября. INTERFAX.RU - Самолеты сил арабской коалиции под руководством Саудовской Аравии совершили утром в воскресенье налет на объекты йеменских повстанцев-хуситов,  сообщил  телеканал Al Arabiya. В сообщении отмечается, что в результате удара по авиабазе аль-Дулайми были уничтожены четыре беспилотника, которые хуситы используют для атак на Саудовскую Аравию. Ударам также подверглись казармы хуситов, центр по производству оружия. О потерях не сообщается.]]></text>
+</doc>

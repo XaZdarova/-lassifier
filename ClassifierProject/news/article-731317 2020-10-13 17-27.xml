@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">731317</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/731317</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-13 17:27</datetime>
+  <title auto="true" type="str" verify="true">Койки для больных коронавирусом заняты в России уже на 90%</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Олег Гриднев</tag>
+    <tag type="str">Минздрав РФ</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 13 октября. INTERFAX.RU - Койки для больных коронавирусом загружены в России на 90%, сообщил замминистра здравоохранения РФ Олег Гриднев. "На сегодняшний день коечный фонд занят практически на 90%", - сказал Гриднев на конференции в РАНХиГС во вторник. По его словам, из них 20% пациентов на койках находятся в состоянии легкой степени болезни. Ранее во вторник оперштаб сообщил, что число случаев заболевания коронавирусной инфекцией нового типа в России за сутки выросло  на 13 868 . Это новый антирекорд по заражениям: 11 октября было выявлено  13 634 новых случая .]]></text>
+</doc>

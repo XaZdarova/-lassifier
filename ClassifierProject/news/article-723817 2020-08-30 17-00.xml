@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">723817</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/723817</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-30 17:00</datetime>
+  <title auto="true" type="str" verify="true">Футболист Головин получил травму в матче чемпионата Франции</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Александр Головин</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 30 августа. INTERFAX.RU - Полузащитник футбольного клуба "Монако" Александр Головин, вызванный сборную России, получил травму в матче чемпионата Франции, сообщает твиттер клуба. Головин был заменен в матче 2-го тура против "Метца". 24-летний футболист покинул поле уже на 15-й минуте. Ранее был обнародован  состав национальной команды  на первые матчи Лиги наций. Первый матч российская сборная проведет 3 сентября в Москве против команды Сербии. 6 сентября команда сыграет в гостях со сборной Венгрии.]]></text>
+</doc>

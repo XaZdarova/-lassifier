@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">741645</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/741645</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-12-16 22:17</datetime>
+  <title auto="true" type="str" verify="true">"Зенит" обыграл "Спартак" в чемпионате России по футболу</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 16 декабря. INTERFAX.RU - Футболисты петербургского "Зенита" со счетом 3:1 нанесли поражение московскому "Спартаку" в домашнем матче 19-го тура чемпионата Российской премьер-лиги. На 8-й минуте в составе "Зенита" гол провел Сердар Азмун, на 73-й – Ярослав Ракицкий, на 90+3 – Артем Дзюба. Еще один мяч футболисты "Зенита" забили в свои ворота: автором автогола стал Деян Ловрен (22). "Зенит" уходит на зимний перерыв в качестве единоличного лидера чемпионата, в его активе 41 очко. "Спартак" – на втором месте, 35 баллов.]]></text>
+</doc>

@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">737723</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/737723</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-11-18 19:38</datetime>
+  <title auto="true" type="str" verify="true">Повторный тест футболиста Суареса подтвердил наличие COVID-19</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 18 ноября. INTERFAX.RU - Второй тест футболиста "Атлетико" и сборной Уругвая Луиса Суареса на коронавирус также оказался положительным, сообщает Mundo Deportivo. О положительном результате первого теста сообщалось в понедельник. Второе тестирование футболист провел во вторник по окончании матча Уругвай – Бразилия; в этой игре в связи с ситуацией он принять участия не смог. Теперь Суарес не сможет сыграть за "Атлетико" в субботнем матче чемпионата Испании против "Барселоны", цвета которой защищал последние несколько лет. Под вопросом его участие в матче Лиги чемпионов против московского "Локомотива" на следующей неделе.]]></text>
+</doc>

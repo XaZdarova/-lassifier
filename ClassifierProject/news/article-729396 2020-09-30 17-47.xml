@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">729396</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/729396</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-09-30 17:47</datetime>
+  <title auto="true" type="str" verify="true">Запасы нефти в США снизились на 1,98 млн баррелей за неделю</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">США</tag>
+    <tag type="str">Минэнерго</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 30 сентября. INTERFAX.RU - Коммерческие запасы нефти в США на прошлой неделе уменьшились на 1,98 млн баррелей - до 492,43 млн баррелей, сообщило Министерство энергетики страны. Товарные резервы бензина выросли на 683 тыс. баррелей и составили 228,18 млн баррелей. Коммерческие запасы дистиллятов уменьшились на 3,18 млн баррелей, до 172,76 млн баррелей. Эксперты, опрошенные Bloomberg, ожидали роста резервов нефти на 1 млн баррелей, уменьшения запасов бензина на 1,4 млн баррелей и падения резервов дистиллятов на 1,2 млн баррелей.]]></text>
+</doc>

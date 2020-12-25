@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">728998</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/728998</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-09-28 18:39</datetime>
+  <title auto="true" type="str" verify="true">Запущенные с Плесецка спутники выведены на орбиту</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Союз</tag>
+    <tag type="str">Фрегат</tag>
+    <tag type="str">Плесецк</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 28 сентября. INTERFAX.RU -  Три спутника связи "Гонец-М" и 19 малых аппаратов, запущенные на ракете "Союз-2.1б" с космодрома Плесецк, выведены на орбиту, сообщили в департаменте информации и массовых коммуникаций Минобороны РФ. Ракета "Союз-2.1б" стартовала с космодрома Плесецк в Архангельской области в понедельник, 28 сентября. Через десять минут от нее отделился "Фрегат" с 22 спутниками.]]></text>
+</doc>

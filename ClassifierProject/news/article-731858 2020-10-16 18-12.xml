@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">731858</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/731858</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-16 18:12</datetime>
+  <title auto="true" type="str" verify="true">При пожаре на Дербентском коньячном заводе никто не пострадал</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Дербент</tag>
+    <tag type="str">МЧС</tag>
+    <tag type="str">Дербентский коньячный комбинат</tag>
+    <tag type="str">Дагестан</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 16 октября. INTERFAX.RU - В МЧС Дагестана сообщили, что пожар на Дербентском коньячном заводе потушен, никто не пострадал. Там горела крыша цеха розлива. Площадь возгорания составила 200 квадратных метров. "Время полного ликвидации - 16:46", - сказал представитель ведомства. Сейчас пожарные разбирают и проливают горевшие конструкции. Ранее о пожаре на заводе  сообщил  информированный источник "Интерфакса".]]></text>
+</doc>

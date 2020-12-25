@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">741222</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/741222</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-12-14 14:55</datetime>
+  <title auto="true" type="str" verify="true">Скончался бывший тренер "Ливерпуля" Жерар Улье</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Жерар Улье</tag>
+    <tag type="str">Ливерпуль</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 14 декабря. INTERFAX.RU - Пресс-служба английского футбольного клуба "Ливерпуль" сообщила в понедельник о кончине 73-летнего французского тренера Жерара Улье. По информации  издания  L'Equipe, Улье умер в воскресенье в Париже. Три недели назад он перенес операцию на сердце. Француз руководил "красными" шесть сезонов, приведя команду к победам в Кубке Лиги, Кубке Англии и Кубке УЕФА в сезоне 2000/2001. После операции на сердце в 2003 году Улье покинул клуб. В общей сложности на посту главного тренера "Ливерпуля" француз провел 307 матчей.]]></text>
+</doc>

@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">720894</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/720894</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-08 17:15</datetime>
+  <title auto="true" type="str" verify="true">"Ювентус" уволил Сарри с поста главного тренера</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Серия А</tag>
+    <tag type="str">Италия</tag>
+    <tag type="str">Ювентус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 8 августа. INTERFAX.RU - Туринский футбольный клуб "Ювентус" отправил Маурицио Сарри в отставку с поста главного тренера всего лишь после одного сезона работы. 61-летний Сарри подписал трехлетний контракт в прошлом году, перейдя в итальянскую команду из английского "Челси". Как  напоминает  "Би-би-си", специалист привел туринцев к девятому подряд титулу чемпионов Италии, но они выбыли из розыгрыша Лиги чемпионов на стадии 1/8 финала, проиграв "Лиону". В пятницу, 7 августа, "Ювентус"  выиграл  со счетом 2:1, но французы прошли дальше за счет забитых в гостях мячей.]]></text>
+</doc>

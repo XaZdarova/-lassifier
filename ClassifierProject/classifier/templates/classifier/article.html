@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Новостная статья</title>
+</head>
+<body>
+    <div>
+        <h1>Новостная статья</h1>
+        <ul>
+            <li>
+                <a href="/">Классификатор</a>
+            </li>
+            <li>
+                <a href="/collection">Коллекция текстов</a>
+            </li>
+        </ul>
+    </div>
+
+    <div id="content">
+        <h2 id="articleId"></h2>
+        <form>
+            <p>Ссылка на источник:</p><p hidden id="sourceError"></p>
+            <input type="url" id="source"/>
+            <p>Категория:</p>
+            <select id="category">
+                <option>В мире</option>
+                <option>В России</option>
+                <option>Москва</option>
+                <option>Экономика</option>
+                <option>Спорт</option>
+                <option>Культура</option>
+            </select>
+            <p>Дата публикации:</p><p hidden id="datetimeError"></p>
+            <input type="text" id="datetime"/>
+            <p>Заголовок:</p><p hidden id="titleError"></p>
+            <input type="text" id="title"/>
+            <p>Описание:</p><p hidden id="descriptionError"></p>
+            <input type="text" id="description"/>
+            <p>Текст:</p><p hidden id="textError"></p>
+            <textarea cols="100" rows="15" id="text"></textarea>
+            <p>Теги:</p><p hidden id="tagsError"></p>
+            <input type="text" id="tags"/>
+        </form>
+        <button onclick="deleteArticle()">Удалить новостную статью</button>
+        <p hidden id="deleteError"></p>
+        <button onclick="updateArticle()">Изменить новостную статью</button>
+        <p id="updateResult"></p>
+
+        <script src="/static/functionsForArticle.js"></script>
+        <script defer>
+            showArticle();
+        </script>
+
+    </div>
+
+</body>
+</html>

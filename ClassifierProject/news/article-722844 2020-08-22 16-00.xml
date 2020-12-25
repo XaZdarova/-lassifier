@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">722844</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/722844</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-22 16:00</datetime>
+  <title auto="true" type="str" verify="true">"Краснодар" уступил "Уралу" в чемпионате России по футболу</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 22 августа. INTERFAX.RU - Бронзовый призер предыдущего чемпионата России по футболу "Краснодар" потерпел поражение от "Урала" в четвертом туре Российской премьер-лиги-2020/21. Встреча прошла в Екатеринбурге и завершилась со счетом 1:0 в пользу хозяев. На третьей минуте гол провел Вячеслав Подберезкин. "Краснодар" доигрывал матч в меньшинстве: на 54-й минуте вторую желтую карточку, приведшую к удалению, получил Кайо Панталеан. Победа позволила "Уралу" набрать 5 очков и подняться на восьмое место в турнирной таблице. "Краснодар" – на четвертом месте, 6 баллов.]]></text>
+</doc>

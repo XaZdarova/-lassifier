@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">728824</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/728824</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-09-27 15:44</datetime>
+  <title auto="true" type="str" verify="true">Андрей Рублев выиграл теннисный турнир в Гамбурге</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+    <tag type="str">Андрей Рублев</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 27 сентября. INTERFAX.RU - Российский теннисист Андрей Рублев стал победителем турнира Гамбурге. В финале он одолел представителя Греции Стефаноса Циципаса – 6:4, 3:6, 7:5. Продолжительность матча составила 2 часа 21 минуту. В настоящее время Рублев является 14-й ракеткой мира, Циципас – шестой. Для 22-летнего россиянина этот турнир стал пятым официальным в профессиональной карьере в одиночном разряде, три из них он выиграл в нынешнем году. Призовой фонд турнира в Гамбурге составил 1 млн 203,960 тысяч евро.]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">721344</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/721344</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-11 20:15</datetime>
+  <title auto="true" type="str" verify="true">"Зенит" выиграл у "Ротора" в матче РПЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 11 августа. INTERFAX.RU - Футболисты петербургского "Зенита" со счетом 2:0 нанесли поражение волгоградскому "Ротору" в гостевом матче первого тура чемпионата Российской премьер-лиги.             На 21-й минуте гол провел Артем Дзюба, на 79-й – Себастьян Дриусси.             "Зенит" является действующим чемпионом России. "Ротор" вернулся в РПЛ, выиграв в прошлом сезоне первенство Футбольной национальной лиги.]]></text>
+</doc>

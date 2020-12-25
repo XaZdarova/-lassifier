@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">729584</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/729584</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-01 19:17</datetime>
+  <title auto="true" type="str" verify="true">В Италии выявили рекордное с апреля суточное число зараженных COVID-19</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Италия</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 1 октября. INTERFAX.RU - Более 2 тыс. зараженных коронавирусом COVID-19 зарегистрированы в Италии за сутки - это рекордный суточный показатель с апреля, сообщает в четверг Управление гражданской обороны страны. Управление сообщило о 2548 инфицированных, что на 697 человек больше, чем днем ранее. Отмечается, что 24 человека скончались, а 1140 выздоровели. Согласно данным статистического сайта Worldometers, всего в Италии за время пандемии выявили более 317 тыс. случаев заражения коронавирусом, из них более 35 тыс. инфицированных скончались.]]></text>
+</doc>

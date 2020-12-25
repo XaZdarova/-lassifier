@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">731943</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/731943</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-17 16:26</datetime>
+  <title auto="true" type="str" verify="true">Андрей Рублев стал финалистом теннисного турнира в Петербурге</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 октября. INTERFAX.RU - Российский теннисист Андрей Рублев завоевал путевку в финал проходящего в Санкт-Петербурге турнира. В полуфинале соревнования он одолел представителя Канады Дениса Шаповалова. Результат встречи – 4:6, 6:3, 6:4 в пользу россиянина. Продолжительность игры составила 2 часа 7 минут. В финале Рублев сыграет с победителем пары Борна Чорич (Хорватия) – Милош Раонич (Канада). Призовой фонд турнира составляет $1 млн 399,370 тыс.]]></text>
+</doc>

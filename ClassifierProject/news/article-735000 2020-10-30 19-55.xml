@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">735000</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/735000</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-30 19:55</datetime>
+  <title auto="true" type="str" verify="true">На греческом Самосе в результате землетрясения погибли 2 человека</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Греция</tag>
+    <tag type="str">Самос</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 30 октября. INTERFAX.RU - На греческом острове Самос из-за землетрясения в восточной части Эгейского моря погибли два человека, сообщают местные СМИ. По их данным, двое подростков погибли в результате обрушения стены. Еще 8 человек пострадали, они доставлены в больницу, их травмы не опасны для жизни. Отмечается, что на острове продолжаются поисково-спасательные работы. Днем 30 октября в районах Борнова и Байраклы в турецком городе Измир произошло землетрясение магнитудой 7.0. Очаг находился на глубине 10 км. В Турции  погибли четыре человека.]]></text>
+</doc>

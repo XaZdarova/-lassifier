@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">718574</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/718574</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-07-22 22:53</datetime>
+  <title auto="true" type="str" verify="true">Лучшим вратарем чемпионата России по футболу признан Беленов</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 22 июля. INTERFAX.RU - Российская премьер-лига назвала лучшего вратаря сезона-2019/20. Лучшим стал голкипер "Уфы" Александр Беленов, который сыграл 13 матчей "на ноль", как и Юрий Дюпин из "Рубина" и Игорь Акинфеев из ЦСКА. Однако Беленов провел меньше игровых минут, по сравнению с ними. Беленов принял участие в 26 матчах, Дюпин и Акинфеев – во всех 30. В трех предыдущих сезонах лучшим вратарем признавался Акинфеев. В среду состоялся заключительный 30-й тур РПЛ. Чемпионом России ранее досрочно стал "Зенит".]]></text>
+</doc>

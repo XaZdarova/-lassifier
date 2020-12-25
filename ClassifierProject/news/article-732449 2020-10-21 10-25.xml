@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">732449</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/732449</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-21 10:25</datetime>
+  <title auto="true" type="str" verify="true">Никита Михалков стал Героем Труда РФ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Никита Михалков</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 21 октября. INTERFAX.RU - Президент Владимир Путин подписал указ о присвоении звания Героя Труда Российской Федерации кинорежиссеру Никите Михалкову, сообщила в среду пресс-служба Кремля. "За особые заслуги в развитии отечественной культуры, искусства и многолетнюю плодотворную работу присвоить звание Героя Труда Российской Федерации Михалкову Никите Сергеевичу - кинорежиссеру, общественному деятелю, город Москва", - говорится в тексте указа.]]></text>
+</doc>

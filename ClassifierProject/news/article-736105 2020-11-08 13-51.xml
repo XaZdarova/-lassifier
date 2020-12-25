@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">736105</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/736105</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-08 13:51</datetime>
+  <title auto="true" type="str" verify="true">В Новосибирской области сошел с рельс 31 вагон грузового состава</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Новосибирская область</tag>
+    <tag type="str">РЖД</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 8 ноября. INTERFAX.RU - Сход 31 вагона грузового поезда произошел на станции Татарская Новосибирского региона Западно-Сибирской железной дороги. Об этом в воскресенье "Интерфаксу" сообщили в пресс-службе Западно-Сибирской железной дороги ОАО "РЖД". Как отметил сотрудник пресс-службы, в результате происшествия никто не пострадал. Ожидаются задержки пассажирских поездов, сказал он. Для ликвидации последствий к месту схода были направлены восстановительные поезда станций Татарская и Омск.]]></text>
+</doc>

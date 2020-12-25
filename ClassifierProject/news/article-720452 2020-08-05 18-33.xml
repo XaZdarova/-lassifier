@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">720452</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/720452</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-05 18:33</datetime>
+  <title auto="true" type="str" verify="true">"Локомотив" расстался с Джефферсоном Фарфаном</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">ФК Локомотив</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 5 августа. INTERFAX.RU - Московский футбольный клуб объявил об уходе из команды полузащитника Джефферсона Фарфана. "Полузащитник "Локомотива" Джефферсон Фарфан покидает команду по истечении срока контракта", - говорится в сообщении, опубликованном на сайте клуба в среду. Футболист сборной Перу Фарфан присоединился к "Локомотиву" зимой 2017 года, в составе команды стал чемпионом страны, дважды выигрывал Кубок России и один раз Суперкубок. За московский клуб он отыграл в общей сложности 69 матчей, забил 25 мячей и сделал 12 голевых передач.]]></text>
+</doc>

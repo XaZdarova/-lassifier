@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">731002</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/731002</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-11 16:51</datetime>
+  <title auto="true" type="str" verify="true">Хэмилтон выиграл Гран-при Айфеля и повторил рекорд Шумахера</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">автоспорт</tag>
+    <tag type="str">Формула-1</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 11 октября. INTERFAX.RU - Британец Льюис Хэмилтон из команды Mercedes стал победителем Гран-при Айфеля, очередного этапа чемпионата мира по автогонкам класса "Формула-1". Вторым в немецком Нюрбурге стал нидерландец Макс Ферстаппен (Red Bull), третье место занял австралиец Даниэль Риккардо (Renault). Россиянин Даниил Квят, защищающий цвета команды Alpha Tauri, финишировал 15-м. Благодаря триумфу на очередном этапе, Хэмилтон повторил высшее достижение семикратного чемпиона мира немца Михаэля Шумахера: теперь у обоих по 91 выигранному этапу. В настоящее время Хэмилтон уверенно лидирует в личном зачете чемпионата 2020 года. Он является шестикратным и действующим чемпионом мира.]]></text>
+</doc>

@@ -1,0 +1,15 @@
+<doc>
+  <id auto="true" type="str" verify="true">737300</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/737300</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-11-16 14:20</datetime>
+  <title auto="true" type="str" verify="true">Мавзолей закроют из-за коронавируса</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">ФСО</tag>
+    <tag type="str">Кремль</tag>
+    <tag type="str">Москва</tag>
+    <tag type="str">мавзолей</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 16 ноября. INTERFAX.RU - Мавзолей Ленина и некрополь в Кремлевской стене закроются для посещения с 17 ноября из-за коронавируса, сообщила Федеральная служба охраны. Ранее мавзолей закрывали в марте, 1 июля в него снова начали пускать посетителей. В обычное время мавзолей Ленина открыт для посещения каждые вторник, среду, четверг и субботу с 10 до 13 часов.]]></text>
+</doc>

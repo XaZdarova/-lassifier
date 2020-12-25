@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">730298</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/730298</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-06 21:22</datetime>
+  <title auto="true" type="str" verify="true">В Пензе загорелось деревянное здание ресторана "Засека"</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Пенза</tag>
+    <tag type="str">Засека</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 октября. INTERFAX.RU - Деревянное здание ресторана "Засека" горит в Пензе, все задние охвачено огнем, сообщили "Интерфаксу" в МЧС по Пензенской области. Площадь пожара составляет 800 квадратных метров, сказал собеседник агентства. Сигнал о пожаре поступил в 19:40 по московскому времени. На месте работают пожарные подразделения по повышенному вызову. Пострадавших нет. На сайте ресторана сообщается, что резной терем, в котором располагалось заведение, был построен в 1977 году, автором проекта основного здания стал художник-архитектор Пензы А.Б.Маматкадзе.]]></text>
+</doc>

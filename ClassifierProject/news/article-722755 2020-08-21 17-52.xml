@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">722755</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/722755</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-21 17:52</datetime>
+  <title auto="true" type="str" verify="true">Один из футболистов "Монако" подхватил COVID-19</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">ФК Монако</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 21 августа. INTERFAX.RU - Один из игроков выступающего в чемпионате Франции по футболу "Монако" заразился коронавирусом, сообщает пресс-служба клуба. Отмечается, что соответствующий футболист (его имя не указывается) находится в порядке, он был изолирован и находится под наблюдением медицинского персонала клуба. "Монако" является клубом полузащитника сборной России Александра Головина.]]></text>
+</doc>

@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">740669</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/740669</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-12-10 07:38</datetime>
+  <title auto="true" type="str" verify="true">Документы по вакцине Pfizer и BioNTech попали к хакерам</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">EMA</tag>
+    <tag type="str">Pfizer</tag>
+    <tag type="str">BioNTech</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 10 декабря. INTERFAX.RU - Европейское агентство по лекарственным средствам (EMA) подверглось кибератаке, некоторые документы по вакцине против COVID-19 компаний Pfizer и BioNTech попали к хакерам,  сообщила  компания BioNTech на своем сайте. "Сегодня мы были проинформированы Европейским агентством по лекарственным средствам (EMA) о том, что агентство подверглось кибератаке и что некоторые документы, относящиеся к нормативному представлению вакцины-кандидата BNT162b2 Pfizer и BioNTech против COVID-19, (...) были незаконно получены", - говорится в сообщении. Компании пока неизвестно, попали ли к хакерам данные участников исследования. "В настоящее время мы ждем дополнительной информации о расследовании EMA и будем реагировать соответствующим образом и в соответствии с законодательством ЕС", - добавили в компании. Накануне EMA  сообщило , что подверглось хакерской атаке. На тот момент подробностей агентство не смогло предоставить.]]></text>
+</doc>

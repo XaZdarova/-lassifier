@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">735735</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/735735</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-05 16:30</datetime>
+  <title auto="true" type="str" verify="true">Захваченные в Нигерии российские моряки освобождены</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Мария Захарова</tag>
+    <tag type="str">МИД РФ</tag>
+    <tag type="str">Нигерия</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 5 ноября. INTERFAX.RU - Двое российских моряков, захваченных пиратами у берегов Нигерии в начале сентября, освобождены, сообщила официальный представитель МИД РФ Мария Захарова. "31 октября были освобождены двое членов экипажа судна-рефрижератора Water Phoenix", - сказала Захарова на брифинге в четверг. Капитан судна и старший помощник капитана  были захвачены 8 сентября  в Гвинейском заливе у побережья Нигерии. "В настоящее время они доставлены в город Лагос, где пройдут медицинский осмотр", - добавила представитель МИД РФ.]]></text>
+</doc>

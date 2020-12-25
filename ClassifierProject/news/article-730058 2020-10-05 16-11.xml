@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">730058</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/730058</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-05 16:11</datetime>
+  <title auto="true" type="str" verify="true">Рублев вышел в четвертьфинал Roland Garros</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+    <tag type="str">Roland Garros</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 5 октября. INTERFAX.RU - Российский теннисист Андрей Рублев завоевал путевку в 1/4 финала турнира серии Большого шлема Roland Garros во Франции. В четвертом круге соревнования он одолел представителя Венгрии Мартона Фучовича. Результат встречи – 6:7 (4:7), 7:6, 6:4, 7:6 (7:3). Продолжительность матча составила 3 часа 57 минут. В настоящее время Рублев занимает 12-е место в мировом рейтинге, Фучович - на 63-м месте. Борьбу за выход в полуфинал Рублев поведет с победителем пары Григор Димитров (Болгария) – Стефанос Циципас (Греция). Для Рублева наивысшим достижением на турнирах Большого шлема являлись выходы в четвертьфинал US Open в 2017 и 2020 годах. На предыдущих Roland Garros ему не удавалось пройти во второй раунд.]]></text>
+</doc>

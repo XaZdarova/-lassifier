@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">730728</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/730728</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-10-09 11:20</datetime>
+  <title auto="true" type="str" verify="true">Число новых случаев COVID-19 в Москве за неделю выросло на 53%</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 9 октября. INTERFAX.RU - За последние сутки в столице подтвержден  3701 новый случай заражения  коронавирусной инфекцией, сообщил городской оперативный штаб в пятницу. "Число новых случаев COVID-19 за последнюю неделю на 53% больше, чем за предыдущую", - говорится в сообщении. По данным штаба, за сутки госпитализирован 1001 пациент с COVID-19. "Всего за последнюю неделю было госпитализировано на 12% пациентов больше, чем за предыдущую. На ИВЛ в больницах Москвы находится 250 человек", - уточняется в сообщении. За последние сутки в столице жертвами COVID-19 стали  33 человека , 1 424 пациента выздоровели.]]></text>
+</doc>

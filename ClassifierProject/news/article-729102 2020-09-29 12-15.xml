@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">729102</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/729102</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-09-29 12:15</datetime>
+  <title auto="true" type="str" verify="true">Переход между зданиями обрушился на шахте в Коми</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Коми</tag>
+    <tag type="str">Воркута</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 29 сентября. INTERFAX.RU - Обрушение перехода между зданиями произошло на поверхности шахты "Северная" в Воркуте (Коми) во вторник, сообщила пресс-служба регионального управления МЧС. "Поступило сообщение, что на поверхности шахты Северная произошло обрушение галереи (перехода) между зданиями", - говорится в сообщении. Информация о пострадавших уточняется. На место направлена группа пожарно-спасательного гарнизона, силы и средства военизированной горноспасательной части Печорского угольного бассейна.]]></text>
+</doc>

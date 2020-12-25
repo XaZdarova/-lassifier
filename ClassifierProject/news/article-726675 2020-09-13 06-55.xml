@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">726675</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/726675</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-09-13 06:55</datetime>
+  <title auto="true" type="str" verify="true">Один человек погиб в результате стрельбы в торговом центре в США</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">США</tag>
+    <tag type="str">Индиана</tag>
+    <tag type="str">Мишока</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 13 сентября. INTERFAX.RU - Стрельба произошла в торговом центре University Park Mall в американском городе Мишока (штат Индиана), один человек погиб,  сообщает  ABC News со ссылкой на местные власти. По данным телеканала, стрельба произошла около 15:00 по местному времени. Торговый центр был эвакуирован. Местный телеканал WSBT со ссылкой на полицию  сообщает , что погибший - 22-летний афроамериканец. Задержанных на данный момент нет. Торговый центр будет закрыт до конца дня.]]></text>
+</doc>

@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">735139</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/735139</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-11-01 17:47</datetime>
+  <title auto="true" type="str" verify="true">Россиянин Рублев выиграл теннисный турнир в Вене</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+    <tag type="str">Андрей Рублев</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 1 ноября. INTERFAX.RU - Российский теннисист Андрей Рублев стал триумфатором турнира серии ATP500 в Вене. В финале соревнования он нанес поражение представителю Италии Лоренцо Сонего. Результат встречи - 6:4, 6:4. Продолжительность матча составила 1 час 20 минут. В настоящее время Рублев занимает восьмое место в рейтинге ATP, Сонего - 42-е. Турнир в Вене стал седьмым, выигранным Рублевым в его карьере. Пять из этих турниров 23-летний россиянин выиграл в 2020 году. Призовой фонд турнира составил 1 млн 550,950 тыс. евро.]]></text>
+</doc>

@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">735844</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/735844</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-11-06 11:29</datetime>
+  <title auto="true" type="str" verify="true">Суточный прирост случаев COVID-19 в Москве приблизился к антирекорду</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 ноября. INTERFAX.RU - За последние сутки в Москве выявлено  6 253 новых случая , и этот показатель близок к абсолютному антирекорду, сообщили "Интерфаксу" в столичном оперативном штабе по контролю за COVID-19 в пятницу. Там отметили, что больший суточный прирост был зафиксирован только 7 мая: тогда за сутки диагноз был поставлен 6 703 пациентам. За последние сутки в столице было госпитализировано 1 415 пациентов с COVID-19 (сутками ранее - 1 143). На ИВЛ в больницах Москвы находятся 359 человек. Общее число выздоровевших в столице составило 332 984. Всего коронавирусом в Москве переболели 456 689 человек.]]></text>
+</doc>

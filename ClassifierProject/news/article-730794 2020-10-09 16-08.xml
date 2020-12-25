@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">730794</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/730794</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-09 16:08</datetime>
+  <title auto="true" type="str" verify="true">Россиянка Чараева вышла в финал юниорского Roland Garros</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+    <tag type="str">Roland Garros</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 9 октября. INTERFAX.RU - Российская теннисистка Алина Чараева завоевала путевку в финал турнира Большого шлема Roland Garros в женском юниорском разряде. В полуфинале турнира во Франции она победила свою соотечественницу Полину Кудерметову – 6:7 (5:7), 6:2, 7:5. Продолжительность игры составила 2 часа 34 минуты. В финале в субботу Чараева сыграет с представительницей Франции Эльзой Жакемо.]]></text>
+</doc>

@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">735491</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/735491</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-11-03 17:58</datetime>
+  <title auto="true" type="str" verify="true">Михельсон в понедельник купил акции "НОВАТЭКа" на $2 млн</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">НОВАТЭК</tag>
+    <tag type="str">Леонид Михельсон</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 3 ноября. INTERFAX.RU - Председатель правления "НОВАТЭКа" Леонид Михельсон в понедельник 2 ноября купил акции и депозитарные расписки компании на сумму около $2 млн. Как сообщила компания, на Лондонской фондовой бирже были приобретены 14,02 тыс. GDR на $1,712 млн, на Московской бирже - 27,507 акций на 26,818 млн рублей.]]></text>
+</doc>

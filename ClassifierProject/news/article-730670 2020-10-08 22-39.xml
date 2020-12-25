@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">730670</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/730670</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-08 22:39</datetime>
+  <title auto="true" type="str" verify="true">В Южной Корее загорелся 33-этажный небоскреб</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Южная Корея</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 8 октября. INTERFAX.RU - В южнокорейском Ульсане загорелся 33-этажный небоскреб,  сообщает  в четверг BBC.  Отмечается, что возгорание началось между 8-м и 12-м этажами около 17:00 по Москве.  Сотни людей эвакуированы из здания, около 50 отравились дымом.  Из-за сильного ветра затруднено тушение пожара.]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">725060</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/725060</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-09-08 15:26</datetime>
+  <title auto="true" type="str" verify="true">Итальянская "Болонья" заинтересовалась нападающим "Спартака"</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Италия</tag>
+    <tag type="str">ФК Спартак</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 8 сентября. INTERFAX.RU - Итальянский футбольный клуб "Болонья" допускает вариант приобретения нападающего московского "Спартака" Эсекьеля Понсе. Как сообщает bolognasportnews.it, аргентинский футболист является для "Болоньи" запасным вариантом на случай если не удастся приобрести нападающего киевского "Динамо" Владислава Супряги: переговоры с украинцем идут полным ходом. Понсе перешел в "Спартак" в 2019 году из итальянской "Ромы". Но в официальных матчах за "Рому" не играл. Вместо этого выступал на правах аренды за аргентинский "Олд Бойз", а также за испанскую "Гранаду", французский "Лилль" и греческий АЕК.]]></text>
+</doc>

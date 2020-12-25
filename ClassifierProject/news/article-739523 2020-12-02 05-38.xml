@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">739523</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/739523</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-12-02 05:38</datetime>
+  <title auto="true" type="str" verify="true">Один человек погиб при обрушении породы в руднике в Якутии</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Якутия</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 2 декабря. INTERFAX.RU - Обрушение породы произошло в руднике в Усть-Майском районе Якутии, погиб один человек, сообщает в среду пресс-служба МЧС России по республике. "В очистном заборе рудника "ДУЭТ" поселка Югоренок Усть-Майского района произошло обрушение породы. В результате несчастного случая погиб один работник предприятия. Тело погибшего извлечено на поверхность", - говорится в сообщении. Установлено, что при проведении работ по добыче руды произошло обрушение породы скального грунта объемом 4 куб. м. Работа рудника не приостановлена.]]></text>
+</doc>

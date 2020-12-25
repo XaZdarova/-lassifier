@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">741289</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/741289</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-12-15 00:51</datetime>
+  <title auto="true" type="str" verify="true">Власти Москвы пока не планируют строить новые временные госпитали для больных COVID-19</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">COVID-19</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 14 декабря. INTERFAX.RU - Созданных в столице временных госпиталей и модулей для лечения заболевших коронавирусом пока достаточно, заявил заместитель мэра Москвы Петр Бирюков в понедельник в интервью телеканалу "Россия 24". Он напомнил, что в Москве работают крупные временные госпитали на Каширском шоссе, ВДНХ, в Крылатском, Сокольниках. Кроме того, развернуты временные модули вокруг столичных стационарных лечебных учреждений. В воскресенье мэр города Сергей Собянин сказал, что власти приняли  достаточные меры  для сдерживания эпидемии.]]></text>
+</doc>

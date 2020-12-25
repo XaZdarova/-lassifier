@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">732501</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/732501</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-21 14:51</datetime>
+  <title auto="true" type="str" verify="true">"Амур" забросил семь шайб лидирующему "Ак Барсу" в матче КХЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">хоккей</tag>
+    <tag type="str">КХЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 21 октября. INTERFAX.RU - Хоккеисты хабаровского "Амура" с крупным счетом одолели соперников из казанского "Ак Барса" в домашнем матче очередного тура регулярного чемпионата Континентальной хоккейной лиги (КХЛ). Результат встречи – 7:1 (3:0, 2:1, 2:0) в пользу хозяев. Главным героем матча стал чешский защитник Михал Йордан, забросивший три шайбы. Команды являются представителями Восточной конференции КХЛ. "Ак Барс" занимает здесь первое место, набрав 28 очков в 20 играх. "Амур" – на седьмой строчке, 16 баллов в 20 матчах.]]></text>
+</doc>

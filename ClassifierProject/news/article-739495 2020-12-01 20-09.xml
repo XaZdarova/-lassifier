@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">739495</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/739495</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-12-01 20:09</datetime>
+  <title auto="true" type="str" verify="true">Два игрока "Локомотива" сдали сомнительные тесты на COVID перед матчем ЛЧ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">ФК Локомотив</tag>
+    <tag type="str">Лига чемпионов УЕФА</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 1 декабря. INTERFAX.RU - Тесты футболистов московского "Локомотива" Гжегожа Крыховяка и Даниила Куликова на коронавирус дали сомнительный результат, сообщает пресс-служба ФК. В итоге они не примут участия в домашнем матче группового этапа Лиги чемпионов УЕФА против австрийского "Зальцбурга". Игра пройдет во вторник в Москве и стартует в 20:55 мск.]]></text>
+</doc>

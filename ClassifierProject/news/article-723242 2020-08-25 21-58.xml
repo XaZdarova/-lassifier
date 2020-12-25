@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">723242</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/723242</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-25 21:58</datetime>
+  <title auto="true" type="str" verify="true">Континентальный кубок-2020/2021 отменен из-за коронавируса</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">хоккей</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 25 августа. INTERFAX.RU - Розыгрыш Континентального кубка по хоккею в сезоне 2020/2021 отменен, сообщается на сайте Международной федерации хоккея (ИИХФ). Причиной отмены вторых по значимости клубных соревнований Европы стала пандемия коронавируса, отметили в ИИХФ. Турнир должен был стартовать 16 октября.]]></text>
+</doc>

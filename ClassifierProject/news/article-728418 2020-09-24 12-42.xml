@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">728418</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/728418</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-09-24 12:42</datetime>
+  <title auto="true" type="str" verify="true">Маршрутка с пассажирами перевернулась в подмосковном Дмитрове</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Дмитров</tag>
+    <tag type="str">Московская область</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 24 сентября. INTERFAX.RU - Три пассажира маршрутного такси пострадали в результате аварии в Дмитрове, сообщил "Интерфаксу" информированный источник. На трассе А-108 у населенного пункта Новосиньково маршрутка съехала с дороги и опрокинулась. Всего внутри автомобиля находилось 12 пассажиров, детей среди них нет.]]></text>
+</doc>

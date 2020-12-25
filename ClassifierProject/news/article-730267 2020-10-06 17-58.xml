@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">730267</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/730267</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-06 17:58</datetime>
+  <title auto="true" type="str" verify="true">Защитник Чернов перешел из "Ростова" в "Краснодар"</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 октября. INTERFAX.RU - ФК "Ростов" и ФК "Краснодар" договорились о переходе защитника Евгения Чернова в краснодарскую команду, сообщает пресс-служба клуба из Ростова-на-Дону. "Евгений Чернов перешёл в "Краснодар". Между "Ростовом" и краснодарским клубом достигнуто соглашение о трансфере защитника", - говорится в сообщении. Чернов играл за "Ростов" с 2019 года, провел 53 матча, забил один мяч и сделал четыре голевых передачи.]]></text>
+</doc>

@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">731200</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/731200</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-10-13 02:57</datetime>
+  <title auto="true" type="str" verify="true">Настоятель московского храма умер от коронавируса</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">COVID-19</tag>
+    <tag type="str">РПЦ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 13 октября. INTERFAX.RU - От осложнений, вызванных коронавирусом, в ночь на вторник скончался протоиерей Димитрий Арзуманов, настоятель храма Иоанна Кронштадтского в Жулебине на юго-востоке Москвы. Как сообщает рабочая группа при патриархе Кирилле, священнику было 56 лет. До начала службы в столице отец Димитрий был клириком города Кашина Тверской области. У покойного осталось девять детей.]]></text>
+</doc>

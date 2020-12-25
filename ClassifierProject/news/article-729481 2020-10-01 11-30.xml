@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">729481</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/729481</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-10-01 11:30</datetime>
+  <title auto="true" type="str" verify="true">Сезон работы фонтанов в Москве продлили на 10 дней</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 1 октября. INTERFAX.RU - Сезон работы фонтанов в столице продлен до 10 октября, сообщил заместитель мэра Москвы Петр Бирюков журналистам в четверг. По его словам, мэр столицы Сергей Собянин решил продлить сезон работы фонтанов в связи с теплой погодой. Затем их остановят и законсервируют на зимний период. Бирюков напомнил, что традиционно водные установки в столице прекращают работу 1 октября. Сегодня в Москве насчитывается около 600 фонтанов, бассейнов и водных устройств.]]></text>
+</doc>

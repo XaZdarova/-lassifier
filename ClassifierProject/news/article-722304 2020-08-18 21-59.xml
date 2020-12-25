@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">722304</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/722304</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-18 21:59</datetime>
+  <title auto="true" type="str" verify="true">"Краснодар" выиграл у "Арсенала" в матче РПЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 18 августа. INTERFAX.RU - Футболисты "Краснодара" со счетом 2:0 нанесли поражение тульскому "Арсеналу" в домашнем матче третьего тура чемпионата Российской премьер-лиги.             На 35-й минуте гол провел Сергей Петров, на 66-й – Маркус Берг.             "Краснодар" набрал 6 очков и поднялся на второе место в турнирной таблице. "Арсенал" – на 14-м месте, 1 балл.]]></text>
+</doc>

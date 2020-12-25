@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">740803</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/740803</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-12-10 19:40</datetime>
+  <title auto="true" type="str" verify="true">Трамп сообщил об установлении отношений между Марокко и Израилем</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Дональд Трамп</tag>
+    <tag type="str">США</tag>
+    <tag type="str">Марокко</tag>
+    <tag type="str">Израиль</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 10 декабря. INTERFAX.RU - Президент США Дональд Трамп сообщил об установлении дипломатических отношений между Марокко и Израилем. "Два наших больших друга, Израиль и Королевство Марокко, согласились на установление полных дипломатических отношений - это огромный прорыв к миру на Ближнем Востоке!" -  написал  Трамп в твиттере. Ранее в этом году в Белом доме при посредничестве США прошла историческая церемония подписания соглашений о нормализации отношений  ОАЭ и Бахрейна  с Израилем.]]></text>
+</doc>

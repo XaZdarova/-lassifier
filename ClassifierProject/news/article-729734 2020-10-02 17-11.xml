@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">729734</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/729734</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-02 17:11</datetime>
+  <title auto="true" type="str" verify="true">Журналисты вновь попали под обстрел в Нагорном Карабахе</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Азербайджан</tag>
+    <tag type="str">Нагорный Карабах</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 2 октября. INTERFAX.RU - Вооруженные силы Азербайджана обстреляли в пятницу гражданский микроавтобус с журналистами, сообщает в пятницу информцентр Карабаха. О пострадавших в ходе инцидента не сообщается. В четверг журналисты Le Monde были  ранены  при обстреле с азербайджанской стороны, когда находились в мэрии города Мартуни в Нагорном Карабахе. Помимо них, получил ранение журналист армянских интернет-изданий 24News, Civinet и оператор телеканала "Армения", сообщал ранее армянский единый информационный центр.]]></text>
+</doc>

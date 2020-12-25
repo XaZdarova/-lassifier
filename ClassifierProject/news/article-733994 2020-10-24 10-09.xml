@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">733994</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/733994</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-24 10:09</datetime>
+  <title auto="true" type="str" verify="true">Президент Польши Анджей Дуда заразился коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Польша</tag>
+    <tag type="str">Анджей Дуда</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 24 октября. INTERFAX.RU - У президента Польши Анджея Дуды выявили коронавирус,  сообщил  его пресс-секретарь Блажей Спихальский в твиттере. Он отметил, что глава государства чувствует себя хорошо. Сам Спихальский уходит на  карантин . Накануне сообщалось, что в Польше за сутки были зарегистрированы рекордные  13 632 новых случая  заболевания COVID-19. По состоянию на 23 октября, лечение продолжают 119 054 пациента. По  данным  университета Джонса Хопкинса, всего за время пандемии в Польше были выявлены 228 318 случаев заражения.]]></text>
+</doc>

@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">738724</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/738724</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-26 05:51</datetime>
+  <title auto="true" type="str" verify="true">Введен спецтариф на билеты в купе поезда Москва - Владивосток</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">РЖД</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 26 ноября. INTERFAX.RU - "Федеральная пассажирская компания" (ФПК, "дочка" РЖД по перевозке пассажиров в дальнем следовании) объявила о введении спецтарифа на билеты поезда № 61/62 сообщением Москва - Владивосток. В сообщении за четверг Дальневосточной железной дороги (ДВЖД, филиал ОАО "РЖД") говорится, что акция продлится с 27 по 30 ноября. Билеты в рамках акции предлагаются на верхние места в купейные вагоны, стоимость билета - 2 020 рублей. Совершать поездки маршрутом по специальному тарифу можно в период с 1 по 15 декабря.]]></text>
+</doc>

@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">737626</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/737626</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-11-18 11:20</datetime>
+  <title auto="true" type="str" verify="true">МЧС предупредило москвичей о ледяном дожде и метели ближайшей ночью</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">МЧС</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 18 ноября. INTERFAX.RU - На Москву надвигается непогода – ожидаются мокрый снег, сильные порывы ветра, метель. В пресс-службе МЧС Москвы сообщили, что в период с 22 часов 18 ноября до 8 часов 19 ноября в Москве ожидается усиление юго-западного ветра 15-20 м/с, мокрый снег, метель, ледяной дождь и гололедица. Спасатели напоминают, что в таких погодных условиях, управляя автотранспортом, стоит значительно снизить скорость движения и увеличить дистанцию от впереди идущих транспортных средств.]]></text>
+</doc>

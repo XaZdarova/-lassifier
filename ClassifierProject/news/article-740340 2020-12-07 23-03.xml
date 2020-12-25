@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">740340</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/740340</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-12-07 23:03</datetime>
+  <title auto="true" type="str" verify="true">71 пациент с коронавирусом скончался в Москве за сутки</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 7 декабря. INTERFAX.RU - Число жертв коронавируса в Москве увеличилось с 9425 до 9496 сообщил столичный оперштаб по контролю за коронавирусом в понедельник. "В Москве за сутки скончался 71 пациент, у которых был подтвержден диагноз пневмония и получен положительный результат тестов на коронавирусную инфекцию. Этот показатель сравним со смертностью от COVID-19 в начале июня", - сказал собеседник агентства. Сутками ранее от COVID-19 в городе скончались 76 человек. По данным на утро понедельника, в российской столице выявлено 654 841 случай заражения COVID-19, 495 871 человек вылечились от инфекции.]]></text>
+</doc>

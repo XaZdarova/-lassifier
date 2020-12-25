@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">737932</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/737932</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-20 09:12</datetime>
+  <title auto="true" type="str" verify="true">Один человек пострадал во время шторма в Петербурге</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Петербург</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 20 ноября. INTERFAX.RU - Из-за сильного ветра в Петербурге пострадал один человек, разбушевавшийся ветер повалил 12 деревьев, 18 светофоров и дорожных знаков, 14 слабо закрепленных конструкций, сообщает в пятницу пресс-служба городского СУ СКР. За минувшие сутки петербургские спасатели 44 раза выезжали устранять последствия сильного ветра.  Силы МЧС продолжают работать в режиме повышенной готовности. По прогнозам синоптиков, в пятницу в городе сохранится ветреная погода, местами ожидается гололедица.]]></text>
+</doc>

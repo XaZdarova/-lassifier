@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">735002</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/735002</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-30 20:07</datetime>
+  <title auto="true" type="str" verify="true">Число жертв землетрясения в Турции выросло до 12</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Турция</tag>
+    <tag type="str">Измир</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 30 октября. INTERFAX.RU - Агентство по чрезвычайным ситуациям и стихийным бедствиям Турции (AFAD) сообщило о 12 погибших и 419 пострадавших в результате землетрясения в районе Измира. Отмечается, что на острове продолжаются поисково-спасательные работы. 30 октября в районах Борнова и Байраклы в Измире  произошло землетрясение  магнитудой 7.0. Очаг находился на глубине 10 км. Отмечается, что землетрясение спровоцировало мини-цунами, которое привело к подтоплению Измира. Толчки почувствовали и в Греции: на острове Самос из-за землетрясения в восточной части Эгейского моря  погибли  два человека.]]></text>
+</doc>

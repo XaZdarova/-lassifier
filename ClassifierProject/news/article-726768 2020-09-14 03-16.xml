@@ -1,0 +1,15 @@
+<doc>
+  <id auto="true" type="str" verify="true">726768</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/726768</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-09-14 03:16</datetime>
+  <title auto="true" type="str" verify="true">Microsoft сообщила об отказе ByteDance продать ей бизнес TikTok в США</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">США</tag>
+    <tag type="str">Китай</tag>
+    <tag type="str">Microsoft</tag>
+    <tag type="str">ByteDance</tag>
+    <tag type="str">TikTok</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 14 сентября. INTERFAX.RU - Американская компания Microsoft сообщила, что китайская компания ByteDance отказалась продавать ей американский бизнес TikTok. "ByteDance сообщил нам сегодня, что они не будут продавать бизнес TikTok в США Microsoft. Мы уверены, что наше предложение было бы полезно для пользователей TikTok и при этом защитило бы интересы национальной безопасности", - сообщила компания Microsoft. 6 августа президент США Дональд Трамп  подписал указ , предусматривающий блокировку TikTok в штатах, если операции сервиса в Соединенных Штатах до 15 сентября не будут проданы американской компании. Основным претендентом на приобретение операций TikTok считались Microsoft Corp. и  Walmart Inc. , среди других потенциальных покупателей назывались  Oracle Corp.  и  Twitter Inc.]]></text>
+</doc>

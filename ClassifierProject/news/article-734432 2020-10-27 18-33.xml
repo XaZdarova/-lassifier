@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">734432</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/734432</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-27 18:33</datetime>
+  <title auto="true" type="str" verify="true">Глава ФИФА заразился коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">ФИФА</tag>
+    <tag type="str">Джанни Инфантино</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 27 октября. INTERFAX.RU - Тест на коронавирус у президента Международной федерации футбола (ФИФА) Джанни Инфантино оказался положительным, сообщает пресс-служба ФИФА. Отмечается, что глава ФИФА сообщил о легких симптомах заболевания. Он ушел на карантин как минимум на десять дней. В свою очередь, о заболевании президентом ФИФА, проинформированы все, с кем он контактировал в последнее время. 50-летний Инфантино возглавил ФИФА в феврале 2016 года.]]></text>
+</doc>

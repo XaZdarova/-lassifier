@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">735144</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/735144</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-11-01 18:33</datetime>
+  <title auto="true" type="str" verify="true">ЦСКА победил "Ротор" и вышел в лидеры Российской премьер-лиги</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">РПЛ</tag>
+    <tag type="str">ЦСКА</tag>
+    <tag type="str">Ротор</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 1 ноября. INTERFAX.RU - Московский ЦСКА со счетом 1:0 обыграл в гостях волгоградский "Ротор" в 13-м туре Российской премьер-лиги. Единственный гол на 41-й минуте забил Алан Дзагоев, признанный лучшим игроком матча. Победа позволила ЦСКА набрать 28 очков и выйти на первое место в турнирной таблице чемпионата,  опережая на одно очко "Зенит"  и "Спартак". Волгоградский клуб занимает 15-е место с 6 очками. В 14-м туре ЦСКА 8 ноября дома примет "Ростов", волгоградцы играют в Туле с "Арсеналом" 7 ноября.]]></text>
+</doc>

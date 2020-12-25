@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">734462</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/734462</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-10-27 23:51</datetime>
+  <title auto="true" type="str" verify="true">Более 70 человек с коронавирусом умерли в Москве</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">COVID-19</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 27 октября. INTERFAX.RU - За минувшие сутки в Москве умерли 75 человек с пневмонией и положительным тестом на коронавирус, сообщил столичный оперштаб по контролю за коронавирусом во вторник. Этот показатель сравним со смертностью в начале июня. Число жертв коронавируса в Москве увеличилось за сутки с 6503 до 6578. Сутками ранее от COVID-19 в городе скончался 61 человек. По данным на утро вторника, в российской столице выявлено 405 352 случая заражения COVID-19, 296 474 человека вылечились от инфекции. Ранее во вторник стало известно, что более 1700 посетителей ночных клубов Москвы  получили сигнал о контакте с носителями коронавируса .]]></text>
+</doc>

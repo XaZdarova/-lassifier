@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">730803</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/730803</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-09 16:46</datetime>
+  <title auto="true" type="str" verify="true">Футболист "Милана" Габбиа заразился коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Италия</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 9 октября. INTERFAX.RU - Защитник итальянского футбольного клуба "Милан" Маттео Габбиа сдал положительный тест на COVID-19, сообщает пресс-служба ФК. В настоящее время футболист находится в расположении молодежной сборной Италии, которая в пятницу проведет выездной матч против Исландии в рамках квалификационного турнира чемпионата Европы среди игроков не старше 21 года. "Милан" является одним из лидеров нынешнего чемпионата, он делит первое-второе места с "Аталантой", уступая ему по дополнительным показателям.]]></text>
+</doc>

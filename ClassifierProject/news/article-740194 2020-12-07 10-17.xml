@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">740194</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/740194</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-12-07 10:17</datetime>
+  <title auto="true" type="str" verify="true">Lufthansa сократит 27 500 рабочих мест</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Lufthansa</tag>
+    <tag type="str">Германия</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 7 декабря. INTERFAX.RU - До конца 2020 года авиакомпания Lufthansa намерена сократить свой зарубежный персонал на 20 000 человек, а также продать подразделение LSG, занимающееся бортовым питанием, в котором работает 7 500 человек, сообщил Bild am Sonntag. Дочерние компании Lufthansa - Eurowings, Swiss, Austrian и Brussels Airlines - в условиях падения спроса на полеты из-за пандемии коронавируса сокращают частоту рейсов, парк и персонал. По данным газеты, German airline, обслуживающая преимущественно внутренние рейсы, может сократить в следующем году до 10 000 рабочих мест. Издание пишет, что, как ожидается, авиаперевозки выйдут на уровень, существовавший до пандемии, только к 2025 году.]]></text>
+</doc>

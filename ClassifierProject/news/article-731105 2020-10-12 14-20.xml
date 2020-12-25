@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">731105</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/731105</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-12 14:20</datetime>
+  <title auto="true" type="str" verify="true">В кабмине РФ опровергли слухи о переводе аппарата на удаленку</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">правительство</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 12 октября. INTERFAX.RU - В правительстве РФ опровергли информацию о переводе сотрудников на удаленную работу. Кабмин продолжает работать в штатном режиме, сообщили журналистам в пресс-службе кабинета министров. Ранее в СМИ появились сообщения о том, что премьер РФ Михаил Мишустин распорядился перевести чиновников аппарата правительства на удаленную работу. Со ссылкой на источники в Белом доме, СМИ сообщали о том, что на рабочих местах разрешено появляться только руководителям управлений, департаментов и выше.]]></text>
+</doc>

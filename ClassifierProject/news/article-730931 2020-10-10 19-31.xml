@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">730931</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/730931</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-10-10 19:31</datetime>
+  <title auto="true" type="str" verify="true">Заммэра Москвы Максим Ликсутов заразился коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Максим Ликсутов</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 10 октября. INTERFAX.RU - Заместитель мэра Москвы по вопросам транспорта Максим Ликсутов заразился коронавирусом. "Получил положительный результат теста на коронавирус. Чувствую себя нормально. К счастью, симптомов почти никаких, кроме насморка, легкие тоже чистые. Надеюсь, что обойдется без ухудшения. Пока работать буду из дома", - сообщил Ликсутов журналистам. В минувший четверг он вместе с мэром Москвы Сергеем Собяниным в присутствии журналистов принимал участие в запуске 500-го в городе электробуса. При этом Собянин ранее сообщал, что  привился  от COVID-19.]]></text>
+</doc>

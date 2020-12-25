@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">722066</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/722066</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-17 14:13</datetime>
+  <title auto="true" type="str" verify="true">Экс-вратарь "Локомотива" Медведев перешел в "Рубин"</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 августа. INTERFAX.RU - Казанский футбольный клуб "Рубин" подписал соглашение с голкипером Никитой Медведевым. "Контракт действует до конца сезона-2021/22, говорится в сообщении пресс-службы "Рубина". Расторгнув в августе по обоюдному соглашению сторон контракт с московским "Локомотивом", 25-летний Медведев перешел в "Рубин" в статусе свободного агента. "Локомотиву" он принадлежал с 2017 года, но за команду сыграл лишь в нескольких матчах.]]></text>
+</doc>

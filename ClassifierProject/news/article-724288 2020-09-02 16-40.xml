@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">724288</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/724288</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-09-02 16:40</datetime>
+  <title auto="true" type="str" verify="true">Три футболиста ПСЖ заразились коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Франция</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 2 сентября. INTERFAX.RU - Три игрока французского футбольного клуба "Пари Сен-Жермен" подхватили вирус COVID-19. Как сообщила пресс-служба клуба, все они должны пройти соответствующий протокол о состоянии здоровья. Имена футболистов не указываются. ПСЖ  является  действующим чемпионом Франции. Чемпионат страны, между тем, был досрочно завершен из-за пандемии коронавируса. Также ПСЖ дошел до финала Лиги чемпионов УЕФА-2019/20, где  уступил  мюнхенской "Баварии".]]></text>
+</doc>

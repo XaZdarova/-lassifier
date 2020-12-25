@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">735249</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/735249</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-11-02 14:53</datetime>
+  <title auto="true" type="str" verify="true">Средняя цена нефти Urals в январе-октябре снизилась почти на 36%</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Urals</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 2 ноября. INTERFAX.RU - Средняя цена нефти марки Urals в январе-октябре 2020 года сложилась в размере $40,81 за баррель, говорится в сообщении Минфина РФ. За аналогичный период прошлого года она составила $63,53 за баррель. Таким образом, цена снизилась на 35,7%. В январе-сентябре цена была на уровне $40,84 за баррель. Средняя цена на нефть марки Urals в октябре составила $40,53 за баррель, в октябре 2019 года она составляла $58,45 за баррель. В 2019 году средняя цена сложилась на уровне $63,59 за баррель.]]></text>
+</doc>

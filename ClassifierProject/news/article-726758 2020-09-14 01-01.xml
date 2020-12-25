@@ -1,0 +1,15 @@
+<doc>
+  <id auto="true" type="str" verify="true">726758</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/726758</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-09-14 01:01</datetime>
+  <title auto="true" type="str" verify="true">ВОЗ сообщила о рекордном суточном приросте новых случаев COVID-19</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">ВОЗ</tag>
+    <tag type="str">Коронавирус</tag>
+    <tag type="str">США</tag>
+    <tag type="str">Индия</tag>
+    <tag type="str">Бразилия</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 14 сентября. INTERFAX.RU - За истекшие сутки в мире было зарегистрировано 307 930 новых случаев заражения коронавирусом  COVID-19 , это наибольшее значение с начала пандемии коронавируса, свидетельствуют данные Всемирной организации здравоохранения (ВОЗ). В прошлый раз рекорд был обновлен 6 сентября. Тогда ВОЗ зафиксировала 306 857 новых случаев заражения за сутки. Общее число инфицированных в мире, по данным организации, достигло 28 637 952 человек. 917 417 заболевших скончались. Больше всего новых случаев за сутки выявлено в Индии - 94,3 тыс. На втором месте США с 45,5 тыс. заразившихся за сутки и Бразилия с 43,7 тыс. новых случаев.]]></text>
+</doc>

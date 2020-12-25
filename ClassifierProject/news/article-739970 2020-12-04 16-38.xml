@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">739970</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/739970</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-12-04 16:38</datetime>
+  <title auto="true" type="str" verify="true">Ереван и Баку обменялись списками военнопленных</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Азербайджан</tag>
+    <tag type="str">Армения</tag>
+    <tag type="str">Накорный Карабах</tag>
+    <tag type="str">МККК</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 4 декабря. INTERFAX.RU - Армянская и азербайджанская стороны обменялись списками военнопленных после обострения конфликта в Нагорном Карабахе, сообщает офис вице-премьера Армении Тиграна Авиняна. "Армянская и азербайджанская стороны передали в Международный комитет Красного креста списки военнопленных", - отметили в офисе вице-премьера. Согласно сообщению, сейчас идет работа по уточнению списка.]]></text>
+</doc>

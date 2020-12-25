@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">735007</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/735007</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-30 21:17</datetime>
+  <title auto="true" type="str" verify="true">В Польше суточный прирост COVID-19 составил рекордные 21 629 случаев</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Польша</tag>
+    <tag type="str">Минздрав</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 30 октября. INTERFAX.RU - В Польше за минувшие сутки выявлены 21 629 новых случаев заражения коронавирусом,  сообщает  агентство РАР со ссылкой на данные Минздрава. Это рекордный суточный прирост заболеваемости с начала пандемии. Предыдущий абсолютный рекорд был зафиксирован 29 октября - 20 156 новых случаев за сутки. Всего с начала пандемии в стране подтверждено 340 834 случая COVID-19. За сутки умерли 202 заболевших, всего с начала пандемии умер 5351 человекв с COVID-19.]]></text>
+</doc>

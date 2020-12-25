@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">741288</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/741288</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-12-14 22:32</datetime>
+  <title auto="true" type="str" verify="true">Пассажирские поезда встали под Курском из-за обледенения проводов</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Курская область</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 14 декабря. INTERFAX.RU - Пассажирские поезда остановились в Курской области из-за обледенения проводов, сообщило Главное управление МЧС по региону. В 17:35 на станции Солнцево остановились поезда №746 "Ласточка", который ехал по маршруту "Белгород-Курск-Орел", и поезд № 628 "Белгород-Курск". В них находились 125 пассажиров. Позднее стало известно о задержке пригородного поезда №6226 сообщением Белгород - Ржава. Сейчас он отправился по назначению. Никто не пострадал в результате остановки. Спасатели счищают лед с проводов.]]></text>
+</doc>

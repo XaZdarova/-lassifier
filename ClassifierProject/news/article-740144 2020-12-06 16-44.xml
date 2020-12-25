@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">740144</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/740144</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-12-06 16:44</datetime>
+  <title auto="true" type="str" verify="true">Машина "скорой" опрокинулась после столкновения с легковушкой в Москве</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 декабря. INTERFAX.RU - Два фельдшера, предварительно, пострадали в результате аварии с участием кареты скорой помощи и легковушки в Москве, сообщили в воскресенье в пресс-службе столичной Госавтоинспекции. Как говорится в твиттере управления, в 15:45 на перекрестке дублера Проспекта Мира и Звёздного бульвара, около дома 109 по Проспекту Мира, произошло столкновение автомобилей скорой помощи и Lexus RX. После него машина скорой опрокинулась. На месте работают сотрудники ГИБДД, устанавливаются причины произошедшего.]]></text>
+</doc>

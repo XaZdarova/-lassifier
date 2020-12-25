@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">720750</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/720750</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-07 13:49</datetime>
+  <title auto="true" type="str" verify="true">Новый сезон КХЛ стартует матчем ЦСКА – "Ак Барс"</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">хоккей</tag>
+    <tag type="str">КХЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 7 августа. INTERFAX.RU - Встреча московского ЦСКА и казанского "Ак Барса" в рамках Кубка Открытия откроет очередной регулярный чемпионат Континентальной хоккейной лиги, сообщает пресс-служба КХЛ.                 Игра пройдет 2 сентября.                 Матчи на Кубок Открытия традиционно являются первыми в календаре чемпионата КХЛ в сезоне.                 Прошлый сезон не был доигран из-за пандемии коронавируса. Чемпионом был объявлен ЦСКА, ставший лучшим в Западной конференции в частности и в сводной таблице в целом. "Ак Барс" занял первое место в Восточной конференции.]]></text>
+</doc>

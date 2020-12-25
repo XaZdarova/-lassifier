@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">724520</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/724520</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-09-03 22:12</datetime>
+  <title auto="true" type="str" verify="true">"Локомотив" забросил семь шайб "Спартаку" в матче КХЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">хоккей</tag>
+    <tag type="str">КХЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 3 сентября. INTERFAX.RU - Ярославский "Локомотив" нанес крупное поражение московскому "Спартаку" в матче первого тура регулярного чемпионата Континентальной хоккейной лиги (КХЛ). Результат встречи, прошедшей в Ярославле, - 7:2 (2:0, 1:1, 4:1) в пользу "Локомотива". В предыдущем сезоне обе команды добрались до плей-офф, где уступили в первом раунде. После этого, однако, сезон в КХЛ был сначала прерван, а затем досрочно завершен из-за пандемии коронавируса.]]></text>
+</doc>

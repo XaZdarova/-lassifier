@@ -1,0 +1,15 @@
+<doc>
+  <id auto="true" type="str" verify="true">735930</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/735930</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-06 17:22</datetime>
+  <title auto="true" type="str" verify="true">Кличко переизбран мэром Киева</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Украина</tag>
+    <tag type="str">Киев</tag>
+    <tag type="str">Виталий Кличко</tag>
+    <tag type="str">Голос</tag>
+    <tag type="str">Сергей Притула</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 ноября. INTERFAX.RU - Виталий Кличко переизбран мэром Киева. Как сообщила городская территориальная избирательная комиссия, он победил в первом туре, набрав 50, 52% (365 161 голос). Кличко шел на выборы от партии "УДАР", его главным соперником был кандидат от "Голоса" Сергей Притула. Всего в выборах участвовали 17 человек. Голосование прошло 25 октября. В Киевсовет прошли семь партий, в том числе "УДАР", "Европейская солидарность" (лидер - Петр Порошенко), "Оппозиционная платформа – За жизнь", "Единство", "Голос", "Слуга народа" и "Батькивщина".]]></text>
+</doc>

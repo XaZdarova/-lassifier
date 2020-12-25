@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">731723</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/731723</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-10-15 23:26</datetime>
+  <title auto="true" type="str" verify="true">За сутки в Москве скончались 54 пациента с коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">COVID-19</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 15 октября. INTERFAX.RU - За минувшие сутки в Москве умерли 54 человека с пневмонией и положительным тестом на коронавирус, сообщили "Интерфаксу" в столичном оперштабе по контролю и мониторингу ситуации с коронавирусом в четверг. Число умерших от коронавируса в Москвеувеличилось с 5796 до 5850 Сутками ранее сообщалось о 57 жертвах COVID-19 в Москве. По последним данным, в столице выявлено почти 348 тысяч случаев заболевания коронавирусом. Число выздоровевших превысило 268 тысяч человек. Ранее в четверг стало известно, что перевозчикам московского общественного транспорта  запретят пускать пассажиров  без масок и перчаток.]]></text>
+</doc>

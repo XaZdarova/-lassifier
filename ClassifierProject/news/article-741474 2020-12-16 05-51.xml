@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">741474</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/741474</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-12-16 05:51</datetime>
+  <title auto="true" type="str" verify="true">Китайская фармкомпания купит немецкую вакцину от COVID-19</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Fosun Pharma</tag>
+    <tag type="str">BioNTech</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 16 декабря. INTERFAX.RU - Шанхайская фармацевтическая компания Fosun Pharma объявила в среду о договоренности с немецкой BioNTech SE о закупке у нее не менее 100 миллионов доз вакцины от коронавируса. Сделкой предусмотрено, что шанхайская фирма до конца текущего года сделает первоначальный платеж в размере 125 млн евро за 50 миллионов доз, говорится в сообщении. Fosun Pharma вела в китайской провинции Цзянсу клинические испытания двух вакцин BioNTech. Пока ни один из препаратов не был одобрен медицинским регулятором Китая.]]></text>
+</doc>

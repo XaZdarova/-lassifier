@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">738097</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/738097</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-11-20 23:31</datetime>
+  <title auto="true" type="str" verify="true">Более 70 человек с коронавирусом умерли в Москве за сутки</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">COVID-19</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 20 ноября. INTERFAX.RU - За минувшие сутки в Москве умерли 74 человека с пневмонией и положительным тестом на коронавирус, сообщили "Интерфаксу" в оперштабе по контролю и мониторингу ситуации с коронавирусом в Москве. Количество умерших от коронавируса в городе увеличилось с 8159 до 8233. Всего с начала пандемии в Москве зарегистрировано 539 970 случаев коронавируса, 394 252 человека вылечились от инфекции. Ранее в "Москве-Сити"  закрыли клинику "Чайка"  за то, что ее врачи не предоставили Роспотребнадзору информацию о клиентах, заразившихся коронавирусом.]]></text>
+</doc>

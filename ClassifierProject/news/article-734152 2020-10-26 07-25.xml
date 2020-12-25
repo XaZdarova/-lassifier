@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">734152</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/734152</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-26 07:25</datetime>
+  <title auto="true" type="str" verify="true">Нефтяные пятна обнаружены на Енисее</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Красноярский край</tag>
+    <tag type="str">Енисей</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 26 октября. INTERFAX.RU - Красноярская природоохранная прокуратура выясняет источник загрязнения нефтепродуктами реки Енисей, сообщает пресс-служба прокуратуры региона. "По поручению Красноярской природоохранной прокуратуры администрацией Красноярска производится обработка водного объекта и береговой полосы земельного участка", - говорится в пресс-релизе. Ведомство в ходе проверки даст оценку соблюдения требований законодательства об охране окружающей среды.]]></text>
+</doc>

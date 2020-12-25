@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">723377</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/723377</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-26 20:32</datetime>
+  <title auto="true" type="str" verify="true">"Спартак" выиграл у "Ротора" в чемпионате России по футболу</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 26 августа. INTERFAX.RU - Футболисты московского "Спартака" со счетом 1:0 победили волгоградский "Ротор" в матче пятого тура чемпионата Российской премьер-лиги. На 54-й минуте встречи, прошедшей в Волгограде, пенальти реализовал Зелимхан Бакаев. "Спартак" набрал 11 очков, он занимает второе место, вплотную приблизившись к лидирующему (и имеющему игру в запасе) петербургскому "Зениту". У "Ротора" по-прежнему 1 очко. Команда, по итогам предыдущего сезона вернувшаяся в главный дивизион отечественного футбола, сохранила статус аутсайдера РПЛ: 16-е место.]]></text>
+</doc>

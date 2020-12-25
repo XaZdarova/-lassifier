@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">736315</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/736315</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-11-09 20:17</datetime>
+  <title auto="true" type="str" verify="true">Движение пригородных поездов сбилось на Савеловском направлении</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 9 ноября. INTERFAX.RU - По техническим причинам вечером в понедельник затруднено движение на Савеловском направлении и МЦД-1 (Московском центральном диаметре), сообщила пресс-служба Московской железной дороги (МЖД). "На перегоне Марк - Бескудниково поезда следуют по одному пути. В связи с этим задерживаются несколько пригородных поездов, в том числе аэроэкспрессы в аэропорт Шереметьево и обратно", - говорится в сообщении. По информации пресс-службы, для нормализации графика движения поездов некоторые электрички выведены из расписания.]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">724618</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/724618</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-09-04 15:43</datetime>
+  <title auto="true" type="str" verify="true">ЦСКА сыграет с "Арсеналом" в товарищеском матче</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">ФК ЦСКА</tag>
+    <tag type="str">ФК Арсенал Тула</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 4 сентября. INTERFAX.RU - Футболисты московского ЦСКА сыграют с тульским "Арсеналом" во время паузы в чемпионате России. "8 сентября на базе армейцев в Ватутинках состоится товарищеская игра с тульским "Арсеналом". Начало в 16:00", - говорится в сообщении пресс-службы ЦСКА. Отмечается, что в связи с эпидемиологической обстановкой игра пройдет в закрытом режиме без допуска болельщиков на базу. В шести турах чемпионата России-2020/21 ЦСКА набрал 10 очков и занимает шестое место в турнирной таблице. "Арсенал" – на 13-м месте, 5 очков.]]></text>
+</doc>

@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">730151</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/730151</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-06 07:47</datetime>
+  <title auto="true" type="str" verify="true">В Бишкеке сторонники освобожденного депутата захватили здание правительства</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Киргизия</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 октября. INTERFAX.RU - Сторонники экс-депутата парламента Киргизии Садыра Жапарова захватили здание правительства страны, сообщили во вторник "Интерфаксу" сотрудники аппарата киргизского правительства. "Утром сторонники Садыра Жапарова заняли Дом правительства. Никаких объяснений работникам не представлено", - сказал собеседник агентства. Бывший депутат Жапаров был освобожден минувшей ночью митингующими в ходе штурма здания Госкомитета нацбезопасности Киргизии.]]></text>
+</doc>

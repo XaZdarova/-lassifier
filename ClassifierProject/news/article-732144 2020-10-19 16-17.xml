@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">732144</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/732144</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-19 16:17</datetime>
+  <title auto="true" type="str" verify="true">Армения признала гибель 729 военных в боях с Азербайджаном в Карабахе</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Армения</tag>
+    <tag type="str">Нагорный Карабах</tag>
+    <tag type="str">Азербайджан</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 19 октября. INTERFAX.RU - Армянская сторона сообщила еще о 19 погибших военнослужащих в боях с Азербайджаном в зоне карабахского конфликта. Всего, по уточненным данным, с начала боевых действий 27 сентября армянская сторона признала гибель 729 военнослужащих. Азербайджан о своих боевых потерях не сообщает. Боевые действия в зоне карабахского конфликта продолжаются с 27 сентября, несмотря на две попытки достичь договоренности о "гуманитарном перемирии".]]></text>
+</doc>

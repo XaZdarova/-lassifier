@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">737910</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/737910</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-20 00:03</datetime>
+  <title auto="true" type="str" verify="true">"Аэрофлот" увеличивает частоту полетов в Дубай и Мале до семи раз в неделю</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Аэрофлот</tag>
+    <tag type="str">Москва</tag>
+    <tag type="str">Мальдивы</tag>
+    <tag type="str">Дубай</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 20 ноября. INTERFAX.RU - "Аэрофлот" увеличивает частоту полетов из Москвы в Дубай (ОАЭ) и Мале (Мальдивы) до семи раз в неделю. Количество рейсов в Дубай увеличивается с 20 ноября, на Мальдивы - с 22 ноября, говорится в сообщении перевозчика. "По мере восстановления международного воздушного сообщения частота выполнения рейсов может меняться", - отмечает компания. РФ разрешила возобновить регулярные рейсы на Мальдивы и в Дубай, приостановленные в марте из-за COVID-19, в сентябре.]]></text>
+</doc>

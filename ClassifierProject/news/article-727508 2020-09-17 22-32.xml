@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">727508</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/727508</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-09-17 22:32</datetime>
+  <title auto="true" type="str" verify="true">СКА победил "Спартак" в КХЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">хоккей</tag>
+    <tag type="str">КХЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 сентября. INTERFAX.RU - Хоккеисты петербургского СКА нанесли поражение московскому "Спартаку" в гостевом матче регулярного чемпионата Континентальной хоккейной лиги.             Результат встречи – 2:0 (2:0, 0:0, 0:0) в пользу СКА. Оба гола и оба – в первом периоде провел Владимир Ткачев. Обе команды провели по семь матчей. СКА, набрав 11 очков, лидирует в Западной конференции КХЛ, "Спартак" занимает седьмое место – пять очков.]]></text>
+</doc>

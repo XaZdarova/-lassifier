@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">734634</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/734634</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-28 18:47</datetime>
+  <title auto="true" type="str" verify="true">Ереван отверг сообщения о гибели 5 тысяч армянских военных в Карабахе</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Азербайджан</tag>
+    <tag type="str">Армения</tag>
+    <tag type="str">Нагорный Карабах</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 28 октября. INTERFAX.RU - В Ереване опровергли заявление президента Азербайджана Ильхама Алиева о потерях армянской стороны в ходе боев в Нагорном Карабахе. "Информация азербайджанской стороны о наших потерях ложная", - написал в среду в фейсбуке представитель Минобороны Армении Арцрун Ованнисян. Ранее в интервью "Интерфаксу" Алиев  заявил , что потери армянской стороны в ходе боевых действий в зоне нагорно-карабахского конфликта с 27 сентября составляют порядка пяти тысяч человек убитыми.]]></text>
+</doc>

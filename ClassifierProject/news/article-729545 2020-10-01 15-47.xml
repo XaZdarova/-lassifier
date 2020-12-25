@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">729545</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/729545</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-01 15:47</datetime>
+  <title auto="true" type="str" verify="true">Россиянка Касаткина проиграла белоруске Соболенко во втором круге Roland Garros</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+    <tag type="str">Roland Garros</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 1 октября. INTERFAX.RU - Российская теннисистка Дарья Касаткина выбыл из турнира серии Большого шлема Roland Garros во Франции.                 Во втором круге соревнования она потерпела поражение от представительницы Белоруссии Арины Соболенко. Результат встречи – 7:6 (8:6), 6:0 в пользу белорусской спортсменки.                 В настоящее время Касаткина занимает 71-е место в рейтинге WTA, Соболенко – 12-е, что является лучшим показателем среди белорусских теннисисток.]]></text>
+</doc>

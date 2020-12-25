@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">734287</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/734287</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-10-26 20:53</datetime>
+  <title auto="true" type="str" verify="true">США ввели санкции против министра нефти Ирана и нефтяных компаний</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">США</tag>
+    <tag type="str">Иран</tag>
+    <tag type="str">Биджан Зангане</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 26 октября. INTERFAX.RU - Министерство финансов США в понедельник объявило о введении санкций в отношении ряда иранских чиновников и компаний, в их числе - министр нефти Ирана Биджан Зангане. В SDN список внесены имена восьми иранских чиновников, связанных с нефтехимической промышленностью и грузоперевозками, а также имеющих связи с Корпусом стражей Исламской революции.]]></text>
+</doc>

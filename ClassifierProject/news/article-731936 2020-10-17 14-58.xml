@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">731936</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/731936</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-17 14:58</datetime>
+  <title auto="true" type="str" verify="true">Российский футболист Климов перешел из "Монако" в "Рубин"</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">ФК Монако</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 октября. INTERFAX.RU - Футбольный клуб "Монако" объявил о переходе российского нападающего Кирилла Климова в казанский "Рубин". "Монако" желает ему всего наилучшего в дальнейшей карьере", - говорится в сообщении пресс-службы клуба, выступающего в чемпионате Франции. 19-летний воспитанник московского "Локомотива" выступал за "Монако-2". Он является сыном бывшего футболиста "Рубина" Валерия Климова, который выступал за казанскую команду в 2002 году.]]></text>
+</doc>

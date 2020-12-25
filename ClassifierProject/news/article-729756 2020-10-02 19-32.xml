@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">729756</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/729756</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-02 19:32</datetime>
+  <title auto="true" type="str" verify="true">Футбольный клуб "Химки" арендовал у "Спартака" Мирзова</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 2 октября. INTERFAX.RU - Полузащитник столичного футбольного клуба "Спартак" Резиуан Мирзов оставшуюся часть сезона на правах аренды будет играть в подмосковных "Химках". "Соглашение подмосковного клуба с 27-летним игроком рассчитано до конца нынешнего сезона", - говорится в сообщении пресс-службы "Спартака". Мирзов перешел в "Спартак" из тульского "Арсенала" летом 2019 года.]]></text>
+</doc>

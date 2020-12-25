@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">733914</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/733914</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-23 16:02</datetime>
+  <title auto="true" type="str" verify="true">В РФ для лечения COVID-19 развернули уже около 200 тысяч коек</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Михаил Мурашко</tag>
+    <tag type="str">Минздрав</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 23 октября. INTERFAX.RU - Коечный фонд для борьбы с COVID-19 в России в настоящее время составляет почти 200 тысяч коек, сообщил министр здравоохранения РФ Михаил Мурашко. Об этом Мурашко заявил в пятницу на XIII Евразийском экономическом форуме в Вероне, выступая по видеосвязи. По его словам, "до начала пандемии в РФ имелось 52 тыс. взрослых и детских инфекционных коек". "То есть коечный фонд инфекционной службы увеличен в четыре раза", - уточнил Мурашко.]]></text>
+</doc>

@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">727299</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/727299</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-09-16 23:18</datetime>
+  <title auto="true" type="str" verify="true">Девять пациентов с коронавирусом скончались в Москве за сутки</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 16 сентября. INTERFAX.RU - Еще девять человек с подтвержденным диагнозом пневмония и положительным результатом тестов на коронавирус скончались в Москве за сутки, сообщили "Интерфаксу" в столичном оперштабе по контролю и мониторингу ситуации с коронавирусом. Общее число умерших от  COVID-19  в столице увеличилось с 5 016 до 5 025 человек. По данным на утро среды, в Москве выявлено свыше 273 тыс. случаев заражения коронавирусом. Выздоровели почти 233 тыс. человек.]]></text>
+</doc>

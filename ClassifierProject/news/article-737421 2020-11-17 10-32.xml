@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">737421</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/737421</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-11-17 10:32</datetime>
+  <title auto="true" type="str" verify="true">Рабочий пострадал после взрыва бочки с разогретым клеем в Москве</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 ноября. INTERFAX.RU - Из-за нарушения технологии при проведении капремонта жилого дома в столичном районе Некрасовка пострадал один из рабочих, сообщил "Интерфаксу" во вторник источник, знакомый с ситуацией. "Во дворе дома 31 на улице Рождественская бригада разогревала бочку с клеем, произошел взрыв", - рассказал собеседник агентства. По его информации, в результате инцидента с открытой черепно-мозговой травмой был госпитализирован один из рабочих. "Его жизни ничто не угрожает", - добавил источник.]]></text>
+</doc>

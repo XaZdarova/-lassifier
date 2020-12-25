@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">729839</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/729839</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-03 19:53</datetime>
+  <title auto="true" type="str" verify="true">Легкомоторный самолёт совершил аварийную посадку под Петербургом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Петербург</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 3 октября. INTERFAX.RU - Легкомоторный самолет совершил аварийную посадку в Петербурге. Начата доследственная проверка, сообщила пресс-служба Северо-Западного управления СКР на транспорте. Инцидент произошёл на территории порта Бронка в городе Ломоносове. По предварительной информации, причиной происшествия стал отказ двигателя. Пилот и пассажир травм не получили, добавили в ведомстве.]]></text>
+</doc>

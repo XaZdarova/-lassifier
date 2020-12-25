@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">735348</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/735348</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-02 22:55</datetime>
+  <title auto="true" type="str" verify="true">Стрельба произошла у синагоги в Вене</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Австрия</tag>
+    <tag type="str">Вена</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 2 ноября. INTERFAX.RU - Австрийский телеканал  ORF  сообщил о стрельбе у синагоги в Вене, по предварительным данным один человек погиб, есть раненые. ЧП произошло близ площади Шведенплатц, в настоящее время нам находятся наряды полиции. Очевидцы сообщили о стрельбе вскоре после 20:00 (22:00 по Москве). СМИ сообщают о нападении на синагогу на прилежащей улице. Другие подробности пока не сообщаются.]]></text>
+</doc>

@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">729763</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/729763</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-02 20:21</datetime>
+  <title auto="true" type="str" verify="true">Япония заявила о нарушении вертолетом РФ воздушного пространства страны</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Япония</tag>
+    <tag type="str">РФ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 2 октября. INTERFAX.RU - Российский вертолет в пятницу нарушил японское воздушное пространство на севере страны. Об этом сообщает агентство Kyodo со ссылкой на министерство обороны Японии. Инцидент произошел в районе острова Хоккайдо.]]></text>
+</doc>

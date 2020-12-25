@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">729872</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/729872</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-04 10:10</datetime>
+  <title auto="true" type="str" verify="true">В НКР заявили об уничтожении военного аэропорта Азербайджана в Гяндже</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Азербайджан</tag>
+    <tag type="str">Армения</tag>
+    <tag type="str">Нагорный Карабах</tag>
+    <tag type="str">Гянджа</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 4 октября. INTERFAX.RU - Уничтожен военный аэропорт Азербайджана в Гяндже, написал в воскресенье на своей странице в фейсбуке пресс-секретарь президента Нагорного Карабаха Ваграм Погосян. В свою очередь Минобороны Азербайджана сообщило об обстреле этого города. "Армянская сторона открыла огонь по городу Гянджа", - сказали в военном ведомстве. Гянджа - второй по величине город в Азербайджане. Как сообщалось, новое обострение конфликта в Нагорном Карабахе началось утром 27 сентября. Его стороны несут потери в живой силе и технике.]]></text>
+</doc>

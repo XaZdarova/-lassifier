@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">736938</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/736938</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-13 10:26</datetime>
+  <title auto="true" type="str" verify="true">В Петербурге провод упал на вагон электрички и вызвал задымление</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Петербург</tag>
+    <tag type="str">МВД</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 13 ноября. INTERFAX.RU -  В Курортном районе Петербурге на железнодорожной станции Белоостров произошел обрыв контактного провода, провод упал на крышу электрички "Петербург-Белоостров",  сообщили  в Северо-Западном управлении МВД на транспорте. Это случилось в 7:47 в пятницу. Произошло задымление, никто не пострадал. Пассажиров из поезда вывели. Инцидент не вызвал задержки в движении. Транспортная полиция проводит проверку и выясняет обстоятельства случившегося.]]></text>
+</doc>

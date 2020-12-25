@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">730653</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/730653</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-08 20:01</datetime>
+  <title auto="true" type="str" verify="true">У губернатора Югры выявлен коронавирус</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">ХМАО</tag>
+    <tag type="str">Наталья Комарова</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 8 октября. INTERFAX.RU - Губернатор Ханты-Мансийского автономного округа - Югры Наталья Комарова заразилась коронавирусом. "У меня ПЦР+, чувствую себя нормально. Перехожу на удаленку. Работаем в онлайне", -  написала  Комарова в своем инстаграме в четверг. Ранее сообщалось о том, что коронавирус был выявлен у нескольких руководителей регионов в РФ, в частности, у  губернатора  Алтайского края,  главы Саратовской области  и у  пермского губернатора .]]></text>
+</doc>

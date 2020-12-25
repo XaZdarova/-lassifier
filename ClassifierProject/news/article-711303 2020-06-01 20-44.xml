@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">711303</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/711303</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-06-01 20:44</datetime>
+  <title auto="true" type="str" verify="true">Дубов проиграл Накамуре в первом матче финала онлайн-турнира</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">шахматы</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 1 июня. INTERFAX.RU - Российский гроссмейстер Даниил Дубов потерпел поражение от американца Хикару Накамуры в первом матче в рамках финала онлайн-супертурнира Lindores Abbey Rapid Challenge. Результат матча – 2,5:1,5 в пользу представителя США. По одной партии он выиграл черными и белыми фигурами, одну партию черными проиграл, еще в одной, белыми, сыграл вничью. Второй матч пройдет во вторник, в случае выигрыша Накамура станет победителем турнира (серия идет до двух побед). Lindores Abbey Rapid Challenge является вторым этапом Шахматного Тура, организованного обладателем мировой короны норвежцем Магнусом Карлсеном. Первый этап, Magnus Carlsen Invitational,  выиграл  сам Карлсен.]]></text>
+</doc>

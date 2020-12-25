@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">737579</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/737579</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-11-17 21:58</datetime>
+  <title auto="true" type="str" verify="true">Молодежная сборная России по футболу сыграла вничью со Словенией</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 ноября. INTERFAX.RU - Футболисты молодежной сборной России (игроки – не старше 21 лет) сыграли вничью со сверстниками из Словении в товарищеской встрече. Результат матча, прошедшего в Мариборе, - 2:2. На голы Ника Прелеца (17-я минута) и Давида Брекало (69) россияне отвечали голами Солтмурада Бакаева (65) и Данила Глебова (73). Ранее  сообщалось , что сборная России завоевала путевку на молодежный чемпионат Европы-2021.]]></text>
+</doc>

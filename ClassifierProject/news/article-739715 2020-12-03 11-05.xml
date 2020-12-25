@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">739715</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/739715</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-12-03 11:05</datetime>
+  <title auto="true" type="str" verify="true">Virgin Galactic проведет в декабре тестовый запуск космического корабля для туристов</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Virgin Galactic</tag>
+    <tag type="str">SpaceShipTwo</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 3 декабря. INTERFAX.RU - Испытательный запуск корабля SpaceShipTwo - VSS Unity, предназначенного в перспективе для туристических полетов в космос, предполагается осуществить в период начиная 11 декабря, сообщила компания разработчик-проекта Virgin Galactic. Планируется, что корабль SpaceShipTwo, который рассчитан на шесть пассажиров и двух пилотов, будет поднят в воздух на самолете-носителе WhiteKnightTwo с аэродрома в штате Нью-Мексико. После отстыковки от него с помощью ракетного двигателя корабль выйдет на суборбитальную орбиту высотой около 100 км, то есть на границу атмосферы с космосом, а затем как самолет совершит посадку на Земле. Virgin Galactic собирается начать коммерческие полеты туристов на суборбитальном корабле SpaceShipTwo в следующем году. Заявки на полет уже подали 700 человек, стоимость билета составляет 250 тыс. долларов.]]></text>
+</doc>

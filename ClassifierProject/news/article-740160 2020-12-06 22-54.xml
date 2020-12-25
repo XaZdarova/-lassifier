@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">740160</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/740160</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-12-06 22:54</datetime>
+  <title auto="true" type="str" verify="true">Склад с пиломатериалами загорелся в Ростове-на-Дону</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Ростов-на-Дону</tag>
+    <tag type="str">МЧС РФ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 декабря. INTERFAX.RU - Пожарные тушат пожар на складе с пиломатериалами на улице Локомотивной в Ростове-на-Дону, сообщает пресс-служба ГУ МЧС России по Ростовской области. Согласно сообщению, объявлен ранг пожара №2. В 21:54 по московскому времени огонь был локализован на площади 250 кв. метров. Отмечается, что к тушению огня привлечено 45 человек и 14 единиц техники.]]></text>
+</doc>

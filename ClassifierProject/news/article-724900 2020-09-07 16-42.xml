@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">724900</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/724900</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-09-07 16:42</datetime>
+  <title auto="true" type="str" verify="true">Экс-футболист "Зенита" и "Динамо" Юсупов перешел в "Сочи"</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 7 сентября. INTERFAX.RU - Российский полузащитник Артур Юсупов продолжит карьеру в ФК "Сочи". "Игрок уже прибыл в расположение команды и приступил к тренировкам, став седьмым новичком этого межсезонья", - говорится в сообщении пресс-службы "Сочи". Ранее состав сочинцев пополнили защитники Эмануэль Маммана и Сергей Терехов, полузащитники Александр Руденко, Жоаозиньо, Ивелин Попов и Данил Пруцев. Что касается Юсупова, до перехода в "Сочи" он выступал за петербургский "Зенит" и "Ростов", однако большую часть карьеры футболист провел в московском "Динамо".]]></text>
+</doc>

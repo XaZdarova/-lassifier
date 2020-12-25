@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">736116</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/736116</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-11-08 16:12</datetime>
+  <title auto="true" type="str" verify="true">"Химки" одержали победу над "Рубином" в матче РПЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">РПЛ</tag>
+    <tag type="str">Химки</tag>
+    <tag type="str">Рубин</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 8 ноября. INTERFAX.RU - Футболисты подмосковных "Химок" победили "Рубин" в домашнем матче 14-го тура чемпионата Тинькофф Российской премьер-лиги. Воскресный поединок в Химках завершился со счетом 2:0. Голы забили Резиуан Мирзов (48-я минута) и Денис Глушаков (69). В турнирной таблице "Химки" занимают 14-е место с 12 очками. "Рубин" находится на 9-й позиции (21).]]></text>
+</doc>

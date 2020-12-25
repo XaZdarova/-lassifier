@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">738306</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/738306</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-11-23 13:32</datetime>
+  <title auto="true" type="str" verify="true">Российский арбитр Карасев назначен на матч ЛЧ "Аякс" - "Митьюлланд"</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Лига чемпионов УЕФА</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 23 ноября. INTERFAX.RU - Союз европейских футбольных ассоциаций (УЕФА) назначил Сергея Карасева главным арбитром матча группового этапа Лиги чемпионов "Аякс" - "Митьюлланд", сообщает пресс-служба УЕФА. Помогать Карасеву будут ассистенты Игорь Демешко и Максим Гаврилин, резервный судья - Кирилл Левников. ВАР - Виталий Мешков, АВАР - Владимир Москалев. Матч между  "Аяксом" и "Митьюлландом" пройдет в рамках четвертого тура группового этапа ЛЧ. Он запланирован на 25 ноября в Амстердаме.]]></text>
+</doc>

@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">730175</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/730175</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-06 12:07</datetime>
+  <title auto="true" type="str" verify="true">СК проверит сообщения о жестокости к постояльцам уфимского дома престарелых</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Уфа</tag>
+    <tag type="str">Башкирия</tag>
+    <tag type="str">СКР</tag>
+    <tag type="str">Моя семья</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 октября. INTERFAX.RU - Следователи проверят сообщения СМИ о грубом отношении к постояльцам персонала уфимского пансионата для пожилых "Моя семья" и о нехватке в учреждении постельных принадлежностей и еды,  сообщили  в СК по Башкирии. В рамках доследственной проверки будут опрошены постояльцы, сотрудники и руководители пенсионата, оценены условия проживания людей. 5 октября в региональных СМИ появилась видеозапись, на которой полураздетые старики лежат на кроватях без белья и матрасов. Автор записи утверждал, что снял это в палатах пансионата "Моя семья".]]></text>
+</doc>

@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">727201</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/727201</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-09-16 14:24</datetime>
+  <title auto="true" type="str" verify="true">На МКАДе произошла авария с участием пяти автомобилей</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">ГИБДД</tag>
+    <tag type="str">Москва. МКАД</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 16 сентября. INTERFAX.RU - Авария с участием пяти автомобилей на внешней стороне МКАДа на западе Москвы частично парализовала движение транспорта, сообщили в пресс-службе столичной Госавтоинспекции в среду. "Примерно в 13:00 на 55-м километре внешней стороны МКАД произошло столкновение пяти легковых автомобилей. Предварительно пострадавших нет", - говорится в сообщении управления  в твиттере . По данным Госавтоинспекции, в настоящее время движение на данном участке затруднено.]]></text>
+</doc>

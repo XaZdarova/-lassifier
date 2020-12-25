@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">673430</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/culture/673430</source>
+  <category auto="true" type="str" verify="true">Культура</category>
+  <datetime auto="true" type="str" verify="true">2019-08-21 02:06</datetime>
+  <title auto="true" type="str" verify="true">Warner Brothers объявила о съемках "Матрицы 4" с оригинальным составом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Warner Brothers</tag>
+    <tag type="str">Киану Ривз</tag>
+    <tag type="str">Лана Вачовски</tag>
+    <tag type="str">США</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 21 августа. INTERFAX.RU - Киностудия Warner Brothers объявила о съемках четвертой "Матрицы" с Киану Ривзом и Керри-Энн Мосс в главных ролях,  сообщает  во вторник журнал Variety. Сценаристом и режиссером станет Лана Вачовски. Съемки фильма начнутся в 2020 году. Три предыдущих фильма - "Матрица", "Матрица: Перезагрузка", "Матрица: Революция" - собрали в мировом прокате 1,6 млрд долларов. Первый фильм трилогии вышел 20 лет назад.]]></text>
+</doc>

@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">734944</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/734944</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-30 16:07</datetime>
+  <title auto="true" type="str" verify="true">На Кубани задержали мирового судью</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Краснодарский край</tag>
+    <tag type="str">Туапсе</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 30 октября. INTERFAX.RU - Мирового судью задержали на рабочем месте в Туапсинском районе Краснодарского края, сообщил в пятницу "Интерфаксу" информированный источник. Решения о возбуждении уголовного дела пока нет, сказал собеседник агентства. Он не смог уточнить, с чем связано задержание судьи.]]></text>
+</doc>

@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">740789</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/740789</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-12-10 17:50</datetime>
+  <title auto="true" type="str" verify="true">Россия попала в группу с Францией на молодежном ЧЕ-2021 по футболу</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 10 декабря. INTERFAX.RU - Молодежная сборная России по футболу сыграет в одной группе с Францией, Исландией и Данией на чемпионате Европы 2021 года среди игроков не старше 21 года. Жеребьевка турнира прошла в четверг в швейцарском Ньоне. Молодежный ЧЕ-2021 пройдет в Венгрии и Словении, участие в финальной стадии примут 16 сборных. Игры групповой стадии пройдут с 24 по 31 марта, матчи плей-офф – с 31 мая по 6 июня. Сборная России пробилась в финальную часть впервые с 2013 года.]]></text>
+</doc>

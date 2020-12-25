@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">735633</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/735633</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-05 02:20</datetime>
+  <title auto="true" type="str" verify="true">NBC спрогнозировал большинство демократов в палате представителей</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">США</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 5 ноября. INTERFAX.RU - Демократы сохранили большинство мест в Палате представителей Конгресса США по результатам выборов 2020 года, прогнозирует телеканал NBC. Согласно данным телеканала, демократы выиграли 227 мест в нижней палате американского Конгресса, республиканцы получили 208 мест. Всего в Палате представителей 435 мест. Для получения большинства необходимо получить не менее 218 мест.]]></text>
+</doc>

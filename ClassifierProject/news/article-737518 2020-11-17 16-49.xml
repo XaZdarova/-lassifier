@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">737518</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/737518</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-17 16:49</datetime>
+  <title auto="true" type="str" verify="true">COVID-19 затронул 130 депутатов Госдумы</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Вячеслав Володин</tag>
+    <tag type="str">Госдума</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 ноября. INTERFAX.RU - Председатель Госдумы Вячеслав Володин заявил, что в настоящее время 28 депутатов лечатся от коронавируса в больницах, всего 130 парламентариев больны или переболели COVID-19. "У нас на сегодняшний день 130 человек уже переболели или на больничной койке, 28 в больнице", - сказал Володин на заседании нижней палаты во вторник. Ранее председатель Госдумы сообщал  о 117 депутатах , лечащихся от коронавируса или переболевших им. В соответствии с Конституцией Госдума состоит из 450 депутатов.]]></text>
+</doc>

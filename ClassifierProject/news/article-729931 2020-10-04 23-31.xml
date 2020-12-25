@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">729931</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/729931</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-10-04 23:31</datetime>
+  <title auto="true" type="str" verify="true">Максимальное количество человек с COVID-19 умерло в Москве с июля</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">COVID-19</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 4 октября. INTERFAX.RU - За минувшие сутки в Москве скончались 27 человек с пневмонией и положительным тестом на коронавирус, сообщил столичный оперштаб по контролю за коронавирусом в воскресенье. Это максимальное количество жертв в городе с середины июля. Число жертв коронавируса в Москве увеличилось с 5343 до 5370. По данным на утро воскресенья, в российской столице выявлено 303 940 случаев заражения COVID-19, от инфекции вылечились 253 031 человек, то есть 85% заболевших. Ранее врачи выявили более трех тысяч заболевших в сутки  впервые с мая .]]></text>
+</doc>

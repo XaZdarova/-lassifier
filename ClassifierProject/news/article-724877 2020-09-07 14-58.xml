@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">724877</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/724877</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-09-07 14:58</datetime>
+  <title auto="true" type="str" verify="true">Два футболиста "Манчестер Сити" заразились коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Англия</tag>
+    <tag type="str">Манчестер Сити</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 7 сентября. INTERFAX.RU - Полузащитник "Манчестер Сити" Рияд Махрез и защитник Эмерик Ляпорт заболели коронавирусом, сообщает пресс-служба английского футбольного клуба. Оба игрока в настоящее время находятся на самоизоляции. Их болезнь протекает бессимптомно. Старт сезона в Английской премьер-лиге ожидается 12 сентября, в этот день "Манчестер Сити" дома должен сыграть с "Астон Виллой".]]></text>
+</doc>

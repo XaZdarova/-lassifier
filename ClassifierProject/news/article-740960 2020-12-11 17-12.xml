@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">740960</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/740960</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-12-11 17:12</datetime>
+  <title auto="true" type="str" verify="true">Назван состав сборной России по биатлону на женскую эстафету этапа КМ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">биатлон</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 11 декабря. INTERFAX.RU - Тренерский штаб сборной России по биатлону определился с составом команды, которая примет участие в женской эстафете на этапе Кубка мира в Хохфильцене. Как сообщает пресс-служба Союза биатлонистов России (СБР), отечественные спортсменки будут выходить на старт в следующей очередности: 1. Евгения Павлова 2. Ирина Казакевич 3. Лариса Куклина 4. Ульяна Кайшева Гонка пройдет в субботу и стартует в 13:45 мск.]]></text>
+</doc>

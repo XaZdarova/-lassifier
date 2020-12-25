@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">730303</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/730303</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-06 22:10</datetime>
+  <title auto="true" type="str" verify="true">ЦСКА выиграл шестой матч подряд в КХЛ, победив "Динамо"</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">хоккей</tag>
+    <tag type="str">КХЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 октября. INTERFAX.RU - Хоккеисты московского ЦСКА нанесли поражение столичному "Динамо" в домашнем матче очередного тура регулярного чемпионата Континентальной хоккейной лиги (КХЛ). Результат встречи – 2:0 (0:0, 1:0, 1:0) в пользу армейцев.                 Победа стала для ЦСКА шестой подряд на турнире. Предыдущее поражение датировано 19 сентября, когда ЦСКА на своем льду уступил "Металлургу" (2:4). ЦСКА и "Динамо" провели по 13 матчей. Армейцы лидирует в Западной конференции, набрав 23 очка, "Динамо" – на четвертом месте, 15 баллов.]]></text>
+</doc>

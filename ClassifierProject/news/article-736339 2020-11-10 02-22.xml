@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">736339</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/736339</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-10 02:22</datetime>
+  <title auto="true" type="str" verify="true">Демонстранты полностью захватили здание правительства Армении</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Армения</tag>
+    <tag type="str">Ереван</tag>
+    <tag type="str">Нагорный Карабах</tag>
+    <tag type="str">Никол Пашинян</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 10 ноября. INTERFAX.RU - Здание правительства Армении полностью захвачено демонстрантами, протестующими против решения премьер-министра Армении Никола Пашиняна по вопросу Карабаха. Как сообщает корреспондент "Интерфакса", несколько десятков человек разгромили мебель, технику, разбили двери и окна, часть из них находится в кабинете Пашиняна. Несколько сотен человек находятся на улице. Полиция никак не препятствует действиям демонстрантов.]]></text>
+</doc>

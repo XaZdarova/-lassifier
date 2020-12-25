@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">729191</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/729191</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-09-29 19:03</datetime>
+  <title auto="true" type="str" verify="true">Матч Лиги Европы Арарат-Армения" - "Црвена Звезда" перенесен на Кипр</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Лига Европы УЕФА</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 29 сентября. INTERFAX.RU - Союз европейских футбольных ассоциаций принял решение перенести матч квалификации Лиги Европы между ереванским клубом "Арарат-Армения" и белградской "Црвеной Звездой" в Никосию, сообщает пресс-служба УЕФА. Матч пройдет в четверг 1 октября. Изначально игра должна была пройти на стадионе Академии Федерации футбола Армении в Ереване. О причинах переноса не говорится.]]></text>
+</doc>

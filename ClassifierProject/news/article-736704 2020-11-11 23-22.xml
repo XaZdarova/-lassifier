@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">736704</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/736704</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-11-11 23:22</datetime>
+  <title auto="true" type="str" verify="true">Больше 70 человек умерли в Москве от коронавируса</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">COVID-19</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 11 ноября. INTERFAX.RU - За минувшие сутки в Москве умер 71 человек с пневмонией и положительным тестом на коронавирус, сообщил столичный оперштаб по контролю за коронавирусом в среду. Этот показатель сравним со смертностью в начале июня. Число жертв коронавируса в Москве увеличилось с 7502 до 7573. Сутками ранее от COVID-19 в городе скончались 73 человека. По данным на утро среды, в российской столице выявлено 485 545 случая заражения COVID-19, 350 746 человек (72% от заразившихся) вылечились от инфекции. Мэр Москвы Сергей Собянин заявил в среду, что 2,5-3 миллиона москвичей  обладают иммунитетом  к новому коронавирусу.]]></text>
+</doc>

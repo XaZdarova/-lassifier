@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">736536</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/736536</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-11 09:44</datetime>
+  <title auto="true" type="str" verify="true">На Вануату выявили первый с начала пандемии случай заражения COVID-19</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Вануату</tag>
+    <tag type="str">США</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 11 ноября. INTERFAX.RU - На архипелаге Вануату, расположенном в Меланезии, зафиксировали первый с начала пандемии случай заражения коронавирусом, сообщают австралийские СМИ. Минздрав Вануату указал, что заболевший - 23-летний молодой человек, недавно вернувшийся из США. Он отправлен на карантин. Власти Вануату в марте этого года закрыли свои границы из-за пандемии и только недавно разрешили осуществлять авиарейсы для возвращения граждан на родину. Республика Вануату расположена на более чем 80 островах архипелага, на них проживают в общей сложности около 270 тыс. человек.]]></text>
+</doc>

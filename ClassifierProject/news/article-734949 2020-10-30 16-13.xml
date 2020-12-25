@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">734949</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/734949</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-30 16:13</datetime>
+  <title auto="true" type="str" verify="true">В результате взрыва в ДНР погибли трое человек</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Горловка</tag>
+    <tag type="str">ДНР</tag>
+    <tag type="str">Донбасс</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 30 октября. INTERFAX.RU - Трое мирных жителей погибли в результате взрыва под Горловкой (самопровозглашенная Донецкая народная республика), причины происшествия устанавливаются, сообщил "Интерфаксу" источник в администрации города. "В результате взрыва в районе поселка шахты 6/7 погибли три человека. Что конкретно взорвалось, пока не ясно", - сказал собеседник агентства. С 27 июля 2020 года стороны конфликта в Донбассе приступили к соблюдению дополнительных мер контроля перемирия, которое, согласно договоренностям, должно продлиться до полного урегулирования кризиса в регионе.]]></text>
+</doc>

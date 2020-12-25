@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">716522</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/716522</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-07-08 20:00</datetime>
+  <title auto="true" type="str" verify="true">ЦСКА разгромил "Оренбург" в матче РПЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 8 июля. INTERFAX.RU - Футболисты московского ЦСКА со счетом 4:0 нанесли поражение "Оренбургу" в гостевом матче 27-го тура чемпионата Российской премьер-лиги.                 На 39-й минуте счет открыл Федор Чалов, на 59-й отличился Никола Влашич, на 78-й – Георгий Щенников. На четвертой компенсированной ко второму тайму минуте точный удар нанес Иван Обляков.                 ЦСКА набрал 46 очков и поднялся на третье место в турнирной таблице. "Оренбург" – на последнем, 16-м месте, 23 очка.]]></text>
+</doc>

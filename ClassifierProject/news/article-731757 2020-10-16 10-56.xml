@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">731757</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/731757</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-16 10:56</datetime>
+  <title auto="true" type="str" verify="true">За сутки из-за коронавируса в России закрыли еще десять школ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Минпросвещения</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 16 октября. INTERFAX.RU - За минувшие сутки из-за коронавируса в 41 регионе России закрыли еще десять школ, всего закрыто 125 школ, сообщило Министерство просвещения. Это 0,31% от общего числа школ. Процент классов, закрытых на карантин, составляет 0,91% от общего числа. В Минпросвещения не раз говорили, что массово переводить школы на удаленку из-за пандемии не планируется.]]></text>
+</doc>

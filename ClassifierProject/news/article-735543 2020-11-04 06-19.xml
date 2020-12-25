@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">735543</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/735543</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-04 06:19</datetime>
+  <title auto="true" type="str" verify="true">Демократы сохраняют большинство в Палате представителей США</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">США</tag>
+    <tag type="str">Палата представителей</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 4 ноября. INTERFAX.RU - Члены Демократической партии сохранят контроль над Палатой представителей США,  прогнозирует  телеканал Fox News. Согласно прогнозу, демократы также увеличат свое присутствие в нижней палате Конгресса минимум на пять мест. По данным американских СМИ, в текущий момент на выборах в Палату представителей лидируют республиканцы - у них 76 мест, у демократов - 49. Всего в Палате представителей 435 мест. На промежуточных выборах 2018 года демократы получили 232 места.]]></text>
+</doc>

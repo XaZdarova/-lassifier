@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">740128</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/740128</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-12-06 13:49</datetime>
+  <title auto="true" type="str" verify="true">В Минске начались задержания протестующих</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Белоруссия</tag>
+    <tag type="str">Минск</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 декабря. INTERFAX.RU - Точечные задержания прошли в нескольких районах Минска, где проходят несанкционированные акции протеста. Как сообщает корреспондент "Интерфакс", в микрорайоне Каменная Горка задержали как минимум двух человек, около 20 протестующих там же разбежались при виде сотрудников силовых структур. Кроме того, по информации очевидцев, несколько человек задержали на улице Столетова. Известно о задержаниях в микрорайонах Уручье и Лебяжьем. По информации Белорусской ассоциации журналистов, в Гродно задержали двух журналистов агентства БелаПАН.]]></text>
+</doc>

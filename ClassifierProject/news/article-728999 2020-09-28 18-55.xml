@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">728999</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/728999</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-09-28 18:55</datetime>
+  <title auto="true" type="str" verify="true">Первое чтение госбюджета в Думе запланировано на 29 октября</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Госдума</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 28 сентября. INTERFAX.RU - Первое чтение законопроекта о бюджете на следующую "трехлетку" планируется на 29 октября, сообщает пресс-служба Госдумы. Такое решение было принято на заседании Совета Госдумы ранее в понедельник. Кроме того, в связи с предстоящим внесением бюджета Комитету нижней палаты по бюджету и налогам дано разрешение проводить свои заседания в региональную неделю с 5 по 11 октября.]]></text>
+</doc>

@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">731186</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/731186</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-12 22:01</datetime>
+  <title auto="true" type="str" verify="true">СКА под руководством Ротенберга проиграл московскому "Динамо"</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">хоккей</tag>
+    <tag type="str">КХЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 12 октября. INTERFAX.RU - Хоккеисты московского "Динамо" нанесли поражение петербургскому СКА в матче очередного тура регулярного чемпионата Континентальной хоккейной лиги (КХЛ). Встреча прошла в Петербурге, она завершилась со счетом 4:3 (2:2, 1:1, 1:0) в пользу "Динамо". Хоккеистами СКА в этой игре вновь руководил вице-президент клуба Роман Ротенберг, заменяющий заболевшего главного тренера команды Валерия Брагина.]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">736161</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/736161</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-09 05:21</datetime>
+  <title auto="true" type="str" verify="true">СМИ сообщили о гибели 11 человек при атаке боевиков ИГ в Ираке</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Ирак</tag>
+    <tag type="str">Багдад</tag>
+    <tag type="str">ИГ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 9 ноября. INTERFAX.RU - Члены террористической группировки "Исламское государство"  (ИГ, запрещена в РФ)  напали на наблюдательный пункт к западу от Багдада, в результате нападения погибли 11 человек, сообщают арабские СМИ. По их данным, в результате атаки были убиты пять представителей Шиитского народного ополчения Ирака "аль-Хашд аш-Шааби" и шесть местных жителей. Также сообщается о восьми раненых. Как  уточняет  TRT со ссылкой на источники,  неизвестные на четырех автомобилях атаковали пост в районе Аль-Радхвания с применением гранат и автоматов.  Армия и полиция начали операцию по поиску нападавших.]]></text>
+</doc>

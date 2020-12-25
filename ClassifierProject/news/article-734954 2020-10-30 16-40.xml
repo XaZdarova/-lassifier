@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">734954</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/734954</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-30 16:40</datetime>
+  <title auto="true" type="str" verify="true">Встреча глав МИД Армении и Азербайджана началась в Женеве</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Армения</tag>
+    <tag type="str">Азербайджан</tag>
+    <tag type="str">Нагорный Карабах</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 30 октября. INTERFAX.RU - В Женеве проходит встреча глав МИД Армении и Азербайджана Зограба Мнацаканяна и Джейхуна Байрамова по карабахскому урегулированию, сообщила в фейсбуке пресс-секретарь МИД Армении Анна Нагдалян. Ранее сообщалось, что главы МИД двух стран отбыли в Женеву для встречи с сопредседателями Минской группы ОБСЕ по урегулированию карабахского конфликта.]]></text>
+</doc>

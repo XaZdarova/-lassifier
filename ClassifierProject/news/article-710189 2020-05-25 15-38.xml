@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">710189</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/710189</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-05-25 15:38</datetime>
+  <title auto="true" type="str" verify="true">Экс-футболист "Ромы" Буассе скончался в возрасте 21 года</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 25 мая. INTERFAX.RU - Итальянский футбольный клуб "Рома" сообщил о кончине своего бывшего полузащитника камерунца Джозефа Буасса. "Рома" скорбит по поводу смерти бывшего игрока академии Джозефа Буасса", - говорится в сообщении. Камерунцу был 21 год. Как сообщает издание The Sun, футболист скончался от перенесенного накануне сердечного приступа. С 2017 по 2019 год он тренировался в академии римлян и не привлекался в основной состав. С 2020 года он играл за румынский клуб "Университатя Клуж".]]></text>
+</doc>

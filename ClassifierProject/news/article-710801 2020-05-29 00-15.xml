@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">710801</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/710801</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-05-29 00:15</datetime>
+  <title auto="true" type="str" verify="true">Чемпионат Италии по футболу возобновится 20 июня</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Италия</tag>
+    <tag type="str">футбол</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 29 мая. INTERFAX.RU - Чемпионат Италии по футболу будет возобновлен во второй половине июня, сообщил министр спорта страны Винченцо Спадафора.  "Сегодня мы можем сказать, что чемпионат возобновится 20 июня", - приводит слова Спадафоры Sky Sports. Матчи Кубка Италии, по его словам, будут проходить с 13 июня. В Серии А в нынешнем сезоне команды провели по 26 матчей из 38. Лидирует "Ювентус", на очко опережающий "Лацио".]]></text>
+</doc>

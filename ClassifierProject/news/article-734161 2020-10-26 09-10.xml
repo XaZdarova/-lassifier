@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">734161</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/734161</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-10-26 09:10</datetime>
+  <title auto="true" type="str" verify="true">В Москве от COVID-19 вылечили более 293 тыс. человек</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Анастасия Ракова</tag>
+    <tag type="str">Москва</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 26 октября. INTERFAX.RU - Московские врачи вылечили от коронавируса более 293 тысяч человек, за сутки выздоровели почти 2,7 тысяч пациентов, сообщила заместитель мэра столицы по вопросам социального развития Анастасия Ракова. "Количество выздоровевших в Москве продолжает увеличиваться. За прошедшие сутки после прохождения лечения выздоровел еще 2681 пациент. Всего число людей, вылечившихся от инфекции, увеличилось до 293 205", - сказала Ракова журналистам в понедельник. По последним данным, в Москве зафиксировано 395 816 случаев заражения коронавирусом, умерло 6 442 инфицированных.]]></text>
+</doc>

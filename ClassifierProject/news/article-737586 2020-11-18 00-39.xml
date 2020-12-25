@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">737586</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/737586</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-11-18 00:39</datetime>
+  <title auto="true" type="str" verify="true">Сборная Испании со счетом 6:0 победила Германию в Лиге наций УЕФА</title>
+  <description auto="true" type="str" verify="true">Испанцы вышли в финальную стадию турнира</description>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Лига наций УЕФА</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 18 ноября. INTERFAX.RU - Футболисты сборной Испании нанесли разгромное поражение национальной команде Германии в матче заключительного тура Лиги наций УЕФА. Встреча, прошедшая в Севилье, завершилась со счетом 6:0 в пользу испанцев. Три гола – на 33-й, 55-й и 71-й минутах – в их составе провел Ферран Торрес. По разу отличились Альваро Мората (17-я минута), Родриго Эрнандес (38) и Микель Оярсабаль (89). В итоге Испания набрала 11 очков и финишировала на первом месте группы 4 элитного дивизиона А. Это дало ей путевку в финальную стадию турнира.]]></text>
+</doc>

@@ -1,0 +1,16 @@
+<doc>
+  <id auto="true" type="str" verify="true">735347</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/735347</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-02 22:38</datetime>
+  <title auto="true" type="str" verify="true">Путин переговорил с Пашиняном и Алиевым</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Владимир Путин</tag>
+    <tag type="str">Азербайджан</tag>
+    <tag type="str">Армения</tag>
+    <tag type="str">Ильхам Алиев</tag>
+    <tag type="str">Никол Пашинян</tag>
+    <tag type="str">Нагорный Карабах</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 2 ноября. INTERFAX.RU - Президент РФ Владимир Путин обсудил по телефону с руководителями Азербайджана и Армении тему карабахского урегулирования, сообщает пресс-служба Кремля. "1 ноября и 2 ноября соответственно состоялись телефонные разговоры президента Российской Федерации Владимира Путина с премьер-министром Республики Армения Николом Пашиняном и президентом Азербайджанской Республики Ильхамом Алиевым. Обстоятельно обсуждены вопросы урегулирования нагорно-карабахского конфликта", – говорится в сообщении. Подробностей пресс-служба не приводит.]]></text>
+</doc>

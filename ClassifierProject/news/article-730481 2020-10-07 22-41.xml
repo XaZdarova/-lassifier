@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">730481</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/730481</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-10-07 22:41</datetime>
+  <title auto="true" type="str" verify="true">В Москве задержаны два участника группы Pussy Riot</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">Pussy Riot</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 7 октября. INTERFAX.RU - В Москве задержали двух участников группы Pussy Riot Василия Андрианова и Елизавету Дидерих, сообщил "Интерфаксу" адвокат "Апологии протеста" Леонид Соловьев. По его информации, к задержанным в ОВД Басманный выехал адвокат. Кроме того, полицейские пришли к еще одному участнику группы Александру Софееву. Утром в среду Pussy Riot провели акцию, вывесив радужные ЛГБТ-флаги на ряде зданий в центре Москвы, в которых располагаются государственные учреждения.]]></text>
+</doc>

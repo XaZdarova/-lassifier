@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">737571</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/737571</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-17 20:58</datetime>
+  <title auto="true" type="str" verify="true">В Турции закроют школы и введут комендантский час из-за COVID-19</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Турция</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 ноября. INTERFAX.RU - Президент Турции Реджеп Тайип Эрдоган во вторник объявил об ужесточении ограничительных мер по всей стране для борьбы с распространением коронавируса COVID-19,  сообщает  газета Daily Sabah. В частности, в стране закрывают школы до конца семестра и вводят комендантский час по выходным с 20:00 по местному времени до 10:00. Бары, рестораны, продуктовые магазины, торговые центры и салоны красоты будут работать только с 10:00 до 20:00. За время пандемии в Турции выявили почти 420 тысяч случаев заражения коронавирусом, более 11 тысяч человек скончались.]]></text>
+</doc>

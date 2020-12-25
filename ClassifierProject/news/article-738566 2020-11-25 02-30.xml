@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">738566</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/738566</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-25 02:30</datetime>
+  <title auto="true" type="str" verify="true">СМИ сообщили об ударах Израиля по юго-востоку Сирии</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Сирия</tag>
+    <tag type="str">Израиль</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 25 ноября. INTERFAX.RU - Юго-Восток Сирии подвергся авиаударам израильской армии, сообщило сирийское государственное информационное агентство SANA. Первый удар был нанесен в районе деревни Рвихина к югу от Эль-Кунейтры вдоль границы с Израилем. Вскоре после этого поступило сообщение об ударе в районе Джебель эль-Мании, к югу от Дамаска. В результате авиаударов жертв нет, нанесен только материальный ущерб. С израильской стороны сообщений об атаках целей на сирийской территории пока нет.]]></text>
+</doc>

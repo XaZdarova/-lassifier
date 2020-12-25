@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">736331</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/736331</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-09 23:25</datetime>
+  <title auto="true" type="str" verify="true">Почти 70 пациентов с коронавирусом скончались в Москве</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">COVID-19</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 9 ноября. INTERFAX.RU - За минувшие сутки в Москве умерли 68 человек с пневмонией и положительным тестом на коронавирус, сообщил столичный оперштаб по контролю за коронавирусом в понедельник. Число жертв коронавируса в Москве увеличилось с 7361 до 7429. Сутками ранее от COVID-19 в городе скончались 72 человека. По данным на утро понедельника, в российской столице выявлено 475 166 случаев заражения COVID-19, 343 226 человек (72% от заразившихся) вылечились от инфекции. Ранее стало известно, что в городе  побит майский антирекорд  по суточному приросту числа заражений.]]></text>
+</doc>

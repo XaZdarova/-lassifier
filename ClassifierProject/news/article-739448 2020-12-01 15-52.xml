@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">739448</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/739448</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-12-01 15:52</datetime>
+  <title auto="true" type="str" verify="true">В Индии начались клинические исследования российской COVID-вакцины</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Индия</tag>
+    <tag type="str">Спутник V</tag>
+    <tag type="str">РФПИ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 1 декабря. INTERFAX.RU - Российский фонд прямых инвестиций (РФПИ) объявил о начале проведения в Индии клинических испытаний российской вакцины от коронавируса "Спутник V". "Dr. Reddy's Laboratories Ltd. и РФПИ объявили сегодня о начале клинических испытаний 2/3 фазы вакцины "Sputnik V" в Индии после получения необходимого разрешения Центральной лаборатории по лекарственным средствам в Индии", - говорится в сообщении пресс-службы РФПИ во вторник. Это будет многоцентровое рандомизированное контролируемое исследование, которое будет включать исследование безопасности и иммуногенности, отмечается в сообщении.]]></text>
+</doc>

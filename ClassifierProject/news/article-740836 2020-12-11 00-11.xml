@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">740836</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/740836</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-12-11 00:11</datetime>
+  <title auto="true" type="str" verify="true">Два человека, включая ребенка, погибли при пожаре в Москве</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 11 декабря. INTERFAX.RU - Два человека, в том числе ребенок, погибли при пожаре в жилом доме на юго-западе столицы, сообщается на официальном сайте Главного управления МЧС по Москве. "В горящей квартире пострадали 2 человека, 1 из них ребёнок. По состоянию на 23:09, к сожалению, люди погибли", - говорится в сообщении. Пожар произошел в пятиэтажном жилом доме на улице Керченской. МЧС также сообщает, что в 22:00 четверга пожар был ликвидирован.]]></text>
+</doc>

@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">741139</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/741139</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-12-14 00:16</datetime>
+  <title auto="true" type="str" verify="true">В Иране пожарные остановили распространение огня на крупном нефтепроводе</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Иран</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 14 декабря. INTERFAX.RU - Пожарные в Иране сумели взять под контроль ситуацию на месте пожара, произошедшего на крупном нефтепроводе, сообщают ближневосточные СМИ. Речь идёт о трубопроводе, по которому нефть с месторождения "Марун" поступает на НПЗ в Исфахане, второй по значимости в Иране. На месте возгорания пожарным удалось остановить распространение огня, жилые строения не пострадали. Полностью пожар ещё не потушен. В сообщениях не указывается, насколько сильно это происшествие повлияет на работу НПЗ.]]></text>
+</doc>

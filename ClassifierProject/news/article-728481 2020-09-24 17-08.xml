@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">728481</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/728481</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-09-24 17:08</datetime>
+  <title auto="true" type="str" verify="true">Чистая прибыль ВТБ по РСБУ за восемь месяцев снизилась в 2,4 раза</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">ВТБ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 24 сентября. INTERFAX.RU - В январе-августе 2020 года чистая прибыль банка ВТБ по РСБУ года составила 52,097 млрд рублей против 126,536 млрд рублей годом ранее. Об этом свидетельствуют расчеты на основе оборотной ведомости банка, опубликованной на сайте Банка России. Прибыль до налогообложения составила 66,865 млрд рублей против прибыли 88,839 млрд рублей за аналогичный период прошлого года.]]></text>
+</doc>

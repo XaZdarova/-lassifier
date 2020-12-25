@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">738873</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/738873</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-26 20:16</datetime>
+  <title auto="true" type="str" verify="true">Российский военный найден мертвым в Армении</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">ЮВО</tag>
+    <tag type="str">Армения</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 26 ноября. INTERFAX.RU - Тело российского военнослужащего обнаружено по месту проживания вне воинской части в Армении сослуживцем, сообщает пресс-служба Южного военного округа (ЮВО) в четверг. Комиссия командования военной базы ЮВО в Армении вместе с правоохранительными органами проводит расследование по факту смерти контрактника, говорится в сообщении. В нем также отмечается, что следов насильственной смерти на теле военного не обнаружено. Обстоятельства произошедшего уточняются.]]></text>
+</doc>

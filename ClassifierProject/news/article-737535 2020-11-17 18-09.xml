@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">737535</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/737535</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-11-17 18:09</datetime>
+  <title auto="true" type="str" verify="true">Правкомиссия предварительно согласовала покупку Trafigura 10% в "Восток Ойле"</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Trafigura</tag>
+    <tag type="str">Восток Ойл</tag>
+    <tag type="str">Роснефть</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 ноября. INTERFAX.RU - Правительственная комиссия по контролю за осуществлением иностранных инвестиций в РФ в рамках заочного голосования предварительно согласовала сделку по приобретению компанией Trafigura PTE Ltd права распоряжаться 10% голосов, приходящихся на доли, составляющие уставный капитал ООО "Восток Ойл", говорится в сообщении пресс-службы правительства России. Решение принято в рамках поддержки правительственной комиссией планов "Роснефти" по реализации проекта "ВостокОйл" для развития российской экономики и обеспечения стратегических интересов РФ по развитию Северного морского пути, поясняется в сообщении.]]></text>
+</doc>

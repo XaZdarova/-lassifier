@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">734824</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/734824</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-29 20:17</datetime>
+  <title auto="true" type="str" verify="true">Медведев вышел в четвертьфинал теннисного турнира в Австрии</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+    <tag type="str">Даниил Медведев</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 29 октября. INTERFAX.RU - Российский теннисист Даниил Медведев стал обладателем путевки в 1/4 финала турнира серии ATP500 в Вене.                 Во втором круге соревнования он нанес поражение канадцу Вашеку Поспишилу – 4:6, 6:3, 6:2.                 Продолжительность матча составила 1 час 59 минут.                 В следующем круге Медведев, занимающий шестое место в рейтингеATP, сыграет с южноафриканцем Кевином Андерсоном (111-е место).]]></text>
+</doc>

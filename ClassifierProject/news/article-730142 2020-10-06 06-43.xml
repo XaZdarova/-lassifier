@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">730142</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/730142</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-06 06:43</datetime>
+  <title auto="true" type="str" verify="true">Один человек погиб в беспорядках в Бишкеке</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Киргизия</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 октября. INTERFAX.RU - Один человек скончался в результате беспорядков в Бишкеке, 590 пострадали, сообщили во вторник "Интерфаксу" в минздраве Киргизии. По данным собеседника агентства, скончался мужчина в возрасте 30-35 лет, причина - ушиб головного мозга тяжелой степени. В понедельник в Бишкеке начались массовые протесты против итогов парламентских выборов. Акция переросла в беспорядки.]]></text>
+</doc>

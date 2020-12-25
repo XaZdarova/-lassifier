@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">735517</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/735517</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-03 22:36</datetime>
+  <title auto="true" type="str" verify="true">Вокзал в Утрехте эвакуировали из-за сообщений об угрозе взрыва</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Нидерланды</tag>
+    <tag type="str">Утрехт</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 3 ноября. INTERFAX.RU - В голландском городе Утрехте закрыли и эвакуировали вокзал из-за сообщений об угрозе теракта, там проходит полицейская операция,  сообщает  бельгийский портал 7sur7. По данным портала, некий мужчина угрожал людям в поезде. Голландская железнодорожная компания заявила об угрозе взрыва. Нидерландская вещательная организация, в свою очередь, сообщила о задержании двоих человек во время полицейской спецоперации. На место происшествия прибыли сотрудники спецслужб.]]></text>
+</doc>

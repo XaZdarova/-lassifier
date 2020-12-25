@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">729435</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/729435</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-01 02:25</datetime>
+  <title auto="true" type="str" verify="true">Сенат США принял законопроект о временном бюджете</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">США</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 1 октября. INTERFAX.RU - Сенат США в среду принял законопроект о временном бюджете до 11 декабря всего за несколько часов до крайнего срока, чтобы предотвратить закрытие правительства. Сенаторы отдали 84 голоса "за", "против" проголосовали 10 человек. Законопроект теперь направляется на подпись президенту США Дональду Трампу, который он должен одобрить до полуночи, чтобы предотвратить шатдаун. Законопроект принимает меры выполнения федерального бюджета до 11 декабря, что дает партиям в конгрессе и Белому дому сосредоточиться на выборах 3 ноября.]]></text>
+</doc>

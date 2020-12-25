@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">730231</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/730231</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-06 15:11</datetime>
+  <title auto="true" type="str" verify="true">"Зенит" приобрел бразильского полузащитника</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">ФК Зенит</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 октября. INTERFAX.RU - Состав петербургского футбольного клуба "Зенит" пополнил бразильский полузащитник Вендел из португальского "Спортинга", сообщает пресс-служба российского ФК. Контракт с 23-летним игроком рассчитан до конца сезона-2024/25. В составе "Спортинга" Вендел стал обладателем Кубка Португалии сезона-2018/20. В 2019 году начал выступать за молодежную сборную Бразилии.]]></text>
+</doc>

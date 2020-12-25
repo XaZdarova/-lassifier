@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">735688</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/735688</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-05 12:44</datetime>
+  <title auto="true" type="str" verify="true">Подросток в Тюменской области застрелил на охоте сверстника</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Тюменская область</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 5 ноября. INTERFAX.RU - Прокуратура в Тюменской области проводит проверку по факту гибели утром в четверг подростка в Тобольском районе,  сообщает  пресс-служба областной прокуратуры. По предварительным данным, вблизи деревни Вармахли Тобольского района 13-летний подросток в лесу на охоте застрелил 12-летнего мальчика. В пресс-службе следственного управления СКР по региону сообщили, что в связи с гибелью подростка проводится доследственная проверка. Следователи вылетели на место происшествия.]]></text>
+</doc>

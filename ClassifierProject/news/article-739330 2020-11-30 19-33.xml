@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">739330</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/739330</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-11-30 19:33</datetime>
+  <title auto="true" type="str" verify="true">Алжирский министр заявил, что в ОПЕК договорились продлить ограничения на I кв.</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">ОПЕК</tag>
+    <tag type="str">нефть</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 30 ноября. INTERFAX.RU - Страны ОПЕК договорились продлить действующие ограничения на добычу нефти в 7,7 млн баррелей в сутки на первый квартал 2021 года и будут убеждать союзников по ОПЕК+ поддержать это решение, передает агентство Bloomberg слова министра энергетики Алжира, президента конференции ОПЕК Абдельмаджида Аттара. "На уровне ОПЕК есть консенсус о продлении действующих ограничений в 7,7 млн б/с до конца марта", - сказал министр государственному алжирскому агентству. Заседание всех министров ОПЕК+ намечено на 1 декабря.]]></text>
+</doc>

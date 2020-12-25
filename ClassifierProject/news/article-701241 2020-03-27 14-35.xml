@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">701241</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/culture/701241</source>
+  <category auto="true" type="str" verify="true">Культура</category>
+  <datetime auto="true" type="str" verify="true">2020-03-27 14:35</datetime>
+  <title auto="true" type="str" verify="true">Коронавирус выявлен у солиста Rammstein Тилля Линдеманна</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Rammstein</tag>
+    <tag type="str">Тилль Линдеманн</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 27 марта. INTERFAX.RU - Солист немецкой группы Rammstein Тилль Линдеманн лежит в больнице в Берлине с коронавирусом,  сообщает  в пятницу таблоид Bild. По информации издания, музыкант госпитализирован в палату интенсивной терапии. На прошлой неделе он выступал в России с сольным проектом, затем вернулся в Берлин. Сообщается, что Линдеманна отвезли в больницу из-за высокой температуры, тест на COVID-19 оказался положительным. Газета пишет, что угрозы жизни музыканта нет, его состояние улучшилось.]]></text>
+</doc>

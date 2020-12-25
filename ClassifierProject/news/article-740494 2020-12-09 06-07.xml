@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">740494</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/740494</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-12-09 06:07</datetime>
+  <title auto="true" type="str" verify="true">Число инфицированных COVID-19 в мире превысило 68 млн</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">коронавирус</tag>
+    <tag type="str">COVID-19</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 9 декабря. INTERFAX.RU - С начала пандемии коронавируса COVID-19 число инфицированных в мире достигло по состоянию на 4:30 среды по московскому времени 68 161 156, сообщил американский университет Джонса Хопкинса. По его данным, всего от связанных с коронавирусом заболеваний в мире скончались 1 555 138 человек, излечились 43 889 842. Лидером по количеству заболевших и умерших остаются Соединенные Штаты, где зарегистрировано 15 159 237 случаев заражения COVID-19 и 286 189 летальных исходов.]]></text>
+</doc>

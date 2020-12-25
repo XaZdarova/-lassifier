@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">728280</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/728280</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-09-23 16:12</datetime>
+  <title auto="true" type="str" verify="true">В Париже провели эвакуацию с Эйфелевой башни из-за "лжеминирования"</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Франция</tag>
+    <tag type="str">Париж</tag>
+    <tag type="str">Эйфелева башня</tag>
+    <tag type="str">МВД</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 23 сентября. INTERFAX.RU - В Париже днем в среду с Эйфелевой башни эвакуировали всех людей, а ближайший квартал оцепили из-за угрозы взрыва,  сообщает  Le Parisien. Анонимный звонок о заложенной бомбе поступил в полицию около 11 утра. В полдень на башне уже никого не оставалось, и полиция начала проверку всех помещений, рассказали в компании-операторе башни. Бомбу не нашли. В 14:15 башню снова разрешили открыть.]]></text>
+</doc>

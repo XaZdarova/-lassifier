@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">722465</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/722465</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-19 22:58</datetime>
+  <title auto="true" type="str" verify="true">"Зенит" обыграл ЦСКА в матче РПЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 19 августа. INTERFAX.RU - Футбольный клуб "Зенит" (Санкт-Петербург) одержал домашнюю победу над ЦСКА (Москва) в заключительном матче третьего тура Российской премьер-лиги. Игра завершилась со счетом 2:1. В составе "Зенита" дублем отметился Сердар Азмун (19-я и 69-я минуты). Единственный гол в составе ЦСКА забил Никола Влашич (26-я минута). "Зенит" выиграл все три стартовых матча и лидирует в чемпионате, набрав девять очков. ЦСКА идет на пятом месте, имея в своем активе шесть очков. В следующем туре "Зенит" сыграет с "Тамбовом", матч пройдет 22 августа. ЦСКА в тот же день встретится с казанским "Рубином".]]></text>
+</doc>

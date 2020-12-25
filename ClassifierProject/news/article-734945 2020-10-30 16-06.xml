@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">734945</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/734945</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-30 16:06</datetime>
+  <title auto="true" type="str" verify="true">Землетрясение магнитудой 7.0 произошло в турецком Измире</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Турция</tag>
+    <tag type="str">Измир</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 30 октября. INTERFAX.RU - До 20 жилых зданий получили повреждения в результате сильного землетрясения у западного побережья Турции, сообщило агентство "Анадолу" со ссылкой на главу муниципалитета Измира Тунча Сойера. Отмечается, что землетрясение почувствовали и в других городах, в частности, в Стамбуле. О жертвах не сообщается. Землетрясение магнитудой 7.0 произошло в 11.51 по времени UTC (14.51 мск) в 32 километрах от турецкого города Измир. Очаг залегал на глубине 10 километров.]]></text>
+</doc>

@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">738887</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/738887</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-11-26 22:57</datetime>
+  <title auto="true" type="str" verify="true">ЦСКА сыграл вничью с "Фейеноордом" в Лиге Европы УЕФА</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Лига Европы УЕФА</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 26 ноября. INTERFAX.RU - Футболисты московского ЦСКА и нидерландского "Фейеноорда" вничью завершили матч четвертого тура группового этапа Лиги Европы УЕФА. Результат встречи, прошедшей в Москве, - 0:0. В другом матче группы К австрийский "Вольфсберг" на своем поле уступил загребскому "Динамо" – 0:3. Турнирное положение в группе выглядит следующим образом: 1"Динамо" – 8 очков, 2."Фейеноорд" – 5, 3,"Вольфсберг" – 4, 4.ЦСКА – 3. В следующем туре – 3 декабря – ЦСКА сыграет на своем поле с "Вольфсбергом", "Фейеноорд" дома примет "Динамо".]]></text>
+</doc>

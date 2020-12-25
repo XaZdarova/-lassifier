@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">741285</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/741285</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-12-14 22:00</datetime>
+  <title auto="true" type="str" verify="true">Пашинян анонсировал возвращение пленных из Азербайджана на российском самолете</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Никол Пашинян</tag>
+    <tag type="str">Армения</tag>
+    <tag type="str">Азербайджан</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 14 декабря. INTERFAX.RU - В Ереван из Азербайджана на российском самолете возвратятся 44 армянских пленных, сообщил премьер-министр Армении Никол Пашинян на своей странице в  фейсбуке . Пресс-секретарь премьер-министра Армении Мане Геворкян ранее в понедельник написала на своей странице в фейсбуке: "Ждем возвращения первой группы наших пленных". Ранее Госкомиссия по вопросам пленных, пропавших без вести и заложников Азербайджана сообщила, что Азербайджан и Армения в понедельник начали обмен пленными и заложниками по принципу "всех на всех".]]></text>
+</doc>

@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">728705</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/728705</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-09-25 23:10</datetime>
+  <title auto="true" type="str" verify="true">17 пациентов с коронавирусом скончались в Москве за сутки</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 25 сентября. INTERFAX.RU - Еще 17 пациентов с подтвержденным диагнозом пневмония и положительным результатом тестов на коронавирус скончались в Москве за сутки, сообщили "Интерфаксу" в столичном оперштабе по контролю и мониторингу ситуации с коронавирусом. Общее количество умерших от коронавируса в Москве увеличилось с 5 129 до 5 146. Всего с начала пандемии в Москве зарегистрировано почти 282 тыс. случаев COVID-19, вылечились от инфекции более 242 тыс. человек. За минувшие сутки в столице  зарегистрировано  более 1,5 тыс. новых случаев COVID-19.]]></text>
+</doc>

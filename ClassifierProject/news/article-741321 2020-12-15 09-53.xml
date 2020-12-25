@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">741321</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/741321</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-12-15 09:53</datetime>
+  <title auto="true" type="str" verify="true">Снежный покров в Москве за ночь вырос на 5 сантиметров</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">метеобюро Москвы</tag>
+    <tag type="str">ВДНХ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 15 декабря. INTERFAX.RU - В Москве за ночь высота снежного покрова выросла с пяти до десяти сантиметров, сообщили в метеобюро Москвы, ссылаясь на данные с главной метеостанции на ВДНХ на 9 часов утра. По прогнозу синоптиков, снегопад в столичном регионе продлится до 15:00, максимальная температура воздуха составит минус 2 градуса. Десять сантиметров - пока это максимальная высота снега с начала сезона, в прошлый раз она отмечалась 23 ноября. По предварительной оценке, декабрь 2020 года в Москве пока на 1,5 градуса холоднее климатической нормы.]]></text>
+</doc>

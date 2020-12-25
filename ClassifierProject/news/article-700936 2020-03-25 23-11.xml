@@ -1,0 +1,17 @@
+<doc>
+  <id auto="true" type="str" verify="true">700936</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/culture/700936</source>
+  <category auto="true" type="str" verify="true">Культура</category>
+  <datetime auto="true" type="str" verify="true">2020-03-25 23:11</datetime>
+  <title auto="true" type="str" verify="true">Элтон Джон устроит благотворительный телеконцерт с другими звездами</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">музыка</tag>
+    <tag type="str">Элтон Джон</tag>
+    <tag type="str">Билли Айлиш</tag>
+    <tag type="str">Мэрайя Кэри</tag>
+    <tag type="str">Алиша Кис</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">COVID-19</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 25 марта. INTERFAX.RU - Британский певец и композитор Элтон Джон организует специальный концерт для сбора средств для борьбы против пандемии коронавируса, сообщило агентство Associated Press. Выступление будут транслировать телеканалы Fox и iHeartMedia. Вместе с ним в концерте примут участие такие знаменитости, как Билли Айлиш, Мэрайя Кэри, Алиша Кис и другие. Все звезды останутся у себя дома и записывать выступления с помощью собственного оборудования. Концерт состоится в воскресенье в 21:00 по вашингтонскому времени (4:00 понедельника по Москве). Всех зрителей попросят сделать пожертвования на счет фонда Feeding America and First Responders Children's Foundation. Ожидается, что в общей сложности выступления звезд продлятся около часа.]]></text>
+</doc>

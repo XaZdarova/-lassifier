@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">736580</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/736580</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-11 12:45</datetime>
+  <title auto="true" type="str" verify="true">Более 600 петербуржцев с коронавирусом попали в реанимацию</title>
+  <description auto="true" type="str" verify="true">Почти половина из них подключена к аппаратам ИВЛ</description>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Олег Эргашев</tag>
+    <tag type="str">Петербург</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 11 ноября. INTERFAX.RU - Свыше 600 жителей Петербурга находятся в реанимации с коронавирусом, почти половина из них подключена к аппаратам ИВЛ, сообщил вице-губернатор города Олег Эргашев. "Сейчас в реанимациях города на лечении находится 614 человек, из них 297 подключены к аппаратам искусственной вентиляции легких", - сказал Эргашев, выступая перед Законодательным собранием в среду. В настоящее время в стационарах Петербурга развернуты 9613 "коронавирусных" коек, из них 1778 оснащены аппаратами ИВЛ. Свободны 605 коек, что составляет порядка 7% от общего числа.]]></text>
+</doc>

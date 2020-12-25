@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">649976</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/culture/649976</source>
+  <category auto="true" type="str" verify="true">Культура</category>
+  <datetime auto="true" type="str" verify="true">2019-02-11 07:53</datetime>
+  <title auto="true" type="str" verify="true">Стали известны лауреаты премии "Грэмми"</title>
+  <description auto="true" type="str" verify="true">Одного из музыкантов наградили посмертно</description>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">музыка</tag>
+    <tag type="str">Грэмми</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 11 февраля. INTERFAX.RU - Американская академия звукозаписи назвала победителей премии " Грэмми " за 2019 год. Лучшей песней стала рэп-композиция This is America Дональда Гловера, известного как Childish Gambino. Приз за альбом года получила Кейси Масгрейвз, певица в стиле кантри. Альбом называется Golden Hour. Лучшим новым артистом названа британская певица Dua Lipa. Посмертно награжден фронтмен группы Soundgarden Крис Корнелл. Он получил приз за лучшее выступление рок-группы.]]></text>
+</doc>

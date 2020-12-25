@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">731495</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/731495</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-14 17:05</datetime>
+  <title auto="true" type="str" verify="true">Главный тренер "Металлурга" пропустит матч КХЛ против "Авангарда"</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Металлург</tag>
+    <tag type="str">Илья Воробьев</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 14 октября. INTERFAX.RU - Главный тренер "Металлурга" Илья Воробьев не примет участие в матче регулярного чемпионата Континентальной хоккейной лиги против омского "Авангарда", сообщает пресс-служба магнитогорской команды. Исполнять обязанности главного тренера "Металлурга" будет Стиллман Фредерик. Матч состоится в среду в Магнитогорске. Ранее Воробьев не присутствовал на игре против ЦСКА, которая состоялась 12 октября (6:4).]]></text>
+</doc>

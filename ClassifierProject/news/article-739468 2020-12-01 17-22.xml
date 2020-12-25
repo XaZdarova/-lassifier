@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">739468</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/739468</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-12-01 17:22</datetime>
+  <title auto="true" type="str" verify="true">Два человека погибли при наезде машины на пешеходов в немецком Трире</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Германия</tag>
+    <tag type="str">Трир</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 1 декабря. INTERFAX.RU - В результате  наезда автомобиля  на пешеходов в немецком городе Трир погибли два человека, сообщила в твиттере местная полиция. Она отметила, что еще несколько человек получили травмы. Кроме того, сообщается о задержании одного подозреваемого. Подробностей о нем пока не приводится. По данным корреспондента газеты Trierischer Volksfreund, сбивший людей автомобиль повредил прилавки на рыночной площади Трира, которая является частью пешеходной зоны.]]></text>
+</doc>

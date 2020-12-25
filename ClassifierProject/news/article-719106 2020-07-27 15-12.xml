@@ -1,0 +1,15 @@
+<doc>
+  <id auto="true" type="str" verify="true">719106</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/719106</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-07-27 15:12</datetime>
+  <title auto="true" type="str" verify="true">Футболист "Ливерпуля" Ловрен перешел в "Зенит"</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">ФК Ливерпуль</tag>
+    <tag type="str">ФК Зенит</tag>
+    <tag type="str">Англия</tag>
+    <tag type="str">Россия</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 27 июля. INTERFAX.RU - Защитник английского футбольного клуба Деян Ловрен продолжит карьеру в петербургском "Зените". "Шестилетнее сотрудничество центрального защитника с "красными" подошло к концу после того, как он подписал соглашение с клубом Российской премьер-лиги", - говорится в сообщении пресс-службы "Ливерпуля". Согласно сообщению пресс-службы "Зенита", контракт с игроком рассчитан на три сезона. Ловрен сыграл за "Ливерпуль" 185 матчей, перейдя в этот клуб из "Саутгемптона" в июле 2014 года. Вместе с партнерами по "Ливерпулю" он выиграл Лигу чемпионов, Суперкубок УЕФА, а в сезоне-2019/20 и чемпионат Англии.]]></text>
+</doc>

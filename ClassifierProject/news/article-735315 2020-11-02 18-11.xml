@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">735315</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/735315</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-02 18:11</datetime>
+  <title auto="true" type="str" verify="true">Меркель призналась, что неделю назад переболела простудой</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Германия</tag>
+    <tag type="str">Ангела Меркель</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 2 ноября. INTERFAX.RU - Канцлер Германии Ангела Меркель сообщила, что сейчас не простужена и не больна коронавирусом. "Я? Нет. Я была простужена, меня протестировали, успешно", - сказала она журналистам в Берлине в понедельник, отвечая на соответствующий вопрос. "Неделю назад я была простужена, это правда", - добавила канцлер.]]></text>
+</doc>

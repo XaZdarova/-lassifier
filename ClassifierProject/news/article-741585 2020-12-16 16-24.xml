@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">741585</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/741585</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-12-16 16:24</datetime>
+  <title auto="true" type="str" verify="true">Более 12 тыс. москвичей привились от коронавируса</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 16 декабря. INTERFAX.RU - К настоящему времени свыше 12 тыс. жителей Москвы прошли вакцинацию от коронавируса, сообщил столичный оперштаб по контролю за COVID-19 в среду в своем телеграм-канале. Масштабная вакцинация от коронавируса в столице среди работников здравоохранения, образования и соцзащиты  началась с 4 декабря . С 14 декабря  записаться на эту бесплатную прививку также могут работники сферы торговли и услуг, культуры, а также сотрудники центров госуслуг.]]></text>
+</doc>

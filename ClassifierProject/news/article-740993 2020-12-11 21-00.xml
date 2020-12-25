@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">740993</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/740993</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-12-11 21:00</datetime>
+  <title auto="true" type="str" verify="true">"Химки" победили "Арсенал" в чемпионате России по футболу</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 11 декабря. INTERFAX.RU - Футболисты подмосковных "Химок" со счетом 1:0 нанесли поражение тульскому "Арсеналу" в домашнем матче 18-го тура чемпионата Российской премьер-лиги. Автором гола на 12-й минуте стал Илья Кухарчук. "Химки", которые продлили беспроигрышную серию до пяти матчей, набрали 22 очка и занимают 11-е место в турнирной таблице. "Арсенал", безвыигрышная серия которого в РПЛ достигла семи матчей, – на 13-м месте (14 очков).]]></text>
+</doc>

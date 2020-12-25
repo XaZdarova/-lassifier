@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">736913</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/736913</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-13 06:30</datetime>
+  <title auto="true" type="str" verify="true">Источник сообщил о задержании мэра Томска Кляйна</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Томск</tag>
+    <tag type="str">Иван Кляйн</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 13 ноября. INTERFAX.RU - Сотрудники правоохранительных органов задержали мэра Томска Ивана Кляйна, сообщил "Интерфаксу" информированный источник в пятницу. "Да, Кляйн задержан", - сказал собеседник агентства. Он не уточнил причину задержания градоначальника. "Интерфакс" пока не располагает официальным подтверждением данной информации. Кляйн руководит городом с 2013 года, до этого являлся генеральным директором ОАО "Томское пиво" и депутатом думы Томской области.]]></text>
+</doc>

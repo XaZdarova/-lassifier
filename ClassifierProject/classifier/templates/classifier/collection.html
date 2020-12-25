@@ -1,0 +1,108 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Коллекция текстов</title>
+</head>
+<body>
+    <div>
+        <h1>Коллекция текстов</h1>
+        <ul>
+            <li>
+                <a href="/">Классификатор</a>
+            </li>
+            <li>
+                <a href="/collection">Коллекция текстов</a>
+            </li>
+        </ul>
+    </div>
+
+    <div>
+        <h2>Фильтр</h2>
+        <form id="formFilter">
+            <p>Категория</p>
+            <select id="categoryFilter">
+                <option></option>
+                <option>В мире</option>
+                <option>В России</option>
+                <option>Москва</option>
+                <option>Экономика</option>
+                <option>Спорт</option>
+                <option>Культура</option>
+            </select>
+            <p>Левая граница даты публикации</p><p hidden id="dateStartFilterError"></p>
+            <input type="date" id="dateStartFilter" />
+            <p>Правая граница даты публикации</p><p hidden id="dateEndFilterError"></p>
+            <input type="date" id="dateEndFilter" />
+            <p>Сортировка</p><p hidden id="sortFilterError"></p>
+            <select id="sortFilter">
+                <option></option>
+                <option>Время публикации</option>
+                <option>Категория</option>
+            </select>
+            <p>Тип сортировки</p><p hidden id="sortTypeFilterError"></p>
+            <select id="sortTypeFilter">
+                <option></option>
+                <option>По возрастанию</option>
+                <option>По убыванию</option>
+            </select>
+            <p>Кол-во элементов на странице</p>
+            <select id="pageLimitFilter" value="10">
+                <option>10</option>
+                <option>20</option>
+                <option>50</option>
+                <option>100</option>
+            </select>
+        </form>
+        <button onclick="showArticlesOnPage(1, null)">Найти</button>
+    </div>
+
+    <div id="countElements">
+
+    </div>
+
+    <div id="articlesPreview">
+
+    </div>
+
+    <div id="pagesElements">
+
+    </div>
+    <hr />
+    <div>
+        <h2>Добавить новостную статью</h2>
+        <form id="articleAdd">
+            <p>Ссылка на статью</p><p hidden id="sourceAddError"></p>
+            <input type="url" id="sourceAdd"/>
+            <p>Категория</p><p hidden id="categoryAddError"></p>
+            <select id="categoryAdd">
+                <option>В мире</option>
+                <option>В России</option>
+                <option>Москва</option>
+                <option>Экономика</option>
+                <option>Спорт</option>
+                <option>Культура</option>
+            </select>
+            <p>Дата публикации</p><p hidden id="datetimeAddError"></p>
+            <input type="datetime" id="datetimeAdd" placeholder="yyyy-mm-dd HH:MM"/>
+            <p>Заголовок</p><p hidden id="titleAddError"></p>
+            <input type="text" id="titleAdd"/>
+            <p>Описание</p><p hidden id="descriptionAddError"></p>
+            <input type="text" id="descriptionAdd"/>
+            <p>Текст статьи</p><p hidden id="textAddError"></p>
+            <textarea cols="100" rows="8" id="textAdd"></textarea>
+            <p>Теги</p><p hidden id="tagsAddError"></p>
+            <input type="text" id="tagsAdd"/>
+        </form>
+        <button onclick="addArticle()">Добавить статью</button>
+        <p id="resultAdd"></p>
+    </div>
+
+    <script src="/static/functionsForCollection.js"></script>
+
+    <script defer>
+        showArticlesOnPage(1, null);
+    </script>
+</body>
+</html>

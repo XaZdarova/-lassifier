@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">732184</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/732184</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-10-19 20:08</datetime>
+  <title auto="true" type="str" verify="true">Министерский комитет ОПЕК+ не обсуждал изменение планов по сокращению добычи</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">ОПЕК+</tag>
+    <tag type="str">нефть</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 19 октября. INTERFAX.RU - Министерский комитет ОПЕК+ не обсуждал изменения в планы по сокращению добычи нефти, сообщает агентство Bloomberg со ссылкой на делегатов. Участники встречи сказали агентству, что следующая министерская встреча ОПЕК+ запланирована на 16-17 ноября.]]></text>
+</doc>

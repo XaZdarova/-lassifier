@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">740175</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/740175</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-12-07 06:39</datetime>
+  <title auto="true" type="str" verify="true">Глава Амурской области Орлов заразился коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Амурская область</tag>
+    <tag type="str">Василий Орлов</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 7 декабря. INTERFAX.RU - Губернатор Амурской области Василий Орлов сообщил, что заразился коронавирусом COVID-19 и уходит самоизоляцию. "Должен вам сообщить - у меня подтвердился положительный тест на COVID. Поэтому ухожу на изоляцию, буду работать дистанционно", -  написал  Орлов на своей странице в инстаграме в понедельник. Всего в Амурской области зарегистрировано 12 284 случая COVID-19. Умерли 98 человек.]]></text>
+</doc>

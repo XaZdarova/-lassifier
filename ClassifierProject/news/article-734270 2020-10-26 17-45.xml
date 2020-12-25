@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">734270</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/734270</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-10-26 17:45</datetime>
+  <title auto="true" type="str" verify="true">Чистая прибыль ВТБ за январь-сентябрь по РСБУ снизилась в 2,6 раза</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">ВТБ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 26 октября. INTERFAX.RU - Чистая прибыль банка ВТБ за январь-сентябрь 2020 года составила 52,194 млрд рублей против 134,01 млрд рублей за аналогичный период прошлого года. Об этом свидетельствуют расчеты на основе оборотной ведомости банка, опубликованной на сайте Банка России. Прибыль до налогообложения составила 71,331 млрд руб. против прибыли 99,031 млрд руб. за аналогичный период прошлого года.]]></text>
+</doc>

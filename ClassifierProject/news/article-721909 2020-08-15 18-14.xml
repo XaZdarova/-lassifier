@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">721909</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/721909</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-15 18:14</datetime>
+  <title auto="true" type="str" verify="true">"Динамо" сыграло вничью с "Ротором" в матче РПЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 15 августа. INTERFAX.RU - Футболисты московского "Динамо" и волгоградского "Ротора" сыграли вничью в матче второго тура чемпионата Российской премьер-лиги.             Результат игры, прошедшей в Москве, - 0:0.             После двух туров у "Динамо" 4 очка, у "Ротора" – 1.]]></text>
+</doc>

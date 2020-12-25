@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">720895</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/720895</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-08 17:16</datetime>
+  <title auto="true" type="str" verify="true">Боттас выиграл квалификацию Гран-при 70-летия "Формулы-1"</title>
+  <description auto="true" type="str" verify="true">Вторым стал немец Хюлькенберг, россиянин Квят - 16-й</description>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">автоспорт</tag>
+    <tag type="str">Формула-1</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 8 августа. INTERFAX.RU - Финн Валттери Боттас из команды Mercedes показал лучшее время в квалификации Гран-при 70-летия, очередного этапа чемпионата мира по автогонкам класса "Формула-1". Его партнер по команде британец Льюис Хэмилтон стал вторым. Третье время показал немец Нико Хюлькенберг, заменивший в составе Racing Point заболевшего коронавирусом мексиканца Серхио Переса. Россиянин Даниил Квят из Alpha Tauri стал 16-м. Уикенд "Формулы-1" проходит в британском Сильверстоуне, как и предыдущий этап. Основная гонка пройдет в воскресенье.]]></text>
+</doc>

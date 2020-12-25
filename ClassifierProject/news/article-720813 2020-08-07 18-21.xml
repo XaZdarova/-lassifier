@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">720813</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/720813</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-07 18:21</datetime>
+  <title auto="true" type="str" verify="true">ФК "Сочи" арендовал защитника "Зенита" Мамману</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">ФК Зенит</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 7 августа. INTERFAX.RU - Аргентинский защитник Эмануэль Маммана перешел в футбольный клуб "Сочи", сообщает пресс-служба клуба. "Эмануэль Маммана стал игроком "Сочи". 24-летний футболист будет выступать в "Сочи" на правах аренды до конца сезона 2020/21", - говорится в сообщении. Последние три сезона Маммана провел в "Зените", сыграв за клуб 41 матч. Ранее игрок также выступал за аргентинский "Ривер Плейт" и французский "Лион". На счету защитника три матча за сборную Аргентины. В составе "Зенита" аргентинец стад двукратным чемпионом России.]]></text>
+</doc>

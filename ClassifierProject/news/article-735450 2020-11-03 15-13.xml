@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">735450</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/735450</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-11-03 15:13</datetime>
+  <title auto="true" type="str" verify="true">"Кайрат" впервые за 16 лет выиграл чемпионат Казахстана по футболу</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Казахстан</tag>
+    <tag type="str">Вагнер Лав</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 3 ноября. INTERFAX.RU - Алма-атинский футбольный клуб "Кайрат" завоевал звание чемпиона Казахстана. В матче 17-го тура чемпионата он одолел команду "Ордабасы" со счетом 3:1 и стал недосягаем для ближайшего преследователя, коим является "Астана". Один из голов в составе "Кайрата" во вторник провел обладатель Кубка УЕФА и неоднократный чемпион России в составе ЦСКА бразилец Вагнер Лав,  перешедший  в казахстанскую команду летом этого года. Чемпионство для "Кайрата" стало первым после 2004 года.]]></text>
+</doc>

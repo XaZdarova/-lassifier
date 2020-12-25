@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">729813</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/729813</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-03 14:17</datetime>
+  <title auto="true" type="str" verify="true">Россиянин Рублев вышел в четвертый круг Roland Garros</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+    <tag type="str">Roland Garros</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 3 октября. INTERFAX.RU - Российский теннисист Андрей Рублев победил южноафриканца Кевина Андерсона в третьем круге турнира серии Большого шлема Roland Garros во Франции. Результат матча – 6:3, 6:2, 6:3 в пользу россиянина. Продолжительность матча составила 1 час 35 минут. В настоящее время Рублев занимает 12-е место в рейтинге АТР, Андерсон – 118-е. Борьбу за выход в четвертьфинал Рублев поведет с победителем пары Мартон Фучович (Венгрия) – Тьяго Монтейро (Бразилия).]]></text>
+</doc>

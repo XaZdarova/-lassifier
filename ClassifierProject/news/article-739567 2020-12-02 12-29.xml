@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">739567</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/739567</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-12-02 12:29</datetime>
+  <title auto="true" type="str" verify="true">Песков опроверг слухи о планах Путина возглавить список ЕР</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Единая Россия</tag>
+    <tag type="str">Владимир Путин</tag>
+    <tag type="str">Дмитрий Песков</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 2 декабря. INTERFAX.RU -  Президент РФ Владимир Путин не принимал решений возглавить список "Единой России" на выборах в Госдуму, сообщил его пресс-секретарь Дмитрий Песков. "Каких-либо решений на этот счет президент не принимал, и мы об этом не сообщали. Поэтому здесь, собственно, не было никаких решений по поводу "Единой России" и возглавлению списка", - сказал Песков журналистам, отвечая на вопрос, рассматривается ли вариант того, что президент может возглавить списки "Единой России" на выборах в Госдуму.]]></text>
+</doc>

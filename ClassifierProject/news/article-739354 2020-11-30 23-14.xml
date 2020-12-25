@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">739354</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/739354</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-11-30 23:14</datetime>
+  <title auto="true" type="str" verify="true">В Москве за сутки умерли 76 пациентов с коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 30 ноября. INTERFAX.RU - Еще 76 пациентов с диагнозом пневмония и положительными тестами на коронавирус COVID-19 скончались в Москве за сутки, сообщили "Интерфаксу" в столичном оперштабе по контролю и мониторингу ситуации с коронавирусом. Таким образом, общее количество умерших от коронавируса в Москве за время пандемии увеличилось с 8 902 до 8 978 человек. Накануне в оперштабе  сообщили  о смерти 74 человек с коронавирусом. Всего с начала пандемии в Москве зарегистрировано 605 724 случая COVID-19, выздоровели 452 184 человека.]]></text>
+</doc>

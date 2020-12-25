@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">741765</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/741765</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-12-17 14:35</datetime>
+  <title auto="true" type="str" verify="true">Вакцинация в ЕС от коронавируса начнется 27 декабря</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">ЕС</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 декабря. INTERFAX.RU - Власти ЕС приступят к вакцинации от коронавируса 27-29 декабря, сообщила председатель Еврокомиссии Урсула фон дер Ляйен. "Это ключевой момент для Европы. 27, 28 и 29 декабря вакцинация начинается по всему ЕС. Мы защитим наших сограждан вместе", - написала она в четверг в твиттере. Ранее министр здравоохранения Германии Йенс Шпан в ходе видеоконференции с канцлером Ангелой Меркель и руководителем компании Biontech Угуром Шахином заявлял, что Еврокомиссия планирует одобрить вакцину Biontech 27 декабря.]]></text>
+</doc>

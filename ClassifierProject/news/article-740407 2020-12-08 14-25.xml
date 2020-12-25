@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">740407</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/740407</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-12-08 14:25</datetime>
+  <title auto="true" type="str" verify="true">Китайская COVID-вакцина показала в Индонезии эффективность в 97%</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Индонезия</tag>
+    <tag type="str">Китай</tag>
+    <tag type="str">Коронавирус</tag>
+    <tag type="str">Sinovac</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 8 декабря. INTERFAX.RU - Вакцина китайской компании Sinovac показала до 97% эффективности на испытаниях в Индонезии, сообщает газета  South China Morning Post . "Наша команда по клиническим исследованиям в течение одного месяца выяснила, что предварительные данные показывают эффективность в 97% случаев", - сказал представитель индонезийской фармацевтической компании Bio Farma Иван Сетиаван. Индонезия в воскресенье, 7 декабря, получила 1,2 млн доз вакцины против коронавируса Sinovac и планирует получить еще 15 млн доз в январе. Четыре китайские вакцины сейчас находятся на третьей стадии клинических испытаний. Две из них разрабатывает корпорация Sinopharm, еще одну - компания CanSinoBIO, последнюю - Sinovac.]]></text>
+</doc>

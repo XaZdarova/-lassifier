@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">731187</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/731187</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-12 22:14</datetime>
+  <title auto="true" type="str" verify="true">"Спартак" прервал трехматчевую серию поражений в КХЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">хоккей</tag>
+    <tag type="str">КХЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 12 октября. INTERFAX.RU - Московский хоккейный клуб "Спартак" одержал победу над китайской командой "Куньлунь Ред Стар" в домашнем матче очередного тура регулярного чемпионата Континентальной хоккейной лиги (КХЛ).                 Результат встречи – 6:4 (3:1, 2:1, 1:2) в пользу "Спартака". Московский клуб прервал серию поражений, составившую три матча. В предыдущий раз "Спартак" побеждал 28 сентября, взяв верх над московским "Динамо" на своем льду.]]></text>
+</doc>

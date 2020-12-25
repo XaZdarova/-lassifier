@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">732572</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/732572</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-21 21:00</datetime>
+  <title auto="true" type="str" verify="true">Испания стала первой страной ЕС с более чем 1 млн зараженных COVID-19</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Испания</tag>
+    <tag type="str">ЕС</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 21 октября. INTERFAX.RU - Испания стала первой страной в Евросоюзе, в которой зарегистрировали более 1 млн зараженных коронавирусом за время пандемии в мире, сообщает  газета El País . Согласно данным испанского министерства здравоохранения, число зарегистрированных заражений коронавирусом в стране выросло до 1 005 295. Теперь Испания находится на шестом месте в списке стран мира с самым высоким числом инфицированных COVID-19. За последние 24 часа в стране выявили коронавирус у 16973 человек, 156 человек, заразившихся ранее, скончались. Всего за время пандемии в Испании скончалось 34,3 тыс. человек, у которых диагностировали COVID-19.]]></text>
+</doc>

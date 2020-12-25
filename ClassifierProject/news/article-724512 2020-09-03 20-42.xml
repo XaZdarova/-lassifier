@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">724512</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/724512</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-09-03 20:42</datetime>
+  <title auto="true" type="str" verify="true">Шунин будет вратарем сборной России в матче против Сербии</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Лига наций УЕФА</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 3 сентября. INTERFAX.RU - Стал известен состав сборной России на матч группового этапа Лиги наций с командой Сербии, сообщает пресс-служба российской национальной команды. В воротах сыграет Антон Шунин. В защите на поле выйдут Вячеслав Караваев, Георгий Джикия, Андрей Семенов и Марио Фернандес. В полузащите сыграют Роман Зобнин, Зелимхан Бакаев, Магомед Оздоев, Юрий Жирков и Алексей Ионов. В нападении сборной России - Артем Дзюба. Матч Россия - Сербия состоится в четверг на ВТБ Арене - Центральном стадионе Динамо им. Льва Яшина в Москве. Матч начнется в 21:45 мск.]]></text>
+</doc>

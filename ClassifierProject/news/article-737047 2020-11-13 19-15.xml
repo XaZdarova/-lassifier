@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">737047</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/737047</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-13 19:15</datetime>
+  <title auto="true" type="str" verify="true">Два человека погибли при взрыве в госпитале в штате Коннектикут</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">США</tag>
+    <tag type="str">Коннектикут</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 13 ноября. INTERFAX.RU - Два человека стали жертвами взрыва в госпитале Министерства по делам ветеранов США в штате Коннектикут,  сообщает  Associated Press (AP). "Сегодня утром мы получили сообщение о том, что в кампусе Вест-Хейвена произошел взрыв, в результате которого погибли два человека", - цитирует агентство главу министерства Роберта Уилки. Погибшие не были пациентами больницы. О причинах взрыва не сообщается.]]></text>
+</doc>

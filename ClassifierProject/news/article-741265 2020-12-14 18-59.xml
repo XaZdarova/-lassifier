@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">741265</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/741265</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-12-14 18:59</datetime>
+  <title auto="true" type="str" verify="true">В Петербурге загорелась кровля цеха Балтийского завода</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Петербург</tag>
+    <tag type="str">Балтийский завод</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 14 декабря. INTERFAX.RU - Пожарные тушат возгорание на территории Балтийского завода в Санкт-Петербурге, сообщает пресс-служба городского управления ГУ МЧС. По данным ведомства, информация о пожаре по адресу Косая линия, дом 16 корпус 1 (территория ОАО "Балтийский завод") поступила в 17:55. "Горит кровля железобетонного цеха сборки металлических корпусов, цех размером 60х300 метров, высота 30 метров. Площадь горения 50 квадратных метров", - говорится в сообщении. Для тушения пожара привлечены 63 человека и 21 единица техники.]]></text>
+</doc>

@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">735522</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/735522</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-11-03 23:20</datetime>
+  <title auto="true" type="str" verify="true">Число умерших от коронавируса в Москве превысило 7 тысяч</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 3 ноября. INTERFAX.RU - Количество жертв коронавирусной инфекции COVID-19 в Москве увеличилось с 6 936 до 7 004 человек, сообщил столичный оперштаб по контролю за коронавирусом во вторник. По его данным, за сутки в столице скончались еще 68 пациентов с диагнозом пневмония и положительным результатом тестов на коронавирус. Сутками ранее от COVID-19 в городе  скончались  63 человека. По данным на утро вторника, в российской столице выявлено 439 355 случаев заражения COVID-19, 321 679 человек вылечились от инфекции.]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">727070</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/727070</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-09-15 17:55</datetime>
+  <title auto="true" type="str" verify="true">Произошел крупный пожар на центральном рынке в Шахтах</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">МЧС</tag>
+    <tag type="str">Шахты</tag>
+    <tag type="str">Ростовская область</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 15 сентября. INTERFAX.RU - В городе Шахты во вторник произошел пожар на центральном рынке, площадь возгорания  достигла  900 квадратных метров, когда его локализовали. В МЧС Ростовской области сообщили, что к 17:33 по Москве открытое горение удалось ликвидировать. Сигнал о возгорании поступил в МЧС в 16:08 по московскому времени. Людей с рынка эвакуировали. В тушении участвуют 69 человек и 21 единица техники.]]></text>
+</doc>

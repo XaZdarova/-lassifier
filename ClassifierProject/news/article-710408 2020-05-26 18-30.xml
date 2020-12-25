@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">710408</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/710408</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-05-26 18:30</datetime>
+  <title auto="true" type="str" verify="true">Соревнования IRONMAN в Петербурге перенесли на 2021 год</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">триатлон</tag>
+    <tag type="str">IRONMAN</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 26 мая. INTERFAX.RU - Международные соревнования по триатлону серии IRONMAN 70.3, которые в 2020 году должны были пройти в Петербурге, перенесены на следующий год из-за пандемии коронавируса. Как сообщается на сайте соревнования, новая дата – 1 августа 2021 года. Изначально же соревнования должны пройти 19 июля 2020 года. Гонки серии IRONMAN 70.3 состоят из трех этапов: плавание 1.2-мили (1.9 км), велогонка 56-миль (90 км) и бег 13.1-мили (21.1 км). Они проводятся в различных странах мира на всех континентах. Суточный прирост новых инфицированных COVID-19 в России по данным на утро 26 мая  составил  8 915 человек в 83 регионах. Из них 363 - в Санкт-Петербурге.]]></text>
+</doc>

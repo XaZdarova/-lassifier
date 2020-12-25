@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">724546</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/724546</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-09-04 09:06</datetime>
+  <title auto="true" type="str" verify="true">Медведев вышел в третий круг US Open</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+    <tag type="str">US Open</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 4 сентября. INTERFAX.RU - Российский теннисист Даниил Медведев завоевал путевку в третий круг турнира серии Большого шлема US Open. Во втором раунде Открытого чемпионата США Медведев нанес поражение представителю Австралии Кристоферу О'Коннеллу – 6:3, 6:2, 6:4. Продолжительность матча составила 2 часа 16 минут. Следующим соперником Медведева, занимающего пятое место в рейтинге Ассоциации теннисистов-профессионалов (ATP), будет 138-я ракетка мира Джеффри-Джон Вулф. Призовой фонд Открытого чемпионата США составляет $53,4 млн.]]></text>
+</doc>

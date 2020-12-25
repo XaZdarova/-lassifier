@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">741459</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/741459</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-12-15 23:14</datetime>
+  <title auto="true" type="str" verify="true">В Москве за сутки умерли 73 пациента с коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 15 декабря. INTERFAX.RU - Еще 73 пациента с пневмонией и положительными тестами на коронавирус COVID-19 скончались в Москве за сутки, сообщил столичный оперштаб по контролю за коронавирусом во вторник. Общее число умерших от COVID-19 в Москве увеличилось с 10 022 до 10 095 человек. Сутками ранее от коронавируса в городе  скончались  77 человек. По данным на утро вторника, в российской столице выявлено 703,5 тыс. случаев COVID-19, почти 540 тыс. человек выздоровели (77% от заразившихся).]]></text>
+</doc>

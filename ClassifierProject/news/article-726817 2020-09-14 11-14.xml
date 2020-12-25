@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">726817</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/726817</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-09-14 11:14</datetime>
+  <title auto="true" type="str" verify="true">От коронавируса в Москве вылечились свыше 230 тыс. человек</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Анастасия Ракова</tag>
+    <tag type="str">Москва</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 14 сентября. INTERFAX.RU - После прохождения лечения от коронавирусной инфекции в столице за сутки выздоровели 824 пациента, сообщила заместитель мэра Москвы Анастасия Ракова журналистам в понедельник. "Всего число людей, вылечившихся от инфекции, увеличилось до 230 397", - рассказала Ракова. По данным городского оперативного штаба, число жертв COVID-19 в Москве с начала пандемии вплотную приблизилось к 5 тыс. За последние сутки в городе  умерли 11 человек  с положительным тестом на коронавирус.]]></text>
+</doc>

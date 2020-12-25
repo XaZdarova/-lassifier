@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">731591</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/731591</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-15 17:10</datetime>
+  <title auto="true" type="str" verify="true">На Спартаковской улице в Москве нашли похожий на мину предмет</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 15 октября. INTERFAX.RU - В центре Москвы на Спартаковской улице временно перекрыли движение в четверг днем из-за предмета, похожего на мину времен войны, сообщил "Интерфаксу" информированный источник. Предмет был обнаружен при проведении земляных работ. На место выехали саперы. Между тем, по информации пресс-службы департамента транспорта, в настоящее время нет движения на Спартаковской улице между площадью Разгуляй и Елоховской, в связи с чем также изменены маршруты наземного транспорта, проходящего по Спартаковской улице.]]></text>
+</doc>

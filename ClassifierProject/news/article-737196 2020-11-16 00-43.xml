@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">737196</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/737196</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-11-16 00:43</datetime>
+  <title auto="true" type="str" verify="true">Рублев проиграл Надалю на Итоговом турнире ATP</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 16 ноября. INTERFAX.RU - Российский теннисист Андрей Рублев потерпел поражение от испанца Рафаэля Надаля в матче первого тура группового этапа Итогового турнира ATP в Лондоне.                 Результат матча – 6:3, 6:4 в пользу испанского спортсмена. Продолжительность встречи составила 1 час 18 минут. В настоящее время Надаль является второй ракеткой мира, Рублев – восьмой. Во вторник Рублев сыграет с австрийцем Домиником Тимом, который занимает третье место в рейтинге ATP. Тим в первом туре победил грека Стефаноса Циципаса.]]></text>
+</doc>

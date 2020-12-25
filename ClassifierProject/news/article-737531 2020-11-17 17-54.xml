@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">737531</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/737531</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-17 17:54</datetime>
+  <title auto="true" type="str" verify="true">Советник президента по культуре Владимир Толстой заболел COVID-19</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Владимир Толстой</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 ноября. INTERFAX.RU - Советник президента РФ по культуре Владимир Толстой заболел коронавирусом. "Я сам в больнице, чувствую себя более-менее (...) коронавирус", - сказал Толстой "Интерфаксу". По последним данным, общее число случаев заражения в России  достигло 1 млн 971 тыс. 013 . В конце сентября пресс-секретарь главы государства Дмитрий Песков заявил, что в администрации президента РФ  не принимали  строгих карантинных мер, проводится регулярное тестирование.]]></text>
+</doc>

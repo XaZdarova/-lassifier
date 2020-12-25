@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">735106</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/735106</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-01 09:47</datetime>
+  <title auto="true" type="str" verify="true">Пять человек погибли в ДТП в Краснодарском крае</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Краснодарский край</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 1 ноября. INTERFAX.RU - Пять человек стали жертвами ДТП в Краснодарском крае, еще пятеро получили ранения. Как сообщает пресс-служба ГУ МВД России по региону, рано утром водитель "Лады Приоры" в условиях густого тумана неожиданно заметил впереди два автомобиля. Чтобы не врезаться в них, он выехал на встречную полосу, а затем сбил восьмерых человек. В результате ДТП от полученных травм скончались пятеро граждан, также с травмами различной степени тяжести госпитализированы еще пятеро участников аварии.]]></text>
+</doc>

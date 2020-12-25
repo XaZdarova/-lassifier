@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">732691</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/732691</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-22 14:50</datetime>
+  <title auto="true" type="str" verify="true">Один из лидеров белорусской оппозиции заболел коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Павел Латушко</tag>
+    <tag type="str">Белоруссия</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 22 октября. INTERFAX.RU - Член президиума Координационного совета белорусской оппозиции Павел Латушко ушел на самоизоляцию из-за коронавируса. "К сожалению, у меня диагностирован коронавирус", - написал Латушко  в своем телеграм-канале  в четверг. Он отметил, что в целом чувствует себя хорошо, температуры нет. "Нахожусь на самоизоляции, но продолжаю работать, потому что считаю, что для нас сейчас очень важно идти к победе", - заявил Латушко.]]></text>
+</doc>

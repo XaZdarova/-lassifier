@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">736334</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/736334</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-10 00:50</datetime>
+  <title auto="true" type="str" verify="true">Количество инфицированных COVID-19 в США превысило 10 миллионов</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">США</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">COVID-19</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 9 ноября. INTERFAX.RU - Количество заразившихся коронавирусом COVID-19 в США с начала пандемии превысило 10 млн, сообщил Университет Джонса Хопкинса. По данным университета, количество инфицированных в США на данный момент составляет 10 018 218, из них 237 742 скончались, более трех миллионов выздоровели. США занимают первое место в мире по количеству зараженных COVID-19, на втором – Индия (8, 5 миллиона), на третьем – Бразилия (5, 6 миллиона). Россия в рейтинге университета занимает пятое место (1, 7 миллиона).]]></text>
+</doc>

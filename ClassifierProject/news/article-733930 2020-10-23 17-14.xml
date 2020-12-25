@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">733930</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/733930</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-10-23 17:14</datetime>
+  <title auto="true" type="str" verify="true">Акции "Соллерса" упали на 8,5% на новостях о цене buyback</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Соллерс</tag>
+    <tag type="str">рынок акций</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 23 октября. INTERFAX.RU - Акции "Соллерса" упали в ходе торгов на Московской бирже в пятницу на 8,5% (до 273 рубля за штуку) на новостях о цене buyback. Совет директоров ПАО "Соллерс" на заседании в пятницу согласовал выкуп 1,713 млн акций группы по 267 рублей за штуку, сообщила компания. Заявления акционеров о продаже акций будут приниматься с 20 ноября по 20 декабря 2020 года включительно.]]></text>
+</doc>

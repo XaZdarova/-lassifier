@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">737504</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/737504</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-17 15:34</datetime>
+  <title auto="true" type="str" verify="true">Ректор РАНХиГС Владимир Мау заразился коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">РАНХиГС</tag>
+    <tag type="str">Владимир Мау</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">Москва</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 ноября. INTERFAX.RU - Ректор Российской академии народного хозяйства и государственной службы (РАНХиГС) при президенте Владимир Мау заболел коронавирусной инфекцией, сообщили в пресс-службе вуза. Диагноз у него уже подтвержден. "Самочувствие Владимира Мау нормальное, болезнь протекает в легкой форме", - сказал представитель вуза. По его словам, ректор самоизолировался, работает удаленно и 17 ноября принял участие в заседании совета Российского союза ректоров по видеосвязи.]]></text>
+</doc>

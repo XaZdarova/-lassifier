@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">734528</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/734528</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-28 12:20</datetime>
+  <title auto="true" type="str" verify="true">Потери армии обороны Карабаха выросли до 1068 человек убитыми</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Нагорный Карабах</tag>
+    <tag type="str">Азербайджан</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 28 октября. INTERFAX.RU - Министерство обороны непризнанной Нагорно-Карабахской Республики (НКР) сообщило в среду еще о 59 погибших военнослужащих в боях с азербайджанскими подразделениями в зоне карабахского конфликта. Всего, по уточненным данным Минобороны НКР, с начала боевых действий 27 сентября погибли 1068 военнослужащих армии обороны Карабаха.]]></text>
+</doc>

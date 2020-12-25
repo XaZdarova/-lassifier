@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">732443</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/732443</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-21 10:17</datetime>
+  <title auto="true" type="str" verify="true">Азербайджан опроверг сообщение о том, что его самолет сбили в Карабахе</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Азербайджан</tag>
+    <tag type="str">Армения</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 21 октября. INTERFAX.RU - Заявление армянской стороны о якобы сбитом самолете Вооруженных сил Азербайджана в зоне карабахского конфликта не соответствует действительности, сообщило в среду Минобороны Азербайджана.. Ранее в среду пресс-секретарь Минобороны Армении Шушан Степанян заявила, что силы ПВО непризнанной Нагорно-Карабахской республики сбили самолет ВС Азербайджана на южном направлении в зоне карабахского конфликта. Тип сбитого самолета в сообщении не назывался.]]></text>
+</doc>

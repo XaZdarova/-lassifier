@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">740939</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/740939</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-12-11 15:51</datetime>
+  <title auto="true" type="str" verify="true">Один человек погиб в ДТП с 16 автомобилями во Владивостоке</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Владивосток</tag>
+    <tag type="str">ДТП</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 11 декабря. INTERFAX.RU - В массовом ДТП во Владивостоке погиб водитель спецтехники, которая стала причиной аварии. Об этом сообщили в пресс-службе УМВД по Приморскому краю. В пятницу вечером во Владивостоке на улице Русская произошло массовое ДТП. Водитель спецтехники не справился с управлением и протаранил 16 автомобилей, в том числе пассажирский автобус. Ранее полиция сообщала о четырех пострадавших в ДТП. Один из них 14-летний мальчик. В Минздраве Приморья сообщали о погибшем и трех пострадавших.]]></text>
+</doc>

@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">731525</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/731525</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-14 20:46</datetime>
+  <title auto="true" type="str" verify="true">Потери армии обороны НКР выросли до 555 человек убитыми</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">НКР</tag>
+    <tag type="str">Нагорный Карабах</tag>
+    <tag type="str">Армения</tag>
+    <tag type="str">Азербайджан</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 14 октября. INTERFAX.RU - Министерство обороны непризнанной Нагорно-Карабахской Республики (НКР) сообщило в среду еще о 23 погибших военнослужащих в боях с азербайджанскими подразделениями в зоне карабахского конфликта. Всего, по уточненным данным Минобороны НКР, с начала боевых действий 27 сентября погибли 555 военнослужащих армии обороны Карабаха. Обострение карабахского конфликта произошло 27 сентября. Несмотря на вступление в силу соглашения о прекращении огня с 10 октября, стороны продолжают обвинять друг друга в нарушении режима перемирия.]]></text>
+</doc>

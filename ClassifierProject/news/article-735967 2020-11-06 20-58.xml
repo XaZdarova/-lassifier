@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">735967</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/735967</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-11-06 20:58</datetime>
+  <title auto="true" type="str" verify="true">"Сочи" и "Уфа" сыграли вничью в матче РПЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 ноября. INTERFAX.RU - Матч 14-го тура чемпионата Российской премьер-лиги между клубами "Сочи" и "Уфа" завершился вничью. Результат встречи, прошедшей в Сочи, - 1:1. На 53-й минуте Сергей Терехов вывел сочинцев вперед. "Уфа" ушла от поражения на 87-й минуте: ответный гол c пенальти провел Комнен Андрич. В настоящее время "Сочи" занимает в турнирной таблице пятое место, набрав 23 очка. "Уфа" – на предпоследнем, 15-м месте, 7 баллов.]]></text>
+</doc>

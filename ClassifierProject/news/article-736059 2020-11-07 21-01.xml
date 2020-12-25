@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">736059</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/736059</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-11-07 21:01</datetime>
+  <title auto="true" type="str" verify="true">"Ахмат" победил "Тамбов" в Российской премьер-лиге</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Ахмат</tag>
+    <tag type="str">Тамбов</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 7 ноября. INTERFAX.RU - Грозненский "Ахмат" победил "Тамбов" в гостевом матче 14-го тура Российской премьер-лиги. Игра прошла в Саранске на "Мордовия Арене" и завершилась со счетом 1:0 в пользу грозненского клуба. Единственный гол на 87-й минуте забил Артем Тимофеев. После 14 туров "Ахмат" занимает 7-е место с 23 очками, "Тамбов" идет 13-м с 12 очками. В 15-м туре обе команды проведут свои матчи 21 ноября: "Тамбов" в гостях встретится с "Краснодаром", "Ахмат" дома принимает "Зенит".]]></text>
+</doc>

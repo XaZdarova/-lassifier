@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">736466</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/736466</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-11-10 17:57</datetime>
+  <title auto="true" type="str" verify="true">Английский футболист Килман допустил, что сыграет за сборную России или Украины</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Россия</tag>
+    <tag type="str">Англия</tag>
+    <tag type="str">Украина</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 10 ноября. INTERFAX.RU - Защитник английского футбольного клуба "Вулверхэмптон" Макс Килман допускает перспективу того, что будет задействован в матчах за сборную России или Украины, сообщает BBC.]]></text>
+</doc>

@@ -1,0 +1,15 @@
+<doc>
+  <id auto="true" type="str" verify="true">734036</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/734036</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-24 18:56</datetime>
+  <title auto="true" type="str" verify="true">"Реал" победил "Барселону" в чемпионате Испании по футболу</title>
+  <description auto="true" type="str" verify="true">Мадридский клуб занимает первое место в турнирной таблице, каталонский - десятое</description>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Испания</tag>
+    <tag type="str">ФК Барселона</tag>
+    <tag type="str">ФК Реал</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 24 октября. INTERFAX.RU - Футболисты мадридского "Реала" со счетом 3:1 нанесли поражение каталонской "Барселоне" в матче седьмого тура чемпионата Испании. На пятой минуте встречи, прошедшей в столице Каталонии, Федерико Вальверде поразил ворота "Барселоны". Соперник отыгрался через три минуты, автором гола стал Ансу Фати. На 63-й минуте футболист "Реала" Серхио Рамос, на 90-й гол провел Лука Модрич. "Реал" набрал 13 очков и стал единоличным лидером чемпионата. "Барселона" – на 10-м месте, 7 очков. "Барселона" провела на одну игру меньше.]]></text>
+</doc>

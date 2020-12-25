@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">728616</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/728616</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-09-25 14:12</datetime>
+  <title auto="true" type="str" verify="true">В работе мессенджера Telegram произошел сбой</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Telegram</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 25 сентября. INTERFAX.RU - Пользователи столкнулись с проблемами при обмене сообщениями через мессенджер Telegram. В частности, пользователи сообщили "Интерфаксу" о проблемах при отправке сообщений как через веб-версию, так и через мобильное приложение. Мессенджер при этом постоянно обновляется. По  данным  ресурса DownDetector, проблемы с Telegram наблюдались у пользователей из Москвы, Санкт-Петербурга и некоторых других городов России, а также на Украине, в Белоруссии, Германии, Нидерландах и других странах Европы. Сейчас работа мессенджера восстанавливается, число сообщений на сайте DownDetector о сбое уменьшается.]]></text>
+</doc>

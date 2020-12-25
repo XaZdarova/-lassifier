@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">731125</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/731125</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-12 16:00</datetime>
+  <title auto="true" type="str" verify="true">45% россиян заявили, что лучше забрать деньги с банковских вкладов</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">ВЦИОМ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 12 октября. INTERFAX.RU - Забрать деньги с банковских вкладов, если таковые имеются, рекомендуют 45% россиян, свидетельствуют данные опроса ВЦИОМ, поступившие в понедельник в "Интерфакс". При этом каждый третий россиянин (35%) полагает, что наиболее разумно сейчас положить свободные средства на банковский вклад, отмечают социологи. Согласно опросу, каждый пятый не знает, какая модель поведения на данный момент наиболее рациональна. Всероссийский инициативный опрос был проведён 24 сентября 2020 года среди 1600 респондентов старше 18 лет.]]></text>
+</doc>

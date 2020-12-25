@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">735932</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/735932</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-11-06 17:23</datetime>
+  <title auto="true" type="str" verify="true">Медведев стал полуфиналистом теннисного турнира Masters в Париже</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+    <tag type="str">Даниил Медведев</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 ноября. INTERFAX.RU - Российский теннисист Даниил Медведев нанес поражение аргентинцу Диего Шварцману в 1/4 финала турнира категории Masters в Париже. Результат противостояния – 6:3, 6:1 в пользу россиянина. Продолжительность матча составила 1 час 4 минуты. В полуфинале Медведев сыграет с победителем пары Милош Раонич (Канада) – Уго Умбер (Франция). Призовой фонд турнира в Париже составляет 3 млн 732,680 тыс. евро.]]></text>
+</doc>

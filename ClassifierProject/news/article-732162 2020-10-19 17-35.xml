@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">732162</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/732162</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-19 17:35</datetime>
+  <title auto="true" type="str" verify="true">В Петербурге опрокинулся школьный микроавтобус</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Петербург</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 19 октября. INTERFAX.RU - Во Фрунзенском районе Петербурга в ДТП попал школьный автобус, в котором были дети; есть пострадавшие, сообщил "Интерфаксу" информированный источник. По его информации, это произошло около пяти часов вечер в понедельник. Водитель Skoda не пропустил микроавтобус на перекрестке, автобус упал на бок. В салоне были пять школьников и двое сопровождающих, сказал собеседник агентства. По предварительным данным, тяжелых травм дели не получили, их осматривают врачи, число пострадавших уточняется.]]></text>
+</doc>

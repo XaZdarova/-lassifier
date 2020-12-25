@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">735591</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/735591</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-11-04 16:48</datetime>
+  <title auto="true" type="str" verify="true">Взрыв аккумулятора электроскутера привел к пожару в доме в Москве</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">МЧС</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 4 ноября. INTERFAX.RU - Электроскутер взорвался в квартире на юге Москвы, никто не пострадал, сообщили в пресс-службе МЧС Москвы в среду. По ее данным, в 25-ти этажном доме по адресу Электролитный проезд, дом 16, корпус 1 в одной из квартир на 14 этаже произошел хлопок его аккумулятора, который привел к возгоранию личных вещей и мебели. В МЧС отметили, что пожар уже ликвидирован, в результате взрыва было нарушено остекление квартиры с двух сторон.]]></text>
+</doc>

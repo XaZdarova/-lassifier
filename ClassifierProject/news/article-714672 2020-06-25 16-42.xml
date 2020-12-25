@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">714672</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/714672</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-06-25 16:42</datetime>
+  <title auto="true" type="str" verify="true">Матч "Ростов" - "Арсенал" переносить не будут</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">ФК Ростов</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 25 июня. INTERFAX.RU - ФК "Ростов" проведет домашний матч 24-го тура Тинькофф - Российской премьер-лиги против тульского "Арсенала" в ранее запланированную дату, 27 июня. "Матч "Ростов" - "Арсенал" состоится 27 июня в 20:00", - говорится в сообщении пресс-службы "Ростова". Ранее несколько игроков "Ростова" заразились коронавирусом, в связи с чем клуб  ушел на карантин . В матче РПЛ против "Сочи" 19 июня команде  пришлось задействовать  юношей из клубной академии, а соперник выставил основной состав. Неравенство сил  отразилось  на итоговом счете: 10:1 в пользу "Сочи".]]></text>
+</doc>

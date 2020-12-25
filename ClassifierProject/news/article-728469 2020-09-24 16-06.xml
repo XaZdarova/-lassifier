@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">728469</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/728469</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-09-24 16:06</datetime>
+  <title auto="true" type="str" verify="true">Самолет столкнулся с самоходным трапом в "Шереметьево"</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">Шереметьево</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 24 сентября. INTERFAX.RU - Пассажирский самолет и самоходный трап столкнулись в московском аэропорту "Шереметьево", сообщил официальный представитель аэропорта Роман Генис. "Сегодня в 15:01 при постановке тягачом воздушного судна Вoeing-737 на место стоянки произошло соприкосновение правой плоскости крыла с самоходным пассажирским трапом", - сказал он в четверг "Интерфаксу". В результате инцидента никто не пострадал. После инцидента, по словам Гениса, пассажиров из самолета высадили, а багаж выгрузили.]]></text>
+</doc>

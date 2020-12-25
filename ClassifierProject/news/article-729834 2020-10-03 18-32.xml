@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">729834</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/729834</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-03 18:32</datetime>
+  <title auto="true" type="str" verify="true">Экс-президент Армении Саргсян уехал в Карабах</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Армения</tag>
+    <tag type="str">Азербайджан</tag>
+    <tag type="str">Нагорный Карабах</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 3 октября. INTERFAX.RU - Бывший президент Армении (2008-2018 гг.) Серж Саргсян в субботу отправился в непризнанную Нагорно-Карабахскую республику (НКР), сообщает офис экс-главы государства. "Саргсян сегодня отправился в Карабах. В сложнейших ситуациях опыт, личные усилия каждого объединяются для победы, во имя права на достойную жизнь в собственной родине", - отметили в офисе. Как сообщалось ранее, в Карабахе также находится второй президент Армении (1998-2008 гг.)  Роберт Кочарян.]]></text>
+</doc>

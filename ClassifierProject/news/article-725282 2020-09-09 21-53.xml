@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">725282</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/725282</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-09-09 21:53</datetime>
+  <title auto="true" type="str" verify="true">Серена Уильямс стала полуфиналисткой US Open</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+    <tag type="str">US Open</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 9 сентября. INTERFAX.RU - Американская теннисистка Серена Уильямс завоевала путевку в 1/2 финала турнира серии Большого шлема US Open.                 В четвертьфинале соревнования она нанесла поражение представительнице Болгарии Цветане Пиронковой – 4:6, 6:3, 6:2. Продолжительность матча составила 2 часа 11 минут. В полуфинале Уильямс сыграет с победительницей пары Виктория Азаренко (Белоруссия) – Элисе Мертенс (Бельгия). Уильямс является 23-кратной победительницей турниров Большого шлема, включая дважды – US Open.]]></text>
+</doc>

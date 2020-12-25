@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">739949</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/739949</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-12-04 15:33</datetime>
+  <title auto="true" type="str" verify="true">В Германии вакцинация от COVID-19 будет бесплатной и добровольной</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Германия</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 4 декабря. INTERFAX.RU - Прививка против коронавируса будет в Германии бесплатной, сообщил представитель пресс-службы минздрава страны Оливер Эвальд. "Прививка будет бесплатной, независимо от того, у кого какая страховка", - сказал Эвальд журналистам в Берлине в пятницу. По его словам, всего ЕС собирается закупить 300 млн доз вакцины. В свою очередь официальный представитель правительства Германии Штеффен Зайберт сказал, что прививка будет добровольной.]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">733790</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/733790</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-23 01:34</datetime>
+  <title auto="true" type="str" verify="true">В Дагестане произошел пожар в мебельном цехе на 1 тыс. кв. метров</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">МЧС</tag>
+    <tag type="str">Дагестан</tag>
+    <tag type="str">Махачкала</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 23 октября. INTERFAX.RU - Пожарные МЧС выехали на место пожара в мебельном цехе в городе Махачкале (Дагестан), пострадавших нет, сообщили "Интерфаксу" в пресс-службе МЧС России по республике. "Горит здание высотой 9 метров ангарного типа. Предварительно площадь пожара составляет около 1000 квадратных метров. Пострадавших нет", - сказал собеседник агентства. По его словам, на месте происшествия работает десять единиц техники.]]></text>
+</doc>

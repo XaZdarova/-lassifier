@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">739407</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/739407</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-12-01 12:02</datetime>
+  <title auto="true" type="str" verify="true">Москвичей предупредили о рекордно высоком давлении на выходных</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 1 декабря. INTERFAX.RU - Погоду в столичном регионе в выходные дни станет определять мощный антициклон, центр которого расположится над Средней Волгой, информирует  сайт "Метеоновости"  во вторник. "Атмосферное давление в Москве превысит значение 765 мм рт. ст. (1020 гПа) и станет рекордно высоким", - говорится в сообщении. По данным наблюдений, рекорд давления для 5 декабря в столице принадлежит 2001 году и составляет 764,3 мм рт. ст. (1019 гПа). Максимум для 6 декабря был установлен в 2002 году - 766,9 мм рт. ст. (1022,5 гПа).]]></text>
+</doc>

@@ -1,0 +1,15 @@
+<doc>
+  <id auto="true" type="str" verify="true">735564</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/735564</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-04 10:29</datetime>
+  <title auto="true" type="str" verify="true">Авиакомпания "Победа" с 28 ноября возобновит рейсы Москва - Дубай</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Победа</tag>
+    <tag type="str">Москва</tag>
+    <tag type="str">Дубай</tag>
+    <tag type="str">ОАЭ</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 4 ноября. INTERFAX.RU - Авиакомпания "Победа" с 28 ноября возобновит регулярные рейсы Москва - Дубай, приостановленные в марте на фоне  пандемии COVID-19 . Полеты будут выполняться раз в неделю, следует из данных сайта компании. Сейчас международная сеть "Победы" включает только рейсы в Турцию: из Москвы, Казани и Уфы. Всего в расписании "Победы" более 90 направлений. О возобновлении авиасообщения с Дубаем власти России сообщили  в начале сентября . Рейсы по этому направлению уже запустили  "Аэрофлот"  и  Emirates .]]></text>
+</doc>

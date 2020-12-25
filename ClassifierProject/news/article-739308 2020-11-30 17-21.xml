@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">739308</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/739308</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-11-30 17:21</datetime>
+  <title auto="true" type="str" verify="true">Сбербанк запустит блокчейн-платформу для покупки цифровых финансовых активов</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Сбербанк</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 30 ноября. INTERFAX.RU - Сбербанк планирует запустить блокчейн-платформу, через которую можно будет приобрести цифровые финансовые активы, сообщил президент - председатель правления банка Герман Греф. "Мы хотим вывести на рынок нашу новую блокчейн-платформу, которая будет предоставлять услуги по покупке цифровых финансовых активов, и там мы собираемся с самого начала реализовать возможность приобретения "зеленых инструментов", - сказал глава банка в ходе "Дня инвестора".]]></text>
+</doc>

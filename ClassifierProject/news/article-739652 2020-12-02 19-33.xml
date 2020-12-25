@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">739652</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/739652</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-12-02 19:33</datetime>
+  <title auto="true" type="str" verify="true">СМИ узнали о продвижении стран ОПЕК+ к сделке</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">ОПЕК</tag>
+    <tag type="str">ОПЕК+</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 2 декабря. INTERFAX.RU - Страны ОПЕК+ добились прогресса по сделке об ограничении добычи нефти, пишет агентство Bloomberg со ссылкой на делегатов. После нескольких дней зачастую напряженных переговоров и консультаций с правительствами альянс продвинулся к соглашению. Детали неясны, и делегаты пока не говорят о финальных договоренностях, - сообщает агентство. ОПЕК+ проведет заседание в четверг после переноса переговоров на два дня, за которые нефтепроизводители рассчитывали прийти к консенсусу.]]></text>
+</doc>

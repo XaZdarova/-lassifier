@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">730017</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/730017</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-05 13:45</datetime>
+  <title auto="true" type="str" verify="true">Росавиация не обсуждает с другими странами остановку полетов</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Росавиация</tag>
+    <tag type="str">Минтранс РФ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 5 октября. INTERFAX.RU - Росавиация не обсуждает с другими странами остановку полетов, а наоборот продолжает переговоры об их возобновлении, сообщили в Минтрансе РФ "В рамках имеющихся поручений оперштаба правительства РФ Росавиация планомерно проводит переговоры с авиационными властями зарубежных государств о возобновлении международного воздушного сообщения. Вопрос сокращения полетов и прекращения воздушного сообщения на уровне авиационных властей не обсуждается", - заявил журналистам представитель ведомства.]]></text>
+</doc>

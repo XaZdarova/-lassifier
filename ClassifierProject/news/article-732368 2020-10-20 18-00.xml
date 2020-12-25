@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">732368</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/732368</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-20 18:00</datetime>
+  <title auto="true" type="str" verify="true">Около 60 тыс. человек приняли участие в испытаниях COVID-вакцин в КНР</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Китай</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 20 октября. INTERFAX.RU - Около 60 тысяч человек приняли участие в испытаниях разных типов вакцин от коронавируса COVID-19 в Китае, сообщают официальные китайские СМИ. "В Китае на третьей стадии клинических испытаний сейчас находятся четыре вакцины от коронавируса, на данный момент прививку в рамках испытаний сделали около 60 тыс. человек, о серьезных побочных эффектах не сообщалось", - сказал представитель министерства науки и техники Тянь Баого. Подразделение государственной фармацевтической компании China National Pharmaceutical Group (Sinopharm) и зарегистрированной в США Sinovac Biotech разрабатывают три вакцины в рамках этой государственной программы. Четвертая вакцина против COVID-19, разработанная CanSino Biologics, была одобрена  для использования китайскими военными  в июне.]]></text>
+</doc>

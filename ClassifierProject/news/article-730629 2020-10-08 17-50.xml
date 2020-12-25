@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">730629</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/730629</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-08 17:50</datetime>
+  <title auto="true" type="str" verify="true">Российский журналист тяжело ранен при обстреле церкви в Карабахе</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Нагорный Карабах</tag>
+    <tag type="str">Шуши</tag>
+    <tag type="str">Россия</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 8 октября. INTERFAX.RU - Российский журналист Юрий Котенок получил тяжелое ранение в результате обстрела собора Святого Христа Спасителя в карабахском городе Шуши, сообщает армянский единый информцентр. Там отметили, что за жизнь журналиста борются врачи. Согласно открытым данным, Юрий Петрович Котенок - главный редактор информационно-аналитического издания "Сегодня.ру", военный эксперт, журналист, внесен в списки "Миротворца".]]></text>
+</doc>

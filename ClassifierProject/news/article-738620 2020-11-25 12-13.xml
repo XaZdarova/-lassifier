@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">738620</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/738620</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-25 12:13</datetime>
+  <title auto="true" type="str" verify="true">Яндекс представил очередную "умную" колонку</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Яндекс</tag>
+    <tag type="str">Станция Макс</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 25 ноября. INTERFAX.RU - "Яндекс" выводит на рынок новую "умную" колонку, получившую название "Станция Макс", говорится в сообщении компании. "Макс" - третья версия "Яндекс.Станции". По данным компании, свое название колонка получила благодаря улучшенному звучанию. "Главные отличия новой колонки - мощный трехполосный звук, поддержка видео в 4К HDR и наличие LED-экрана", -  говорится  в сообщении "Яндекса". "Станция Макс" доступна для предзаказа с 25 ноября, старт продаж запланирован на 1 декабря. Новая колонка стоит 16 990 рублей.]]></text>
+</doc>

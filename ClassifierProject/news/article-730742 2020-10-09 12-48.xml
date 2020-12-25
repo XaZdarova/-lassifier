@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">730742</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/730742</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-09 12:48</datetime>
+  <title auto="true" type="str" verify="true">Минтранс спрогнозировал падение авиаперевозок в 2020 году на 53%</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Минтранс</tag>
+    <tag type="str">Евгений Дитрих</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 9 октября. INTERFAX.RU - Минтранс ожидает падения авиаперевозок в 2020 году на 53% в годовом измерении, до примерно 60 млн пассажиров, заявил глава ведомства Евгений Дитрих на итоговой коллегии. По оценке министерства, объем внутренних перевозок упадет на 30%, примерно до 51,2 млн пассажиров. Пассажиропоток всех российских аэропортов снизится на 42,5%, до 127,1 млн человек. Авиация стала одной из наиболее пострадавших из-за пандемии COVID-19 отраслей. За 8 месяцев пассажиропоток российских авиакомпаний рухнул на 49%, до 43,9 млн человек.]]></text>
+</doc>

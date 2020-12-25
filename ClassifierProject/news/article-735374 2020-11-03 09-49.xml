@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">735374</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/735374</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-03 09:49</datetime>
+  <title auto="true" type="str" verify="true">Число жертв землетрясения в Измире достигло 102</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Измир</tag>
+    <tag type="str">Турция</tag>
+    <tag type="str">AFAD</tag>
+    <tag type="str">Самос</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 3 ноября. INTERFAX.RU - Число погибших в результате землетрясения в турецкой провинции Измир достигло 102,  сообщает  Hurriyet со ссылкой на последние данные по чрезвычайным ситуациям и стихийным бедствиям Турции (AFAD). Пострадали больше тысячи человек, 147 из них остаются в больницах. Продолжается разбор завалов на месте пяти зданий в Измире. 30 октября в 14.51 по Москве в Эгейском море произошло землетрясение магнитудой 7. Эпицентр находился к северу от Самоса на глубине 10 км под землей. В городе Измир обрушились несколько зданий. Погибли люди в Измире и на острове Самос. После этого сейсмологи зарегистрировали 1464 афтершока, причем магнитуда 44 из них превосходила 4,  отмечает  Anadolu.]]></text>
+</doc>

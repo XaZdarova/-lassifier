@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">740845</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/740845</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-12-11 02:03</datetime>
+  <title auto="true" type="str" verify="true">Эксперты FDA рекомендовали одобрить в США вакцину Pfizer и BioNTech от COVID-19</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">США</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 11 декабря. INTERFAX.RU - Группа экспертов Управления по санитарному надзору за качеством пищевых продуктов и медикаментов (FDA) рекомендовала одобрить экстренное применение в США вакцины от COVID-19 от компаний Pfizer и BioNTech. По сообщению американских СМИ, 17 специалистов высказались за вакцину, а четверо - против. Это решение, как ожидается, даст FDA возможность в скором времени разрешить экстренное применение этого препарата в США.]]></text>
+</doc>

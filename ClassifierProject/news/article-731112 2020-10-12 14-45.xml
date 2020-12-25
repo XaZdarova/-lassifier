@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">731112</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/731112</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-12 14:45</datetime>
+  <title auto="true" type="str" verify="true">Экс-футболист "Терека" и "Зенита" Маурисио перешел в "Панатинаикос"</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 12 октября. INTERFAX.RU - Бывший полузащитник грозненского футбольного клуба "Терек" и петербургского "Зенита" бразилец Маурисио подписал контракт с греческим "Панатинаикосом". Контракт с футболистом, как сообщает пресс-служба клуба, рассчитан на два года. В составе "Терека", позже переименованного в "Ахмат", Маурисио провел шесть лет, на его счету 29 мячей в 162 матчах.  В "Зените" он забил один гол в 30 играх. Также бразилец защищал цвета греческого клуба "Салоники", стал чемпионом страны.]]></text>
+</doc>

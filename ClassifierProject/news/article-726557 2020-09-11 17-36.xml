@@ -1,0 +1,15 @@
+<doc>
+  <id auto="true" type="str" verify="true">726557</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/726557</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-09-11 17:36</datetime>
+  <title auto="true" type="str" verify="true">Приложения ВГТРК исключат из AppStore на Украине</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Украина</tag>
+    <tag type="str">СБУ</tag>
+    <tag type="str">ВГТРК</tag>
+    <tag type="str">Apple</tag>
+    <tag type="str">AppStore</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 11 сентября. INTERFAX.RU - Приложения холдинга ВГТРК - телеканала "Россия 1", радиостанции "Вести FM", сайта "Вести.ру", а также "Россия телевидение и радио", будут изъяты из каталога AppStore на территории Украины,  сообщила  пресс-служба ВГТРК. Холдинг получил соответствующее уведомление Apple. Причиной блокировки стало требование Службы безопасности Украины, добавили в пресс-службе.]]></text>
+</doc>

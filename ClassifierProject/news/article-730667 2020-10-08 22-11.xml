@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">730667</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/730667</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-08 22:11</datetime>
+  <title auto="true" type="str" verify="true">В Минобороны Армении сообщили о семи сбитых беспилотниках Азербайджана</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Армения</tag>
+    <tag type="str">Азербайджан</tag>
+    <tag type="str">Нагорный Карабах</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 8 октября. INTERFAX.RU - Семь беспилотников вооруженных сил Азербайджана сбиты над территорией Армении в четверг, сообщила пресс-секретарь Минобороны Армении Шушан Степанян. "В период с 19:30 до 21:20 в Варденисском районе (восток Армении) сбиты семь беспилотников Азербайджана", - сообщила Степанян на своей странице в фейсбуке.]]></text>
+</doc>

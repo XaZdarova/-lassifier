@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">735351</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/735351</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-03 00:13</datetime>
+  <title auto="true" type="str" verify="true">Глава МВД Австрии назвал стрельбу в Вене терактом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Австрия</tag>
+    <tag type="str">Вена</tag>
+    <tag type="str">Карл Нехаммер</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 3 ноября. INTERFAX.RU - Глава МВД Австрии Карл Нехаммер заявил, что стрельбу у синагоги в Вене следует расценивать как теракт, об этом он заявил в эфире телеканала ORF. Ранее газета Kurier сообщила о семи погибших в результате стрельбы у синагоги в Вене, эта информация пока не подтверждена. По данным издания, в числе погибших полицейский, четыре человека получили тяжелые ранения. Двое неизвестных напали на синагогу близ площади Шведенплатц. Очевидцы сообщили о стрельбе вскоре после 20:00 (22:00 по Москве). Полиция просит граждан не выходить на улицу.]]></text>
+</doc>

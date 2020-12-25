@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">731334</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/731334</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-13 18:47</datetime>
+  <title auto="true" type="str" verify="true">Порошенко вылечился от коронавируса</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Украина</tag>
+    <tag type="str">Петр Порошенко</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 13 октября. INTERFAX.RU - Пятый президент Украины (2014-2019), лидер партии "Европейская солидарность" Петр Порошенко сообщил, что выздоровел от коронавирусной инфекции. Он написал в своем фейсбуке, что получил отрицательный результат теста и завтра возвращается к работе. Порошенко сообщил о положительных результатах теста на COVID-19 29 сентября и заявил, что будет лечиться дома. Тем не менее 3 октября он был госпитализирован в одну из киевских больниц, о чем сообщила его супруга. 12 октября его выписали после улучшения состояния здоровья.]]></text>
+</doc>

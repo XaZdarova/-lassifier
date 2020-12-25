@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">741227</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/741227</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-12-14 15:17</datetime>
+  <title auto="true" type="str" verify="true">В работе сервисов Google произошли масштабные сбои</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Google</tag>
+    <tag type="str">YouTube</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 14 декабря. INTERFAX.RU - Пользователи поисковой системы Google столкнулись со сбоем в работе сервисов компании. Это подтверждают, в том числе, данные на сайте  Downdetector , отслеживающем сбои на популярных интернет-ресурсах. По состоянию на 15:30 (по Москве) доступ к сервисам Google восстановился. Отмечались, в частности, проблемы с доступом к видеохостингу YouTube и почтовому сервису GMail, сбои наблюдались также в работе поисковика Google, облачного хранилища Google Drive. При попытке зайти в почтовый аккаунт через ПК и мобильное приложение было видно сообщение о внутренней ошибке. По данным сайта Downdetector, неполадки начались около 14:30 по московскому времени. Помимо России, проблемы с сервисами Google наблюдались в европейских странах, а также в Японии, Индонезии, Австралии. В пресс-службе Google сообщили "Интерфаксу", что компания знает о возникновении сложностей с доступом к сервисам и разбирается в ситуации.]]></text>
+</doc>

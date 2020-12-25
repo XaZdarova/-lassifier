@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">736211</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/736211</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-09 11:20</datetime>
+  <title auto="true" type="str" verify="true">Участок нефтепровода "Дружба" планово перекроют на четыре дня</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Белоруссия</tag>
+    <tag type="str">нефть</tag>
+    <tag type="str">Дружба</tag>
+    <tag type="str">Транснефть</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 9 ноября. INTERFAX.RU - Нефтепровод "Дружба" планово перекрывается на участке Михалково-Броды на четверо суток. Об этом сообщил журналистам советник президента, пресс-секретарь "Транснефти" Игорь Демин. По его словам, это предусмотрено графиком и связано с пуском этого участка в реверсном направлении для прокачки объёмов на Мозырский НПЗ из украинского порта Южный.]]></text>
+</doc>

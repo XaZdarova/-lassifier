@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">731538</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/731538</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-14 22:59</datetime>
+  <title auto="true" type="str" verify="true">ЦСКА победил "Фенербахче" в матче Евролиги</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">баскетбол</tag>
+    <tag type="str">Евролига</tag>
+    <tag type="str">ЦСКА</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 14 октября. INTERFAX.RU - Баскетболисты московского ЦСКА нанесли поражение турецкому "Фенербахче" в третьем туре Евролиги.                 Результат встречи, прошедшей в Стамбуле, - 78:77 (12:10, 20:21, 17:20, 20:8, 9:8) в пользу ЦСКА. Победитель определился в овертайме. "Фенербахче" сейчас занимает второе место в турнирной таблице, ЦСКА – девятое.]]></text>
+</doc>

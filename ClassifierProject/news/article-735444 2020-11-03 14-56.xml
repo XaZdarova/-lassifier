@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">735444</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/735444</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-03 14:56</datetime>
+  <title auto="true" type="str" verify="true">Аэропорт "Шереметьево" утвердил скидки для авиакомпаний</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Шереметьево</tag>
+    <tag type="str">Аэрофлот</tag>
+    <tag type="str">Андрей Никулин</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 3 ноября. INTERFAX.RU - "Шереметьево" утвердило скидки по тарифам на обслуживание авиакомпаний, сообщил первый замгендиректора аэропорта Андрей Никулин на вебинаре "Вопреки пандемии: развитие инфраструктуры гражданской авиации России". Таким образом предприятие рассчитывает поддержать перевозчиков, добавил он. Основная базовая авиакомпания "Шереметьево" - "Аэрофлот". В последний раз "Шереметьево" повышало тарифы для перевозчиков в январе этого года. Других индексаций в этом году не планируется, заявляли ранее в пресс-службе аэропорта.]]></text>
+</doc>

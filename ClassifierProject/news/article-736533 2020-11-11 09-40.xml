@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">736533</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/736533</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-11-11 09:40</datetime>
+  <title auto="true" type="str" verify="true">Движение на восточном участке МКАД затруднено из-за ДТП с грузовиком</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">МКАД</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 11 ноября. INTERFAX.RU - На внешней стороне 1 км МКАД в ночь на среду произошло ДТП: грузовик наехал на ограждение, после чего опрокинулся прицеп, сообщил столичный департамент транспорта. "Движение по 2-й и 3-й полосам ограничено. Для разбора и уборки дороги понадобится несколько часов", - говорится в сообщении, размещенном в  телеграм-канале  департамента. На месте аварии работают оперативные службы города, водителей просят быть внимательными и выбирать пути объезда.]]></text>
+</doc>

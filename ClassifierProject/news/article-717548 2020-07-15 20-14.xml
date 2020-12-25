@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">717548</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/717548</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-07-15 20:14</datetime>
+  <title auto="true" type="str" verify="true">"Краснодар" сыграл вничью с "Крыльями Советов" в РПЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 15 июля. INTERFAX.RU - Матч 29-го тура чемпионата Российской премьер-лиги между самарскими "Крыльями Советов" и "Краснодаром" завершился вничью. Результат встречи, прошедшей в Самаре, - 0:0. "Краснодар" доигрывал матч в меньшинстве: на 82-й минуте вторую желтую карточку получил Сергей Петров. "Краснодар" в настоящий момент занимает третье место, набрав 49 очков. При игре в запасе команда отстает на два балла от "Локомотива". "Крылья Советов" – на 15-м месте, 28 очков.]]></text>
+</doc>

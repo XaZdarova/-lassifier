@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">716733</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/716733</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-07-09 22:24</datetime>
+  <title auto="true" type="str" verify="true">"Рубин" выиграл у "Краснодара" матч РПЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 9 июля. INTERFAX.RU - Футболисты казанского "Рубина" со счетом 1:0 победили "Краснодар" в домашнем матче 27-го тура чемпионата Российской премьер-лиги.             На 51-й минуте победный гол провел Денис Макаров.             "Рубин" набрал 33 очка и поднялся на девятое место в турнирной таблице. "Краснодар", имеющий игру в запасе, - на четвертом месте, 45 очков.]]></text>
+</doc>

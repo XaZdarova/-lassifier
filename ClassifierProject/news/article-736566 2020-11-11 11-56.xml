@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">736566</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/736566</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-11 11:56</datetime>
+  <title auto="true" type="str" verify="true">Скончался премьер-министр Бахрейна</title>
+  <description auto="true" type="str" verify="true">Халифа бен Сальман аль-Халифа занимал пост на протяжении полувека</description>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Бахрейн</tag>
+    <tag type="str">Халифа бен Сальман аль-Халифа</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 11 ноября. INTERFAX.RU - Премьер-министр Бахрейна принц Халифа бен Сальман аль-Халифа ушел из жизни в возрасте 84 лет,  сообщает  агентство Associated Press. Должность он занимал с января 1970 года. Таким образом, пребывание принца на посту премьер-министра оказалось одним из самых длительных в мире. Агентство сообщает, что премьер Бахрейна находился на лечении в США. В Бахрейне премьера назначает король, одобрения со стороны парламента для этого не требуется.]]></text>
+</doc>

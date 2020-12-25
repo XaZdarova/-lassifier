@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">733783</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/733783</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-10-22 23:15</datetime>
+  <title auto="true" type="str" verify="true">В Москве за сутки умерли 62 пациента с коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 22 октября. INTERFAX.RU - Еще 62 человека с диагнозом пневмония и положительным результатом тестов на коронавирус скончались в Москве за сутки, сообщили "Интерфаксу" в столичном оперштабе по контролю ситуации с коронавирусом в четверг. Общее число жертв коронавируса в Москве увеличилось с 6 187 до 6 249. Накануне столичный оперштаб  сообщал  о смерти 66 человек от COVID-19. По данным на утро четверга, в российской столице выявлено 381 430 случаев заражения COVID-19, выздоровели 282 492 человека.]]></text>
+</doc>

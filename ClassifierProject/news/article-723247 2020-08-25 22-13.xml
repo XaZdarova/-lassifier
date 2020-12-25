@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">723247</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/723247</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-25 22:13</datetime>
+  <title auto="true" type="str" verify="true">Теннисист Хачанов проиграл в третьем круге турнира в Нью-Йорке</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 25 августа. INTERFAX.RU - Испанец Роберто Баутиста-Агут обыграл россиянина Карена Хачанова в матче третьего круга теннисного турнира ATP в Нью-Йорке. Встреча закончилась со счетом 4:6, 6:3, 6:2 в пользу испанца. В четвертьфинале Баутиста-Агут сыграет с еще одним представителем России - Даниилом Медведевым. Общий призовой фонд соревнования составляет $4,2 млн.]]></text>
+</doc>

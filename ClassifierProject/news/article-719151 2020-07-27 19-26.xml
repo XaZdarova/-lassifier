@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">719151</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/719151</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-07-27 19:26</datetime>
+  <title auto="true" type="str" verify="true">Первый канал покажет матч за Суперкубок России "Зенит" - "Локомотив"</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Суперкубок России</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 27 июля. INTERFAX.RU - Матч Суперкубка России по футболу между петербургским "Зенитом" и московским "Локомотивом" 7 августа в прямом эфире будет транслировать Первый канал, сообщает пресс-служба телеканала. Начало трансляции - 21:30 мск. Матч за Суперкубок России традиционно предваряет старт футбольного сезона в стране. Борьбу за трофей ведут действующие чемпион и обладатель Кубка России. Поскольку "Зенит" выиграл и чемпионат, и Кубок, его соперником будет серебряный призер РПЛ "Локомотив".]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">731940</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/731940</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-17 15:58</datetime>
+  <title auto="true" type="str" verify="true">"Зенит" обыграл "Сочи" в матче РПЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 октября. INTERFAX.RU - Футболисты петербургского "Зенита" со счетом 3:1 нанесли поражение команде "Сочи" в матче 11-го тура чемпионата Российской премьер-лиги. На 16-й минуте в составе "Зенита" гол провел Вячеслав Караваев, на 24-й – Александо Ерохин, на 90+3 – Дуглас Сантос. В составе "Сочи" на 57-й минуте отличился Кирилл Заика. "Зенит", набрав 24 очка, стал единоличным лидером в турнирной таблице. "Сочи" – на четвертом месте, 19 баллов.]]></text>
+</doc>

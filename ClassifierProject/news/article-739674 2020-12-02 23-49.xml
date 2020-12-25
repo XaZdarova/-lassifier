@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">739674</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/739674</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-12-02 23:49</datetime>
+  <title auto="true" type="str" verify="true">Более 70 человек с коронавирусом скончались в Москве</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">COVID-19</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 2 декабря. INTERFAX.RU - За минувшие сутки в Москве скончались 73 человека с пневмонией и положительным тестом на коронавирус, сообщили "Интерфаксу" в оперштабе по контролю и мониторингу ситуации с коронавирусом в городе. Количество умерших от коронавируса в Москве увеличилось с 9053 до 9126. Всего с начала пандемии в Москве зарегистрировано 617 439 случаев коронавируса, вылечились от инфекции 464 984 человека. Ранее в среду стало известно, что водители московских автобусов  не будут продавать билеты  даже после пандемии.]]></text>
+</doc>

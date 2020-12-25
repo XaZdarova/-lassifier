@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">737297</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/737297</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-11-16 14:04</datetime>
+  <title auto="true" type="str" verify="true">Украинская биатлонистка сломала позвоночник в результате ДТП</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">биатлон</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 16 ноября. INTERFAX.RU - Серебряный призер чемпионата Украины-2019 среди девушек 19-летняя Алина Мирошниченко получила тяжелую травму в результате автомобильной аварии. Как сообщается на сайте ua.tribuna.com, у спортсменки был диагностирован перелом позвоночника. Биатлонистке уже провели операцию, в данный момент она не чувствует ног. Сообщается, что машина, в которой спортсменка находилась на пассажирском сиденье, перевернулась и протаранила забор. Водитель не пострадал. Мирошниченко также является многократным призером первенств Украины среди девушек.]]></text>
+</doc>

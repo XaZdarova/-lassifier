@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">726680</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/726680</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-09-13 09:22</datetime>
+  <title auto="true" type="str" verify="true">В Петербурге закрыли дамбу в ожидании шторма</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Санкт-Петербург</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 13 сентября. INTERFAX.RU - В Петербурге ожидают шторм; из-за угрозы поднятия воды в Неве до критических отметок закрыты затворы комплекса защитных сооружений от наводнений,  сообщается  на сайте КЗС в воскресенье. Дамбу закрыли в 04:30. Кроме того, приостановлено движение судов по Кронштадтскому корабельному фарватеру. Согласно метеопрогнозу, в воскресенье в городе ожидается сильный ветер с порывами до 24 м/с. Как сообщалось, шторм был в Петербурге и в минувший четверг. Он повалил почти  полтысячи деревьев , пострадали два человека.]]></text>
+</doc>

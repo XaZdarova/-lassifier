@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">730879</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/730879</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-10 10:13</datetime>
+  <title auto="true" type="str" verify="true">В Карабахе с начала боевых действий погибли 404 военнослужащих</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">НКР</tag>
+    <tag type="str">Нагорный Карабах</tag>
+    <tag type="str">Армения</tag>
+    <tag type="str">Азербайджан</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 10 октября. INTERFAX.RU - Министерство обороны непризнанной Нагорно-Карабахской Республики (НКР) сообщило в субботу о еще 28 погибших военных Армии обороны НКР в боях с азербайджанскими подразделениями в зоне карабахского конфликта. Всего, по уточненным данным ведомства, с начала боевых действий 27 сентября погибли 404 военнослужащих. Ранее сообщалось, что Армения и Азербайджан по итогам  многочасовых переговоров  в Москве договорились  о прекращении огня  с 12:00 10 октября. Новое обострение конфликта в Карабахе началось утром 27 сентября.]]></text>
+</doc>

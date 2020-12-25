@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">711306</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/711306</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-06-01 21:07</datetime>
+  <title auto="true" type="str" verify="true">Стадион ФК "Краснодар" признан лучшим в Российской премьер-лиге</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">ФК Краснодар</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 1 июня. INTERFAX.RU - Стадион футбольного клуба "Краснодар", выступающего в Российской премьер-лиги, признан лучшим в РПЛ по итогам опроса среди болельщиков. Как сообщается в твиттере РПЛ, в финал вышли два стадиона "Краснодар" и "Газпром-Арена", на которой домашние матчи проводит петербургский "Зенит". В финале стадион "Краснодара" набрал 57% голосов. Голосование проходило  инстаграме РПЛ. Стадион "Краснодар" был построен в 2016 году, он вмещает свыше 35 с половиной тысяч.]]></text>
+</doc>

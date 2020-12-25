@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">740303</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/740303</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-12-07 19:38</datetime>
+  <title auto="true" type="str" verify="true">YouTube назвал самые популярные видео 2020 года</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">YouTube</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 7 декабря. INTERFAX.RU - Видеохостинг YouTube определил самые популярные ролики 2020 года,  сообщила  пресс-служба Google. Лидером рейтинга стало шоу "Что было дальше?". Больше всего просмотров набрало видео с участием Юрия Дудя и Лолиты Милявской. На второй строчке интервью Юрия Дудя с комиком Алексеем Щербаковым. На третьем месте ролик из программы "Вечерний Ургант", гостем которой стал рэп-исполнитель MORGENSHTERN. Что касается музыкальных видео, то на первом месте клип группы Little Big на песню Uno, с которой коллектив должен был ехать на "Евровидение", однако конкурс был отменен из-за коронавируса. На втором месте все также Little Big с клипом Hypnodancer. На третьей строчке Клава Кока & NILETTO - Краш.]]></text>
+</doc>

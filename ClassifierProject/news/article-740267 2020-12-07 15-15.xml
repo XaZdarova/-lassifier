@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">740267</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/740267</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-12-07 15:15</datetime>
+  <title auto="true" type="str" verify="true">Торговля и транспорт названы лидерами по заболеваемости COVID-19</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Роспотребнадзор</tag>
+    <tag type="str">Анна Попова</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 7 декабря. INTERFAX.RU - В последние две недели заболеваемость коронавирусной инфекцией сильнее всего растет среди работников промышленных предприятий, торговли, транспорта и среди госслужащих, сообщила глава Роспотребнадзора Анна Попова. По ее словам, это означает, что на этих предприятиях и объектах принимаются недостаточные меры контроля. Попова призвала такие организации усилить внутренний контроль и внутреннюю дисциплину. Раньше она говорила, что чаще всего заболевают офисные работники.]]></text>
+</doc>

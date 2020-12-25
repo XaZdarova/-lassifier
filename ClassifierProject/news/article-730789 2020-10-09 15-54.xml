@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">730789</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/730789</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-09 15:54</datetime>
+  <title auto="true" type="str" verify="true">"Победа" в ноябре увеличит число рейсов в Стамбул</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Победа</tag>
+    <tag type="str">Стамбул</tag>
+    <tag type="str">Турция</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 9 октября. INTERFAX.RU - Авиакомпания "Победа" (входит в группу "Аэрофлот") с 1 ноября вводит дополнительные рейсы в Стамбул. Частота полетов из Москвы в этот турецкий город будет увеличена с одного до двух раз в день. Кроме того, с частотой четыре раза в неделю компания начнет летать туда из Казани. Все новые рейсы из Москвы и Казани будут выполняться в новый аэропорт Стамбула, отмечает "Победа". Ранее запланированные рейсы продолжит обслуживать аэропорт имени Сабихи Гёкчен. Сейчас "Победа" летает из Казани в Анталью, из Москвы в Стамбул и сразу в два аэропорта провинции Анталья - Анталья и Газипаша.]]></text>
+</doc>

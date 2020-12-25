@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">724509</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/724509</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-09-03 20:19</datetime>
+  <title auto="true" type="str" verify="true">Хачанов победил Кузнецова во втором круге US Open</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+    <tag type="str">US Open</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 3 сентября. INTERFAX.RU - Российский теннисист Карен Хачанов завоевал путевку в третий круг турнира серии Большого шлема US Open.                  Во втором раунде соревнования он нанес поражение своему соотечественнику Андрею Кузнецову. Результат матча – 6:3, 6:4, 6:1 в пользу Хачанова. Продолжительность игры составила 1 час 50 минут.                 В следующем круге Хачанов, занимающий 11-е место в рейтинге Ассоциации теннисистов-профессионалов (ATP), сыграет с победителем пары Алекс де Минор (Австралия) – Ришар Гаске (Франция). Призовой фонд Открытого чемпионата США составляет $53,4 млн.]]></text>
+</doc>

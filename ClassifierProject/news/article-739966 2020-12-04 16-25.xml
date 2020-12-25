@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">739966</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/739966</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-12-04 16:25</datetime>
+  <title auto="true" type="str" verify="true">Скончался бывший губернатор Курской области</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Александр Михайлов</tag>
+    <tag type="str">Курская область</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 4 декабря. INTERFAX.RU - Администрация Курской области сообщила о кончине бывшего губернатора региона Александра Михайлова. "Ушел из жизни бывший губернатор Курской области Александр Михайлов. От лица администрации Курской области приносим свои соболезнования родным и близким Александра Николаевича", - говорится в сообщении. Причины смерти не уточняются. Михайлову было 69 лет. Он возглавлял Курскую область 18 лет - с 2000 по 2018 гг.]]></text>
+</doc>

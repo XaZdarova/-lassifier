@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">694820</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/culture/694820</source>
+  <category auto="true" type="str" verify="true">Культура</category>
+  <datetime auto="true" type="str" verify="true">2020-02-10 23:40</datetime>
+  <title auto="true" type="str" verify="true">Посетителей кинотеатра "Октябрь" эвакуировали из-за возгорания</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">кино</tag>
+    <tag type="str">кинотеатр Октябрь</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 10 февраля. INTERFAX.RU - Посетители московского кинотеатра "Октябрь" во время премьерного показа картины "Лед 2" были эвакуированы из-за возгорания, сообщили "Интерфаксу" в столичном главке МЧС. В одном из залов кинотеатра произошло короткое замыкание. Его ликвидировали до приезда пожарных расчетов. Администрация успела эвакуировать 2500 зрителей до приезда спасателей. Согласно анонсу, в кинотеатре должна была состояться премьера романтической сказки Жоры Крыжовникова "Лед 2".]]></text>
+</doc>

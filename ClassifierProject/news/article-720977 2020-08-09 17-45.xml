@@ -1,0 +1,15 @@
+<doc>
+  <id auto="true" type="str" verify="true">720977</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/720977</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-09 17:45</datetime>
+  <title auto="true" type="str" verify="true">Ферстаппен выиграл Гран-при 70-летия "Формулы-1"</title>
+  <description auto="true" type="str" verify="true">Россиянин Квят финишировал десятым</description>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">автоспорт</tag>
+    <tag type="str">Формула-1</tag>
+    <tag type="str">Великобритания</tag>
+    <tag type="str">Макс Ферстаппен</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 9 августа. INTERFAX.RU - Нидерландец Макс Ферстаппен из команды Red Bull стал победителем Гран-при 70-летия, пятого этапа чемпионата мира по автогонкам класса "Формула-1", прошедшем на автодроме "Сильверстоун" в Великобритании. Шестикратный и действующий чемпион мира британец Льюис Хэмилтон (Mercedes) финишировал вторым, третьим стал его партнер по команде финн Валттери Боттас. Россиянин Даниил Квят из Alpha Tauri стал 10-м. Из-за  пандемии коронавируса  чемпионат "Формулы-1" в 2020 году стартовал лишь  в июле .]]></text>
+</doc>

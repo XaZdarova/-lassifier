@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">736186</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/736186</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-09 10:14</datetime>
+  <title auto="true" type="str" verify="true">Мэр Владивостока заразился коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Владивосток</tag>
+    <tag type="str">Олег Гуменюк</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 9 ноября. INTERFAX.RU - Коронавирус подтвердился у мэра Владивостока Олега Гуменюка, сообщает пресс-служба городской администрации. "Глава Владивостока Олег Гуменюк на больничном с подтвержденным диагнозом "коронавирусная инфекция". Он находится в городе", - говорится в сообщении. Обязанности мэра исполняет первый заместитель главы администрации Владивостока Наталья Соколова.]]></text>
+</doc>

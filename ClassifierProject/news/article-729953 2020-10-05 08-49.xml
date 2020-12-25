@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">729953</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/729953</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-05 08:49</datetime>
+  <title auto="true" type="str" verify="true">Омский губернатор заразился коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Омская область</tag>
+    <tag type="str">Александр Бурков</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 5 октября. INTERFAX.RU - Губернатор Омской области Александр Бурков  сообщил , что у него выявили коронавирус. Тест дал положительный результат, однако симптомы заболевания у него не проявились и он чувствует себя хорошо. Чиновник сказал, что ушел на самоизоляцию. "Участие во всех мероприятиях тоже вынужден отложить. Неукоснительно выполняю все рекомендации медиков", - написал Бурков в инстаграме.]]></text>
+</doc>

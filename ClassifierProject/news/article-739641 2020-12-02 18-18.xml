@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">739641</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/739641</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-12-02 18:18</datetime>
+  <title auto="true" type="str" verify="true">"Казанский вертолетный завод" утратил публичность</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Казанский вертолетный завод</tag>
+    <tag type="str">КВЗ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 2 декабря. INTERFAX.RU - Организационно-правовая форма "Казанского вертолетного завода" (КВЗ) изменена с ПАО на АО. Как говорится в сообщении КВЗ, в новой редакции устава общества, зарегистрированной 1 декабря, из фирменного наименования исключено указание на публичный статус. Решение об утверждении устава в новой редакции было принято единственным владельцем голосующих акций КВЗ - АО "Вертолеты России" - на годовом собрании 24 сентября. КВЗ входит в холдинг "Вертолеты России", производит вертолеты семейства Ми-8, Ми-17, Ми-38, "Ансат".]]></text>
+</doc>

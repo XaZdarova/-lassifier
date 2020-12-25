@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">730849</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/730849</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-09 21:53</datetime>
+  <title auto="true" type="str" verify="true">Команда Байдена потратила более $500 млн на его предвыборную кампанию</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">США</tag>
+    <tag type="str">Джо Байден</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 9 октября. INTERFAX.RU - Расходы на предвыборную кампанию кандидата в президенты США от Демократической партии Джо Байдена составили $502 млн. Об этом  сообщается  в твиттере исследовательской компании Advertising Analytics. В основном деньги пошли на рекламу на радио, телевидении и в интернете, уточняет телеканал CNBC. Целевая аудитория – избиратели в ключевых штатах, таких как Огайо, Айова, Пенсильвания, Мичиган, Флорида, Висконсин и Техас. Согласно прогнозам, стоимость президентских выборов и выборов в Конгресс в США составят более $10 млрд. Согласно опросу газеты Wall Street Journal и телеканала NBC News от 5 октября, Байден  опережал  Трампа в предвыборной гонке на 14 процентных пунктов.]]></text>
+</doc>

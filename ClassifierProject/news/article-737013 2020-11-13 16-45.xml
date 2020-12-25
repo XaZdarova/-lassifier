@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">737013</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/culture/737013</source>
+  <category auto="true" type="str" verify="true">Культура</category>
+  <datetime auto="true" type="str" verify="true">2020-11-13 16:45</datetime>
+  <title auto="true" type="str" verify="true">В Выборгском замке откроют музей подводной археологии</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Выборг</tag>
+    <tag type="str">Ленинградская область</tag>
+    <tag type="str">Владимир Цой</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 13 ноября. INTERFAX.RU - В Выборгском замке в 2021 году откроют музей подводной археологии, сообщил зампред правительства Ленинградской области Владимир Цой. Музей разместят в здании цейхгауза, выставочное пространство будет увеличено в результате реставрации. У стен центра "Эрмитаж-Выборг" расположится музей под открытым небом. Его первым экспонатом стали колонны, поднятые недавно со дна Финского залива и созданные около двух веков назад для украшения храмов Петербурга. В следующем году экспозицию дополнят обломки корабля, который вез эти колонны.]]></text>
+</doc>

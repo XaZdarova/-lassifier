@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">732212</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/732212</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-20 00:37</datetime>
+  <title auto="true" type="str" verify="true">Мощное землетрясение произошло у берегов Аляски</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">США</tag>
+    <tag type="str">Аляска</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 20 октября. INTERFAX.RU - Землетрясение магнитудой 7,5 произошло у берегов Аляски, сообщает Геологическая служба США (USGS). По ее информации, существует риск формирования цунами. Эпицентр подземных толчков располагался в 91 км от населенного пункта Санд-Пойнт (Восточные Алеутские острова). Данных о жертвах и разрушениях не поступало.]]></text>
+</doc>

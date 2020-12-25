@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">739540</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/739540</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-12-02 09:52</datetime>
+  <title auto="true" type="str" verify="true">Кудрин заболел коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Россия</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">Алексей</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 2 декабря. INTERFAX.RU - Председатель Счетной палаты Алексей Кудрин сообщил, что заразился коронавирусной инфекцией COVID-19, чувствует себя нормально. "Зацепило и меня: положительный тест на ковид. Пока проходит сносно, самоизолируюсь и лечусь. Берегите себя!"- написал Кудрин в твиттере. По данным на 1 декабря суточный прирост новых заболевших коронавирусной инфекцией в РФ составил  26 402 случая  в 85 регионах, подтверждено рекордное количество летальных исходов - 569.]]></text>
+</doc>

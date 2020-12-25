@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">721844</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/721844</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-14 21:19</datetime>
+  <title auto="true" type="str" verify="true">"Уфа" выиграла у "Арсенала" в матче РПЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Уфа</tag>
+    <tag type="str">Арсенал</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 14 августа. INTERFAX.RU - Футболисты "Уфы" со счетом 3:2 одержали победу над тульским "Арсеналом" в выездном матче второго тура Тинькофф Российской премьер-лиги. В составе уфимцев отличились Вячеслав Кротов (45+1), Артем Голубев (54) и Ловро Бизяк (63, пенальти). В составе хозяев голы провели Евгений Луценко (26) и Кингс Кангва (72). "Уфа" одержала первую победу в чемпионате после  разгромного поражения  от "Краснодара" в первом туре (0:3).]]></text>
+</doc>

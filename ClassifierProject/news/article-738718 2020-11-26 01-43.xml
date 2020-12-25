@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">738718</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/738718</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-11-26 01:43</datetime>
+  <title auto="true" type="str" verify="true">МК узнал о смерти начальника одного из управлений Минобороны</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Минобороны</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 26 ноября. INTERFAX.RU - Начальник Главного управления глубоководных исследований Минобороны РФ, Герой России вице-адмирал Алексей Буриличев умер в Москве на 63-м году жизни, сообщила в четверг газета "Московский комсомолец". "Интерфакс" не располагает официальным подтверждением этой информации. Главное управление глубоководных исследований Минобороны называют одной из самых засекреченных военных структур. СМИ сообщают, что вице-адмирал умер 25 ноября в госпитале в Москве.]]></text>
+</doc>

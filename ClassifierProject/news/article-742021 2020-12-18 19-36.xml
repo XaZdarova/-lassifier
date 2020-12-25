@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">742021</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/742021</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-12-18 19:36</datetime>
+  <title auto="true" type="str" verify="true">Серхио Перес станет пилотом команды Red Bull "Формулы-1"</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Серхио Перес</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 18 декабря. INTERFAX.RU - Мексиканец Серхио Перес подписал контракт с командой "Формулы-1" Red Bull. Согласно  сообщению  на сайте "Формулы-1", Перес в сезоне 2021 года сменит тайца Александра Албона и станет напарником Макса Ферстаппена. Между тем Албон станет тестовым и резервным пилотом команды. 6 декабря Перес в составе команды Racing Point стал победителем Гран-при Сахира в Бахрейне. Это была  первая победа  в карьере 30-летнего гонщика. Ранее досрочное чемпионство оформил британец Льюис Хэмилтон из Mercedes.]]></text>
+</doc>

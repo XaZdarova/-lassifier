@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">733818</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/733818</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-23 09:39</datetime>
+  <title auto="true" type="str" verify="true">В Марий Эл в ДТП со скорой помощью пострадали пятеро</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Марий Эл</tag>
+    <tag type="str">МВД</tag>
+    <tag type="str">Йошкар-Ола</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 23 октября. INTERFAX.RU - Утром в пятницу в Горномарийском районе в ДТП с машиной скорой помощи пострадали пять человек,  сообщает  пресс-служба МВД Марий Эл. Это случилось около 8 чсов утра 96-м километре дороги Йошкар-Ола — Коротни. По предварительным данным полиции, водитель скорой не выбрал безопасную скорость, не справился с управлением и съехал с трассы. Пострадали два фельдшера, сам водитель и два сотрудника полиции. Сотрудники ГИБДД и следственно-оперативная группа выясняют обстоятельства случившегося.]]></text>
+</doc>

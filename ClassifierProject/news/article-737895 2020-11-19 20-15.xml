@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">737895</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/737895</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-19 20:15</datetime>
+  <title auto="true" type="str" verify="true">В Петербурге пьяный мужчина укусил полицейского</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Петербург</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 19 ноября. INTERFAX.RU - Прокуратура Петроградского района утвердила обвинительное заключение и направила в суд дело местного жителя, который укусил и ударил сотрудника полиции. Об этом сообщает в четверг пресс-служба надзорного ведомства. Мужчине инкриминируется преступление по статье 318 УК РФ ( применение насилия в отношении представителя власти ). По версии обвинения, фигурант при проверке документов на улице укусил полицейского за кисть руки и ударил в шею. Как отмечается, напавший был пьян.]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">731526</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/731526</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-14 21:05</datetime>
+  <title auto="true" type="str" verify="true">Назван состав сборной России на матч Лиги наций УЕФА против Венгрии</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Антон Шунин</tag>
+    <tag type="str">Артем Дзюба</tag>
+    <tag type="str">Игорь Смольников</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 14 октября. INTERFAX.RU - Стал известен состав сборной России по футболу на матч Лиги наций УЕФА против Венгрии, сообщает пресс-служба российской команды. В воротах сыграет Антон Шунин. В защите матч начнут: Юрий Жирков, Федор Кудряшов, Андрей Семенов и Игорь Смольников. В полузащите сыграют: Роман Зобнин, Антон Миранчук, Магомед Оздоев, Далер Кузяев и Алексей Ионов. В нападении выйдет Артем Дзюба. Матч пройдет в Москве на стадионе "Динамо" и начнется в 21:45.]]></text>
+</doc>

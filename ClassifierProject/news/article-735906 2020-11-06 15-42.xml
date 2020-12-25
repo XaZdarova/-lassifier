@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">735906</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/735906</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-11-06 15:42</datetime>
+  <title auto="true" type="str" verify="true">Yamaha отзовет в России 1320 мотоциклов</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Yamaha</tag>
+    <tag type="str">Росстандарт</tag>
+    <tag type="str">ООН</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 ноября. INTERFAX.RU - Yamaha отзовет в России 1320 мотоциклов для проверки задних катафот,  сообщил  Росстандарт. Эти отражатели не соответствуют правилам светопередачи ООН. Под отзыв попали мотоциклы Yamaha GPD125-A, GPD150, MTN320-A, YZF320-A, YZF-R3A, проданные в 2015-2020 годах. Российское представительство компании-производителя ООО "Ямаха Мотор Си-Ай-Эс" проинформирует владельцев этих машин и предложит им подъехать в ближайший дилерский центр для бесплатного ремонта. Некондиционные катафоты заменят на модифицированные. Узнать о необходимой проверке они могут и самостоятельно, сверив VIN-код собственного мотоцикла с перечнем на сайте Росстандарта или через сервис Auto.ru.]]></text>
+</doc>

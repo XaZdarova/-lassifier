@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">728112</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/728112</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-09-22 16:53</datetime>
+  <title auto="true" type="str" verify="true">Минюст попросил суд ликвидировать партию Романа Путина</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Роман Путин</tag>
+    <tag type="str">Народ против коррупции</tag>
+    <tag type="str">Минюст</tag>
+    <tag type="str">Верховный суд</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 22 сентября. INTERFAX.RU - Минюст потребовал, чтобы Верховный суд ликвидировал партию "Народ против коррупции", которую возглавляет Роман Путин. Об этом сообщили в Верховном суде. СМИ называют Романа Путина двоюродным племянником президента России. Иск от Минюста поступил в суд 22 сентября. Дата его рассмотрения еще не назначена. На сайте Минюста говорится, что партия была образована в 2013 году. Бизнесмен Роман Путин вступил в нее 21 июня 2020 года и в июле ее возглавил.]]></text>
+</doc>

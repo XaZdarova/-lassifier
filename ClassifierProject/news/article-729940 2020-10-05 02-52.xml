@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">729940</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/729940</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-05 02:52</datetime>
+  <title auto="true" type="str" verify="true">Тест Байдена на коронавирус показал отрицательный результат</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">США</tag>
+    <tag type="str">Джо Байден</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">COVID-19</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 5 октября. INTERFAX.RU - Очередной тест на коронавирус кандидата в президенты США от Демократической партии Джо Байдена показал отрицательный результат, сообщил его предвыборный штаб. Это уже второй отрицательный тест, который сдал Байден после того, как заражение коронавирусной инфекцией подтвердилось у президента США Дональда Трампа. Ранее штаб Байдена пообещал  публиковать результаты его тестов  на коронавирус. На прошлой неделе Байден и Трамп вместе участвовали в первых президентских дебатах.]]></text>
+</doc>

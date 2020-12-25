@@ -1,0 +1,17 @@
+<doc>
+  <id auto="true" type="str" verify="true">738009</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/738009</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-20 15:43</datetime>
+  <title auto="true" type="str" verify="true">Nvidia позволит играть в Fortnite на iPhone в обход App Store</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Nvidia</tag>
+    <tag type="str">США</tag>
+    <tag type="str">App Store</tag>
+    <tag type="str">Apple</tag>
+    <tag type="str">Fortnite</tag>
+    <tag type="str">iPhone</tag>
+    <tag type="str">Epic Games</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 20 ноября. INTERFAX.RU - Американский производитель графических процессоров Nvidia расширяет сервис, который позволит пользователям играть в популярную игру Fortnite на своих iPhone, несмотря на то, что она была удалена из принадлежащего Apple магазина приложений App Store. Nvidia запустила тестовую версию платформы GeForce Now на операционной системе iOS. Она позволяет пользователям играть через браузер Safari вместо установки приложений. Компания  сообщила , что на платформе доступны тысячи игр, однако среди них пока нет Fortnite, приложение для игры в которую Apple удалила из своего магазина в августе на фоне конфликта с ее разработчиком Epic Games Inc. Nvidia сообщила, что работает над версией Fortnite для своей платформы совместно с Epic, пообещав, что пользователи смогут играть в нее через браузер в скором времени. Epic в августе  подала иски  против Apple и Alphabet, обвинив компании в нарушении антимонопольного законодательства. Apple и Google удалили Fortnite из своих магазинов в связи с тем, что Epic предложила пользователям осуществлять покупки внутри игры напрямую, что снизит их стоимость.]]></text>
+</doc>

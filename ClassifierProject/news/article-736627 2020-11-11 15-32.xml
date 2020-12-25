@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">736627</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/736627</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-11-11 15:32</datetime>
+  <title auto="true" type="str" verify="true">Таксист погиб в аварии с автобусом на севере Москвы</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">ДТП</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 11 ноября. INTERFAX.RU - Автобус и автомобиль такси столкнулись на севере Москвы, сообщили "Интерфаксу" в пресс-службе столичного управления МВД. ДТП случилось примерно в 13:30 в районе дома 14 на улице Большая Академическая. В результате аварии погиб водитель легкового автомобиля, уточнили в пресс-службе управления. Источник сообщил, что на месте аварии работают сотрудники ГИБДД, движение транспорта в этом районе затруднено.]]></text>
+</doc>

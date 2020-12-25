@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">737486</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/737486</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-17 14:27</datetime>
+  <title auto="true" type="str" verify="true">Глава Хакасии вылечился от коронавируса</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Хакасия</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">Валентин Коновалов</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 ноября. INTERFAX.RU - Глава Хакасии Валентин Коновалов получил отрицательные тесты на коронавирус, в связи с чем возвращается к полноценному режиму работу после выздоровления. Об этом он сам сообщил в соцсети во вторник. "Результат моего последнего теста на COVID-19 - отрицательный. С учетом  изменения правил  Роспотребнадзора выхожу из режима изоляции и завтра полноценно приступаю к работе", - написал глава республики. Как сообщалось, у Коновалова  коронавирус подтвердили  17 октября. Сразу же он ушел на самоизоляцию и работал из дома дистанционно.]]></text>
+</doc>

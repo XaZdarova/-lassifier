@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">733972</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/733972</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-23 22:14</datetime>
+  <title auto="true" type="str" verify="true">Минобороны Азербайджана отвергло полеты беспилотников над Арменией</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Азербайджан</tag>
+    <tag type="str">Армения</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 23 октября. INTERFAX.RU - Министерство обороны Азербайджана опровергло информацию армянской стороны о сбитом и упавшем на территорию Армении азербайджанском беспилотнике. "Распространенная армянской стороной информация об азербайджанском беспилотном летательном аппарате (БПЛА), якобы сбитом и упавшем на территории Армении, не соответствует действительности", - отмечает оборонное ведомство. "Азербайджанские БПЛА не летают над Арменией", - заявляет Минобороны Азербайджана.]]></text>
+</doc>

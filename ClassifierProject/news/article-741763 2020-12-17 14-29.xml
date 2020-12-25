@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">741763</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/741763</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-12-17 14:29</datetime>
+  <title auto="true" type="str" verify="true">Акции "Газпрома" обновили максимум с февраля после слов Путина о "Северном потоке 2"</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Газпром</tag>
+    <tag type="str">Владимир Путин</tag>
+    <tag type="str">Северный поток 2</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 декабря. INTERFAX.RU - Акции "Газпрома" днем в четверг ускорили рост и обновили максимум с февраля после того, как президент РФ Владимир Путин выразил надежду на скорое завершение "Северного потока 2". На Московской бирже к 14:20 по Москве акции "Газпрома" выросли до 212,08 рубля (+3%), объем торгов превысил 14,994 млрд рублей. "Северный поток-2" практически достроен, осталось 160 км, надеюсь, работа будет закончена", - сказал президент РФ Владимир Путин на  ежегодной большой пресс-конференции .]]></text>
+</doc>

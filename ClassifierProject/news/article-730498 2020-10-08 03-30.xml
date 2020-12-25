@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">730498</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/730498</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-08 03:30</datetime>
+  <title auto="true" type="str" verify="true">Число инфицированных COVID-19 в мире превысило 36 миллионов</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">США</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 8 октября. INTERFAX.RU - С начала пандемии COVID-19 во всем мире зафиксировано 36 026 644 случая заражения коронавирусом, сообщил в ночь на четверг американский университет Джонса Хопкинса. По его данным, в мире число умерших от связанных с коронавирусом заболеваний выросло по состоянию на 02:30 мск четверга до 1 053 357. Лидируют по числу заразившихся и скончавшихся Соединенные Штаты, где выявлено суммарно 7 544 612 инфицированных, 211 694 заболевших скончались, 3 млн выздоровели.]]></text>
+</doc>

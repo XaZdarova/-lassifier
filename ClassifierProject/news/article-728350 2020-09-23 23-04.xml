@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">728350</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/728350</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-09-23 23:04</datetime>
+  <title auto="true" type="str" verify="true">В Москве скончались еще 15 пациентов с коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 23 сентября. INTERFAX.RU - Количество умерших от коронавируса в Москве увеличилось с 5100 до 5115. "В Москве скончались 15 пациентов, у всех был подтвержден диагноз пневмония и получен положительный результат тестов на коронавирусную инфекцию", - сообщили "Интерфаксу" в оперативном штабе по контролю и мониторингу ситуации с коронавирусом в Москве. Всего с начала пандемии в Москве зарегистрировано 279 358 случаев коронавируса, вылечились от инфекции 240 352 человек.]]></text>
+</doc>

@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">736497</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/736497</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-11-10 21:39</datetime>
+  <title auto="true" type="str" verify="true">SSJ-100 с неполадками в системе электроснабжения сел в "Шереметьево"</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">SSJ-100</tag>
+    <tag type="str">Шереметьево</tag>
+    <tag type="str">Москва</tag>
+    <tag type="str">Аэрофлот</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 10 ноября. INTERFAX.RU - На самолете "Сухой Суперджет-100", следовавшем из Уфы в Москву, частично отказала система электроснабжения, однако он благополучно сел в аэропорту "Шереметьево", сообщили "Интерфаксу" в пресс-службе "Аэрофлота". "На самолете "Сухой Суперджет", следовавшем из Уфы, во время полета произошел частичный отказ системы электроснабжения. Самолет занял безопасный эшелон, продолжил полет и благополучно совершил посадку в "Шереметьево"", - сказали в пресс-службе. По ее информации, жизни и здоровью пассажиров ничто не угрожало.]]></text>
+</doc>

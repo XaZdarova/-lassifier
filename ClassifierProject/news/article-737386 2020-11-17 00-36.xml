@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">737386</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/737386</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-11-17 00:36</datetime>
+  <title auto="true" type="str" verify="true">Аскольд Запашный госпитализирован из-за проблем со здоровьем</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Аскольд Запашный</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 ноября. INTERFAX.RU - Народный артист Российской Федерации Аскольд Запашный обратился к столичным медикам из-за проблем со здоровьем, сообщает во вторник телеграм-канал "112". "Артиста госпитализируют из-за резкого ухудшения здоровья и пониженного давления. Ему придется провести несколько дней в стационаре", - говорится в сообщении.]]></text>
+</doc>

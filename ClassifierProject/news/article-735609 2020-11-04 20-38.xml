@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">735609</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/735609</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-04 20:38</datetime>
+  <title auto="true" type="str" verify="true">В Польше выявлены рекордные 24,6 тыс. случаев коронавируса</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Польша</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 4 ноября. INTERFAX.RU - В Польше зарегистрировано 24 692 новых случая заболевания COVID-19 за сутки, что является рекордом за все время пандемии. В стране за последние 24 часа скончались 373 человека с коронавирусом, согласно данным портала worldometers.info. 3 ноября в стране было зафиксировано 19 364 случая заражения коронавирусом, 2 ноября - 15 578 случаев. Предыдущий рекорд по количеству выявленных случаев заражения в Польше был зафиксирован 31 октября, когда были подтверждены 21 897 новых инфицированных. Всего с начала пандемии в стране зафиксировали 439 536 COVID-эпизодов, умерли 6 475 человек, выздоровели 168 960 человек.]]></text>
+</doc>

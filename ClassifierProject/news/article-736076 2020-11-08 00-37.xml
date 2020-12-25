@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">736076</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/736076</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-08 00:37</datetime>
+  <title auto="true" type="str" verify="true">Франция преодолела порог в 40 тыс. смертей от коронавируса</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Франция</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 8 ноября. INTERFAX.RU - Франция преодолела порог в 40 тыс. летальных исходов среди зараженных COVID-19, сообщили в субботу вечером французские СМИ со ссылкой на медицинскую администрацию страны. За минувшие сутки зарегистрированы 306 смертей с диагнозом коронавирусной инфекции. После этого общий итог летальных исходов во Франции составил 40 169.]]></text>
+</doc>

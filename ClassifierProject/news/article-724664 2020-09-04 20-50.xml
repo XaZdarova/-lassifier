@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">724664</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/724664</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-09-04 20:50</datetime>
+  <title auto="true" type="str" verify="true">Велогонщик Свешников скончался в ходе Гран-при Москвы</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">велоспорт</tag>
+    <tag type="str">Москва</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 4 сентября. INTERFAX.RU - Велогонщик Павел Свешников скончался на Гран-при Москвы, сообщает Федерация велосипедного спорта России. По предварительной информации, спортсмен потерял сознание и упал во время групповой гонки. "Несмотря на оперативную медицинскую помощь, которая была оказана бригадой, находящейся на треке, а также усилия медиков, прибывших по вызову на велодром в Крылатском, жизнь спортсмена не удалось спасти", - говорится в сообщении.]]></text>
+</doc>

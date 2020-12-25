@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">739802</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/739802</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-12-03 17:22</datetime>
+  <title auto="true" type="str" verify="true">На матчи Кубка Первого канала без участия сборной России зрителей не пустят</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">хоккей</tag>
+    <tag type="str">Еврохоккейтур</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 3 декабря. INTERFAX.RU - Матчи с участием сборной России по хоккею на Кубке Первого канала, очередного этапа Еврохоккейтура, пройдут со зрителями. Без участия сборной России - без зрителей. "Обращаем ваше внимание, что продаваться будут только билеты на матчи с участием национальной сборной России, матчи без российской команды пройдут без зрителей", - говорится в сообщении пресс-службы Федерации хоккея России. Турнир с участием сборных России, Финляндии, Чехии и Швеции стартует 17 декабря и завершится 20 декабря.]]></text>
+</doc>

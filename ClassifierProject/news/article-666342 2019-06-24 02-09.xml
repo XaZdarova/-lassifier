@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">666342</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/culture/666342</source>
+  <category auto="true" type="str" verify="true">Культура</category>
+  <datetime auto="true" type="str" verify="true">2019-06-24 02:09</datetime>
+  <title auto="true" type="str" verify="true">Умер актер Андрей Харитонов</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">кино</tag>
+    <tag type="str">Андрей Харитонов</tag>
+    <tag type="str">театр</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 24 июня. INTERFAX.RU - В возрасте 59 лет скончался актер Андрей Харитонов. Об этом сообщил в своем фейсбуке режиссер-документалист Виталий Манский. Манский не назвал причину смерти Харитонова. Актер прославился после роли в сериал "Овод", снятом по мотивам одноименного романа Этель Войнич, где сыграл Артура Бертона. На его счету десятки ролей в кино, но последний фильм с его участием снят в 2013 году. Харитонов несколько лет играл в Малом театре. Он работал режиссером-постановщиком на телевидении и  выпускал авторскую программу "Вспышка"  на канале "Культура".]]></text>
+</doc>

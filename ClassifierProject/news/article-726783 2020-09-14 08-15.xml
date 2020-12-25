@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">726783</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/726783</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-09-14 08:15</datetime>
+  <title auto="true" type="str" verify="true">Губернатор Смоленской области набрал 58,6% по итогам обработки 90,5% бюллетеней</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Алексей Островский</tag>
+    <tag type="str">Смоленская область</tag>
+    <tag type="str">Центризбирком</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 14 сентября. INTERFAX.RU - Действующий губернатор Смоленской области Алексей Островский по итогам обработки 90,5% бюллетеней набрал 58,6% голосов на выборах главы региона, говорится в материалах Центризбиркома, размещенных в эфире "России 24". Явка на губернаторских выборах, по предварительным данным, составила 27,4%. На выборах 2015 года Островский набрал больше 65% при явке в 28,67%.]]></text>
+</doc>

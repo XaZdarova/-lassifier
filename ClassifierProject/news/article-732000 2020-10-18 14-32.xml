@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">732000</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/732000</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-18 14:32</datetime>
+  <title auto="true" type="str" verify="true">Путин дистанционно примет участие в заседании клуба "Валдай"</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Владимир Путин</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 18 октября. INTERFAX.RU - Президент РФ Владимир Путин на следующей неделе по видеосвязи примет участие в заседании дискуссионного клуба "Валдай". Дискуссия клуба "Валдай" с участием президента пройдет в формате телемоста, сообщает телеканал "Россия-1" (ВГТРК). Заседание клуба в этом году пройдет с 20 по 22 октября, его темой станут уроки пандемии коронавируса. Также на следующей неделе Путин планирует пообщаться с членами Российского союза промышленников и предпринимателей, говорится на сайте Вести.ру.]]></text>
+</doc>

@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">730825</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/730825</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-09 18:29</datetime>
+  <title auto="true" type="str" verify="true">Арбитр ФИФА Карасев заболел коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 9 октября. INTERFAX.RU - У российского футбольного рефери Сергея Карасева COVID-19, сообщил глава судейского комитета РФС Ашот Хачатурянц. "Да, к сожалению, у Карасева коронавирус. Высокая температура. Сергей выбыл как минимум на две недели", - приводит слова Хачатурянца "Спорт-Экспресс". Карасев является арбитром ФИФА, он считается ведущим рефери в России. Обслуживает также матчи международного уровня, в частности, работал на чемпионате мира-2018 в России.]]></text>
+</doc>

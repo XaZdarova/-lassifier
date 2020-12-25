@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">726920</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/726920</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-09-14 20:35</datetime>
+  <title auto="true" type="str" verify="true">"Зенит" победил "Арсенал" в матче РПЛ и вышел на первое место</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 14 сентября. INTERFAX.RU - Футболисты петербургского "Зенита" со счетом 3:1 нанесли поражение тульскому "Арсеналу" в домашнем матче седьмого чемпионата Российской премьер-лиги.                 На 25-й минуте "Зенит" вышел вперед благодаря голу Андрея Мостового, через шесть минут счет удвоил Артем Дзюба.                 На 60-й минуте Юрий Ковалев сократил отставание в счете, однако на 86-й минуте Александр Ерохин довел счет до 3:1.                 У "Зенита" теперь 16 очков, команда вновь возглавила турнирную таблицу. "Арсенал" – на 14-м месте, 5 очков.]]></text>
+</doc>

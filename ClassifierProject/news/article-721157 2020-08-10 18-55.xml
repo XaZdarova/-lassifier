@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">721157</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/721157</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-10 18:55</datetime>
+  <title auto="true" type="str" verify="true">"Динамо" победило "Урал" в матче РПЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 10 августа. INTERFAX.RU - Футболисты московского "Динамо" со счетом 2:0 одолели екатеринбургский "Урал" в матче первого тура чемпионата Российской премьер-лиги.                 На 38-й минуте отличился Клинтон Н'Жи, на 59-й – Сильвестр Игбун.                 Чемпионат РПЛ сезона-2019/20 стартовал 8 августа.]]></text>
+</doc>

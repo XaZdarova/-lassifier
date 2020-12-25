@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">727019</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/727019</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-09-15 14:30</datetime>
+  <title auto="true" type="str" verify="true">Андрей Рублев вышел во второй круг турнира "Мастерс" в Риме</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 14 сентября. INTERFAX.RU - Россиянин Андрей Рублев победил аргентинца Факундо Багниса в матче первого круга турнира серии "Мастерс" в Риме. Встреча закончилась со счетом 6:4, 6:4. Следующим соперником россиянина станет поляк Хуберт Хуркач.]]></text>
+</doc>

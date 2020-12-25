@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">734307</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/734307</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-27 00:45</datetime>
+  <title auto="true" type="str" verify="true">Бельгийский шоколатье признан лучшим в мире кондитером</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Бельгия</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 27 октября. INTERFAX.RU - Приз "Лучший кондитер мира" был присужден в понедельник бельгийскому шоколатье Пьеру Марколини, сообщили СМИ Бельгии. Это произошло на знаменитом звездном смотре World Pastry Stars 2020, организованном в нынешнем году из-за пандемии коронавируса в виртуальной форме. Жюри, состоящее из независимых журналистов, единогласно избрало бельгийца. Марколини уже был провозглашен чемпионом мира в области кондитерских изделий в 1995 году в Лионе. В том же году он основал в Брюсселе компанию La Maison Pierre Marcolini. Сегодня она насчитывает более 40 бутиков, помимо Бельгии, в частности, во Франции, Великобритании, Японии и Китае.]]></text>
+</doc>

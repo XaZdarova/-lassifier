@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">737557</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/737557</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-11-17 19:56</datetime>
+  <title auto="true" type="str" verify="true">Производство бензина в октябре упало по сравнению с сентябрем на 7%</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Росстат</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 ноября. INTERFAX.RU - Производство бензина в России в октябре упало на 7%, как по сравнению с сентябрем, так и к октябрю 2019 года, сообщает Росстат. В январе-октябре производство бензинов составило 32 млн тонн, что на 3,5% меньше по сравнению с соответствующим периодом 2019 года. В октябре выпуск дизтоплива снизился на 3% по сравнению с сентябрем и на 15,7% год к году. Производство дизельного топлива в январе-октябре 2020 года составило 64,8 млн тонн, увеличившись на 0,2% по сравнению с аналогичным периодом предыдущего года.]]></text>
+</doc>

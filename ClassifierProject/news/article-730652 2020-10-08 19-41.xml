@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">730652</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/730652</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-08 19:41</datetime>
+  <title auto="true" type="str" verify="true">Американка Кенин стала второй финалисткой Roland Garros</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+    <tag type="str">Roland Garros</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 8 октября. INTERFAX.RU - Американская теннисистка София Кенин победила представительницу Чехии Петру Квитову в полуфинале турнира Большого шлема Roland Garros во Франции. Результат встречи – 6:4, 7:5 в пользу Кенин. Продолжительность матча составила 1 час 46 минут. В настоящее время Кенин занимает четвертое место в рейтинге WTA, Квитова – 11-е. В финале Кенин сыграет с польской теннисисткой Игой Швентек (54-е место в мировом рейтинге), которая до этой стадии турнира в соревнованиях Большого шлема не добиралась. Американка же в нынешнем году выиграла US Open. Кенин является американкой российского происхождения, ее родители родились в Москве.]]></text>
+</doc>

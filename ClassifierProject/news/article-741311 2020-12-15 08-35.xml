@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">741311</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/741311</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-12-15 08:35</datetime>
+  <title auto="true" type="str" verify="true">Мэр Перми подал в отставку</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Дмитрий Самойлов</tag>
+    <tag type="str">Пермь</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 15 декабря. INTERFAX.RU - Глава Перми Дмитрий Самойлов во вторник написал заявление об отставке, сообщили в пресс-службе мэрии города. Депутаты городской думы рассмотрят его заявление уже во вторник и назначат врио главы города. Самойлов руководил Пермью с ноября 2016 года.]]></text>
+</doc>

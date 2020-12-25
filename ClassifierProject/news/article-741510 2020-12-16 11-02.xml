@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">741510</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/culture/741510</source>
+  <category auto="true" type="str" verify="true">Культура</category>
+  <datetime auto="true" type="str" verify="true">2020-12-16 11:02</datetime>
+  <title auto="true" type="str" verify="true">Сергей Маковецкий заболел коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Сергей Маковецкий</tag>
+    <tag type="str">Кирилл Крок</tag>
+    <tag type="str">Коронавирус</tag>
+    <tag type="str">Театр имени Вахтангова</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 16 декабря. INTERFAX.RU - Народный артист РФ Сергей Маковецкий заболел коронавирусом, он чувствует себя нормально и находится дома, сообщил "Интерфаксу" директор Театра имени Вахтангова Кирилл Крок. "У Сергея Васильевича положительный тест на коронавирус. Поскольку температуры у него нет и чувствует он себя нормально, его оставили дома. 20 декабря ему сделают повторный тест на коронавирус. Если будет отрицательный результат, он приступит к работе", - сказал Крок. Сергей Маковецкий - российский актер театра и кино. С 1980 года - актер Театра имени Вахтангова.]]></text>
+</doc>

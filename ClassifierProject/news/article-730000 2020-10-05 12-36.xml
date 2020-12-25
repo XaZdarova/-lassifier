@@ -1,0 +1,15 @@
+<doc>
+  <id auto="true" type="str" verify="true">730000</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/730000</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-05 12:36</datetime>
+  <title auto="true" type="str" verify="true">Оперштаб не планирует новых ограничений в авиасообщении</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Валерий Рязанский</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">Казахстан</tag>
+    <tag type="str">Белоруссия</tag>
+    <tag type="str">Киргизия</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 5 октября. INTERFAX.RU - Оперативный штаб при правительстве не планирует ограничивать возобновившееся авиасообщение с отдельными странами и закрывать границы, сообщил представитель штаба. Ранее в понедельник сенатор Валерий Рязанский допустил, что границу могут закрыть, чтобы сократить количество перемещений и ограничить распространение коронавирусом. С 21 сентября Россия возобновила авиасообщение с Белоруссией, Казахстаном и Киргизией, с 27 сентября - с Южной Кореей. До того было возобновлено сообщение с Швейцарией, Турцией, Великобританией, ОАЭ и Занзибаром.]]></text>
+</doc>

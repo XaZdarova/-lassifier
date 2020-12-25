@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">735924</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/735924</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-06 17:04</datetime>
+  <title auto="true" type="str" verify="true">В Китае нашли COVID-19 на упаковке морепродуктов с российского судна</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Коронавирус</tag>
+    <tag type="str">Китай</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 ноября. INTERFAX.RU - Сотрудники китайской таможни обнаружили COVID-19 на упаковке морепродуктов, доставленных российским судном Stakfell, и приостановили для него прием импортных деклараций на неделю. "Образцы с упаковки морепродуктов российского рыболовного судна и голландского склада проверили на коронавирус, результат тестирования на нуклеиновую кислоту положительный", - говорится в сообщении таможенного управления КНР. В ведомстве отметили, что с пятницы таможня "приостанавливает импортную декларацию судна Stakfell и склада Daalimpex Velsen BV на одну неделю". Через неделю ограничения автоматически будут сняты.]]></text>
+</doc>

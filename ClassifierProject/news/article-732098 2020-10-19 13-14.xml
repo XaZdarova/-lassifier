@@ -1,0 +1,17 @@
+<doc>
+  <id auto="true" type="str" verify="true">732098</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/732098</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-10-19 13:14</datetime>
+  <title auto="true" type="str" verify="true">Nordwind перенесла открытие ряда внутренних рейсов на середину ноября</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Nordwind</tag>
+    <tag type="str">Иркутск</tag>
+    <tag type="str">Красноярск</tag>
+    <tag type="str">Уфа</tag>
+    <tag type="str">Тюмень</tag>
+    <tag type="str">Новосибирск</tag>
+    <tag type="str">Улан-Удэ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 19 октября. INTERFAX.RU - Авиакомпания Nordwind сообщила, что по техническим причинам перенесла открытие нескольких внутрироссийских рейсов на 15 ноября. Это маршруты Красноярск - Иркутск, Иркутск - Новосибирск, Красноярск - Тюмень, Красноярск - Уфа, Уфа - Тюмень, Красноярск - Улан-Удэ. Ранее Nordwind сообщила о переходе на зимнее расписание полетов с 24 октября по 27 марта. В прошлом году Nordwind перевезла 5,5 млн человек, став восьмой крупнейшей авиакомпаний в России. Парк компании состоит из девяти Boeing-777, двух A330, 13 Boeing-737 и девяти A321.]]></text>
+</doc>

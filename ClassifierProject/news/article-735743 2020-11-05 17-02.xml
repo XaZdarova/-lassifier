@@ -1,0 +1,17 @@
+<doc>
+  <id auto="true" type="str" verify="true">735743</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/735743</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-05 17:02</datetime>
+  <title auto="true" type="str" verify="true">Саудовская Аравия в декабре повысит цены на нефть для Европы</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Saudi Aramco</tag>
+    <tag type="str">Brent</tag>
+    <tag type="str">Саудовская Аравия</tag>
+    <tag type="str">Азия</tag>
+    <tag type="str">США</tag>
+    <tag type="str">Европа</tag>
+    <tag type="str">Arab Heavy</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 5 ноября. INTERFAX.RU - Саудовская Аравия в декабре повысит цены на нефть для покупателей из Европы, сообщила госкомпания Saudi Aramco. Сорт Arab Heavy для клиентов из стран северо-западной Европы - на $1 за баррель. В результате он будет стоить на $1,3 за баррель меньше марки Brent. Цены на остальные сорта для покупателей из государств Средиземноморья и СЗЕ увеличатся на $0,4-0,6 за баррель. Для клиентов из США цены всех сортов саудовской нефти в декабре снизится $0,2 за баррель. Цены на "легкую" нефть для покупателей из Азии будут ниже на $0,1-0,2 за баррель. В то же время Arab Medium подорожает на $0,1 за баррель, а стоимость Arab Heavy не изменится.]]></text>
+</doc>

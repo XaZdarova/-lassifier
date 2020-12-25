@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">737262</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/737262</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-16 12:24</datetime>
+  <title auto="true" type="str" verify="true">Непогода оставила без электричества 113 000 жителей Дагестана</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Дагестан Минэнерго</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 16 ноября. INTERFAX.RU - В Дагестане из-за дождя и сильного ветра случились массовые аварийные отключения электричества, без света к 9:30 утра по Москве было 113 000 жителей Кумторкалинского и Хасавюртовского районов. Об этом сообщило федеральное Минэнерго. Ранее в понедельник сообщалось, что без света оказалось 62 000 жителй Дагестана. В регионе начались работы по восстановлению электроснабжения.]]></text>
+</doc>

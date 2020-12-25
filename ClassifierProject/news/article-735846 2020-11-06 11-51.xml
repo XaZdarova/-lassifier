@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">735846</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/735846</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-06 11:51</datetime>
+  <title auto="true" type="str" verify="true">В США выявлен новый антирекорд по суточному приросту случаев COVID-19</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">США</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 ноября. INTERFAX.RU - В США выявлено более 120 тыс. случаев заражения коронавирусом COVID-19 за сутки, что является новым антирекордом. Власти сообщили о 123 185 новых инфицированных, что на 23 495 больше, чем днем ранее. 1226 пациентов скончались. Согласно данным статистического сайта Worldometers, всего в США с начала пандемии выявлено более 9,9 млн случаев заражения коронавирусом, более 241 тыс. инфицированных скончались. Не исключено, что к субботе, 7 ноября, общее количество подтвержденных случаев заражения в стране превысит отметку в 10 млн.]]></text>
+</doc>

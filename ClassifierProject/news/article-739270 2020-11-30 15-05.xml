@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">739270</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/739270</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-11-30 15:05</datetime>
+  <title auto="true" type="str" verify="true">Евролига признала баскетболиста ЦСКА лучшим игроком ноября</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">баскетбол</tag>
+    <tag type="str">Евролига</tag>
+    <tag type="str">БК ЦСКА</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 30 ноября. INTERFAX.RU - Баскетбольная Евролига назвала имя лучшего игрока ноября. Как сообщает пресс-служба турнира, лауреатом месяца стал защитник московского ЦСКА Майк Джеймс. Армейский клуб с Джеймсом в составе одержал в ноябре пять побед. Джеймс выступает в ЦСКА с 2019 года. До этого защищал цвета ряда европейских и американских команд - в частности, играл в клубе НБА "Нью-Орлеан".]]></text>
+</doc>

@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">728440</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/728440</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-09-24 14:03</datetime>
+  <title auto="true" type="str" verify="true">Матч гандбольного клуба "Ростов-Дон" в женской ЛЧ перенесен из-за коронавируса</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">гандбол</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 24 сентября. INTERFAX.RU - Матч группового этапа женской Лиги чемпионов между гандбольным клубом "Бухарест" и командой "Ростов-Дон" перенесен из-за заражения коронавирусом одного из игроков российского клуба, сообщает пресс-служба ГК "Ростов-Дон". "Матч группового этапа DELO EHF Champions League 2020/21 между "Бухарестом" и "Ростов-Доном", который должен был состояться в столице Румынии 27 сентября, перенесен. Это связано с тем, что один из игроков нашей команды получил положительный тест на Covid-19", - говорится в сообщении. Отмечается, что новая дата проведения матча c "Бухарестом" будет определена позднее.]]></text>
+</doc>

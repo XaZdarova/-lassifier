@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">730482</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/730482</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-07 22:51</datetime>
+  <title auto="true" type="str" verify="true">Джокович стал последним полуфиналистом Roland Garros-2020</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+    <tag type="str">Roland Garros</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 7 октября. INTERFAX.RU - Лидер мирового рейтинга сербский теннисист Новак Джокович завоевал путевку в 1/2 финала турнира серии Большого шлема Roland Garros во Франции. В четвертьфинале соревнования он нанес поражение представителю Испании Пабло Карреньо-Бусте – 4:6, 6:2, 6:3, 6:4. Продолжительность игры составила 3 часа 13 минут. Борьбу за выход в финал он поведет с греком Стефаносом Циципасом, который в среду  выбил из турнира  россиянина Андрея Рублева. Другую полуфинальную пару составили аргентинец Диего Шварцман и испанец Рафаэль Надаль.]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">741004</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/741004</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-12-11 23:30</datetime>
+  <title auto="true" type="str" verify="true">Более 70 человек с коронавирусом умерли в Москве за сутки</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">COVID-19</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 11 декабря. INTERFAX.RU - За минувшие сутки в Москве умерли 76 человек с пневмонией и положительным тестом на COVID-19, сообщил столичный оперштаб по контролю за коронавирусом в пятницу. Число жертв болезни в Москве увеличилось с 9722 до 9798. Этот показатель сравним со смертностью в начале июня. Сутками ранее от COVID-19 в городе скончались 77 человек. По данным на утро пятницы, в столице выявлено 679 163 случая заражения COVID-19, 518 889 человек вылечились от инфекции (76% от заразившихся). Ранее стало известно, что в Москве откроют  крупнейшее в стране производство вакцины  "Спутник V".]]></text>
+</doc>

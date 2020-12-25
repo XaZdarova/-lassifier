@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">724502</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/724502</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-09-03 19:35</datetime>
+  <title auto="true" type="str" verify="true">Футболист "Спартака" Гус Тиль перешел во "Фрайбург"</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">ФК Спартак</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 3 сентября. INTERFAX.RU - Полузащитник московского футбольного клуба "Спартак" Гус Тиль продолжит карьеру в Германии. "Немецкий "Фрайбург" арендовал у "Спартака" полузащитника Гуса Тиля. Соглашение рассчитано на один сезон с возможностью продления еще на год", - говорится в сообщении пресс-службы "Спартака". 22-летний нидерландский футболист перешел в "Спартак" летом 2019 года. Его предыдущим клубом был АЗ (Нидерланды). В составе "Спартака" он провел 24 матча, забив два мяча.]]></text>
+</doc>

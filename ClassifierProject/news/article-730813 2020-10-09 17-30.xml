@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">730813</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/730813</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-09 17:30</datetime>
+  <title auto="true" type="str" verify="true">В Ереване опровергли взятие азербайджанцами села Гадрут в Карабахе</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Армения</tag>
+    <tag type="str">Нагорный Карабах</tag>
+    <tag type="str">Азербайджан</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 9 октября. INTERFAX.RU - Министерство обороны Армении опровергло заявление президента Азербайджана Ильхама Алиева о захвате поселка Гадрут на юге Карабаха близ границы с Ираном. "Я в настоящее время нахожусь в Гадруте и почему-то не вижу никого, кроме армян", - написал в фейсбуке представитель Минобороны Армении Арцрун Ованнисян. Ранее в пятницу президент Азербайджана  сообщил , что азербайджанские Вооруженные силы заняли еще девять населенных пунктов в Карабахе, в том числе Гадрут.]]></text>
+</doc>

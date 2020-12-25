@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">721842</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/721842</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-14 21:18</datetime>
+  <title auto="true" type="str" verify="true">"Сочи" и "Химки" сыграли вничью в матче второго тура РПЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Сочи</tag>
+    <tag type="str">Химки</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 14 августа. INTERFAX.RU - Футбольные клубы "Сочи" и "Химки" со счетом 1:1 завершили матч второго тура Тинькофф Российской премьер-лиги. Счет открыли футболисты "Химок" - на 24-й минуте встречи отличился Александр Трошечкин. Сочинцы ответили голом в исполнении Кристиана Нобоа на 63-й минуте. Чемпионат России-2020/21 стартовал 8 августа.]]></text>
+</doc>

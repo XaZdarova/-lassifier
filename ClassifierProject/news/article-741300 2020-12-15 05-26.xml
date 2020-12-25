@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">741300</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/741300</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-12-15 05:26</datetime>
+  <title auto="true" type="str" verify="true">Не менее 11 человек погибли на пожаре в пансионате в Башкирии</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Башкирия</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 15 декабря. INTERFAX.RU - Одиннадцать человек погибли на пожаре в пансионате в Башкирии, еще четверо спаслись самостоятельно, сообщили журналистам в МЧС России. Пожар произошел в селе Ишбулдино Абзелиловского района. Загорелось деревянное одноэтажное здание пансионата размером 9х8 метров. Тела погибших обнаружили во время тушения. На данный момент пожар полностью ликвидирован, причины и обстоятельства произошедшего устанавливаются.]]></text>
+</doc>

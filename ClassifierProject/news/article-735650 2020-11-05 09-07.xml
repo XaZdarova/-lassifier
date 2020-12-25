@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">735650</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/735650</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-11-05 09:07</datetime>
+  <title auto="true" type="str" verify="true">Деловая активность в сфере услуг РФ в октябре снова начала падать</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Россия</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 5 ноября. INTERFAX.RU - Индекс PMI сферы услуг России в октябре 2020 года опустился до 46,9 пункта с 53,7 пункта в сентябре, свидетельствуют данные исследования IHS Markit. Совокупный индекс объемов производства, отслеживающий активность и в обрабатывающих отраслях, и в сфере услуг РФ, в октябре снизился до 47,1 пункта с 53,7 пункта в сентябре. Значение индексов выше 50 пунктов говорит о росте деловой активности, меньше этого уровня - о ее снижении.]]></text>
+</doc>

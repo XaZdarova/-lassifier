@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">741806</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/741806</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-12-17 17:05</datetime>
+  <title auto="true" type="str" verify="true">Летевший из Саранска в Минеральные воды самолет вынуждено сел в Волгограде</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Саранск</tag>
+    <tag type="str">Минеральные воды</tag>
+    <tag type="str">Волгоград</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 декабря. INTERFAX.RU - Авиарейс "Саранск - Минеральные воды" в четверг совершил вынужденную посадку в аэропорту Волгограда по техническим причинам. Пресс-секретарь аэропорта Анастасия Голодова сообщила, что самолет с 43 пассажирами на борту приземлился в 16:17 по местному времени (15:17 по Москве). В 19:15 ожидается прибытие запасного борта для вывоза пассажиров. Вылет запланирован на 20:00. Пассажиры ожидают вылета в терминале аэропорта.]]></text>
+</doc>

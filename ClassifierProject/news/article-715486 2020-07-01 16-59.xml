@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">715486</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/715486</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-07-01 16:59</datetime>
+  <title auto="true" type="str" verify="true">"Уфа" и "Рубин" сыграли вничью в матче РПЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 1 июля. INTERFAX.RU - Футбольные клубы "Уфа" и "Рубин" (Казань) со счетом 0:0 завершили матч 25-го тура чемпионата Российской премьер-лиги.                 Встреча прошла в Уфе.                 Набрав 32 очка, "Уфа" поднялась на шестое место в турнирной таблице. "Рубин" занимает 12-е место, 27 очков.]]></text>
+</doc>

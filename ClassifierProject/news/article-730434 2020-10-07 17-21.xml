@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">730434</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/730434</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-07 17:21</datetime>
+  <title auto="true" type="str" verify="true">Чубайс заразился коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Анатолий Чубайс</tag>
+    <tag type="str">Коронавирус</tag>
+    <tag type="str">Роснано</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 7 октября. INTERFAX.RU - Глава "Роснано" Анатолий Чубайс сообщил о своем заражении коронавирусом и переходе на режим самоизоляции. "После командировки получил положительный тест на ковид. Есть небольшая температура и кашель. Перешел на самоизоляцию, но работоспособность полностью сохраняется", - сообщил он на своей странице  в фейсбуке . По его словам, сотрудники "Роснано" продолжают работать в удаленном режиме. По данным на 7 октября, в России зарегистрировано 1 248 619 случаев коронавирусной инфекции в 85 регионах.]]></text>
+</doc>

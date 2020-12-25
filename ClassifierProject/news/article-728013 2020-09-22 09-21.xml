@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">728013</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/728013</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-09-22 09:21</datetime>
+  <title auto="true" type="str" verify="true">Десять человек пострадали в ДТП с автобусом в Хабаровском крае</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Хабаровский край</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 22 сентября. INTERFAX.RU - Пассажирский автобус попал в аварию в Хабаровском крае, есть пострадавшие, сообщили "Интерфаксу" в пресс-службе МЧС России. "В 8:00 в 24 км от Циммермановки Ульчского района Хабаровского края произошло ДТП с автобусом, он опрокинулся. В автобусе было 45 человек, предварительно пострадали десять человек, они доставлены в районную больницу", - сказали в ведомстве. В МЧС отметили, что в результате аварии никто не погиб. Пассажиры сами выбрались из перевернувшегося автобуса.]]></text>
+</doc>

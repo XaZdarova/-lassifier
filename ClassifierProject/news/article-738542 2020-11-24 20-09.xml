@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">738542</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/738542</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-11-24 20:09</datetime>
+  <title auto="true" type="str" verify="true">Индекс Dow Jones впервые превысил 30 000 пунктов</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">США</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 24 ноября. INTERFAX.RU - Значение фондового индекса Dow Jones во вторник впервые превысило отметку 30 000 пунктов. Оптимизм инвесторов связан с новостями, касающимися передачи власти в США и вакцин от коронавируса. Управление общих служб (GSA) США сообщило Джо Байдену, объявившему о своей победе на президентских выборах в Соединенных Штатах, о  готовности начать процесс передачи власти , сообщает CNN. Согласно тексту письма главы GSA Эмили Мерфи, она официально признала победу Байдена. Этот шаг позволит начать процесс передачи власти. Индекс Dow Jones Industrial Average к 19:57 по московскому времени поднялся на 494,18 пункта (1,67%) и составил 30 085,45 пункта.]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">714908</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/714908</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-06-26 22:29</datetime>
+  <title auto="true" type="str" verify="true">"Зенит" выиграл у "Крыльев Советов" в матче РПЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 26 июня. INTERFAX.RU - Футболисты петербургского "Зенита" со счетом 2:1 нанесли поражение самарским "Крыльям Советов" в домашнем матче 24-го тура Российской премьер-лиги.             На 44-й минуте Максим Глушенков вывел "Крылья Советов" вперед.             На 64-й и 70-й минутах голы (оба – с пенальти) в составе "Зенита" провел Артем Дзюба.             "Зенит" набрал 56 очков и продолжает лидировать в турнирной таблице. Он на 12 очков опережает идущий следом московский "Локомотив".             "Крылья Советов" – на последнем, 16-м месте: 22 очка.]]></text>
+</doc>

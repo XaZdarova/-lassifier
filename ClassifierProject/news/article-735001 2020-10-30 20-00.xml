@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">735001</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/735001</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-30 20:00</datetime>
+  <title auto="true" type="str" verify="true">Рублев победил Тима в четвертьфинале теннисного турнира в Вене</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 30 октября. INTERFAX.RU - Российский теннисист Андрей Рублев вышел в полуфинал турнира серии ATP500 в Вене. В 1/4 финала россиянин, занимающий шестое место в рейтинге Ассоциации теннисистов-профессионалов, одолел третью ракетку мира австрийца Доминика Тима. Результат встречи – 7:6 (7:5), 6:2, а ее продолжительность составила 1 час 36 минут. В полуфинале Рублев сыграет со 111-й ракеткой мира Кевином Андерсоном из ЮАР, который ранее в пятницу  победил  россиянина Даниила Медведева. Призовой фонд турнира составляет 1 млн 550,950 тыс. евро.]]></text>
+</doc>

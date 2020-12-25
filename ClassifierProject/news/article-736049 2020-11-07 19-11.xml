@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">736049</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/736049</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-11-07 19:11</datetime>
+  <title auto="true" type="str" verify="true">Медведев стал финалистом теннисного турнира Masters в Париже</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+    <tag type="str">Даниил Медведев</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 7 ноября. INTERFAX.RU - Российский теннисист Даниил Медведев нанес поражение канадцу Милошу Раоничу в 1/2 финала турнира категории Masters в Париже. Субботний поединок завершился со счетом 6:4, 7:6 (7:4) в пользу россиянина. В решающей встрече Медведев сыграет с победителем второго полуфинала между испанцем Рафаэлем Надалем и представителем Германии Александром Зверевым. Призовой фонд турнира в Париже составляет 3 млн 732,680 тыс. евро.]]></text>
+</doc>

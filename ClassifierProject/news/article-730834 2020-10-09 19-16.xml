@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">730834</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/730834</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-09 19:16</datetime>
+  <title auto="true" type="str" verify="true">Надаль вышел в финал Roland Garros</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+    <tag type="str">Roland Garros</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 9 октября. INTERFAX.RU - Испанский теннисист Рафаэль Надаль завоевал путевку в финал турнира серии Большого шлема Roland Garros во Франции. В полуфинале соревнования он нанес поражение представителю Аргентины Диего Шварцману – 6:3, 6:3, 7:6 (7:0). Продолжительность матча составила 3 часа 12 минут. Надаль в настоящее время является второй ракеткой мира, Шварцман – 14-й. В финале испанец встретится с победителем пары Новак Джокович (Сербия) – Стефанос Циципас (Греция). Надаль является рекордсменом Roland Garros, этот турнир он выигрывал 12 раз. Всего же он выиграл 19 турниров Большого шлема.]]></text>
+</doc>

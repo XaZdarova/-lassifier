@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">734901</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/734901</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-10-30 12:44</datetime>
+  <title auto="true" type="str" verify="true">ВТБ планирует вернуться к 50% прибыли на дивиденды по итогам 2020 г.</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">ВТБ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 30 октября. INTERFAX.RU - ВТБ планирует вернуться к выплате дивидендов в размере 50% от чистой прибыли по итогам 2020 года, но решение принимают акционеры, заявил журналистам глава банка Андрей Костин на пресс-конференции в ходе форума "Россия зовёт!". ВТБ планирует заработать в этом году 70-75 млрд рублей, в 2021 году - 250 млрд рублей.]]></text>
+</doc>

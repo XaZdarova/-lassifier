@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">734144</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/734144</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-26 03:44</datetime>
+  <title auto="true" type="str" verify="true">Прямые авиарейсы между Хабаровском и Петербургом вернули спустя 5 лет</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Хабаровск</tag>
+    <tag type="str">Санкт-Петербург</tag>
+    <tag type="str">Nordwind Airlines</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 26 октября. INTERFAX.RU - После пятилетнего перерыва возобновились беспересадочные перелеты между Хабаровском и Санкт-Петербургом. Рейс выполняет авиакомпания Nordwind Airlines. Согласно информации на онлайн-табло хабаровского аэропорта, в аэропорт Пулково первый рейс вылетел в 9:10 (2:10 мск). Время в пути составляет около восьми часов. Беспосадочные регулярные рейсы в Санкт-Петербург запланировано выполнять дважды в неделю - в понедельник и в четверг. Переговоры с авиаперевозчиками об открытии этого маршрута велись в последние несколько лет.]]></text>
+</doc>

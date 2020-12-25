@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">741859</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/741859</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-12-17 23:23</datetime>
+  <title auto="true" type="str" verify="true">Больше 70 человек умерли от коронавируса в Москве</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">COVID-19</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 декабря. INTERFAX.RU - За минувшие сутки в Москве скончались 72 человека с пневмонией и положительным тестом на коронавирус, сообщил столичный оперштаб по контролю за коронавирусом в четверг. Число жертв COVID-19 в Москве увеличилось с 10 171 до 10 243. Этот показатель сравним со смертностью в начале июня. Сутками ранее от коронавируса в городе скончались 76 человек. По данным на утро четверга, в российской столице выявлен 715 241 случай заражения COVID-19, 551 207 человек вылечились от инфекции (77% от заразившихся). Ранее в четверг власти Москвы предложили  заменить карантин для мигрантов  тестами ПЦР.]]></text>
+</doc>

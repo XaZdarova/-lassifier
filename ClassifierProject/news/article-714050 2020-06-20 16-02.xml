@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">714050</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/714050</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-06-20 16:02</datetime>
+  <title auto="true" type="str" verify="true">"Рубин" выиграл у "Урала" в матче РПЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 20 июня. INTERFAX.RU - Футболисты казанского "Рубина" со счетом 2:1 нанесли поражение екатеринбургскому "Уралу" в 23-м туре Российской премьер-лиги. На седьмой минуте встречи, прошедшей в Екатеринбурге, Михал Кухарчик вывел "Урал" вперед. На 39-й минуте Хвича Кварацхелия сравнял счет, на 56-й Солтмурад Бакаев провел победный для "Рубина" гол. "Рубин" набрал 26 очков и поднялся на 11-е место в турнирной таблице. "Урал" – на 12-м месте, 25 очков. Матчами 23-го тура возобновился чемпионат РПЛ, прерванный в марте из-за пандемии коронавируса.]]></text>
+</doc>

@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">730178</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/730178</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-06 11:14</datetime>
+  <title auto="true" type="str" verify="true">В парке "Патриот" снова откроют COVID-госпиталь на 1400 мест</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Московская область</tag>
+    <tag type="str">Патриот</tag>
+    <tag type="str">Андрей Воробьев</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 октября. INTERFAX.RU - С восьми часов вечера 6 октября в парке "Патриот" снова откроется временный инфекционный госпиталь, сообщил телеканалу "Россия 24" губернатор Подмосковья Андрей Воробьев. По его словам, в резервном госпитале уже все готово для приема пациентов - аппараты ИВЛ, систем подачи кислорода и первые 220 коек. Каждые пять дней там будут открывать еще по 400 коек, всего их оборудуют 1400. Работать с пациентами будут 700 медиков. В "Патриоте" в этом году уже работал коронавирусный госпиталь. В конце августа в этом парке проходил военно-технический форум "Армия-2020".]]></text>
+</doc>

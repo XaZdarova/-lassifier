@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">721470</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/721470</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-12 15:30</datetime>
+  <title auto="true" type="str" verify="true">"Химки" арендовали футболиста "Спартака" Ломовицкого</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 12 августа. INTERFAX.RU - Полузащитник московского футбольного клуба "Спартак" Александр Ломовицкий продолжит карьеру в подмосковных "Химках". "22-летний полузащитник Александр Ломовицкий до конца сезона арендован подмосковными "Химками", - говорится в сообщении пресс-службы "Спартака". Прошлый сезон Ломовицкий провел в тульском "Арсенале" – также на правах аренды. В прошлом сезоне "Спартак" финишировал на седьмом месте в РПЛ, "Арсенал" - на восьмом. "Химки" - на втором, но в первенстве ФНЛ.]]></text>
+</doc>

@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">729228</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/729228</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-09-29 23:03</datetime>
+  <title auto="true" type="str" verify="true">Еще 27 человек с коронавирусом скончались в Москве</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 29 сентября. INTERFAX.RU - Количество умерших от коронавируса в Москве увеличилось с 5203 до 5230 . "В Москве скончались 27 пациентов , у всех был подтвержден диагноз пневмония и получен положительный результат тестов на коронавирусную инфекцию",- сообщили "Интерфаксу" в оперштабе по контролю и мониторингу ситуации с коронавирусом в Москве. Всего с начала пандемии в Москве зафиксировано 290 293 случая заражения COVID-19, вылечились от инфекции 247 301 человек.]]></text>
+</doc>

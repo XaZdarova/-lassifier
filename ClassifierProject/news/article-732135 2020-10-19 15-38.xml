@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">732135</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/732135</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-19 15:38</datetime>
+  <title auto="true" type="str" verify="true">В Уэльсе введут двухнедельный карантин из-за COVID-19</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Великобритания</tag>
+    <tag type="str">Уэльс</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 19 октября. INTERFAX.RU - Первый министр Уэльса Марк Дрейкфорд заявил, что регион закрывается на двухнедельный карантин из-за коронавируса COVID-19, сообщают в понедельник британские СМИ. "Мы приняли непростое решение - ввести двухнедельный карантин, начиная с этой пятницы", - сказал Дрейкфорд. Он отметил, что речь идет о необходимой мере для борьбы с коронавирусом. Согласно данным статистического сайта Worldometers, всего в Великобритании за время пандемии выявили более 722 тыс. случаев заражения коронавирусом, более 43 тыс. человек скончались.]]></text>
+</doc>

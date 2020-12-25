@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">738571</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/738571</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-25 04:23</datetime>
+  <title auto="true" type="str" verify="true">Число умерших от коронавируса в мире превысило 1,4 миллиона</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 25 ноября. INTERFAX.RU - С начала пандемии коронавируса COVID-19 число скончавшихся от связанных с вирусом заболеваний в мире достигло 1 406 283, сообщил американский университет Джонса Хопкинса. За это время зарегистрировано 59 620 502 случая COVID-19, выздоровели более 38 миллионов человек. Портал Worldometer, который специализируется на статистке по важнейшим мировым событиям, информирует, что число инфицированных с начала пандемии достигло 60 072 538, число жертв - 1 413 684. По его данным, коэффициент смертности от коронавируса на 1 млн жителей планеты составил на 03:00 мск 181,4.]]></text>
+</doc>

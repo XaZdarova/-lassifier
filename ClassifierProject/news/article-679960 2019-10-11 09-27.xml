@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">679960</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/culture/679960</source>
+  <category auto="true" type="str" verify="true">Культура</category>
+  <datetime auto="true" type="str" verify="true">2019-10-11 09:27</datetime>
+  <title auto="true" type="str" verify="true">Пиотровский будет руководить Эрмитажем еще три года</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Эрмитаж</tag>
+    <tag type="str">Михаил Пиотровский</tag>
+    <tag type="str">Дмитрий Медведев</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 11 октября. INTERFAX.RU - Премьер-министр Дмитрий Медведев переназначил Михаила Пиотровского гендиректором Эрмитажа на три года. Об этом сообщила пресс-служба правительства. Пиотровский руководит музеем с 1992 года.]]></text>
+</doc>

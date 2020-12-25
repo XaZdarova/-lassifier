@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">735113</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/735113</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-01 10:56</datetime>
+  <title auto="true" type="str" verify="true">Глава МИД Турции прибыл в Баку</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Турция</tag>
+    <tag type="str">Азербайджан</tag>
+    <tag type="str">Мевлют Чавушоглу</tag>
+    <tag type="str">Нагорный Карабах</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 1 ноября. INTERFAX.RU - Глава МИД Турции Мевлют Чавушоглу прибыл в воскресенье в Баку. "Мы снова в Баку с нашими братьями, чтобы обменяться мнениями о последних событиях в Нагорном Карабахе и продемонстрировать нашу твердую поддержку Азербайджану", - отметил он в своем твиттере. Визит проходит на фоне непрекращающихся с 27 сентября  боевых действий в Нагорном Карабахе , несмотря на достижение  уже трех договоренностей  между Баку и Ереваном о гуманитарном перемирии. Стороны карабахского конфликта в воскресенье утром вновь  обменялись обвинениями  в обстрелах населенных пунктов.]]></text>
+</doc>

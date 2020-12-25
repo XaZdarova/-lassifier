@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">738939</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/738939</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-27 11:43</datetime>
+  <title auto="true" type="str" verify="true">Дипломаты назвали причину закрытия генконсульства Норвегии в Мурманске</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Норвегия</tag>
+    <tag type="str">Мурманск</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 27 ноября. INTERFAX.RU - Генконсульство Норвегии в Мурманске, которое  временно закрылось  23 ноября,  сообщило  в соцсетях, что возобновит работу и прием посетителей 7 декабря. Решение закрыться дипломаты связали с пандемией. С 7 декабря дипмиссия будет вести прием ежедневно в будни, но только по предварительной записи.]]></text>
+</doc>

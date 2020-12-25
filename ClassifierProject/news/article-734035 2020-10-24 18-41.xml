@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">734035</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/734035</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-24 18:41</datetime>
+  <title auto="true" type="str" verify="true">Россиянин Яковлев уступил испанцу Альваресу на турнире UFC 254</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">UFC</tag>
+    <tag type="str">смешанные единоборства</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 24 октября. INTERFAX.RU - Российский боец смешанных единоборств Александр Яковлев потерпел поражение от испанца Йоэля Альвареса в рамках турнира UFC 254 в ОАЭ. Поединок завершился досрочно в первом раунде, соперники представляют легкий вес. Бой Яковлева против Альвареса открыл программу вечера, главным событием которого будет поединок чемпиона UFC в легком весе россиянина Хабиба Нурмагомедова против американца Джастина Гэтжи.]]></text>
+</doc>

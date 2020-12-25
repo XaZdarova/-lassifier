@@ -1,0 +1,18 @@
+<doc>
+  <id auto="true" type="str" verify="true">737468</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/737468</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-11-17 13:50</datetime>
+  <title auto="true" type="str" verify="true">FT узнала о планах Ozon привлечь до $1 млрд в ходе IPO</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Ozon</tag>
+    <tag type="str">США</tag>
+    <tag type="str">Московская биржа</tag>
+    <tag type="str">SEC</tag>
+    <tag type="str">NASDAQ</tag>
+    <tag type="str">Сбербанк</tag>
+    <tag type="str">АФК Система</tag>
+    <tag type="str">Baring Vostok</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 ноября. INTERFAX.RU - Холдинг Ozon в рамках готовящегося IPO может привлечь на рынке $0,75-1 млрд, сообщила газета Financial Times со ссылкой на источники, информированные о планах компании. Изначально СМИ сообщали, что Ozon готовится привлечь $0,5 млрд. Документы для IPO будут поданы во вторник, говорят собеседники издания. Road show начнется в среду. По данным источников FT, Ozon может быть оценен в $4,6-5,6 млрд. В начале месяца Ozon  опубликовал проспект  к предполагаемому IPO на NASDAQ. Тогда сообщалось, что андеррайтерами IPO выступят Morgan Stanley и Goldman Sachs (совместными ведущими букраннерами), Citigroup, UBS, Sberbank CIB, "ВТБ Капитал" (совместными букраннерами) и "Ренессанс Капитал" (ведущий менеджер). Параметры IPO, включая сумму привлекаемых инвестиций, в проспекте не были раскрыты, указан лишь условный объём для целей расчёта госпошлины. Ранее Forbes со ссылкой на собственные источники сообщал, что оценки бизнеса Ozon организаторами IPO сервиса варьируются от $4 до $12 млрд. Чуть позже издание написало, что IPO Ozon может состояться 25 ноября, а сбор заявок от участников начнется 18 ноября. В настоящее время АФК "Система" владеет 42,999% Ozon (включая 11,699%, принадлежащие Sistema_VC), примерно столько же - у Baring Vostok.]]></text>
+</doc>

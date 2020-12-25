@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">723814</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/723814</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-30 16:10</datetime>
+  <title auto="true" type="str" verify="true">"Уфа" и "Динамо" сыграли вничью в РПЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">РПЛ</tag>
+    <tag type="str">Уфа</tag>
+    <tag type="str">Динамо</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 30 августа. INTERFAX.RU - "Уфа" сыграла вничью 1:1 с московским "Динамо" в матче шестого тура Российской премьер-лиги. Гости открыли счет на 43-й минуте после точного удара Клинтона Н'Жи. На 59-минуте хозяева сравняли счет - отличился Тимур Жамалетдинов. После шести туров "Динамо" занимает четвертое место с 11 баллами, "Уфа" находится на 11-м месте (5 очков). В седьмом туре "Динамо" примет "Рубин", "Уфа" встретится в Саранске с "Тамбовом".]]></text>
+</doc>

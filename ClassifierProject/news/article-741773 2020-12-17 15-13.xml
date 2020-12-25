@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">741773</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/741773</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-12-17 15:13</datetime>
+  <title auto="true" type="str" verify="true">Санкции по Белоруссии утверждены Советом ЕС</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">ЕС</tag>
+    <tag type="str">Белоруссия</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 декабря. INTERFAX.RU - Совет ЕС принял в четверг решение по третьему пакету индивидуальных санкций в отношении Белоруссии, который включает физических и юридических лиц,  сообщил  в твиттере журналист радио "Свободная Европа" Рикард Йозвяк. В числе подпавших под санкции организаций оказались "Белтехэскпорт", завод колесных тягачей VOLAT, Dana holdings и Synesis. В санкционный список также попали глава национального ТВ Иван Эйсмонт и заместитель премьер-министра Анатолий Сивак.]]></text>
+</doc>

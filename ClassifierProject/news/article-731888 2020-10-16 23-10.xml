@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">731888</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/731888</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-10-16 23:10</datetime>
+  <title auto="true" type="str" verify="true">В Москве за сутки умерли 56 пациентов с коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 16 октября. INTERFAX.RU - Еще 56 пациентов с диагнозом пневмония и положительным результатом теста на коронавирус скончались в Москве за сутки, сообщил столичный оперштаб по контролю за коронавирусом в пятницу. Общее количество умерших от COVID-19 в Москве увеличилось с 5850 до 5906. Накануне столичный оперштаб сообщал о смерти  54 пациентов  с коронавирусом. По данным на утро пятницы, в российской столице выявлено 352 995 случаев COVID-19, 270 226 человек выздоровели. Суточный прирост в Москве 16 октября оказался максимальным с середины мая:  зарегистрировано  5 049 новых заболевших.]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">721918</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/721918</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-15 21:02</datetime>
+  <title auto="true" type="str" verify="true">"Локомотив" нанес поражение "Краснодару" в матче РПЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 15 августа. INTERFAX.RU - Футболисты московского "Локомотива" со счетом 1:0 нанесли поражение "Краснодару" в матче второго тура Тинькофф Российской премьер-лиги.                 На 43-й минуте гол провел Алексей Миранчук. "Локомотив" в двух турах набрал 6 очков, "Краснодар" – 3. "Локомотив" является серебряным призером предыдущего чемпионата России, "Краснодар" – бронзовым.]]></text>
+</doc>

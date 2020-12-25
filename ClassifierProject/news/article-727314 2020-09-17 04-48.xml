@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">727314</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/727314</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-09-17 04:48</datetime>
+  <title auto="true" type="str" verify="true">Водитель скорой помощи госпитализирован после избиения в Кузбассе</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Кузбасс</tag>
+    <tag type="str">Новокузнецк</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 сентября. INTERFAX.RU - Неизвестные избили водителя скорой помощи в Новокузнецке, пока врачи находились на вызове, сообщили "Интерфаксу" в пресс-службе областного центра медицины катастроф в четверг. "Сегодня ночью в Заводском район Новокузнецка 56-летний водитель скорой медицинской помощи был избит неизвестными, пока бригада была на вызове", - сказал сотрудник пресс-службы. Он уточнил, что мужчина был госпитализирован с травмами средней степени тяжести.]]></text>
+</doc>

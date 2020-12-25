@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">718493</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/718493</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-07-22 14:17</datetime>
+  <title auto="true" type="str" verify="true">Скончался чемпион ОИ-1976 по хоккею в составе сборной СССР Гусев</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">хоккей</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 22 июля. INTERFAX.RU - Федерация хоккея России сообщила о кончине защитника сборной СССР, олимпийского чемпиона 1976 года Александра Гусева. Он скончался в возрасте 73 лет В составе сборной СССР Гусев завоевал золотые медали на зимней Олимпиаде 1976 года и чемпионатах мира и Европы 1973 и 1974 годов, становился серебряным призером чемпионатов мира и Европы 1972, участником легендарной Суперсерии СССР - Канада 1972 года.]]></text>
+</doc>

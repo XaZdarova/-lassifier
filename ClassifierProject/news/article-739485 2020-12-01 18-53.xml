@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">739485</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/739485</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-12-01 18:53</datetime>
+  <title auto="true" type="str" verify="true">Число жертв аварии в германском Трире увеличилось до четырех</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Трир</tag>
+    <tag type="str">Германия</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 1 декабря. INTERFAX.RU - До четырех выросло число жертв наезда на пешеходов в городе Трир на юго-западе ФРГ, сообщило во вторник немецкое телевидение. Число пострадавших увеличилось до 30 человек, среди них есть тяжело раненные. До этого сообщалось о  двух погибших  и 15 пострадавших. Как стало известно, водителем автомобиля оказался 51-летний немец, выходец из района Трир-Саарбург. Мотивы его поступка пока остаются неизвестными, однако бургомистр Трира Вольфрам Лайбе отмечал, что водитель действовал в состоянии аффекта.]]></text>
+</doc>

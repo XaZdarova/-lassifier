@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">727082</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/727082</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-09-15 19:04</datetime>
+  <title auto="true" type="str" verify="true">Баржа с подъемным краном повредила московский Крымский мост</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">прокуратура</tag>
+    <tag type="str">Крымский мост</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 15 сентября. INTERFAX.RU - В Москве баржа с подъемным краном задела Крымский мост и оторвала металлический рельс, по которым передвигаются смотровые люльки. Московская межрегиональная транспортная прокуратура начала проверку по этому факту. Авария произошла около 6 утра 15 сентября. Никто не пострадал. Несущие конструкции моста не задеты. По данным прокуроров, металлический рельс задела неопущенная мачта крана баржи. К проверке привлечены контролирующие органы. По ее результатам будет принят вопрос о принятии соответствующих мер прокурорского реагирования.]]></text>
+</doc>

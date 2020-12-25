@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">728525</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/728525</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-09-24 22:14</datetime>
+  <title auto="true" type="str" verify="true">Во Франции побит рекорд по числу заболевших COVID-19</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Франция</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">COVID-19</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 24 сентября. INTERFAX.RU - Во Франции зафиксирован рекордно высокий прирост новых случаев коронавируса в стране за сутки, сообщают французские СМИ. За последние 24 часа выявлено более 16 тыс. новых случаев. Кроме того, зарегистрировано 52 летальных исхода среди заболевших COVID-19. Во многих европейских странах в последнее время ухудшилась ситуация с коронавирусом. Ранее в четверг в Великобритании также зафиксировали рекордное для страны количество заболевших коронавирусом за сутки.]]></text>
+</doc>

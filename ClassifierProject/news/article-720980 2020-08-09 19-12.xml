@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">720980</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/720980</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-09 19:12</datetime>
+  <title auto="true" type="str" verify="true">"Краснодар" разгромил "Уфу" в матче РПЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Краснодар</tag>
+    <tag type="str">Уфа</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 9 августа. INTERFAX.RU - Футбольный клуб "Краснодар" со счетом 3:0 нанес поражение команде "Уфы" в выездном матче первого тура чемпионата Тинькофф Российской премьер-лиги. На 53-й и 63-й минутах отличился Реми Кабелла. На 65-й минуте гол провел Маркус Берг. Чемпионат России-2020/21  стартовал  8 августа.]]></text>
+</doc>

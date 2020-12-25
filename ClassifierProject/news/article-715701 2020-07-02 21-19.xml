@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">715701</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/715701</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-07-02 21:19</datetime>
+  <title auto="true" type="str" verify="true">Непомнящий проиграл в полуфинале онлайн-турнира Chessable Masters</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">шахматы</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 2 июля. INTERFAX.RU - Российский гроссмейстер Ян Непомнящий потерпел поражение от представителя Нидерландов Аниша Гири в серии 1/2 финала шахматного онлайн-турнира Chessable Masters. Решающий, третий матч серии завершился со счетом 3,5:2,5 в пользу Гири: победитель определился на тай-брейке. Счет в серии до двух побед стал 2-1 в пользу гроссмейстера из Нидерландов. В финале Гири сыграет с обладателем мировой шахматной короны норвежцем Магнусом Карлсеном. Chessable Masters – третий турнир Шахматного тура, организованного Карлсеном. Первый турнир, Magnus Carlsen Invitational, выиграл он сам. Победителем второго, Lindores Abbey Rapid Challenge,  стал россиянин  Даниил Дубов.]]></text>
+</doc>

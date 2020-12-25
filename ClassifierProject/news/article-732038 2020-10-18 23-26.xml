@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">732038</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/732038</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-10-18 23:26</datetime>
+  <title auto="true" type="str" verify="true">За сутки в Москве скончался 51 пациент с коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">COVID-19</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 18 октября. INTERFAX.RU - За минувшие сутки в Москве умер 51 человек с пневмонией и положительным тестом на коронавирус, сообщили "Интерфаксу" в столичном оперштабе по контролю и мониторингу ситуации с коронавирусом в воскресенье. Число умерших от коронавируса в городе увеличилось с 5958 до 6009. Сутками ранее сообщалось  о 52 жертвах  COVID-19 в столице. По последним данным, в Москве выявлено свыше 362 тысяч случаев заболевания коронавирусом. Число выздоровевших достигло почти 274 тысяч человек. В воскресенье стало известно, что с понедельника власти города  усилят контроль масочного режима  в общественном транспорте.]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">728854</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/728854</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-09-27 21:00</datetime>
+  <title auto="true" type="str" verify="true">"Локомотив" победил ЦСКА в чемпионате России по футболу</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 27 сентября. INTERFAX.RU - Футболисты московского "Локомотива" со счетом 1:0 нанесли поражение столичному ЦСКА в матче девятого тура чемпионата Российской премьер-лиги. На 45-й минуте встречи, прошедшей на поле ЦСКА, в составе "Локомотива" отличился Федор Смолов. ЦСКА доигрывал матч в меньшинстве: на 59-й минуте вторую желтую карточку получил Кристиян Бистрович. У ЦСКА сейчас 16 очков, команда на четвертом месте в турнирной таблице. "Локомотив" поднялся на шестое место, 15 баллов.]]></text>
+</doc>

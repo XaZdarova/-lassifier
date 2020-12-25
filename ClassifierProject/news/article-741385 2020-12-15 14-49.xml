@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">741385</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/741385</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-12-15 14:49</datetime>
+  <title auto="true" type="str" verify="true">В Петербурге не обнаружили ни одного повторного случая заражения COVID</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Петербург</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 15 декабря. INTERFAX.RU - В Петербурге нет ни одного официально зарегистрированного случая повторного заражения COVID-19, сообщила журналистам во вторник замначальника отдела эпидемиологического надзора управления Роспотребнадзора по городу Ирина Катаева. Ранее глава Роспотребнадзора Анна Попова сообщала, что в России не зафиксировано  ни одного достоверного подтверждения  повторного заражения COVID-19. Все потенциальные случаи повторного заражения изучаются. При этом во вторник председатель Госдумы России Вячеслав Володин сообщил, что коронавирусом  повторно заразились пять депутатов .]]></text>
+</doc>

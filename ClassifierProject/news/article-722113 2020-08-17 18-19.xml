@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">722113</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/722113</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-17 18:19</datetime>
+  <title auto="true" type="str" verify="true">Хорватский футболист Моро перешел в московское "Динамо"</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 августа. INTERFAX.RU - Состав московского "Динамо" пополнил хорватский полузащитник Никола Моро, сообщает пресс-служба футбольного клуба в понедельник. "Хорватский полузащитник Никола Моро переходит в московское "Динамо". Соглашение с 22-летним футболистом рассчитано на пять лет", - говорится в сообщении. Моро родился в Солине, который входит в городскую агломерацию Сплита. Первой футбольной школой для него был "Хайдук", но в итоге он стал выпускником академии загребского "Динамо".]]></text>
+</doc>

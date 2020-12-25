@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">740835</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/740835</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-12-11 00:05</datetime>
+  <title auto="true" type="str" verify="true">SpaceX запустит на орбиту американский спутник связи Sirius SXM-7</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">SpaceX</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 11 декабря. INTERFAX.RU - SpaceX в пятницу планирует запустить на орбиту американский спутник связи Sirius SXM-7, сообщает специализированный сайт Spaceflight Now. Запуск планируется осуществить во временное окно с 11:20 до 13:20 по времени Восточного побережья США (с 19:20 до 21:20 мск) с 40-го стартового комплекса авиабазы США на мысе Канаверал в штате Флорида. Задачей спутника SXM-7 компании SiriusXM, масса которого достигает семи тонн, является обеспечение радиовещания в Северной Америке в S-диапазоне (на дециметровых и сантиметровых волнах). Первая многоразовая ступень ракеты-носителя Falcon 9, которая будет использоваться уже в седьмой раз для запуска, должна совершить управляемую посадку на плавучую платформу в Атлантике.]]></text>
+</doc>

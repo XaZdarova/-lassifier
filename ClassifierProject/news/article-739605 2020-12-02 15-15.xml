@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">739605</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/739605</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-12-02 15:15</datetime>
+  <title auto="true" type="str" verify="true">Неизвестный угрожает взорвать отделение банка в Горно-Алтайске</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Горно-Алтайск</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 2 декабря. INTERFAX.RU - Неизвестный ворвался в отделение банка в Горно-Алтайске и угрожает взрывом, сообщил "Интерфаксу" информированный источник. "В офис банка на проспекте Коммунистическом 68, ворвался мужчина. Он требует 300 тысяч рублей, угрожает взорвать отделение", - сказал источник.]]></text>
+</doc>

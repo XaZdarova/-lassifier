@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">736004</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/736004</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-07 10:03</datetime>
+  <title auto="true" type="str" verify="true">Эрдоган уволил главу Центробанка из-за резкого падения курса лиры</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Турция</tag>
+    <tag type="str">Наджи Айбал</tag>
+    <tag type="str">Мюрат Уйсал</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 7 ноября. INTERFAX.RU - Бывший министр финансов Турции Наджи Айбал сменил на посту управляющего Центральным банком страны Мюрата Уйсала, который был уволен президентским указом после резкого падения курса национальной валюты - лиры. Указ опубликован в субботу. Уйсал возглавлял Центробанк на протяжении 16 месяцев. В последние несколько месяцев лира неоднократно обновляла исторические антирекорды по отношению к доллару США. За год она потеряла 30% стоимости.]]></text>
+</doc>

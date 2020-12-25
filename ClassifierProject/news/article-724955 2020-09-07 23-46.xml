@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">724955</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/724955</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-09-07 23:46</datetime>
+  <title auto="true" type="str" verify="true">Италия победила Нидерланды в Лиге наций УЕФА</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Лига наций УЕФА</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 7 сентября. INTERFAX.RU - Футболисты сборной Италии со счетом 1:0 нанесли поражение национальной команде Нидерландов в матче второго тура Лиги наций УЕФА. Встреча прошла в Амстердаме, единственный гол состоялся в компенсированное к первому тайму время: точный удар нанес Николо Барелла.                 Команды представляют группу 1 элитной лиги А.  Италия в двух турах набрала 4 очка, Нидерланды и Польша – по 3, сборная Боснии и Герцеговины – 1.]]></text>
+</doc>

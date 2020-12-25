@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">718117</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/718117</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-07-20 11:30</datetime>
+  <title auto="true" type="str" verify="true">Олимпийский чемпион Ковалев возглавил хоккейный клуб  "Куньлунь"</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">хоккей</tag>
+    <tag type="str">КХЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 20 июля. INTERFAX.RU - Новым главным тренером китайского "Куньлунь" стал олимпийский чемпион 1992 года в составе сборной России Алексей Ковалев. "Алексей Ковалев назначен главным тренером ХК "Куньлунь Ред Стар", - говорится в сообщении пресс-службы клуба. С 2018 года Ковалев входил в тренерский штаб команды. "Куньлунь" является представителем Континентальной хоккейной лиги (КХЛ).]]></text>
+</doc>

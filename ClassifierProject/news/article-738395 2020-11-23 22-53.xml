@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">738395</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/738395</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-23 22:53</datetime>
+  <title auto="true" type="str" verify="true">Король Испании уйдет на карантин из-за контакта с зараженным COVID-19</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Испания</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">Филипп VI</tag>
+    <tag type="str">COVID-19</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 23 ноября. INTERFAX.RU - Короля Испании Филиппа VI поместили в карантин после контакта с человеком, инфицированным COVID-19, сообщил в понедельник испанский телерадиоканал РТВЕ со ссылкой на королевский дворец. По данным телерадиоканала, король отменил все запланированные мероприятия на то время, пока он будет оставаться в изоляции. Королевский дворец в свою очередь отметил, что его супруга королева Летисия, дети – принцесса Леонор и инфанта София, несмотря карантин короля, смогут продолжить свою деятельность в нормальном режиме.]]></text>
+</doc>

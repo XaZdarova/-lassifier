@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">732371</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/732371</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-10-20 18:16</datetime>
+  <title auto="true" type="str" verify="true">Акции Sollers подскочили почти на 5% на новостях о планах выкупа</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Соллерс</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 20 октября. INTERFAX.RU - Акции ПАО "Соллерс" вечером во вторник подскочили почти на 5% и обновили максимум с февраля текущего года после известий, что совет директоров компании на заседании 23 октября рассмотрит вопрос о приобретении акций группы. На Московской бирже к 17:59 акции "Соллерса" выросли до 298,5 рубля за штуку (+4,6%) при объеме торгов 9,554 млн рублей. Цели приобретения в "Соллерсе" не комментируют.]]></text>
+</doc>

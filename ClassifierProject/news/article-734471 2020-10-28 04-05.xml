@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">734471</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/734471</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-28 04:05</datetime>
+  <title auto="true" type="str" verify="true">Хакеры атаковали сайт предвыборной кампании Трампа</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">США</tag>
+    <tag type="str">Дональд Трамп</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 28 октября. INTERFAX.RU - Предвыборный штаб президента США Дональда Трампа сообщил об атаке, совершенной на сайт кампании. "Ранее этим вечером сайт кампании Трампа был выведен из строя, и мы работаем с правоохранительными органами, чтобы выяснить источник атаки", – сообщил директор по коммуникациям предвыборной кампании Трампа Тим Мертоу в твиттере. Он отметил, что злоумышленники не получили доступ ни к какой конфиденциальной информации. Работа сайта восстановлена, добавил он.]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">739643</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/739643</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-12-02 18:28</datetime>
+  <title auto="true" type="str" verify="true">"Газпром" начал поставки газа в Германию по долгосрочному контракту с OMV</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Газпром</tag>
+    <tag type="str">Германия</tag>
+    <tag type="str">OMV</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 2 декабря. INTERFAX.RU - "Газпром экспорт" 1 декабря начал поставки российского газа в Германию по долгосрочному контракту с австрийской OMV, сообщила российская компания. Стороны заключили новый долгосрочный контракт в конце октября. "Этот новый долгосрочный контракт доказывает, что российский трубопроводный газ будет востребован в Европе еще многие годы. Мы рады, что наш старейший партнер - компания OMV - будет работать на крупнейшем в Европе германском рынке с газом "Газпрома", - приводятся в сообщении слова главы "Газпром экспорта" Елены Бурмистровой.]]></text>
+</doc>

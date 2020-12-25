@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">739723</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/739723</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-12-03 11:41</datetime>
+  <title auto="true" type="str" verify="true">Белые львы переехали из Крыма в Казанский зоопарк</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Казань</tag>
+    <tag type="str">Крым</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 3 декабря. INTERFAX.RU - Казанский зоопарк пополнился новыми обитателями: из Крыма в столицу Татарстана привезли двух белых львов, сообщает пресс-служба зоопарка. Два шестилетних брата-льва Крикс и Каспер родились в крымском парке львов "Тайган", затем выступали на арене цирка, откуда их выкупил казанский зоопарк. Отмечается, что львы дружелюбны, коммуникабельны и живут в одном вольере, а их необычный окрас уже вызвал большой интерес у местных львиц Люси и Киары.]]></text>
+</doc>

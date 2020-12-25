@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">738897</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/738897</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-27 04:50</datetime>
+  <title auto="true" type="str" verify="true">Трамп анонсировал старт поставок COVID-вакцины на следующей неделе</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">США</tag>
+    <tag type="str">Дональд Трамп</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 27 ноября. INTERFAX.RU - Поставки вакцины от коронавируса в США начнутся на следующей неделе или неделей позже, заявил президент США Дональд Трамп. Он сообщил об этом во время общения в формате видеоконференции с американскими военными, расквартированными за рубежом, поздравив их с Днем благодарения. Президент отметил, что первые партии вакцины будет предназначены для тех, кто находится на "передовой линии", медицинских работников и людей преклонного возраста. Ранее о готовности вакцин от коронавируса объявили компании  Pfizer, BioNtech ,  Moderna  и  AstraZeneca .]]></text>
+</doc>

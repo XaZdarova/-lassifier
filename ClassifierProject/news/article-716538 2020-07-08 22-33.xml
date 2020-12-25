@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">716538</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/716538</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-07-08 22:33</datetime>
+  <title auto="true" type="str" verify="true">"Уфа" одержала победу над "Ростовом" в матче РПЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 8 июля. INTERFAX.RU - Футболисты "Уфы" в гостях обыграли соперников из "Ростова" в матче 27 тура Российской премьер-лиги. Встреча закончилась со счетом 2:1. Единственный гол "Ростова" забил Деннис Хаджикадунич (27-я минута). "Уфа" отыгралась благодаря реализованному пенальти Даниила Фомина (67-я минута), решающий гол в составе гостей забил Вячеслав Кротов (75-я минута). "Ростов" занимает пятое место в таблице, набрав 43 очка. "Уфа" идет шестой, имея в активе 36 баллов. В следующем туре "Уфа" 12 июля встретится с "Локомотивом". "Ростов" в тот же день сыграет с "Оренбургом".]]></text>
+</doc>

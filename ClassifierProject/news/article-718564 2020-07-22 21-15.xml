@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">718564</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/718564</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-07-22 21:15</datetime>
+  <title auto="true" type="str" verify="true">"Локомотив" обыграл "Урал" в матче РПЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 22 июля. INTERFAX.RU - Футболисты московского "Локомотива" со счетом 1:0 обыграли екатеринбургский "Урал" в гостевом матче заключительного 30-го тура Российской премьер лиги. Единственный гол в матче забил Антон Миранчук на 45-й минуте. В итоговой таблице чемпионата "Локомотив" на втором месте, "Урал" - на 11. Чемпионом России, как сообщалось, досрочно стал "Зенит". Третье место, дающее право участвовать в квалификации Лиги чемпионов, занял "Краснодар".]]></text>
+</doc>

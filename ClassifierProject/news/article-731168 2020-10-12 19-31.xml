@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">731168</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/731168</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-12 19:31</datetime>
+  <title auto="true" type="str" verify="true">"Металлург" прервал семиматчевую серию побед ЦСКА в КХЛ</title>
+  <description auto="true" type="str" verify="true">В последний раз до этого армейцы проигрывали все тому же "Металлургу"</description>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">хоккей</tag>
+    <tag type="str">КХЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 12 октября. INTERFAX.RU - Хоккеисты магнитогорского "Металлурга" нанесли поражение московскому ЦСКА в домашнем матче очередного тура регулярного чемпионата Континентальной хоккейной лиги (КХЛ). Результат встречи – 6:4 (3:1, 2:2, 1:1). Этот результат прервал победную серию ЦСКА, составившую семь матчей. Предыдущее поражение датировано 19 сентября, когда ЦСКА на своем льду уступил все тому же "Металлургу" (2:4). В настоящее время ЦСКА лидирует в Западной конференции, "Металлург" занимает третье место в Восточной конференции.]]></text>
+</doc>

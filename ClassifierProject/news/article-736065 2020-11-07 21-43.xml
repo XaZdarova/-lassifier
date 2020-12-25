@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">736065</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/736065</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-07 21:43</datetime>
+  <title auto="true" type="str" verify="true">CNN предсказал контроль демократов над палатой представителей</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">США</tag>
+    <tag type="str">Конгресс США</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 7 ноября. INTERFAX.RU - Демократическая партия сможет удержать контроль над Палатой представителей Конгресса США, таковы прогнозы американского телеканала CNN. Такие выводы сделаны на основании тех результатов, которые уже получили демократы в нижней палате Конгресса США, а также на перспективах результатов подсчетов на выборах по тем округам, где демократы лидируют значительно, отмечает телеканал. К настоящему моменту, по данным CNN, демократы набирают в Палате представителей 211 мест из 218, необходимых для большинства. У республиканцев пока 197 мест.]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">737418</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/737418</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-17 10:25</datetime>
+  <title auto="true" type="str" verify="true">Грузинская угледобывающая компания приостановила работу из-за COVID-19</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Грузуголь</tag>
+    <tag type="str">Грузия</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 ноября. INTERFAX.RU - Грузинская угледобывающая компания "Сакнахшири" ("Грузуголь") приостановила производство из-за массового распространения коронавируса среди рабочих. В ходе проведенного ПЦР-тестирования COVID-19 был выявлен у 144 сотрудников, говорится в распространенном во вторник заявлении компании. В итоге организация решила приостановить работу на две недели. Основная часть сотрудников "Грузугля" переходит на самоизоляцию. В компании работают 1 170 человек.]]></text>
+</doc>

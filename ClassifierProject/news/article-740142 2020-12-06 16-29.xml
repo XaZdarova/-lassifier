@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">740142</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/740142</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-12-06 16:29</datetime>
+  <title auto="true" type="str" verify="true">"Ростов" уступил "Уфе" в 17-м туре РПЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Ростов</tag>
+    <tag type="str">Уфа</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 декабря. INTERFAX.RU - Футбольный клуб "Ростов" на своем поле уступил клубу "Уфа" 0:1 в 17-м туре Тинькофф Российская премьер-лига. Единственный гол на 70-й минуте забил словенец Комнен Андрич. "Уфа" одерживает вторую победу подряд и с 13 очками поднимается на 14-е место, "Ростов" занимает четвертое место с 29 очками. В 18-м туре "Уфа" 12 декабря встретится в Волгограде с "Ротором", "Ростов" 13 декабря сыграет в Грозном против "Ахмата".]]></text>
+</doc>

@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">737979</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/737979</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-11-20 12:28</datetime>
+  <title auto="true" type="str" verify="true">Российская фигуристка Щербакова пропустит московский этап Гран-при</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Анна Щербакова</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 20 ноября. INTERFAX.RU - Федерация фигурного катания на коньках сообщила, что чемпионка России Анна Щербакова не сможет выступить на московском этапе Гран-при "Кубок Ростелекома" из-за болезни. В текущем сезоне Щербакова участвовала в двух этапах Кубка России - в Сызрани и Сочи. Она выиграла оба старта. Гран-при пройдет в московском Дворце спорта "Мегаспорт" с 20 по 22 ноября.]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">722859</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/722859</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-22 19:26</datetime>
+  <title auto="true" type="str" verify="true">"Арсенал" победил "Динамо" в матче РПЛ</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 22 августа. INTERFAX.RU - Футболисты тульского" Арсенала" со счетом 2:0 победили московское "Динамо" в домашнем матче четвертого тура чемпионата Российской премьер-лиги.                 Оба гола в составе хозяев провел Даниил Лисовой – на 23-й и (с пенальти) 74-й минутах.                 "Арсенал" одержал первую победу в нынешнем чемпионате. Набрав 4 очка, команда поднялась на 11-е место в турнирной таблице. "Динамо" – на третьем месте, 7 очков.]]></text>
+</doc>

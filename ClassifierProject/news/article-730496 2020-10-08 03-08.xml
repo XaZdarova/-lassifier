@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">730496</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/730496</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-08 03:08</datetime>
+  <title auto="true" type="str" verify="true">Мощный взрыв произошел в сирийском городе Дераа</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Сирия</tag>
+    <tag type="str">Дераа</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 8 октября. INTERFAX.RU - В результате мощного взрыва в сирийском городе Дераа на юго-западе страны, по предварительной информации, пострадали два человека, сообщило государственное телевидение Сирии. Взрыв прогремел в четверг рано утром в юго-западной части города. Как сообщает сирийское госагентство SANA, взрыв произошел в центральном районе города - Эс-Сабиль. По его данным, взорвалось самодельное взрывное устройство. Двое пострадавших госпитализированы. Другие подробности происшествия пока неизвестны.]]></text>
+</doc>

@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">727500</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/727500</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-09-17 21:27</datetime>
+  <title auto="true" type="str" verify="true">Андрей Рублев проиграл во втором круге турнира "Мастерс" в Риме</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+    <tag type="str">Андрей Рублев</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 сентября. INTERFAX.RU - Российский теннисист Андрей Рублев потерпел поражение от представителя Польши Хуберта Хуркача в матче второго круга турнира серии "Мастерс" в Риме.             Результат встречи – 7:6 (8:6), 3:6, 6:2 в пользу поляка.             Призовой фонд турнира составляет 3 млн 853 тыс. евро.]]></text>
+</doc>

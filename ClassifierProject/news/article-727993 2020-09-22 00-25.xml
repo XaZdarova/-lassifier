@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">727993</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/727993</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-09-22 00:25</datetime>
+  <title auto="true" type="str" verify="true">За сутки 15 человек с коронавирусом умерли в Москве</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">COVID-19</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 22 сентября. INTERFAX.RU - За минувшие сутки в Москве умерли 15 пациентов с пневмонией и положительным тестом на коронавирус, сообщили "Интерфаксу" в оперштабе по контролю и мониторингу ситуации с коронавирусом в Москве. Количество умерших от коронавируса в Москве увеличилось с 5069 до 5084. Всего с начала пандемии в столице зарегистрировано 277 408 случаев коронавируса, вылечились от инфекции 237 935 человек. Ранее Росреестр сообщил, что рынок жилья в Москве  вырос до показателей "доковидного" времени .]]></text>
+</doc>

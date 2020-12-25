@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">733779</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/733779</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-22 22:12</datetime>
+  <title auto="true" type="str" verify="true">Муфтий Дамаска погиб в результате теракта</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Сирия</tag>
+    <tag type="str">Дамаск</tag>
+    <tag type="str">Мухаммад Аднан Афьюни</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 22 октября. INTERFAX.RU - Муфтий Дамаска Мухаммад Аднан Афьюни погиб в результате теракта в пригороде сирийской столицы,  сообщило  агентство SANA. Взрыв бомбы прогремел, когда муфтий, который считался одним из наиболее влиятельных религиозных деятелей в Сирии, находился в своей машине в одном из пригородов Дамаска. Ни одна группировка пока не взяла на себя ответственность за взрыв. Мухаммад Аднан Афьюни, как  отмечает  Al Arabiya, несколько лет назад сыграл ключевую роль на переговорах с мятежниками, занимавшими позиции на подступах к Дамаску. Муфтию удалось уговорить их прекратить боевые действия против правительственных сил.]]></text>
+</doc>

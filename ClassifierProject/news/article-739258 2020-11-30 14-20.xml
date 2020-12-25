@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">739258</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/739258</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-30 14:20</datetime>
+  <title auto="true" type="str" verify="true">Гендиректор Токийской биржи ушел в отставку из-за октябрьского сбоя</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Коитиро Мияхара</tag>
+    <tag type="str">Япония</tag>
+    <tag type="str">Токийская биржа</tag>
+    <tag type="str">Japan Exchange Group</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 30 ноября. INTERFAX.RU - Гендиректор Токийской биржи Коитиро Мияхара ушел в отставку, взяв на себя ответственность за системный сбой, случившийся 1 октября, сообщил биржевой оператор Japan Exchange Group. Мияхара уйдет со всех руководящих постов. Токийская фондовая биржа впервые с 1999 года  приостановила торги  всеми акциями в ходе сессии 1 октября из-за сбоя в системе. Japan Exchange Group назвал причиной приостановки торгов сбой в работе оборудования, связанного с передачей данных о котировках. Переключить систему на резервное оборудование не получилось.]]></text>
+</doc>

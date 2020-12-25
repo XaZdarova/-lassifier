@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">735410</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/735410</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-03 12:45</datetime>
+  <title auto="true" type="str" verify="true">Правительство предложило отказаться от взаимности при выдаче виз туристам</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Правительство</tag>
+    <tag type="str">Госдума</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 3 ноября. INTERFAX.RU - Правительство предложило отказаться от принципа взаимности при выдачи туристических виз иностранцам и внесло в Госдуму законопроект  (№ 1048811-7)  о праве всех иностранных граждан на получение шестимесячной туристической визы в Россию. Выдавать визы предлагается при наличии у иностранца подтверждения о приеме от зарегистрированного в России туроператора или документа о бронировании номера в отеле в России. Сейчас иностранцы получают туристические визы на сроки до месяца или до полугода на основе принципа взаимности.]]></text>
+</doc>

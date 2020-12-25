@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">730412</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/730412</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-07 16:29</datetime>
+  <title auto="true" type="str" verify="true">Сотрудника супермаркета заподозрили в проигрыше дневной выручки на ставках</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">МВД</tag>
+    <tag type="str">Черкесск</tag>
+    <tag type="str">Карачаево-Черкесия</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 7 октября. INTERFAX.RU - В Черкесске сотрудника супермаркета заподозрили в краже из сейфа магазина 50 000 рублей,  сообщили  в МВД Карачаево-Черкесии. 6 октября о краже в полицию сообщил заведующий супермаркетом. Подозреваемый задержан. Он признался в краже и сказал, что проиграл все эти деньги букмекерской конторе.]]></text>
+</doc>

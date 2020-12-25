@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">729966</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/729966</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-10-05 10:06</datetime>
+  <title auto="true" type="str" verify="true">Equinor прекратила добычу на четырех месторождениях из-за забастовки</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Equinor</tag>
+    <tag type="str">Норвегия</tag>
+    <tag type="str">Северное море</tag>
+    <tag type="str">Norwegian Oil &amp; Gas</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 5 октября. INTERFAX.RU - Норвежская Equinor сообщила, что приостановила работу на месторождениях Gudrun, Gina Krog, Kvitebjorn и Valemon в Северном море из-за забастовки 54 рабочих. В компании причиной забастовки назвали разногласия по оплате труда между нефтегазовой ассоциацией Norwegian Oil & Gas и профсоюзом Lederne. Добыча на платформе Johan Sverdrup, 43 работника которой начали бастовать 30 сентября, продолжается. В пятницу Norwegian Oil & Gas сообщила, что шесть месторождений в Северном море, оператором которых является Equinor, могут быть затронуты действиями профсоюза. Общая добыча на этих месторождениях составляет 330 000 баррелей нефтяного эквивалента в сутки.]]></text>
+</doc>

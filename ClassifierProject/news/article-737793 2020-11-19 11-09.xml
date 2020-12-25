@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">737793</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/737793</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-19 11:09</datetime>
+  <title auto="true" type="str" verify="true">Руководителям ТРЦ в Тюмени рекомендовали отключить Wi-Fi</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Тюмень</tag>
+    <tag type="str">Тюменская область</tag>
+    <tag type="str">коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 19 ноября. INTERFAX.RU - Администрация Тюмени в условиях пандемии рекомендовала руководителям торговых и торгово-развлекательных центров ограничить доступ посетителей к интернету по беспроводному Wi-Fi. Также сотрудникам ТРЦ разрешили требовать у посетителей документы, если возникают сомнения, что это взрослые. Ранее в Тюменской области лицам моложе 18 лет запретили ходить в торговые центры без родителей. Аналогичные запреты ввели и в некоторых других регионах. Использование Wi-Fi в торговых центрах ранее запретили в Красноярском крае.]]></text>
+</doc>

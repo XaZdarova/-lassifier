@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">729014</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/729014</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-09-28 20:32</datetime>
+  <title auto="true" type="str" verify="true">Завод СПГ в Норвегии остановили из-за пожара</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Норвегия</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 28 сентября. INTERFAX.RU - Завод сжижения природного газа Hammerfest LNG экстренно остановлен в связи с возгоранием турбины, сообщает компания Equinor. "Нет информации о пострадавших или пропавших без вести. Весь персонал, не участвовавший в ликвидации последствий инцидента, эвакуирован", - пишет норвежская компания. Завод Hammerfest LNG на острове Melkoya получает газ с морского месторождения Snohvit ("Белоснежка"). Промысел является первым офшорным проектом на норвежском континентальном шельфе, реализованном без надводной инфраструктуры. Вся инфраструктура по добыче газа находится на морском дне, газ доставляется по газопроводу в Хаммерфест, где построен СПГ-завод. Завод заработал осенью 2007 года и имеет мощность по производству 4,6 млн т СПГ, 0,34 млн т СУГ и 0,83 млн т конденсата. Equinor владеет 37% в проекте Snohvit, Total - 18%, Neptune Energy - 12%.]]></text>
+</doc>

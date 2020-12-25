@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">730564</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/730564</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-08 12:43</datetime>
+  <title auto="true" type="str" verify="true">ФСБ сделала предупреждение хакеру из Саратова</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Саратов</tag>
+    <tag type="str">ФСБ</tag>
+    <tag type="str">Саратовская область</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 8 октября. INTERFAX.RU - УФСБ по Саратовской области сообщило, что вынесло предупреждение жителю Саратова за намерение взломать информационные системы органов госвласти. Спецслужба выяснила, что он высказывал намерение "посредством использования вредоносной компьютерной программы, предназначенной для нейтрализации средств защиты компьютерной информации", получить доступ к этим системам. Его действия подпадали под ч. 1 ст. 273 УК ("Создание, использование, распространение вредоносных компьютерных программ"). Поэтому его предупредили о недопустимости таких действий.]]></text>
+</doc>

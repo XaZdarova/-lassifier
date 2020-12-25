@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">720287</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/720287</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-04 19:49</datetime>
+  <title auto="true" type="str" verify="true">Карлсен победил Непомнящего и выиграл  третий организованный им турнир</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">шахматы</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 4 августа. INTERFAX.RU - Действующий обладатель мировой шахматной короны норвежец Магнус Карлсен стал победителем онлайн-турнира Legends of Chess. Во втором матче финала он победил россиянина Яна Непомнящего - 2,5:0,5. Счет в серии до двух побед стал (с учетом победы норвежца со счетом 4:2) 2-0 в его пользу. Legends of Chess - четвертый турнир в рамках Шахматного тура, проводимого Карлсеном. Изначально в турнире приняли участие десять гроссмейстеров, четыре из них по итогам кругового турнира прошли в полуфинал. Первый турнир Шахматного тура, Magnus Carlsen Invitational, выиграл Карлсен. Он же стал победителем третьего турнира, Chessable Masters. Победителем второго, Lindores Abbey Rapid Challenge,  стал россиянин  Даниил Дубов.]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">724501</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/724501</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-09-03 19:30</datetime>
+  <title auto="true" type="str" verify="true">СМИ сообщили об интересе "Барселоны" к футболисту ЦСКА Влашичу</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">Российская премьер-лига</tag>
+    <tag type="str">РПЛ</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 3 сентября. INTERFAX.RU - Испанский футбольный клуб "Барселона" заинтересовалась в переходе полузащитника московского ЦСКА Николы Влашича. Как сообщает 24sata.hr, интерес "Барселоны" к хорвату возник после назначения на пост главного тренера команды Рональда Кумана. Под его руководством Влашич играл в английском "Эвертоне". Однако издание отмечает, что потенциальных покупателей может отпугнуть сумма отступных в размере 35 млн евро. Финансовая ситуация клубов пошатнулась из-за кризиса, вызванного пандемией коронавируса. Никола Влашич играет за ЦСКА с лета 2018 года.]]></text>
+</doc>

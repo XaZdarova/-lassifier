@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">740723</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/740723</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-12-10 13:38</datetime>
+  <title auto="true" type="str" verify="true">Россия сохранила 39-е место в рейтинге ФИФА</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">рейтинг ФИФА</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 10 декабря. INTERFAX.RU - Сборная России занимает 39-е место в рейтинге ФИФА, обновленная версия которого опубликована в четверг на сайте организации. Таким образом, позиции россиян с момента предыдущего (26 ноября) обновления рейтинга не изменились. Как, впрочем, и почти у всех национальных команд, поскольку матчи в отчетный период не проводились. Возглавляет рейтинг сборная Бельгии, в первую десятку входят Франция, Бразилия, Англия, Португалия, Испания, Аргентина, Уругвай, Мексика, Италия.]]></text>
+</doc>

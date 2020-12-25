@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">737017</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/737017</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-13 16:45</datetime>
+  <title auto="true" type="str" verify="true">Владимирский губернатор заразился коронавирусом</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Владимир Сипягин</tag>
+    <tag type="str">Владимирская область</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 13 ноября. INTERFAX.RU - Губернатор Владимирской области Владимир Сипягин сообщил, что получил положительный тест на COVID-19. "Получил результат исследования на COVID-19 - положительный. Предстоит пройти курс лечения", - написал Сипягин в своем  инстаграме . По словам Сипягина, в ближайшие он будет работать удаленно. Накануне, 12 ноября, губернатор Владимирской области сообщил, что ушел на самоизоляцию в связи с высокой температурой.]]></text>
+</doc>

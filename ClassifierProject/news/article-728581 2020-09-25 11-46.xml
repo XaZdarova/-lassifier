@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">728581</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/728581</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-09-25 11:46</datetime>
+  <title auto="true" type="str" verify="true">На западе Сербии разбился военный самолет</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Сербия</tag>
+    <tag type="str">МиГ-21</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 25 сентября. INTERFAX.RU - Самолет ВВС Сербии МиГ-21 разбился в пятницу утром на западе страны, сообщает сербский телерадиоканал РТС со ссылкой на министерство обороны. По данным оборонного ведомства Сербии, крушение произошло при выполнении планового задания близ города Мали-Зворник. Согласно первоначальной информации, один пилот погиб, поиски второго продолжаются. Травмы получил домовладелец, во двор которого упал самолет. На месте происшествия работают военные спасатели и полицейские.]]></text>
+</doc>

@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">726576</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/726576</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-09-11 19:29</datetime>
+  <title auto="true" type="str" verify="true">Первый канал в прямом эфире покажет полуфинал US Open Медведев – Тим</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+    <tag type="str">US Open</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 11 сентября. INTERFAX.RU - Первый канал анонсировал прямую трансляцию полуфинального матча турнира Большого шлема US Open между россиянином Даниилом Медведевым и австрийцем Домиником Тимом. Начало трансляции, как уточнили "Интерфаксу" в телеканале, - 1:00 мск в ночь на субботу по московскому времени. Доминик Тим является третьей ракеткой мира, Даниил Медведев – пятой. Ранее соперники встречались в официальных матчах трижды, счет по победам – 2-1 в пользу австрийца. Победитель встретится с победителем пары Пабло Карреньо-Буста (Испания) – Александр Зверев (Германия).]]></text>
+</doc>

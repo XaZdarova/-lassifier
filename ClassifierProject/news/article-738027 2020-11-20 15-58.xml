@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">738027</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/738027</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-11-20 15:58</datetime>
+  <title auto="true" type="str" verify="true">В здании управления Росгвардии в Москве произошло задымление</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Росгвардия</tag>
+    <tag type="str">Москва</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 20 ноября. INTERFAX.RU - Задымление возникло в одном их технических помещений главного управления Росгвардии по Москве на северо-западе столицы, сообщили "Интерфаксу" в пресс-службе ведомства. Задымление было локализовано оперативно прибывшими пожарными, сказали в пресс-службе главка. Там уточнили, что инцидент произошел на улице Твардовского, 2. В пресс-службе отметили, что в результате инцидента никто не пострадал. В настоящее время устанавливаются причины задымления.]]></text>
+</doc>

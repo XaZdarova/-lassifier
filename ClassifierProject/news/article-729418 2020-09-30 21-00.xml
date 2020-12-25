@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">729418</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/729418</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-09-30 21:00</datetime>
+  <title auto="true" type="str" verify="true">Telegram позволит писать комментарии к постам в каналах</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Telegram</tag>
+    <tag type="str">Павел Дуров</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 30 сентября. INTERFAX.RU - В мессенджере Telegram можно будет писать комментарии к постам в некоторых каналах,  сообщил  основатель приложения Павел Дуров в своем телеграм-канале. Он отметил, что функция добавляется в среду и будет доступна после обновления приложения. Комментарии к постам будут похожи на групповой чат, который прикреплен к каналу. При этом пользователи смогут оставлять комментарии в виде аудиосообщений, стикеров и GIF-изображений, если это будет разрешено администраторами конкретных каналов.]]></text>
+</doc>

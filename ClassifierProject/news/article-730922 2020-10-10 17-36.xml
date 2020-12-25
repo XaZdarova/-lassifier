@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">730922</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/730922</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-10-10 17:36</datetime>
+  <title auto="true" type="str" verify="true">Полячка Швентек впервые в карьере выиграла Roland Garros</title>
+  <description auto="true" type="str" verify="true">В финале она победила американку российского происхождения Кенин</description>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">теннис</tag>
+    <tag type="str">Roland Garros</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 10 октября. INTERFAX.RU - Польская теннисистка Ига Швентек стала победительницей турнира серии Большого шлема Roland Garros во Франции. В финале соревнования 54-ракетка мира нанесла поражение американке российского происхождения Софии Кенин (№6 в мировом рейтинге) – 6:4, 6:1. Продолжительность матча составила 1 час 21 минуту. Таким образом, Швентек впервые выиграла соревнования Большого шлема. До этого ее максимальным достижением был выход в четвертый круг Australian Open-2020. Программа Roland Garros закроется в воскресенье матчем между сербом Новаком Джоковичем и испанцем Рафаэлем Надалем, которые являются первой и второй ракетками мира соответственно.]]></text>
+</doc>

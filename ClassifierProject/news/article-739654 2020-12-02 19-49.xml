@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">739654</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/739654</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-12-02 19:49</datetime>
+  <title auto="true" type="str" verify="true">Мария Алёхина из Pussy Riot задержана в Москве</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">Pussy Riot</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 2 декабря. INTERFAX.RU -  Полиция задержала участницу Pussy Riot Марию Алёхину в столице. "Да, меня задержали. Сейчас привезли в ОВД "Китай-город", - сказала сама Алехина "Интерфаксу". Она уточнила, что связывает свое задержание с недавно прошедшей в Москве акцией "Осторожно, хрупкое!". Акция была посвящена протестующим, которые летом 2019 года в Москве были задержаны за бросок бутылки и стаканчика в сотрудников ОМОН. Официальным комментарием правоохранительных органов "Интерфакс" пока не располагает.]]></text>
+</doc>

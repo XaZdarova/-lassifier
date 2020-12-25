@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">735350</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/735350</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-02 23:40</datetime>
+  <title auto="true" type="str" verify="true">Семь человек погибли в результате стрельбы в Вене</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Австрия</tag>
+    <tag type="str">Вена</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 2 ноября. INTERFAX.RU - Семь человек погибли в результате стрельбы у синагоги в Вене, сообщила в понедельник газета  Kurier . По данным издания, в числе погибших полицейский, четыре человека получили тяжелые ранения. Двое неизвестных напали на синагогу близ площади Шведенплатц. Очевидцы сообщили о стрельбе вскоре после 20:00 (22:00 по Москве). Ранее сообщалось об одном погибшем.]]></text>
+</doc>

@@ -1,0 +1,15 @@
+<doc>
+  <id auto="true" type="str" verify="true">730234</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/730234</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-10-06 15:32</datetime>
+  <title auto="true" type="str" verify="true">"Газпром" решил выпустить "вечные" евробонды в долларах и евро</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">JP Morgan</tag>
+    <tag type="str">Газпромбанк</tag>
+    <tag type="str">Credit Agricole</tag>
+    <tag type="str">Sber CIB</tag>
+    <tag type="str">Газпром</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 октября. INTERFAX.RU - "Газпром" планирует выйти на международный долговой рынок с новым инструментом - "вечными" евробондами в долларах и евро, сообщил "Интерфаксу" источник в банковских кругах. С 6 октября компания проведет серию телефонных конференций с инвесторами, на 7 октября запланирован глобальный конференц-колл. "Газпром" может предложить рынку бессрочные евробонды, первый колл-опцион по бумагам будет предусмотрен через 5,25 года. Организаторами сделки назначены JP Morgan, Газпромбанк, Credit Agricole и Sber CIB.]]></text>
+</doc>

@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">731762</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/731762</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-16 11:12</datetime>
+  <title auto="true" type="str" verify="true">Потери армии обороны непризнанной НКР выросли до 633 человек убитыми</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Нагорный Карабах</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 16 октября. INTERFAX.RU - Министерство обороны непризнанной Нагорно-Карабахской Республики (НКР) сообщило в пятницу еще о 29 погибших военнослужащих в боях с азербайджанскими подразделениями в зоне карабахского конфликта. Всего, по уточненным данным Минобороны НКР, с начала боевых действий 27 сентября погибли 633 военнослужащих армии обороны Карабаха.]]></text>
+</doc>

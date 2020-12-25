@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">731964</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/731964</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-10-17 23:24</datetime>
+  <title auto="true" type="str" verify="true">Более 50 человек с коронавирусом умерли в Москве за сутки</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">COVID-19</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 17 октября. INTERFAX.RU - За минувшие сутки умерли 52 человека с пневмонией и подтвержденным коронавирусом, сообщили "Интерфаксу" в оперштабе по контролю и мониторингу ситуации с коронавирусом в Москве. Количество умерших от коронавируса в Москве увеличилось с 5906 до 5958. Всего с начала пандемии в Москве зафиксировано 357 643 случая коронавируса, вылечились 272 227 человек. В субботу началась  тотальная дезинфекция города . Поверхность пешеходных переходов, скамеек и тротуаров в общественных местах обработают специальными смесями.]]></text>
+</doc>

@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">678234</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/culture/678234</source>
+  <category auto="true" type="str" verify="true">Культура</category>
+  <datetime auto="true" type="str" verify="true">2019-09-27 14:34</datetime>
+  <title auto="true" type="str" verify="true">The Beatles выложили новый клип к 50-летию альбома  Abbey Road</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">The Beatles</tag>
+    <tag type="str">Джордж Харрисон</tag>
+    <tag type="str">Джордж Мартин</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 27 сентября. INTERFAX.RU - The Beatles представили новый видеоклип к песне Джорджа Харрисона "Here Comes The Sun" к 50-летию альбома Abbey Road. Его уже можно  посмотреть  на YouTube. К юбилею 27 сентября группа  выпустила  альбом в новой аранжировке, над которой работал сын Джорджа Мартина Джайлз Мартин и звукорежиссер Сэм Окелл. Также в альбом войдут 23 студийных и демо-записи, большинство из которых ранее не публиковались. Abbey Road стал последним альбомом, над которым участники группы работали вместе в студии, находившейся на одноименной улице. 8 августа 1969 года они вышли на переход для фотосъемки на обложку альбома. Полиция ненадолго перекрыла движение транспорта, фотограф Йен Макмиллен встал на стремянку и сделал шесть кадров, один из которых был выбран для обложки. Вышедший позднее альбом Let It Be был собран из материалов, над которыми музыканты работали до записи Abbey Road.]]></text>
+</doc>

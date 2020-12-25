@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">735646</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/735646</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-05 08:57</datetime>
+  <title auto="true" type="str" verify="true">Число заражений COVID-19 в мире превысило 48 миллионов</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">США</tag>
+    <tag type="str">коронавирус</tag>
+    <tag type="str">Индия</tag>
+    <tag type="str">Бразилия</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 5 ноября. INTERFAX.RU - В мире с начала пандемии выявили 48 034 287 случаев заражения коронавирусом, показали данные американского университета Джонса Хопкинса, умерли 1 224 415 заболевших. По данным счетика Worldometers, случаев заражения выявлено 48 438 720, летальных исходов - 1 231 026. Лидером по числу заразившихся и умерших остаются США с 9 480 242 случаями COVID-19 и 233 663 умершими. За минувшие сутки в стране было зарегистрировано рекордное число заражений - более 103 000, умерли 1100 больных, свидетельствуют данные Tracking Project. В Индии выявили 8 313 876 случаев заражения и 123 611 умерших, на третьем месте Бразилия с 5 590 025 заразившимися и 161 106 умершими.]]></text>
+</doc>

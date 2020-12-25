@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">737206</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/737206</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-11-16 04:47</datetime>
+  <title auto="true" type="str" verify="true">Фактическое использование иностранного капитала в Китае выросло в октябре на 18%</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Китай</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 16 ноября. INTERFAX.RU - Фактическое использование иностранного капитала в октябре текущего года выросло в Китае на 18,4% по сравнению с тем же периодом 2019 года, составив $11,83 млрд, сообщило министерство коммерции КНР в понедельник. С января по октябрь этот показатель увеличился в годовом исчислении на 3,9%, достигнув $115,09 млрд, говорится в сообщении ведомства. Устойчивая тенденция к росту наблюдается семь месяцев подряд, отметило Минкоммерции.]]></text>
+</doc>

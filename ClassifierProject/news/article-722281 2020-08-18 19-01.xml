@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">722281</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/722281</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-18 19:01</datetime>
+  <title auto="true" type="str" verify="true">Российский велогонщик Власов выиграл престижную гонку "Джиро д'Эмилия"</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">велоспорт</tag>
+    <tag type="str">Италия</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 18 августа. INTERFAX.RU - Россиянин Александр Власов, выступающий за казахстанскую велокоманду Astana Pro Team, стал победителем однодневной гонки "Джиро д'Эмилия" в Италии. Вторым стал португалец Жоау Алмейда (Deceuninck Quick Step), третьим – Диего Улисси (UAE Team Emirates). Гонка прошла на территории Сан-Луки, дистанция составила 199,7 км. "Джиро д'Эмилия" является одной из престижных гонок Италии. Она проводится с 1909 года, во вторник прошла в 103-й раз.]]></text>
+</doc>

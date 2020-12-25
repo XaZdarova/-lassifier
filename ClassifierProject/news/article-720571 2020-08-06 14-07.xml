@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">720571</id>
+  <source auto="true" type="str" verify="true">https://www.sport-interfax.ru/720571</source>
+  <category auto="true" type="str" verify="true">Спорт</category>
+  <datetime auto="true" type="str" verify="true">2020-08-06 14:07</datetime>
+  <title auto="true" type="str" verify="true">Олег Иванов продлил контракт с "Ахматом"</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">футбол</tag>
+    <tag type="str">ФК Ахмат</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 6 августа. INTERFAX.RU - Грозненский футбольный клуб "Ахмат" объявил о заключении нового соглашения с полузащитником Олегом Ивановым. "Олег Иванов подписал новый контракт с грозненцами, рассчитанный до конца сезона 2020/21", - говорится в сообщении пресс-службы клуба. За "Ахмат" Иванов выступает с 2012 года, сыграв около 230 игр в чемпионате и Кубке России. В чемпионате РПЛ-2019/20 "Ахмат" финишировал на 13-м месте.]]></text>
+</doc>

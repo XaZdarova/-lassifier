@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">729703</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/729703</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-10-02 14:38</datetime>
+  <title auto="true" type="str" verify="true">Байдену в пятницу сделают тест на коронавирус</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">США</tag>
+    <tag type="str">Дональд Трамп</tag>
+    <tag type="str">Джо Байден</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 2 октября. INTERFAX.RU - Кандидат в президенты США Джо Байден, как ожидается, сделает тест на коронавирус утром в пятницу, 2 октября. Об этом  сообщает  CNN со ссылкой на источник, осведомленный о планах бывшего вице-президента. Во вторник, 29 сентября, в США прошли дебаты между претендентами на пост президента: нынешним главой Белого дома Дональдом Трампом и Байденом. В пятницу стало известно, что у Трампа и его супруги  нашли COVID-19.  Ранее Трамп сообщил, что у его помощницы Хоуп Хикс подтвердилось заражение коронавирусом.]]></text>
+</doc>

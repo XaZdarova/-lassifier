@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">735555</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/moscow/735555</source>
+  <category auto="true" type="str" verify="true">Москва</category>
+  <datetime auto="true" type="str" verify="true">2020-11-04 09:37</datetime>
+  <title auto="true" type="str" verify="true">В Москве от коронавируса вылечились еще 3 852 человека</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Москва</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 4 ноября. INTERFAX.RU - Столичные врачи вылечили от коронавируса в общей сложности 325 531 человека. Как сообщила в среду заммэра Москвы по вопросам социального развития Анастасия Ракова, количество выздоровевших в городе продолжает увеличиваться. По ее данным, за прошедшие сутки после прохождения лечения выздоровели еще 3 852 пациента. Ежедневно на протяжении последних недель в Москве более 3 тысяч человек излечиваются от коронавирусной инфекции. Всего с начала пандемии в Москве зафиксировано 439 355 случаев заражения коронавирусом, умерло 7 004 человека.]]></text>
+</doc>

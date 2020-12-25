@@ -1,0 +1,11 @@
+<doc>
+  <id auto="true" type="str" verify="true">736157</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/736157</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-11-09 03:39</datetime>
+  <title auto="true" type="str" verify="true">Землетрясение магнитудой 4,6 произошло на севере Сахалина</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Сахалин</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 9 ноября. INTERFAX.RU - Землетрясение магнитудой 4,6 зарегистрировано в ночь на понедельник на севере Сахалина, никто не пострадал, сообщили "Интерфаксу" в Сахалинском филиале Единой Геофизической службы РАН. "Землетрясение магнитудой 4,6 произошло 9 ноября в 00:29 по сахалинскому времени  (8 ноября 16:29 мск)  с эпицентром в 26 км юго-западнее села Сабо Охинского района на глубине 7 км. Ощутили его в городе Оха  (райцентр - ИФ) , в селах Сабо и Тунгор силой до трех баллов", - сказал собеседник агентства. Никто не пострадал, добавил он.]]></text>
+</doc>

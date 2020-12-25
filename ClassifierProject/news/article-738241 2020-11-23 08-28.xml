@@ -1,0 +1,15 @@
+<doc>
+  <id auto="true" type="str" verify="true">738241</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/738241</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-23 08:28</datetime>
+  <title auto="true" type="str" verify="true">Хуситы заявили об атаке на саудовскую нефтяную станцию</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Йемен</tag>
+    <tag type="str">Сана</tag>
+    <tag type="str">Саудовская Аравия</tag>
+    <tag type="str">Saudi Aramco</tag>
+    <tag type="str">Джидда</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 23 ноября. INTERFAX.RU - Йеменские повстанцы-хуситы сообщили, что запустили ракету в нефтяную распределительную станцию компании Saudi Aramco в городе Джидда на Красном море и пообещали продолжить такие операции. Это сообщение появилось в твиттере военного представителя хуситов. Он предложил работающим в Саудовской Аравии компаниям проявлять осторожность. Хуситы захватили столицу Йемена Сану и большую часть севера страны в 2014 году. В марте 2015 года возглавляемая Саудовской Аравией арабская коалиция вмешалась в конфликт с целью восстановления власти правительства йеменского президента Абд-Раббу Мансура Хади.]]></text>
+</doc>

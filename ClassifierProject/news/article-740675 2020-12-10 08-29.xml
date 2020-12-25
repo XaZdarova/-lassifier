@@ -1,0 +1,14 @@
+<doc>
+  <id auto="true" type="str" verify="true">740675</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/business/740675</source>
+  <category auto="true" type="str" verify="true">Экономика</category>
+  <datetime auto="true" type="str" verify="true">2020-12-10 08:29</datetime>
+  <title auto="true" type="str" verify="true">Власти США подали на Facebook в суд из-за покупки WhatsApp и Instagram</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">США</tag>
+    <tag type="str">Facebook</tag>
+    <tag type="str">WhatsApp</tag>
+    <tag type="str">Instagram</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 10 декабря. INTERFAX.RU - Федеральная торговая комиссия (FTC) США и группа генеральных прокуроров из 48 штатов в среду подали два антимонопольных иска против Facebook Inc. Как сообщает CNBC, обвинения в адрес Facebook касаются приобретения компанией приложений WhatsApp и Instagram и могут вынудить ее продать эти активы. Акции Facebook в среду подешевели на 1,9%.]]></text>
+</doc>

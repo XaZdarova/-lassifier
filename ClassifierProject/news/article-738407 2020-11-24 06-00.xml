@@ -1,0 +1,12 @@
+<doc>
+  <id auto="true" type="str" verify="true">738407</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/world/738407</source>
+  <category auto="true" type="str" verify="true">В мире</category>
+  <datetime auto="true" type="str" verify="true">2020-11-24 06:00</datetime>
+  <title auto="true" type="str" verify="true">Число инфицированных COVID-19 в мире превысило 59 миллионов</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">коронавирус</tag>
+    <tag type="str">COVID-19</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 24 ноября. INTERFAX.RU - Во всем мире с начала пандемии коронавируса COVID-19 зафиксировано 59 091 743 случая заражения, сообщил в ночь на вторник по московскому времени американский университет Джонса Хопкинса. По его информации, число смертельных исходов от заболеваний, связанных с коронавирусом, достигло 1 395 045. Портал Worldometer, который специализируется на статистике по важнейшим мировым событиям, сообщил, что коэффициент смертности от вируса составил на 4:00 вторника по московскому времени 179,8 на 1 млн населения планеты.]]></text>
+</doc>

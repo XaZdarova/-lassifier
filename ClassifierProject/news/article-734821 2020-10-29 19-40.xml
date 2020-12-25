@@ -1,0 +1,13 @@
+<doc>
+  <id auto="true" type="str" verify="true">734821</id>
+  <source auto="true" type="str" verify="true">https://www.interfax.ru/russia/734821</source>
+  <category auto="true" type="str" verify="true">В России</category>
+  <datetime auto="true" type="str" verify="true">2020-10-29 19:40</datetime>
+  <title auto="true" type="str" verify="true">Губернатор Подмосковья сделал прививку от COVID-19</title>
+  <tags auto="true" type="list" verify="true">
+    <tag type="str">Андрей Воробьев</tag>
+    <tag type="str">Подмосковье</tag>
+    <tag type="str">Коронавирус</tag>
+  </tags>
+  <text auto="true" type="str" verify="true"><![CDATA[Москва. 29 октября. INTERFAX.RU - Губернатор Московской области Андрей Воробьев сделал прививку от коронавирусной инфекции, об этом он сообщил в четверг в эфире телеканала "360". "Я тоже сделал прививку. Измерял после 14 дней, у меня не было антител. Соответственно, завтра должен делать вторую прививку. Надеюсь, что уже защита появится, чтобы быть более активным, общаться в разных коллективах, на производствах", - сказал Воробьев. Как сообщалось, в Подмосковье массово прививать от коронавирусной инфекции планируют с января 2021 года, услуга будет оказываться бесплатно по полису ОМС.]]></text>
+</doc>
